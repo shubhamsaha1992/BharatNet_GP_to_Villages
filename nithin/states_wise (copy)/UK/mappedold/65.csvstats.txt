@@ -1,0 +1,7 @@
+village_notmatched set(['Sanya Phalya Lagga Khal kariya', 'Peed Lagga Bajgel', 'Sanya Phaliya Lagga Khunari', 'Kanikot Lagga Chora Guth', 'Khetar Narial P Kaler Khan'])
+blk_notmatched set(['Poornagiri'])
+gp_notmatched set(['RAWAL GAON', 'pakhauti', 'KAKAR KHATERI', 'DAYARTOLI', 'TADAG', 'SALAN', 'KHUTELY', 'KAANDA', 'DHATI GAON', 'CHAMRAULI', 'SINGADA', 'Kanda', 'MIRTOLI', 'LIDU', 'GWEENARA', 'SEEL', 'KANDA (RAWATSUI)', 'SUNGAR KHAL', 'MALLA BAPARU', 'NADERA', 'MANCH', 'TARI GAON', 'CHAMI', 'SUDARKA', 'GUMAID', 'PAMDA', 'TALLA BAPRU', 'EZARA', 'SEERMAULY', 'Sayali', 'SILANG TAK', 'BISRADI', 'CHHULAPE', 'KAMA JYULA', 'PUNYAL', 'LADI', 'KHAKORA', 'AAGAR', 'FARTOLA', 'KHOLASUNAR', 'naayal', 'BAIRA BADWAL', 'CHURANI', 'BAUTARIMAY GUNTH', 'DASIYACHAMI', 'SUTERA', 'GALLA GAON', 'PARADO SERA', 'MAU', 'JAN KANDE', 'SEERTOLY', 'MANAR TALLA', 'BANTOLI', 'GOSANI', 'CHHANDA', 'MARA GAON', 'NAUMANA', 'BAIRAOM', 'CHAURA MAHETA', 'JHIRKUNI', 'KAKRI', 'haram', 'TYARSAUN', 'TAKBALWARI', 'MAUN POKHARI', 'OKHLANJ', 'takna Gurau'])
+village_stats [467, 5]
+blk_stats [0, 72]
+gp_stats [0, 143]
+null_data 0

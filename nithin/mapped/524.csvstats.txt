@@ -1,0 +1,7 @@
+village_notmatched set(['Ugilewadi', 'Chincholi Son', 'Pirangaj Wadi', 'Ramwadi (Pangaon)', 'Rui Tanda', 'Talani Laman Tanda', 'Gavhan', 'Nehru Nagar', 'Seva Nagar', 'Aari', 'Ghugi (Sangvi)', 'Dhanora Kh.', 'Chamarga', 'Sawargaon Rokda', 'Barhanpur', 'Saygaon', 'Talegaon (de)', 'Chincholi Tapse', 'Tambat Sangvi', 'Shend (Daithana)', 'Anandwadi', 'Honali', 'Talegaon Bori', 'Dongargaon (Bori)', 'Phawde Wadi', 'Shirur Anantpal', 'Yerol', 'Malegaon Kh.', 'Basawnal', 'Dharmapuri', 'Shivankhed (kh)', 'Devtala', 'Karewadi', 'Darji Borgaon', 'Hatkarwadi', 'Uti Bk.', 'Dighol', 'Wadgaon', 'Khurdwadi', 'Wagjewadi', 'Sevalalnagar', 'Hanmantwadi', 'Haldurg', 'Kawtha Latur', 'Ausa [rural]', 'Hanmant Jawalga', 'Borgaon Bk.', 'Chincholi Jo', 'Korangala', 'Dhanora Bk.', 'Borgaon Kh.', 'Tiwghal', 'Bhingoli', 'Guttewadi', 'Marshiwani Tanda', 'Dongarewadi', 'Umardara', 'Sawargaon Thot', 'Chincholi Kajale', 'Pandharwadi', 'Gudalewadi'])
+blk_notmatched set(['Latur', 'Nilanga', 'Udgir', 'Jalkot'])
+gp_notmatched set(['BANSAROLA'])
+village_stats [459, 62]
+blk_stats [0, 434]
+gp_stats [0, 1]
+null_data 0

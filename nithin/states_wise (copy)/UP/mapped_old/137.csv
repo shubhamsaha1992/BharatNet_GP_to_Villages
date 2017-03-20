@@ -1,0 +1,495 @@
+,Block Name,Distance,GP Name,GP_lat,GP_long,Village Name,Village_lat,Village_long
+0,Amroha,6342.15093497,Adalpur Samdu,29.04606,78.44651,Adalpur Samdoo,Sadalpura,83.2078
+1,Amroha,6356.83818691,Ahroi,28.91499,78.54183,Aharoi,Bhal Pahari,82.93918
+2,Amroha,6323.48415087,Aaivzabad,28.94584,78.49654,Aiwajabad,Nawabad Jangal Sheopur,82.78772
+3,Amroha,6417.57186789,Akbarpur Patti,28.94109,78.45689,Akbarpur Patti,Akbarpura,84.31162
+4,Amroha,6421.23227651,Bhatpura Sakenia,28.91499,78.54183,Akbarpur Sakinya,Akbarpura,84.31162
+5,Amroha,6316.10864812,Alampur Kainch,28.97319,78.39924,Alampur Kainch,Alampur,82.95665
+6,Amroha,6391.32371131,Alhedadpur Kalan,28.94223,78.45045,Alehdadpur Kalan,Alihadadpur,83.9141
+7,Amroha,6328.20608661,HUSSAINPUR NEAR MAALIKHERA,28.98165,78.45387,Alimohammadpur,Mohammadpur Kathar,83.12293
+8,Amroha,6278.87806616,Rampur Safed Bag,29.04433,78.50778,Alipur Chamarwa,Mohammdpur Chamara,82.38653
+9,Amroha,6367.5623864,Apraula May Bag,28.97529,78.45575,Apraula Maybag,Rasulabad,83.55999
+10,Amroha,6336.18294484,Avvwalpur,28.94469,78.42449,Awwalpur,Kawalpur,83.27158
+11,Amroha,6405.86136559,Azampur,28.43162,78.42286,Azampur,Khane Azampur,83.07196
+12,Amroha,6334.81398279,Badshahpur,28.98963,78.41367,Badshahpur,Badshahpur,83.28843
+13,Amroha,6414.73728185,Bagadpur Kalan,28.51278,78.96541,Bagarpur Kalan,Bagaura,83.236
+14,Amroha,6334.34971644,Bahadurpur Khurd,28.93612,78.37068,Bahadurpur Khurd,Bahadurpur,83.25598
+15,Amroha,6401.37846228,Sihali Narayan,28.93764,78.59752,Bahlolpur,Bahlolpur,84.02947
+16,Amroha,6395.96854376,Ghansurpur Bamniya,28.92323,78.59954,Bamanpur urf Bamaniya,Baramadiya,83.95034
+17,Amroha,6401.531288,Bans Kheri,28.98867,78.39963,Banskheri,Premchak Urf Baheri,84.14296
+18,Amroha,6237.88717005,Barkhera Rajput,28.98165,78.45387,Barkhera Rajput,Barkhurdarpur,81.57957
+19,Amroha,6192.47548273,Barkhera Sadat,28.95489,78.40653,Barkhera Sadat,Barkhera,80.81188
+20,Amroha,6350.5759019,Baseda Taga,29.04084,78.47295,Baserataga,Baraga,83.32651
+21,Amroha,6344.32710296,Hisampur,29.03975,78.43467,Bastapur,Basntpur Raja,83.55315
+22,Amroha,6328.02157516,Bibra Kalan,29.00685,78.50053,Beebra Kalan,Beerkala,82.78625
+23,Amroha,6401.86253419,Bibra Khurd,29.00711,78.48707,Beebra Khurd,Bheekhpur,84.17489
+24,Amroha,6384.08040718,Beelna,29.02164,78.39481,Beelna (CT),Belwachhit Urf Kajipur,84.06235
+25,Amroha,6368.46435481,Bhatpura Sakenia,28.91499,78.54183,Bhatpura Sakainiya,Bhatpurawan,83.2746
+26,Amroha,6392.35595936,Bhawalpur Mafi,28.75265,78.35316,Bhawalapur Mafi,Bhawarapur,83.65064
+27,Amroha,6409.64497718,Bheda Bhartpur,28.90347,78.36636,Bhera Bharatpur,Bharatpur Chaubey,84.13249
+28,Amroha,6397.77616643,Beejra,29.00469,78.42636,Bijra,Bijora,84.108
+29,Amroha,6340.65740306,Bohra,28.91031,78.41469,Bohra,Bouhara,83.04053
+30,Amroha,6391.51015147,Buderna,28.51278,78.96541,Buderana,Budhana,83.2316
+31,Amroha,6378.42313113,Baseda Taga,29.04084,78.47295,Burhanpur Mafi,Budhanpura,83.92377
+32,Amroha,6328.63664732,Nasir Nagla,28.97074,78.41628,Chak Alahdipur,Chadipur Khurd,83.05898
+33,Amroha,6385.43499778,Apraula May Bag,28.97529,78.45575,Chak Aproula,Chakara Tiwari,83.95504
+34,Amroha,6403.61225673,Alipur Kalan,29.00261,78.35676,Chakarsi,Chakari,84.21223
+35,Amroha,6343.50964769,Bahadurpur Khurd,28.93612,78.37068,Chak Bahadur Khurd,Khajurikhurd,82.94107
+36,Amroha,6377.45766188,Beelna,29.02164,78.39481,Chak Beelna,Chakea Urf Misrawalia,83.80831
+37,Amroha,6385.77850679,Beejra,29.00469,78.42636,Chak Bijra,Chakra Kolhua,83.94737
+38,Amroha,6397.83282617,Sunpura,28.99977,78.51171,Chak Chhavi,Chakhani Dukhi Mishra,84.22206
+39,Amroha,6352.16447426,Isapur,29.03975,78.43467,Chak Dhikanagla,Chanaga,83.13838
+40,Amroha,6371.6502338,Gajasthal,28.94717,78.43641,Chak Gajasthal,Barhara Chargaha,83.81735
+41,Amroha,6430.96363045,Papri,28.91187,78.55783,Chakiya,Chakiya,84.45494
+42,Amroha,6353.83511072,Dheyori urf  Hadipur,28.91943,78.40972,Chak Janpur,Babhanpura Or Bhajanpur,83.31682
+43,Amroha,6407.81284277,Alampur Kainch,28.97319,78.39924,Chak Kainch,Chakki Diyara Sultanpur,84.2455
+44,Amroha,6300.14235112,Alampur Kainch,28.97319,78.39924,Chak Mehmoodpur,Mahmoodpur,82.56421
+45,Amroha,6362.21399359,Dhanaura urf Murad Nagar,29.02263,78.43861,Chak Nagli Asdullahpur,Khairullahpur,83.54771
+46,Amroha,6347.48359641,Jabda,28.93596,78.39273,Chak Rustampur Urf Roshanpur,Chakarapanpur,83.21167
+47,Amroha,6378.18467128,Nazarpur Khurd,28.94584,78.49654,Chak Saddoo,Chakwad Faros,83.74019
+48,Amroha,6380.2253757,Apraula May Bag,28.97529,78.45575,Chak Usmanpur,Chamanpura,83.88728
+49,Amroha,6273.01448471,Bahadurpur Khurd,28.93612,78.37068,Chauhra Urf Mathuranagar,Chhatanag Uperhar,81.91359
+50,Amroha,6424.0393571,Sunpura,28.99977,78.51171,Chhabi,Chai Chhupra,84.5092
+51,Amroha,6403.98182313,Dhanaura urf Murad Nagar,29.02263,78.43861,Chubka,Chaukan Taluka Bansdih,84.24514
+52,Amroha,6282.35593301,Dehakbara,29.92954,78.51476,Dahaikwara,Dahinwar,83.86299
+53,Amroha,6367.64989893,Daud Sarai,28.92122,78.42785,Daud Sarai,Dadari,83.57945
+54,Amroha,6343.73208184,Dehri Khurram,29.04149,78.53609,Dehri Khurram,Harikhora,83.41196
+55,Amroha,6388.07943842,Dheyori urf  Hadipur,28.91943,78.40972,Deori Urf Hadipur,Chandan Patti Nirbhaipur,83.86589
+56,Amroha,6353.44805654,Jalilpur Bakkal,28.90692,78.59898,Devipura,Devipur,83.38694
+57,Amroha,6350.19077403,Dhakka,28.95148,78.43525,Dhakka,Dhaka War Chak,83.36314
+58,Amroha,6229.07808737,Dhanaura urf Murad Nagar,29.02263,78.43861,Dhanora Urf Murad Nagar,Daranagar,81.58883
+59,Amroha,6419.53776085,Kankar Khera,28.89735,78.40815,Dhawari,Dharwar,84.27794
+60,Amroha,6334.24370438,Daud Sarai,28.92122,78.42785,Fareedpur Ghosi,Faredpur Tappa Habele,83.06009
+61,Amroha,6322.85116691,Faridpur Imma,29.02336,78.41802,Fareedpur Imma,Faredpur Tappa Habele,83.06009
+62,Amroha,6294.83056415,Faridpur Imma,29.02336,78.41802,Farid Purimma,Faridpur,82.58341
+63,Amroha,6042.77862833,Gajasthal,28.94717,78.43641,Fathepur Mazra Gajasthal,Armarajat,78.54362
+64,Amroha,6311.08370537,Jalalpur Narayan,28.90514,78.42534,Fazalpur,Fazayalpur,82.53151
+65,Amroha,6386.38106342,Gajana,28.98046,78.50483,Gajana,Ajana,83.93504
+66,Amroha,6344.40976732,Gajasthal,28.94717,78.43641,Gajasthal,Gajaraha,83.41783
+67,Amroha,6398.68972542,Ghansurpur Bamniya,28.92323,78.59954,Ghansoor Bamaniya,Gharhania,84.02985
+68,Amroha,6366.61763083,Hadipur Kalan,28.91943,78.40972,Hadipur Kalan,Puranakalan,83.27822
+69,Amroha,6408.71651457,Bibra Khurd,29.00711,78.48707,Haibatipur Urf Haibatpur,Dhamaipuramaipur Taluka Bansdi,84.28767
+70,Amroha,6392.69630314,Mubarakpur Kalan,28.97779,78.46534,Haqdadpur,Jaminwali Dadpur,84.01829
+71,Amroha,6372.00703516,Ahroi,28.91499,78.54183,Hasampur,Hasapur Kirkitpur,83.57093
+72,Amroha,6423.5847458,Hasanpur Kalan,28.88707,78.61652,Hasanpur Kalan,Hasanpura,84.30114
+73,Amroha,6423.5847458,Hasanpur Katiya,28.88707,78.61652,Hasanpur Katiya,Hasanpura,84.30114
+74,Amroha,6352.66709591,Bibra Khurd,29.00711,78.48707,Hashampuri,Hashimpur,83.32875
+75,Amroha,6338.37523147,Hajarpur,28.91675,78.55379,Hazarpur,Hazarepur,83.04007
+76,Amroha,6379.74418338,Hisampur,29.03975,78.43467,Heshampur,Deoria Urf Shampur,83.96337
+77,Amroha,6255.85458651,Rasulpur Gawadi,28.92208,78.39091,Husainpur Nikat Zirki,Husainpur,81.72302
+78,Amroha,6171.40177964,HUSSAINPUR NEAR MAALIKHERA,28.98165,78.45387,Hussainpur Near Mallikkhera,Safipurnarwal,80.52019
+79,Amroha,6437.39759657,Rasulpur Gawadi,28.92208,78.39091,Ibraheempur(Ghairabad),Ibarahimabad Noabarar,84.59635
+80,Amroha,6352.25257467,Isapur,29.03975,78.43467,Isapur,Isapur Kalan,83.31524
+81,Amroha,6296.89629748,Jabbarpur,29.00338,78.45972,Jabbarpur,Jafarpur,82.5703
+82,Amroha,6368.45653157,Jabda,28.93596,78.39273,Jabda,Jabar,83.25919
+83,Amroha,6263.79598738,Jabdi urf Muneempur,28.94707,78.76732,Jabdi,Jabdahi,82.13544
+84,Amroha,6376.94602321,Sunpura,28.99977,78.51171,Jalalabad,Jalalabad,83.74747
+85,Amroha,6301.54424439,Jalalpur Narayan,28.90514,78.42534,Jalalpur Narayan,Jalalpur Bakhra,82.47776
+86,Amroha,6303.44260223,Jalilpur Bakkal,28.90692,78.59898,Jaleelpur Baqqal,Jalalpur Bakhra,82.47776
+87,Amroha,6308.05045262,Jalalpur Narayan,28.90514,78.42534,Jamalpur Khalsa,Jamalpur,82.56854
+88,Amroha,6353.33379344,Jamna Khas,29.02909,78.44098,Jamuna Khas,Jamurkha,83.37915
+89,Amroha,6360.02449953,Shahpur,28.99289,78.49131,Joya Gramin Patkoi,Jawaripatti Ajanavi Rai,83.39314
+90,Amroha,6346.97462951,Kail Bakri,29.03358,78.45095,Kailbakri,Kabari,83.1571
+91,Amroha,6353.75489251,KALAKHERA URF KALALKHERA,28.98165,78.45387,Kala Khera,Lakhesra,83.52968
+92,Amroha,6471.84409051,Kalampur,28.43162,78.42286,Kalampur Urf Kamalpur,Dhamaipuramaipur Taluka Bansdi,84.28767
+93,Amroha,6274.97819186,Hisampur,29.03975,78.43467,Kamalpur Khalsa,Kamalpur,82.266
+94,Amroha,6219.25270371,Kankar Khera,28.89735,78.40815,Kanker Khera,Kankhara,81.1538
+95,Amroha,6406.07230402,Sudanpur,28.99977,78.51171,Kasampur Nikat Kalali,Kaskawallia,84.23437
+96,Amroha,6226.60467427,Kayampur urf Karar Nagar,29.02263,78.43861,Kayampur Urf Kararnagar,Sangrampuruparhar,81.3747
+97,Amroha,6362.42696601,Nasir Nagla,28.97074,78.41628,Kazipura Sadat,Patti Muhammd Or Kazipur,83.54622
+98,Amroha,6184.87291194,Khera,28.98165,78.45387,Khera,Malla Khera,80.80449
+99,Amroha,6362.46899675,Khetapur Jhangir,28.92832,78.42328,Khetapur Jahangeerpur,Khurdharpur,83.42753
+100,Amroha,6305.11018209,Narayanpur,29.01263,78.53636,Khidmatpur,Himmatpur Bakuchiya,82.54098
+101,Amroha,6416.02100274,Ghansurpur Bamniya,28.92323,78.59954,Kothipura,Kothia,84.22883
+102,Amroha,6335.05640537,Pipli Ghoosi,28.92284,78.37343,Kuri,Kuri,83.09625
+103,Amroha,6384.41278241,Lakadhat,29.05019,78.53799,Lakarhat,Lakara,83.95643
+104,Amroha,6302.80686807,Latifpur,29.01457,78.52296,Latifpur,Latifpur,82.65649
+105,Amroha,6335.03401406,Ahroi,28.91499,78.54183,Mahua,Mahua Kashi Ram,83.18431
+106,Amroha,6328.54071462,Makhdumpur,28.91401,78.43228,Makhdoompur,Demri Makhdoompur,82.88549
+107,Amroha,6320.65755664,Mali Khera,28.98165,78.45387,Malli Khera Urf Shahbaj Pur,Sikraursahbari,82.87678
+108,Amroha,6395.62136663,Mau may chak,28.91499,78.54183,Maumayachak,Malahchak,83.97764
+109,Amroha,6334.06911929,Ahroi,28.91499,78.54183,Milakbikni,Mitkini,83.05595
+110,Amroha,6401.82446805,Nazarpur Kalan,28.93992,78.40814,Milak Fathepur Gawari,Mithawar,84.06468
+111,Amroha,6393.74231996,Mitthepur kalan,28.99146,78.49969,Mithanpur Kalan,Mithanpur,84.01843
+112,Amroha,6418.74241719,Saundala Faridpur,28.92781,78.62383,Mohammadpurabu Saidpur,Dhamaipuramaipur Taluka Bansdi,84.28767
+113,Amroha,6387.21811843,Akbarpur Patti,28.94109,78.45689,Mohammadpur Jati,Mohmadpurjapti Mafi,83.86158
+114,Amroha,6332.52442005,Rajjakpur,28.94223,78.45045,Mohammadpur Kooda,Mohammadpur Kathar,83.12293
+115,Amroha,6325.3601883,Beejra,29.00469,78.42636,Mohammadpur Mazra,Mohammadpur Kathar,83.12293
+116,Amroha,6369.69217979,Mohanpur Sumali,29.04402,78.46833,Mohanpur Shumali,Chak Jalalkuvari Urf Mohanpura,83.71181
+117,Amroha,6297.83720384,Mubarakpur Kalan,28.97779,78.46534,Mubarakpur Barkalan,Mubarakpur,82.49195
+118,Amroha,6297.83720384,Mubarakpur Kalan,28.97779,78.46534,Mubarakpur Kalan,Mubarakpur,82.49195
+119,Amroha,6356.81802834,Nasir Nagla,28.97074,78.41628,Munawwar Pur,Munwarpur,83.44547
+120,Amroha,6130.95005045,Munwwarpur,28.96092,78.51886,Munawwarpur Urf Muneempur,Munauwarpur Bilhaur,79.92346
+121,Amroha,6374.32660039,Jabdi urf Muneempur,28.94707,78.76732,Muneemnagar Urf Muneempur,Dariyabad Mu.Marufpur,83.64109
+122,Amroha,6361.78915835,Dhanaura urf Murad Nagar,29.02263,78.43861,Nagli Asdullahpur,Nasrullahpur,83.63927
+123,Amroha,6357.78167044,Kasampur Mev,28.96025,78.46455,Naloo Khurd,Mansrakhurd,83.41178
+124,Amroha,6319.50456223,Nanak Nagli,29.04209,78.57679,Nanak Nagli,Nandana,82.99741
+125,Amroha,6382.30872523,Nanhera Alyarpur,28.92323,78.59954,Nanehda Alhyarpur,Kandharpur,83.67316
+126,Amroha,6367.59154916,Narangpur,29.01263,78.53636,Narangpur,Narangpur,83.61419
+127,Amroha,6309.6701108,Narayanpur,29.01263,78.53636,Narayanpur,Narayanpur,82.92542
+128,Amroha,6308.09590608,Nasir Nagla,28.97074,78.41628,Naser Nagla,Nasera Bad,82.7601
+129,Amroha,6381.6985098,Nazarpur Kalan,28.93992,78.40814,Nathan Asepur Gaawri,Fazalganj Urf Pathanpura,83.73106
+130,Amroha,6322.51216873,Beelna,29.02164,78.39481,Naugawan Sadat,Naugawan,82.75258
+131,Amroha,6359.07584301,Naurahan,28.97506,78.49083,Naurahan,Narhan Kala,83.33212
+132,Amroha,6364.33638019,Nazarpur Kalan,28.93992,78.40814,Nazarpur Kalan,Puranakalan,83.27822
+133,Amroha,6360.49356747,Nazarpur Khurd,28.94584,78.49654,Nazarpur Khurd,Maukhurd,83.19391
+134,Amroha,6311.08787422,Adalpur Samdu,29.04606,78.44651,Nikat Koi Husainpur,Nathuapur,83.04495
+135,Amroha,6399.65480306,Panju Sarai,28.91369,78.42836,Nizampur Garbi,Nizampur,83.97961
+136,Amroha,6404.05047642,Hadipur Kalan,28.91943,78.40972,Pachdia,Pahia,84.06225
+137,Amroha,6403.31582368,Panju Sarai,28.91369,78.42836,Panjoo Sarai,Pansarwa,84.16352
+138,Amroha,6376.84060182,Papri,28.91187,78.55783,Papari,Parari Jasauli,83.41681
+139,Amroha,6346.89033791,Nazarpur Khurd,28.94584,78.49654,Pattiraipur Kalan,Pattigaribpur Alias Mai,83.15973
+140,Amroha,6414.43223497,Phoolpur Adalpur,28.89985,78.58362,Phoolpur Adalpur,Purandarpur,84.16617
+141,Amroha,6396.95191903,Aaivzabad,28.94584,78.49654,Pilak Sarai,Padari Tilakrai,84.12072
+142,Amroha,6369.23384153,Prithivipur Kalan,29.00685,78.50053,Prithvipur Kalan,Khunti Prithbipur,83.66772
+143,Amroha,6371.37081325,Prithvipur Khurd,28.97677,78.38299,Prithvipur Khurd,Khunti Prithbipur,83.66772
+144,Amroha,6346.00820494,Raipur Kalan,28.94702,78.49765,Raipur Kalan,Raipura,83.12298
+145,Amroha,6343.0200391,Rajabpur,28.94223,78.45045,Rajabpur,Rajjabpur,83.1068
+146,Amroha,6296.34135008,Rajjakpur,28.94223,78.45045,Rajaqpur,Bijethuaa Rajapur,82.43191
+147,Amroha,6406.67174092,Rampur Junnardar,28.98459,78.42897,Rampur Junnardar,Patkhouli Junardar,84.22995
+148,Amroha,6355.03636035,Rampur Safed Bag,29.04433,78.50778,Rampur Safedbag,Rampurawa,83.71647
+149,Amroha,6374.70501954,Rasulpur Gawadi,28.92208,78.39091,Rasoolpur Ganwari,Chak Rasoolwari,83.57241
+150,Amroha,6324.42474115,Ahroi,28.91499,78.54183,Sadullapur,Sadullapur,82.71592
+151,Amroha,6374.65726037,Sahaspur Ali Nagar,29.02263,78.43861,Sahaspur Alinagar,Balpur Shrinagar,83.90597
+152,Amroha,6296.72901862,Shahidpur,28.99289,78.49131,Sahidpur,Saidpur,82.54589
+153,Amroha,6379.19460381,Saidpur Imma,28.91955,78.38435,Saidpur Imma,Saidpura,83.70647
+154,Amroha,6373.02435389,Mali Khera,28.98165,78.45387,Saidpur Khalsa,Saidpura,83.70647
+155,Amroha,6310.80138809,Shadipur,29.01384,78.54776,Shadipur,Shadipur,82.84799
+156,Amroha,6351.04443271,Shahpur,28.99289,78.49131,Shahpur Farraspur,Sharvarpur,83.29779
+157,Amroha,6405.54495777,Dehra,28.94473,78.42449,Sharfuddinpur,Sarfudinpur,84.12584
+158,Amroha,6296.26690746,Shekhupur Mafi,28.75265,78.35316,Shekhupur Mafi,Shekhupur,82.03709
+159,Amroha,6350.42393118,Sihali Narayan,28.93764,78.59752,Sihali Narayan,Pura Bal Narayan,83.28274
+160,Amroha,6342.18925096,Sikandarpur,28.95737,78.53084,Sikandarpur,Sikandarpur Aima,83.20461
+161,Amroha,6328.9638149,Sirasa Jat,29.00595,78.44424,Sirsajat,Sirsa Siswa,83.10072
+162,Amroha,6307.8222368,Saundala Faridpur,28.92781,78.62383,Sondala Faridpur,Faridpur,82.58341
+163,Amroha,6328.6478542,Sudanpur,28.99977,78.51171,Sudanpur,Sudanipur,83.0429
+164,Amroha,6294.427983,Bhatpura Sakenia,28.91499,78.54183,Sultanpur Iantazam Alikhan,Sultanpur/Chandan Joot,82.54808
+165,Amroha,6402.89769343,Sunpura,28.99977,78.51171,Sunpura,Kisunpura Taluka Chhitrooli,84.18521
+166,Amroha,6297.55164505,Jabda,28.93596,78.39273,Tajpur,Tajpur,82.54403
+167,Amroha,6362.85097196,Apraula May Bag,28.97529,78.45575,Takhatpur,Nakhatpur,83.51127
+168,Amroha,6333.418097,Beejra,29.00469,78.42636,Tarapur,Tarapur,82.97969
+169,Amroha,6354.58307238,Latifpur,29.01457,78.52296,Turmaafi,Turati,83.22439
+170,Amroha,6390.61136466,Raipur Kalan,28.94702,78.49765,Ukasi,Karsi,83.92693
+171,Amroha,6377.43378327,Yahiyapur,28.95187,78.43135,Yahiyapur,Ahiyapur,83.69943
+172,Amroha,6364.09037647,Latifpur,29.01457,78.52296,Yaqoobpur,Niyamoopur,83.60647
+173,Amroha,6371.64088779,Alampur Kainch,28.97319,78.39924,Yusufpur Kainch,Yusufpur,83.69611
+174,Dhanaura,6388.8749487,Arifpur Mafi,28.53829,78.19913,Aarafpur Mafi,Barparmafi,83.2962
+175,Dhanaura,6313.76055395,Ahraula Mafi,29.01212,78.19561,Ahraula Mafi,Ahirauli,83.10785
+176,Dhanaura,6456.15747747,Dhanauri Khurd,28.56733,78.14808,Akbarpur Khurd Shumali,Akbarpura,84.31162
+177,Dhanaura,6444.0775266,Akhtiyarpur Bhoor,28.59142,78.18963,Akhtyarpur Bhur,Akhitiyarpur,84.16608
+178,Dhanaura,6414.15431257,Ali Nagar,28.53194,78.09426,Alinagar,Alinagar,83.62278
+179,Dhanaura,6383.38983677,Amheda,28.57874,78.14062,Ameda,Ameda,83.14581
+180,Dhanaura,6326.64301446,Fatehullahpur,29.01707,78.09992,Arafpur Khalsa,Purkhas,82.87337
+181,Dhanaura,6404.30059435,Bagarpur Mafi,28.56082,78.17706,Bagadpur Mafi,Chak Bagadari,83.15928
+182,Dhanaura,6391.50424967,Wajidpur,28.56032,78.09558,Bajidpur,Bajidpur,83.21475
+183,Dhanaura,6386.15009743,Bakarpur Mafi,28.56082,78.17706,Bakerpur Mafi,Barparmafi,83.2962
+184,Dhanaura,6416.92965563,Akhtiyarpur Bhoor,28.59142,78.18963,Bansgopalpur,Bangalpur,83.73128
+185,Dhanaura,6433.27883153,Baseda Kanjar,28.56829,78.19339,Baseda Kanjar,Basanwar,83.9575
+186,Dhanaura,6401.15800529,Wasi Mustakam,28.58591,78.08769,Basee Ahat.,Bhaisahat,83.57655
+187,Dhanaura,6396.74323083,Basipur,28.56093,78.19209,Basipur,Basipur Urf Piari,83.3105
+188,Dhanaura,6399.87128539,Wasi Mustakam,28.58591,78.08769,Bastaura Rani,Bhatpurawan,83.2746
+189,Dhanaura,6439.94514341,Bavanpur Mafi,28.56082,78.17706,Bavanpura Mafi,Badanpura,84.05129
+190,Dhanaura,6411.17433696,Sherpur,28.59025,78.08277,Begampur,Begampur,83.62037
+191,Dhanaura,6182.87229874,Berkhera,29.00341,78.11841,Berkhera,Barkhera,80.81188
+192,Dhanaura,5971.44813734,Wasi Mustakam,28.58591,78.08769,Bese Must.,Mirzapur Grant Must.,77.79483
+193,Dhanaura,6400.28217974,Haibatpur Chaudhariyan,28.57656,78.17033,Bhataula Shumali,Bhatauli Milzumala Bhatmila,83.50451
+194,Dhanaura,6396.23244515,BHATPURA MAFI,28.56082,78.17706,Bhatpura Mafi,Bhatpurawa,83.24058
+195,Dhanaura,6354.68118174,Ali Nagar,28.53194,78.09426,Bhogpur Ahatmali,Golhaura Ahatmali,82.94345
+196,Dhanaura,6362.19357765,Wasi Mustakam,28.58591,78.08769,Bhojpura,Bhojpur,83.04316
+197,Dhanaura,6296.66024366,Shahjadpur,29.02021,78.07888,Bibipur,Bibipur,82.48803
+198,Dhanaura,6316.79781994,KARAMPUR,29.01861,78.07051,Bihapuri,Biharpur,82.9935
+199,Dhanaura,6350.10074716,Bisawali Mustakam,28.57203,78.08057,Bisawali  Ahatmali,Golhaura Ahatmali,82.94345
+200,Dhanaura,6424.08737232,Bisawali Mustakam,28.57203,78.08057,Bisawali Musta,Chakea Urf Misrawalia,83.80831
+201,Dhanaura,6419.87884427,Bakarpur Mafi,28.56082,78.17706,Chajjupura Mafi,Dumar Churamani Chhapra,83.87843
+202,Dhanaura,6417.97812407,Sala Nagla,29.00112,78.19086,Chajjupura Taga,Charajpura,84.45165
+203,Dhanaura,6368.77550754,Arifpur Mafi,28.53829,78.19913,Chak Aarafpur,Chakarpanpur,82.7698
+204,Dhanaura,6423.60276473,Chakanwala Ahatmali,28.55443,78.08991,Chakan Bala Ahat.,Chakbraham Choura,83.79597
+205,Dhanaura,6425.42657071,Chakanwala Mustkam,28.53814,78.09211,Chakan Bala Must.,Chakbraham Choura,83.79597
+206,Dhanaura,6438.473696,Chak Basipur,28.56093,78.19209,Chak Basipur,Sarya Khabaspur,84.03514
+207,Dhanaura,6415.56056987,Kua khera,28.55591,78.18606,Chak Kuan Khera,Chakwaker,83.6261
+208,Dhanaura,6396.09787914,Kapsua,28.58441,78.18641,Chakmustafapur,Mustafapur Taluk Gorari,83.28602
+209,Dhanaura,6416.64318056,Khad Gujar,28.57495,78.14583,Chak Shahbajpur,Chaksahbaj Kuli Urf Saraya,83.67729
+210,Dhanaura,6326.5714882,Khawdi,28.58387,78.09732,Chandra Must,Haraiya Chandrasi,82.62147
+211,Dhanaura,6418.30301675,Chauharpur Bagad,28.57075,78.11852,Chauhadpur Bagad,Chauhanpur,83.78608
+212,Dhanaura,6432.37651547,Saidpur,28.54939,78.16767,Chaukhat,Chamukha,83.96197
+213,Dhanaura,6431.65639852,Chuchela Kalan,28.59866,78.16169,Chuchaila Kalan,Chilakahar,83.9817
+214,Dhanaura,6385.75136954,Chuchela Khurd,29.01291,78.15485,Chuchaila Khurd,Chilakahar,83.9817
+215,Dhanaura,6408.97477998,Sujamna,28.56841,78.09874,Chudiyala,Khudiya Buzurg,83.66652
+216,Dhanaura,6370.54381271,Ali Nagar,28.53194,78.09426,Daranagar Ahatmali,Mamari Mu. Daranagar,82.73204
+217,Dhanaura,6383.64377869,Chak Basipur,28.56093,78.19209,Daspur Mafi,Rasulpurmafi,83.25218
+218,Dhanaura,6365.28537156,Shahpur Rajheda,28.59272,78.14383,Daulatpur Bhur Shumali,Daulatpur,83.0368
+219,Dhanaura,6397.56378316,Deengra,28.59756,78.17872,Deengra,Degra,83.55614
+220,Dhanaura,6361.13619582,Dehra Chak,29.00814,78.17174,Dehara Chaq,Mishra Dharah,83.72597
+221,Dhanaura,6391.28108778,Dehra Kadar Bakhash,29.00367,78.14461,Dehara Kadar Bakhsha,Dhokaraha,84.19685
+222,Dhanaura,6435.03092073,Lisadi Khurd,28.58294,78.11527,Dehari Bujurg,Daribpur,83.99388
+223,Dhanaura,6380.74112244,Dehra Ghanshyam,29.00814,78.17174,Dehra Ghanshyam,Khardha Ghansyam,83.94829
+224,Dhanaura,6419.93597176,Sujamna,28.56841,78.09874,Dhalenda,Bishnupur Danda,83.78783
+225,Dhanaura,6404.98812742,Shahbazpur Gujar,28.57495,78.14583,Dhanaura Grameen,Dhanaura,83.24261
+226,Dhanaura,6417.99007426,Dhanauri Khurd,28.56733,78.14808,Dhanauri Khurd Shumali,Dhanautikala,83.82075
+227,Dhanaura,6423.24421695,Dauyoti,28.57831,78.10618,Dhautee,Rampur Dhautal,83.94223
+228,Dhanaura,6446.95045875,Kamelpur,28.59915,78.12987,Eqbalpur Urf Kamelpur,Balirampur,84.23865
+229,Dhanaura,6383.53013899,Fazalpur Mafi,28.55431,78.11305,Fajelpur Mafi,Rasulpurmafi,83.25218
+230,Dhanaura,6374.9633879,Rahmapur Mafi,28.56082,78.17706,Fareedpur Gathi,Chak Fardahi,83.00285
+231,Dhanaura,6332.15257882,Fatehpur Shumali,28.59156,78.19995,Fatehpur Shumai,Fatehpur,82.62626
+232,Dhanaura,6382.17465783,Fatehullahpur,29.01707,78.09992,Fatehullapur,Fateullahpur,83.91864
+233,Dhanaura,6379.55905009,Fauladpur,28.59851,78.19852,Fauladpur Mafi,Rasulpurmafi,83.25218
+234,Dhanaura,6439.79340216,Fazalpur Mafi,28.55431,78.11305,Firojpur Bagad,Firojpur Chak Usuf,84.064
+235,Dhanaura,6367.63990076,Phanderdi,29.01555,78.17061,Fundedee,Budadeeh,83.65761
+236,Dhanaura,6429.98352789,Arifpur Mafi,28.53829,78.19913,Gandupal,Nasirpur Gandhpa,83.82793
+237,Dhanaura,6368.37591884,Ali Nagar,28.53194,78.09426,Gulalpur Ahatmali,Gularaha,83.09875
+238,Dhanaura,6434.45872724,Ali Nagar,28.53194,78.09426,Gulalpur Must.,Sariya Gulabpur,83.94661
+239,Dhanaura,6368.5259844,Haibatpur Chaudhariyan,28.57656,78.17033,Haibatpur Chaudhariyan,Tharhawariya,83.19227
+240,Dhanaura,6366.80789103,Tatarpur Garvi,28.57778,78.11996,Hakeempur Urf Dherkunda,Hakeempur,83.04431
+241,Dhanaura,6376.361026,Nili Kheri,29.01789,78.13891,Hirna Kheree,Hirnaha,84.00167
+242,Dhanaura,6419.20221362,Mohammadpur Patti,28.55819,78.15411,Isapur Shumali,Kachuhiya Shumali,83.87044
+243,Dhanaura,6418.61324916,Pateva,28.54166,78.10881,Iswar Deva,Dareva,83.4909
+244,Dhanaura,6369.21577821,Chuchela Kalan,28.59866,78.16169,Jahangeer Pur,Kothiya Jahangirpur,83.02786
+245,Dhanaura,6420.47041854,Chauharpur Bagad,28.57075,78.11852,Jalalabad,Jalalabad,83.74747
+246,Dhanaura,6287.19065819,Ahraula Mafi,29.01212,78.19561,Jaleelpur Mungra,Malipurnunra,82.47002
+247,Dhanaura,6395.47857587,Haibatpur Chaudhariyan,28.57656,78.17033,Jaleelpur Urf Jarerpur,Jameenlauharpur,83.45936
+248,Dhanaura,6445.25487871,Rampur Taga,28.59381,78.15685,Jasaura,Jamsara,84.30082
+249,Dhanaura,6387.75832612,Jattpura Shumali,28.59156,78.19995,Jatpura Shumali,Pushuli,83.06567
+250,Dhanaura,6398.6595147,Bagarpur Mafi,28.56082,78.17706,Jhanakpuri,Janakpur,83.2578
+251,Dhanaura,6399.65486532,Kadrabad,28.55391,78.09777,Kadrabad,Kadirabad,83.33462
+252,Dhanaura,6324.61116343,Mohammadpur Patti,28.55819,78.15411,Kamalpur Kajee,Kamalpur,82.266
+253,Dhanaura,6378.62239676,Kapsua,28.58441,78.18641,Kapsuaa,Kapura,82.91818
+254,Dhanaura,6390.46819826,KARAMPUR,29.01861,78.07051,Karmpur,Karampur Taluka Sukhpura,84.08116
+255,Dhanaura,6303.95378616,Saidpur,28.54939,78.16767,Kasampur Shumali,Kasimpurjuda Urf Musepur,81.79288
+256,Dhanaura,6424.48503643,Fauladpur,28.59851,78.19852,Kasamsarai,Kamsari,83.85746
+257,Dhanaura,6430.80922751,Kaural,28.54414,78.18811,Kaural,Mani Kaura,84.03513
+258,Dhanaura,6394.223751,Kaurala,28.54414,78.18811,Kaurala,Karaila,83.35343
+259,Dhanaura,6400.56393685,Kaisra,28.58166,78.12903,Kesra,Kesrua,83.45579
+260,Dhanaura,6360.63615395,Khad Gujar,28.57495,78.14583,Khad Gujar,Anhara Khadar,82.96582
+261,Dhanaura,6318.40544109,Akhtiyarpur Bhoor,28.59142,78.18963,Khandsal,Khandasa,82.27612
+262,Dhanaura,6391.44605288,Kamelpur,28.59915,78.12987,Khawadi,Kharwasi Pur,83.33621
+263,Dhanaura,6251.05508183,Kherka,28.54955,78.20528,Khedka,Kheda,80.93106
+264,Dhanaura,6395.51252681,Bavanpur Mafi,28.56082,78.17706,Khedki Bhur Mafi,Khekhara,83.14634
+265,Dhanaura,6375.37720125,Kua khera,28.55591,78.18606,Kuan Khera,Kanhra,82.74494
+266,Dhanaura,6412.68771485,Kura Mafi,28.56082,78.17706,Kuda Mafi,Kudari,83.3259
+267,Dhanaura,6361.99898999,Ladanpur,29.01728,78.11391,Ladanpur,Ladanpur,83.67146
+268,Dhanaura,6341.76998533,Lahadbar,29.01317,78.12383,Lahadbar,Lahdari Khurd,83.39568
+269,Dhanaura,6450.39145187,Lisadi Khurd,28.58294,78.11527,Lihsadi Khurd,Sadikpur,84.25609
+270,Dhanaura,6363.91132306,Fatehullahpur,29.01707,78.09992,Maharbanpur,Mahranpur,83.655
+271,Dhanaura,6396.3956439,Chauharpur Bagad,28.57075,78.11852,Mahawatpur,Mahrawapur,83.38662
+272,Dhanaura,6332.40753142,Malakpur,28.59567,78.13445,Malakpur Bhur Shumali,Malipurnunra,82.47002
+273,Dhanaura,6427.35823679,Maleshiya,28.56383,78.17033,Maleshiya,Malhia Mafi,84.0192
+274,Dhanaura,6305.14637559,Malhupura,28.58626,78.16853,Malhupura,Malhupur,81.92509
+275,Dhanaura,6384.80891877,Nandnaur Mafi,28.59509,78.12653,Manpur Mafi,Manpur,83.04438
+276,Dhanaura,6432.57604455,Tatarpur Garvi,28.57778,78.11996,Margubpur,Margupur,83.96441
+277,Dhanaura,6431.42582531,Mohammadpur Patti,28.55819,78.15411,Md.Pur Patti,Turkpatti,84.04798
+278,Dhanaura,6350.10074716,Bisawali Mustakam,28.57203,78.08057,Meerapur Ahatmali,Golhaura Ahatmali,82.94345
+279,Dhanaura,6432.69755791,Milak Akhtiyarpur,28.58963,78.19309,Milak Akhtyarpur,Akhtiyarpur,83.97035
+280,Dhanaura,6415.78738103,Kura Mafi,28.56082,78.17706,Milak Mahamudpur,Mahamudpur,83.64183
+281,Dhanaura,6371.69316039,Kura Mafi,28.56082,78.17706,Mohammadpur Bangar,Mohammadpur Kathar,83.12293
+282,Dhanaura,6365.50936149,Sairakpur,29.00931,78.13418,Mohammedpur Lohra,Mohammdpur Chandapar,83.70392
+283,Dhanaura,6284.65541447,Mohanpur,29.02458,78.07411,Mohanpur,Mohanpur,82.32021
+284,Dhanaura,6284.06082358,Mohsanpur,29.02458,78.07411,Mohsenpur,Moosepur,82.44
+285,Dhanaura,6430.87220331,Bakarpur Mafi,28.56082,78.17706,Moti Khera,Motira,83.90128
+286,Dhanaura,6435.84594342,Mundakhera,28.54955,78.20528,Muda Khera,Mudera,83.98637
+287,Dhanaura,6398.03302085,Munda Khera,28.54955,78.20528,Mudha Khera Khader,Dharahara,83.27931
+288,Dhanaura,6360.25042865,Mukarampur,29.01861,78.07051,Mukarempur Ahat,Karampura,83.66102
+289,Dhanaura,6347.34621032,Mukarampur,29.01861,78.07051,Mukarmpur Must,Karmpur,83.44814
+290,Dhanaura,6157.65608535,Deengra,28.59756,78.17872,Mukayadpur Majra Deengra,Rampurmajara Gangdhrapur,79.86547
+291,Dhanaura,6029.44668792,Kapsua,28.58441,78.18641,Mukayyadpur Majra Kapsuba,Mukayyadpur Majra Kapsuba,78.33123
+292,Dhanaura,6424.38895401,Ali Nagar,28.53194,78.09426,Muradpur,Muradpur,83.78323
+293,Dhanaura,6382.04147346,Navabpur Bhoor,28.58809,78.10663,Nababpura Bhur,Baburahi,83.00875
+294,Dhanaura,6421.370067,Nandnaur Mafi,28.59509,78.12653,Nandnaur Mafi,Andnaura,83.80594
+295,Dhanaura,6441.50720009,BHATPURA MAFI,28.56082,78.17706,Naraina,Narain Pali,84.06739
+296,Dhanaura,6195.65835146,Nili Kheri,29.01789,78.13891,Neelee  Kheree,Neemteekar,81.09336
+297,Dhanaura,6346.58481328,Neeli Kheri,29.01789,78.13891,Neeli Kheri,Belkhuri,83.17296
+298,Dhanaura,6427.73164128,Bagarpur Mafi,28.56082,78.17706,Nipaniya,Nipania,83.91756
+299,Dhanaura,6381.7265761,Amheda,28.57874,78.14062,Pachgawan,Naithi Pachawa,83.03899
+300,Dhanaura,6027.08060768,Dehra Chak,29.00814,78.17174,Paharpur Urf Seekar Khera,Paharpurkhurd,78.69907
+301,Dhanaura,6371.72301236,Ahraula Mafi,29.01212,78.19561,Pakhrabad,Fakhrabad,83.73122
+302,Dhanaura,6393.79409275,Kamelpur,28.59915,78.12987,Palanpur,Paranpur,83.44941
+303,Dhanaura,6357.03583406,Papsara Khadar,29.02891,78.07629,Papsara Khader,Piparkhand,83.31993
+304,Dhanaura,6394.84143965,Papsari Khadar,29.02891,78.07629,Papsari Khader,Parikhara,84.15805
+305,Dhanaura,6354.86468401,Para Khalsa,29.00614,78.18665,Para Khalsa,Parasa Tola,83.14843
+306,Dhanaura,6441.6420043,Pateva,28.54166,78.10881,Patewa,Parewa,84.0431
+307,Dhanaura,6345.22103909,Para Khalsa,29.00614,78.18665,Patteepara Mafi,Pateara,83.13175
+308,Dhanaura,6401.12336231,Kapsua,28.58441,78.18641,Peepla Taga,Patana,83.26283
+309,Dhanaura,6400.18916274,Peli Taga,28.57731,78.18304,Peli,Pemali,83.62027
+310,Dhanaura,6239.69533178,Shahpur Rajheda,28.59272,78.14383,Rafatpura Mafi,Rajapurmafi,81.25458
+311,Dhanaura,6344.1174151,Rahmapur Mafi,28.56082,78.17706,Rahmapur Mafi,Ramkapura Chauthar,82.43112
+312,Dhanaura,6353.74769505,Sherpur,28.59025,78.08277,Raibanadalleepur,Raibhanpur,82.68249
+313,Dhanaura,6394.13727409,Wasi Mustakam,28.58591,78.08769,Raiva Nadlipur,Rajadipur,83.32773
+314,Dhanaura,6403.07600127,Bisawali Mustakam,28.57203,78.08057,Rampur Khadar,Rampurawa,83.71647
+315,Dhanaura,6366.5419021,Mukarampur,29.01861,78.07051,Rampur Khader Ahat,Muradarsahab,83.75848
+316,Dhanaura,6326.13343446,Mukarampur,29.01861,78.07051,Rampur Khader Must,Purkhas,82.87337
+317,Dhanaura,6435.86055104,Rampur Taga,28.59381,78.15685,Rampur Taga,Rampura Bhoj,84.046
+318,Dhanaura,6420.62609233,Mundakhera,28.54955,78.20528,Ratanpur,Ratanpur,83.74986
+319,Dhanaura,6369.5849441,Dehra Ghanshyam,29.00814,78.17174,Raypur Shumali,Kachuhiya Shumali,83.87044
+320,Dhanaura,6459.70668284,Malhupura,28.58626,78.16853,Rechotee,Rampur Ta Reoti,84.39513
+321,Dhanaura,6369.76126687,Khawdi,28.58387,78.09732,Rustampur urf Rafatpura,Rustampur,83.11174
+322,Dhanaura,6358.83684073,Sherpur,28.59025,78.08277,Rustempur Chhat Ahat.,Chhataha,82.70427
+323,Dhanaura,6363.25066647,Phanderdi,29.01555,78.17061,Rusulpur Chak,Surchak,83.75831
+324,Dhanaura,6333.16824288,Phanderdi,29.01555,78.17061,Rusulpur Mafi,Rasulpurmafi,83.25218
+325,Dhanaura,6450.3062654,Fauladpur,28.59851,78.19852,Rusulpur Urf Khetpura,Manouli Taluka Sukhpura,84.27447
+326,Dhanaura,6341.81670064,Saidpur,28.54939,78.16767,Saidpur,Saidpur,82.54589
+327,Dhanaura,6415.82390786,Wasi Mustakam,28.58591,78.08769,Sarai Kajee,Saraia,83.8113
+328,Dhanaura,6368.96399523,Shahjadpur,29.02021,78.07888,Sarmastpur Shumali,Shamatpura,83.76705
+329,Dhanaura,6243.71724796,Shahjahanpur,29.02021,78.07888,Shahajahanpur,Shahjahanpur,81.77873
+330,Dhanaura,6390.45920381,Shahbazpur Gujar,28.57495,78.14583,Shahbajpur Gujar,Shahbajpur,83.23717
+331,Dhanaura,6245.29798896,Shahjadpur,29.02021,78.07888,Shahjad Pur,Sahjadpur,81.70912
+332,Dhanaura,6427.56715453,Shahpur Rajheda,28.59272,78.14383,Shahpur Rajhera,Shahpur Urf Shahpura,83.88697
+333,Dhanaura,6415.9758281,Rampur Taga,28.59381,78.15685,Shakarpuri,Shakarpur Kalan,83.71509
+334,Dhanaura,6448.61933139,Sharifpur Shumali,28.54728,78.09666,Shareefpur Shumali,Shreepur,84.16556
+335,Dhanaura,6265.77660819,Dehra Ghanshyam,29.00814,78.17174,Shekhupur Shumali,Shekhupur,82.03709
+336,Dhanaura,6348.11208573,Sherpur,28.59025,78.08277,Sherpur Ahatmali,Golhaura Ahatmali,82.94345
+337,Dhanaura,6396.26480111,Sherpur,28.59025,78.08277,Sherpur Must.,Dheorparmus.,83.51017
+338,Dhanaura,6376.36875106,Saidpur,28.54939,78.16767,Sirsa Jat,Sirsa Siswa,83.10072
+339,Dhanaura,6452.91836418,Sujamna,28.56841,78.09874,Sujmna,Parsauni Urf Dulmachhapra Suma,84.39045
+340,Dhanaura,6279.726812,Lahadbar,29.01317,78.12383,Sultanpur Benger,Sultanpur,82.34593
+341,Dhanaura,6369.50275929,Sungar Mafi,28.58605,78.12488,Sungarh  Mafi,Suarha,83.08853
+342,Dhanaura,6293.99150055,Shahjadpur,29.02021,78.07888,Tajpur Kalloo,Turkaulli,82.58339
+343,Dhanaura,6325.35389241,Sala Nagla,29.00112,78.19086,Tandera,Tanda,83.12163
+344,Dhanaura,6380.7450256,Tatarpur Garvi,28.57778,78.11996,Tatarpur Gerbi,Tatarpur,83.09102
+345,Dhanaura,6298.980175,Tomda,28.57509,78.12936,Tomra,Pure Torai,81.8123
+346,Dhanaura,6373.65539831,Ahraula Mafi,29.01212,78.19561,Walipur,Chandayar Walipur,83.83732
+347,Dhanaura,6422.66319041,Walipur,28.56032,78.09558,Walipur,Chandayar Walipur,83.83732
+348,Hasanpur,6312.90517387,Baseda Khurd,28.78367,78.29589,Abdipur,Kadipur,82.42248
+349,Hasanpur,6379.62090074,Agraula Kalan,28.76782,78.23276,Agroula Kalan,Gurautykalan,83.24823
+350,Hasanpur,6408.75308561,Chamar Patei,28.61981,78.34254,Agroula Khurd,Arakhpur,83.60188
+351,Hasanpur,6434.06578688,Ahraula Ahmadyar khan,28.74256,78.30786,Ahroula Ahmadpar Khan,A.  Khiruchapara Nobrar,84.26558
+352,Hasanpur,6449.32106297,Damgari,28.64791,78.37861,Akbarpur Sharki,Akbarpura,84.31162
+353,Hasanpur,6387.26611098,Dhakka,28.69976,78.38226,Alauddinpur,Alauddinpur,83.43315
+354,Hasanpur,6344.81295734,Allipur Bhoor Sharki,28.74051,78.35196,Alipur Bhoor Sharki,Jagdishpurhari Banshdhar,82.90632
+355,Hasanpur,6412.55272844,Allipur Khadar,28.73003,78.21851,Alipur Khadar,Alihadadpur,83.9141
+356,Hasanpur,6440.08226056,Tarara,28.64854,78.32883,Bache Khera Khurd,Bheekhpur,84.17489
+357,Hasanpur,6218.31483247,Baikhera,28.69719,78.23919,Baee Khera,Barkhera,80.81188
+358,Hasanpur,6437.51015182,Bagarpur Mujabta,28.61321,78.36431,Bagadpur Mujabta,Bagarua,84.14322
+359,Hasanpur,6419.51121957,Dhakka,28.69976,78.38226,Bagli,Jungle Bangali Patti,84.08564
+360,Hasanpur,6352.04726161,Rajheda Bahadurpur,28.76223,78.34885,Bahadarpur Gulam Mohiuddinpur,Mohiuddinpur,83.1351
+361,Hasanpur,6164.91497512,Rajheda Bahadurpur,28.76223,78.34885,Bahadurpur Gulam Mohammad Khan,Mohmadapur(Mohammadapur),80.36594
+362,Hasanpur,6398.99514524,Bahapur,28.76624,78.32051,Bahapur,Baharpur,83.76337
+363,Hasanpur,6413.14009868,Bans Ka Khurd,28.78367,78.29589,Bans Ka Khurd,Bankapur,83.98193
+364,Hasanpur,6375.52478828,Baseda Khurd,28.78367,78.29589,Basera Khurd,Mansrakhurd,83.41178
+365,Hasanpur,6426.28278944,Bavankheri,28.75884,78.32614,Bavan Kheri,Premchak Urf Baheri,84.14296
+366,Hasanpur,6383.29089713,Damgari,28.64791,78.37861,Bavanpur,Bhagvanpur,83.53502
+367,Hasanpur,6426.28278944,Bavankheri,28.75884,78.32614,Bawan Kheri,Premchak Urf Baheri,84.14296
+368,Hasanpur,6409.98513318,Bijhalpur,28.69385,78.29271,Beejhalpur,Bajalpur,83.7534
+369,Hasanpur,6384.49645757,Begpur Munda,28.72343,78.39534,Begpur Manda,Purana Khurd,83.21617
+370,Hasanpur,6447.42353947,Haibatpur Banjara,28.71186,78.71186,Begpur Sharqi,Ghurbhari Charkani,84.34924
+371,Hasanpur,6419.94318656,Bhadaura,28.72274,78.37294,Bhadora,Bhadoura,83.97592
+372,Hasanpur,6395.64650048,Ishapur Sharki,28.68963,78.34524,Bhatola Sharqi,Bhatoli,83.49483
+373,Hasanpur,6401.83110608,Jhundi Mafi,28.67828,78.31034,Bhekanpur Sharqi,Bherihari No.1,83.84616
+374,Hasanpur,6444.08153292,Said Nagli,28.66931,78.39753,Bhulai,Bhuili,84.26321
+375,Hasanpur,6438.686306,Bijnaura,28.63178,78.38787,Bijnoura,Bijora,84.108
+376,Hasanpur,6438.686306,Bijaura,28.63178,78.38787,Bijora,Bijora,84.108
+377,Hasanpur,6461.27478667,Birhammabad,28.70338,78.35062,Brahamabad,Ibarahimabad Noabarar,84.59635
+378,Hasanpur,6436.23437986,Bijnaura,28.63178,78.38787,Chak  Gulam Ambia,Chaubia Patkhauli,84.21622
+379,Hasanpur,6432.72684078,Chakauri,28.73889,78.34831,Chakori,Chakari,84.21223
+380,Hasanpur,6417.3819218,Chamar Patei,28.61981,78.34254,Chamar Patei,Chak Chamarahi,83.77364
+381,Hasanpur,6317.52039747,Sabdalpur Sharki,28.67888,78.41428,Chandpur,Chandpur,82.3028
+382,Hasanpur,6429.30648692,Dagrauli,28.69099,78.27062,Dagrouli,Diyara Darauli,84.12467
+383,Hasanpur,6401.96750948,Damgarhi,28.64791,78.37861,Damgara,Amara Urf Jhulanipur,83.80529
+384,Hasanpur,6400.85607915,Damgari,28.64791,78.37861,Damgari,Amari,83.78646
+385,Hasanpur,6379.49427261,Haibatpur Banjara,28.71186,78.71186,Daudpur Jageer,Daudpur,83.31672
+386,Hasanpur,6377.31159776,Dhakka,28.69976,78.38226,Daudpur Majra,Daudpur,83.31672
+387,Hasanpur,6380.18099507,Gharaunt,28.78886,78.36102,Daudpur Mehrul Nisha,Dhaurehra Gopal Rai,83.4661
+388,Hasanpur,6357.17902099,Deeppur,28.74442,78.26979,Deeppur,Devenpur,83.10983
+389,Hasanpur,6415.40935904,Dehra Milak,28.73691,78.39256,Dehra Milak,Dehama,83.92014
+390,Hasanpur,6375.02392222,Dehri Khadar,28.72913,78.23599,Dehri Khadar,Deorihawa,82.96536
+391,Hasanpur,6377.45694421,Dhakka,28.69976,78.38226,Dhakka,Dhaka War Chak,83.36314
+392,Hasanpur,6369.61553974,Said Nagli,28.66931,78.39753,Dhansia,Dhansiria,82.90461
+393,Hasanpur,6418.40563161,Bavankheri,28.75884,78.32614,Dharangpur,Dharmanpur,84.0302
+394,Hasanpur,6357.4260687,Ahraula Ahmadyar khan,28.74256,78.30786,Doom Khera,Domakhri,82.81819
+395,Hasanpur,6387.1237692,Rajheda Bahadurpur,28.76223,78.34885,Dulheypur Viran,Dulhapur,83.34997
+396,Hasanpur,6410.21786244,Dayawali Khalsa,28.73123,78.28309,Dyawali Khalsa,Rudawalia,83.99724
+397,Hasanpur,6323.3177563,Faiyyaz Nagar,28.60418,78.41345,Faiyaznagar,Alinagar,82.4631
+398,Hasanpur,6421.38140731,Dhakka,28.69976,78.38226,Galsa,Bharauli Ala,83.94973
+399,Hasanpur,6394.64785871,Galsuwa,28.68422,78.36321,Galsua,Vichiya Gausa,83.32056
+400,Hasanpur,6419.02955262,Garabpur urf Rustampur,28.65419,78.27094,Garapur Urf Rustampur,Purusotampur,83.89736
+401,Hasanpur,6333.55877065,Phoolpur Bijhalpur,28.69385,78.29271,Ghansoorpur Khalsa,Mansoorpur,82.65504
+402,Hasanpur,6396.28197676,Gharaunt,28.78886,78.36102,Gharont,Gharao,83.79825
+403,Hasanpur,6368.63836411,Haibatpur Banjara,28.71186,78.71186,Habaitpur Banjara,Haibatpur,83.07806
+404,Hasanpur,6369.99398407,Khajuri,28.80778,78.34459,Hafizpur,Hafizpur,83.3737
+405,Hasanpur,6329.44267506,Taharpur,28.76624,78.32051,Hajipur Bhoor,Hajipur,82.7166
+406,Hasanpur,6401.14990185,Haryana,28.70352,78.40732,Haryana,Harana Kachhar,83.38021
+407,Hasanpur,6382.43838995,Kuwandali,28.69311,78.31566,Hees Khera,Khekhara,83.14634
+408,Hasanpur,6353.22866678,Bhadaura,28.72274,78.37294,Iradatpur Urf Alawalpur,Virdawalpur,82.84502
+409,Hasanpur,6434.52661566,Ishapur Sharki,28.68963,78.34524,Ishapur Sharqi,Ishwarpura,84.15265
+410,Hasanpur,6374.62208586,Bhadaura,28.72274,78.37294,Jatpura Sharki,Atasari,83.2873
+411,Hasanpur,6359.7407102,Jeehal,28.73908,78.39982,Jeehal,Jehra Pipri,83.11072
+412,Hasanpur,6385.91834048,Shergarh,28.78627,78.30222,Jhulpuri,Amara Urf Jhulanipur,83.80529
+413,Hasanpur,6385.79353664,Jhundi Mafi,28.67828,78.31034,Jhundi Mafi,Jhumaria,83.20083
+414,Hasanpur,6383.63785161,Kalakheda,28.70404,78.37418,Kala Khera,Lakhesra,83.52968
+415,Hasanpur,6381.55728516,Bhadaura,28.72274,78.37294,Kalal Khera,Lakhesra,83.52968
+416,Hasanpur,6317.4971531,Damgari,28.64791,78.37861,Kamalpur Sahu,Kamalpur,82.266
+417,Hasanpur,6453.19118995,Dhakka,28.69976,78.38226,Kammanpur,Karmanpur,84.46157
+418,Hasanpur,6351.10576359,Kaneta,28.66121,78.29943,Kaneta,Neel Kantha Pur,82.76061
+419,Hasanpur,6377.00500232,Shahpur Kalan,28.70206,78.27399,Karan Khal,Shyam Durwa Urf Lal Karana,83.45656
+420,Hasanpur,6420.21978757,Karanpur Mafi,28.74478,78.30474,Karanpur Mafi,Karanpura,84.01942
+421,Hasanpur,6407.09527245,Chamar Patei,28.61981,78.34254,Kasampur Janoobi,Karampura,83.66102
+422,Hasanpur,6382.27824187,Khajuri,28.80778,78.34459,Khajoori,Khajuri,83.25829
+423,Hasanpur,6356.03352657,Sateda Aitmali,28.71551,78.21558,Kharkhali Ahtmali,Kharkharia,83.19509
+424,Hasanpur,6453.40213978,Kharsauli,28.60799,78.40331,Kharsoli,Alakh Diyari Taluka Kharouli,84.3075
+425,Hasanpur,6421.62659691,Karanpur Mafi,28.74478,78.30474,Koodi Viran,Koodiya,84.0798
+426,Hasanpur,6371.72055908,Koobi,28.80034,78.37749,Koovi,Kooie,83.48242
+427,Hasanpur,6389.44320619,Kuwandali,28.69311,78.31566,Kua Dali,Kadal,83.17371
+428,Hasanpur,6376.69609091,Luhari Bhoor,28.74051,78.35196,Luhari Bhoor,Harhori,83.02292
+429,Hasanpur,6414.9416463,Luhari Khadar,28.72913,78.23599,Luhari Khadar,Nakataha Urf Harihar Chhapar,84.05044
+430,Hasanpur,6363.80367147,Machhrai,28.76407,78.25984,Machhrai,Machhali Gaon,83.38921
+431,Hasanpur,6375.05033419,Machhara Bhagwanpur,28.77283,78.30565,Machra Bhagwanpur,Bhagwanpur,83.17443
+432,Hasanpur,6418.95733836,Mangroli,28.67483,78.27393,Magrouli,Mangrouli,83.88941
+433,Hasanpur,6424.35649617,Tarara,28.64854,78.32883,Makanpur Sharki,Gaura Madanpura,83.95489
+434,Hasanpur,6335.74215345,Sateda Aitmali,28.71551,78.21558,Matena Ahatmali,Golhaura Ahatmali,82.94345
+435,Hasanpur,6331.33976178,Sateda Aitmali,28.71551,78.21558,Matena Mustkam,Bairari Musthkam,82.73046
+436,Hasanpur,6381.85351341,Machhrai,28.76407,78.25984,Mathana,Mathania,83.68119
+437,Hasanpur,6383.00707039,Galsuwa,28.68422,78.36321,Mirjapur Sharki,Mirjapur,83.34868
+438,Hasanpur,6353.87922456,Chakauri,28.73889,78.34831,Mohammadpur Bangar,Mohammadpur Kathar,83.12293
+439,Hasanpur,6280.74212586,Garabpur urf Rustampur,28.65419,78.27094,Nabada,Nawada Kishun Garh,81.74462
+440,Hasanpur,6395.61940685,Baseda Khurd,28.78367,78.29589,Nagla Shumali,Kachuhiya Shumali,83.87044
+441,Hasanpur,6424.42001173,Galsuwa,28.68422,78.36321,Nizampur Sharki,Nizampur,83.97961
+442,Hasanpur,6341.10102692,Tuglakabad,28.75403,78.40642,Noorpur Kalan,Noorpur Kala,82.86139
+443,Hasanpur,6426.10646229,Ausa mafi,28.73911,78.36938,Oasa Mafi,Arajimafi Sagarpali,84.09956
+444,Hasanpur,6328.61549059,Pahadpur Bakkal,28.66616,78.31311,Paharpur Bakkal,Paharpur Bastipur,82.52065
+445,Hasanpur,6395.72948369,Pandki,28.65886,78.37432,Pandki,Pandi,83.33157
+446,Hasanpur,6446.37235963,Pandli,28.65886,78.37432,Pandli,Pandouli,84.28543
+447,Hasanpur,6379.09809977,Ishapur Sharki,28.68963,78.34524,Peepli Bakal,Palikalna,83.08127
+448,Hasanpur,6401.9761344,Pipli Daud,28.79316,78.31167,Peepli Daud,Piparadaud,83.93873
+449,Hasanpur,6319.97425105,Pipli Mekchand,28.77533,78.40007,Peepli Meghchand,Negura Deepchand,82.34467
+450,Hasanpur,6374.57559878,Peethkhera,28.75869,78.58516,Peeth Khera,Peetha,83.08122
+451,Hasanpur,6405.39178078,Phoolpur Bijhalpur,28.69385,78.29271,Phulpur Bisalpur,Hursaypur Kothiya,83.68698
+452,Hasanpur,6370.26357075,Poothi,28.81009,78.30303,Pooti,Poota,83.31404
+453,Hasanpur,6268.35148608,Pandki,28.65886,78.37432,Putsal,Lakhahi Putali Tara,81.78078
+454,Hasanpur,6438.65102263,Bijaura,28.63178,78.38787,Qasimabad,Nasirabad,84.10704
+455,Hasanpur,6305.07104796,Dhakka,28.69976,78.38226,Rahmatpur,Rahmatpur,82.34379
+456,Hasanpur,6232.48235211,Rajheda Bahadurpur,28.76223,78.34885,Rajhera,Chak Rahera,81.06296
+457,Hasanpur,6367.09057269,Rajhoha,28.77713,78.34229,Rajoha,Deora Raja,83.05002
+458,Hasanpur,6372.71669399,Galsuwa,28.68422,78.36321,Rajpur,Rajpur,82.95559
+459,Hasanpur,6386.34368169,Kuwandali,28.69311,78.31566,Rajupur,Rajupur,83.36734
+460,Hasanpur,6393.98174599,Rampur Bhud,28.74924,78.28941,Rampur Bhoor,Rampur,83.35901
+461,Hasanpur,6412.93307222,Kuwandali,28.69311,78.31566,Saapa,Sapha,83.96899
+462,Hasanpur,6406.44571494,Sabdalpur Sharki,28.67888,78.41428,Sabdalpur Sharki,Sabdalpur,83.72341
+463,Hasanpur,6399.00589677,Luhari Bhoor,28.74051,78.35196,Sabdalpur Shumali,Sabdalpur,83.72341
+464,Hasanpur,6380.77519546,Said Nagli,28.66931,78.39753,Said Nagli,Saintal Tal,83.38281
+465,Hasanpur,6402.56244232,Sakatpur Karanpur,28.62401,78.39717,Sakatpur Karanpur,Harakaranpur,83.53382
+466,Hasanpur,6416.10787833,Dhakka,28.69976,78.38226,Sarai Majra,Sarakara,83.93867
+467,Hasanpur,6395.43405777,Damgari,28.64791,78.37861,Sarai Ojhe,Saradiha,83.16158
+468,Hasanpur,6420.10298352,Bagarpur Mujabta,28.61321,78.36431,Sarkara Janoobi,Bhiswa Sarkari,83.95186
+469,Hasanpur,6370.71210244,Khajuri,28.80778,78.34459,Sarkara Khurd,Pararikhurd,83.14159
+470,Hasanpur,6335.74215345,Sateda Aitmali,28.71551,78.21558,Sateda Ahatmali,Golhaura Ahatmali,82.94345
+471,Hasanpur,6426.50869042,Chamar Patei,28.61981,78.34254,Shahpur Dungar,Shahpur Urf Shahpura,83.88697
+472,Hasanpur,6416.73942531,Shahpur Kalan,28.70206,78.27399,Shahpur Kalan,Shahpur Urf Shahpura,83.88697
+473,Hasanpur,6214.30644378,Taharpur,28.76624,78.32051,Shahpur Urf Bhootkhadedi,Shahpurbaskholia,81.06557
+474,Hasanpur,6348.11261008,Dhakka,28.69976,78.38226,Sharifpur Sharki,Sharipur,82.71822
+475,Hasanpur,6334.53344233,Shekhupur Jhakdi,28.72462,78.32598,Shekhupur Jhakri,Shekhpura Rajkumari,82.71823
+476,Hasanpur,6369.38080855,Shergarh,28.78627,78.30222,Shergarh,Sumergarh,83.48487
+477,Hasanpur,6432.08448097,Sauhat,28.62364,78.32209,Sohant,Sohaon,83.98096
+478,Hasanpur,6424.29030979,Sohraka,28.73481,78.24701,Soharka,Soharai,84.10126
+479,Hasanpur,6328.65313705,Sultanpur Bheema,28.59396,78.34259,Sultanpur Bhema,Sultanpur,82.34593
+480,Hasanpur,6316.8980493,Kalakheda,28.70404,78.37418,Sultanpur Viran,Sultanpur,82.34593
+481,Hasanpur,6433.87645566,Sutari,28.62683,78.40055,Sutari,Basantpur Uttari,84.00379
+482,Hasanpur,6133.51729065,Taharpur,28.76624,78.32051,Taharpur,Taharpur,79.98535
+483,Hasanpur,6464.23703497,Chamar Patei,28.61981,78.34254,Tajpur Dungar,Shivpur Kapurdiar,84.48945
+484,Hasanpur,6444.4050846,Tarara,28.64854,78.32883,Tarara,Arara,84.23516
+485,Hasanpur,6410.96456939,Tarauli,28.69099,78.27062,Tarouli,Targouli,83.81862
+486,Hasanpur,6396.17975014,Tasiya,28.76309,78.37501,Tasiha,Chak Taha,83.64853
+487,Hasanpur,6339.13254085,Said Nagli,28.66931,78.39753,Tatarpur Patti,Tatarpur,82.49072
+488,Hasanpur,6408.31426788,Shergarh,28.78627,78.30222,Telipura Mafi,Tirama Sahun,84.05632
+489,Hasanpur,6376.13379613,Dhakka,28.69976,78.38226,Timanpur,Manpur,83.04438
+490,Hasanpur,6411.41726577,Peethkhera,28.75869,78.58516,Tirlokpur,Tirlokpur Buzurg,84.04295
+491,Hasanpur,6375.75781855,Tuglakabad,28.75403,78.40642,Tuklabad,Taluabad,83.48748
+492,Hasanpur,6421.3297663,Bagarpur Mujabta,28.61321,78.36431,Turtipur,Turtipar,83.86425
+493,Hasanpur,6407.83823175,Pipli Mekchand,28.77533,78.40007,Umarpur urf Amberpur,Bhimpura T. Parsurampur,83.90706

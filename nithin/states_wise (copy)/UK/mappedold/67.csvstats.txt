@@ -1,0 +1,7 @@
+village_notmatched set(['Raipur Patti Dilla', 'Kuan Khera(kuee Khera)', 'Raipur Patti Lekhraj', 'Umru Khurd (CT)', 'Raipur Patti Lokman', 'Sarada Sagar Jhau Parasa'])
+blk_notmatched set(['Kichha'])
+gp_notmatched set(['VIJAY NAGAR', 'RANI NAGAL', 'KALYAN PUR', 'SURENDRA NAGAR', 'Karghatiya', 'Dhayanpur', 'RAMNAGAR KASHIPUR', 'Barwala', 'Haraiya', 'RAMPURA', 'Mat Kota', 'Harlalpur', 'Dhum Khera', 'GOSU KUMAN', 'RUDRAPUR DEHAT', 'GULJARPUR', 'RAMJIWANPUR', 'Jagatpur Patti', 'MALSI', 'LAMBAKHERA', 'khelriya', 'Nalai', 'JAGANNATHPUR', 'Aspur', 'RAJPURARANI', 'Salmata', 'KHUNSARA', 'Amarpur', 'GOHAR PATIYA', 'Gangapur Raqba', 'Chandpur', 'UMARU KALAN', 'Pachchawala', 'Neejhra', 'JAFARPUR', 'BAILJURI', 'Lakhanpur', 'MISSARWALA', 'MEHTA BAN', 'Barhyonwala', 'LOHARRI', 'MURLIWALA', 'jhan kaieya', 'RAIPUR', 'SRIRAMPURAM', 'Bereya', 'TANDA AMICHAND', 'Devipura', 'Niwarmundi', 'Pahsheni', 'Jangal jogither', 'TURKAA TISOR', 'Ujjaiin', 'Haldi', 'Gajraola', 'JAINAGAR', 'RAINTA', 'UKRAULI', 'BHAISIYA', 'SHIVLALPUR AMARJHANDA', 'Bagwala', 'RAJPUR FATEHGANJ', 'HAJEERA', 'Chanakpur', 'SARWARKHERA', 'PIPALIA', 'PRATAPPUR', 'Ramjiwanpur', 'Chandanpura', 'Sakadi', 'Madia Hattu', 'ALABIRDI', 'Bhogpur Jaspur', 'BHONAISLAM NAGAR', 'Kankata', 'Mundia Pistor', 'DOHARI VAKIL', 'Lankura', 'GIDDHAUR', 'MANPUR', 'Ganeshpur', 'Kaithulia', 'Gur khura', 'Jogither Nagla', 'KATRA', 'KHANPUR PURAV', 'BASAI', 'Loka'])
+village_stats [461, 6]
+blk_stats [0, 58]
+gp_stats [0, 132]
+null_data 0

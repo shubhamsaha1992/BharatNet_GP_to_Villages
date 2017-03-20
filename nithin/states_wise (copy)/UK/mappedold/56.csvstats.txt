@@ -1,0 +1,7 @@
+village_notmatched set([])
+blk_notmatched set(['Puraula', 'Rajgarhi'])
+gp_notmatched set(['Chilmurgaon', 'Khattu khal', 'Dungal Dhar', 'Aleth', 'Dasda', 'Kaprara', 'Kandla', 'Nagri Chhoti', 'MAINOL', 'Pokhariyal Gaon', 'MUROGI', 'Aungee', 'Natin', 'Digthol', 'Barol', 'KAWATA', 'Bhalsi', 'Mastari', 'TIPRA', 'Gurari', 'Banot Palla', 'Chaudiyat Gaon', 'Gainchwan Gaon', 'Ramalgaon', 'JUNGA', 'Dewti', 'KODAFEDI', 'Balawate', 'DHANPUR', 'Mangar Gaon', 'Dhautari', 'Udalka', 'Pahi'])
+village_stats [369, 0]
+blk_stats [0, 257]
+gp_stats [0, 44]
+null_data 0

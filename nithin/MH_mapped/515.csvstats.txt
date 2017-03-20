@@ -1,0 +1,7 @@
+village_notmatched set(['Narsingpur', 'Takali Kolte', 'Akoli Wadgaon', 'Babhulgaon Kh.', 'Badlabai', 'Waluj Bk. (CT)', 'Pimpalgaon Peth', 'Takli Kh.', 'Jalgaon Mete', 'Ismailpur', 'Gopalwadi', 'Mudhesh Wadgaon', 'Nimkhedi', 'Molkheda', 'Gavli Dhanora', 'Anjola', 'Shahapur Kadim', 'Yesgavhan', 'Jamgaon', 'Nanda Tanda', 'Pimpalgaon Ghat', 'Bhandegaon', 'Jalki Bajar', 'Girnera', 'Ranjani', 'Hingana', 'Trimbalpur', 'Mhasla', 'Pimpalgaon Walan', 'Satal Pimpri', 'Khairgawhan', 'Ager Wadgaon', 'Wakad', 'Chincholi (Nakib)', 'Shahapur Banjar', 'Nimkhedi (Banoti Circle)', 'Wadgaon (Tigji)', 'Borgaon Kasari', 'Chincholi Bk', 'Padali Wawana', 'Sanjrabad', 'Gokulpur (N.V.)', 'Limbe Jalgaon', 'Anad', 'Talyachi Wadi', 'Dongargaon Kawad', 'Galnimb', 'Dongargaon Shev', 'Borgaon Arj', 'Wadali', 'Adgaon Bk.', 'Mhasa', 'Gumastala', 'Dhondkheda', 'Guru Dhanora', 'Kanhegaon', 'Pimpalgaondeo', 'Hamjabad', 'Pimpri', 'Dongaon', 'Fajalpur', 'Khadak Narala', 'Raksa', 'Manullapur', 'MANDVA'])
+blk_notmatched set(['Aurangabad', 'Paithan', 'Vaijapur', 'Kannad'])
+gp_notmatched set(['DHRLA', 'MAMDAPUR', 'BORGAON BK.', 'SULTANABAD', 'LAKHAMAPUR', 'PIMPALWADI', 'WARUD KH', 'HIWARA', 'MOHALAI', 'PANWADI'])
+village_stats [526, 68]
+blk_stats [0, 756]
+gp_stats [0, 13]
+null_data 0

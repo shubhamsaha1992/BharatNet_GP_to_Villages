@@ -1,0 +1,7 @@
+village_notmatched set(['Malangaon', 'Raver', 'Dongargaon', 'KALDAR', 'Karle', 'Old Bhampur (old Bhamte)', 'Fofare', 'Bhagapur', 'Nawapada', 'Dahyane', 'Tembhe Pr. Warse', 'Babhulade', 'Morane Pr.ner', 'Morane Pr. Laling', 'Wadgaon', 'Chinchpada', 'Pimpalgaon', 'Tarhadi Tarf Tarhad', 'Sonewadi', 'Hispur', 'Chandgad', 'Nagaon Kh.', 'Sarve', 'Kalapani', 'Gorane', 'Waki', 'Dhawde', 'Wadi Kh.', 'Mahuband', 'Mudawad', 'Kharadbari', 'Torankudi', 'Behed', 'Borgaon', 'Bhilane D.', 'Bormalipada (N.V.)', 'Kasare', 'Kundane (warkhede)', 'Vikharan (Devache)', 'Gartad', 'Punajinagar', 'Kamkhede', 'Wadi Bk', 'Darkheda', 'UMBARKHANDWA', 'Tanda (Kundane) (V)', 'War', 'Pimpalgaon Kh.', 'Ozarade', 'Divi', 'Lonkhedi', 'Dongarpada', 'Sawali Tanda', 'Mahal Kasad', 'Savarimal', 'Raipur', 'Kailasnagar', 'Bagulnagar', 'Varkhede', 'Pimpri', 'Wadi', 'Jakhane', 'Nandale Bk.', 'Nishane', 'Vadli', 'Tembhe Bk.', 'Navakothare', 'Pokare', 'Shivajinagar (N.V.)', 'Malapur (Anerdam)', 'Tisgaon', 'Degaon', 'Malyachapada', 'Humbarde', 'Manjar Bardi', 'Varzadi', 'Arunapuri Dam', 'Ganeshpur', 'Kadupada', 'Devli Pada', 'Wadel', 'Gultare', 'Wani', 'Patan', 'Khankheda Pr. Thalner', 'Mohadi Pr.dangari', 'Khandlay Bk--', 'Dhamangaon'])
+blk_notmatched set([])
+gp_notmatched set(['AMBAPUR', 'TEMLAY', 'MAPALGAON'])
+village_stats [592, 90]
+blk_stats [0, 0]
+gp_stats [0, 3]
+null_data 0

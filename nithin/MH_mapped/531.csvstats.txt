@@ -1,0 +1,7 @@
+village_notmatched set(['Chikhali', 'Nehru Nagar', 'Mallal', 'Krishnanagar', 'Vijay Nagar', 'BHIRAVWADI', 'Mangrul', 'Ramanandnagar (N.V.)', 'Bhashtewadi', 'Mola Kumbhoj', 'Ambyachiwadi', 'Beradewadi', 'Shelkewadi (N.V.)', 'Wadgaon', 'Hanmant Vadiye', 'Dorli', 'Vhaspeth', 'Konoli', 'Zolambi', 'SHINDEWADI G', 'Pundi Tarf Walava', 'Madhalmuthi', 'WAKAIWADI', 'Khambale Bhalvani', 'Shivani', 'Sirgaon Visapur', 'Lamantanda', 'Nave Khed', 'Chikhal Gothan', 'Kandur', 'Motewadi', 'Chikhalwadi', 'Chinchani (Tas)', 'Tandulwadi', 'Salekari', 'PIMPRI KH', 'Ghadgewadi (N.V.)', 'Rajobawadi', 'Manewadi', 'Mankarwadi (N.V.)', 'MALWADI', 'Wajegaon (N.V.)', 'Wang Rethare (N.V.)', 'NANDRE', 'Nagaon Nimani', 'Devnagar', 'Gulewadi', 'Borgaon', 'Khanapur', 'VAJEGAON', 'Paradhi Wasti', 'Bagewadi', 'Yeslewadi', 'Manmodi', 'Narsewadi', 'Yamaji Patalachi Wadi', 'Khalsa Dhamani', 'Gavalewadi', 'June Khed'])
+blk_notmatched set([])
+gp_notmatched set(['BHAGYANAGAR', 'AWANDHI', 'BHADKEWADI', 'KAGANARI', 'PHUPHERE', 'CHINCHOLI', 'Shirsatwadi', 'SURYAGAON', 'PANCHSHILNAGAR', 'POKHARNI', 'AGRAN DHULAGAON', 'VITTHALWADI', 'TANDALGAON', 'Nathavade', 'DHULGAON', 'BILLUR', 'ALSAND'])
+village_stats [651, 65]
+blk_stats [0, 0]
+gp_stats [0, 17]
+null_data 0

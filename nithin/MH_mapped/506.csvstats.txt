@@ -1,0 +1,7 @@
+village_notmatched set(['Takali', 'Alesur', 'Jewanala', 'Dongargaon', 'Dokepar', 'Kawalewada', 'Borgaon', 'Bothali', 'Pitezari', 'Makardhokada', 'DONGARGAON(N)', 'Deori (Hemesha)', 'KITADI', 'Rajoli', 'Rampur', 'Boteshwar', 'Kanhalgaon sir', 'Yetewahi', 'Navegaon', 'Singori', 'Gidalpar', 'Pangadi', 'Girola', 'Bundalghat', 'Khandala', 'Pauldawana', 'Alebedar', 'Sawargaon', 'Mehuni', 'Pardi', 'Sendurwafa', 'Pimpalgaon', 'DEVHADI', 'Khadki', 'Mendhatoli', 'Bandrazari', 'Yeklara', 'Bori', 'Warthi (CT)', 'Shiwani', 'Yelkazari'])
+blk_notmatched set(['Pauni', 'Tumsar', 'Lakhandur', 'Bhandara'])
+gp_notmatched set(['PIMPALGAON'])
+village_stats [261, 47]
+blk_stats [0, 572]
+gp_stats [0, 1]
+null_data 0

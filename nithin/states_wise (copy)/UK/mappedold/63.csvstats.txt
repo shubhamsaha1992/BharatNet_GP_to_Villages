@@ -1,0 +1,7 @@
+village_notmatched set(['Kakrat adhela (Dofar Lagga kakrta)', 'Boragaon Lagga Chak Chhana'])
+blk_notmatched set(['Kafligair', 'Dugnakuri', 'Kanda'])
+gp_notmatched set(['VACHAM', 'ROLYANA', 'SYALDETEET', 'JALTHAKOT', 'HORALI', 'SIMALGAON', 'SURKALIGAON', 'Kirouli', 'RIKHAYAAL', 'KULHAL', 'LASKARKHET', 'THARAEJAR', 'GOGINAPANI', 'DHAULAA', 'SEZ', 'DIYALIKUROULI', 'SAAINJ 2', 'BATALGAON', 'BAARET', 'BAHAALI', 'MAHOLI', 'KISROLII', 'FALYATI', 'HAR BAGAR', 'CHAUHNA', 'DARSINGH', 'BORGAON', 'NANDIGAAON', 'KALO', 'BAISANII', 'REMAQUTI', 'BORBALRA', 'RATORE', 'CHANA', 'BHAAYERI', 'BAIGAON KALRAUN', 'BAFILAGAON MALLA', 'PACHAR', 'KIRAI', 'FALYAATI', 'KAFALKHET', 'MAGHRUPHARI', 'RAGDEV', 'HAWIL KULWAN'])
+village_stats [616, 2]
+blk_stats [0, 199]
+gp_stats [0, 86]
+null_data 0

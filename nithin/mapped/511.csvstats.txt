@@ -1,0 +1,7 @@
+village_notmatched set(['Pardi Makta', 'Mamnyal', 'UMARI', 'Dongargaon', 'Mugatwadi (D)', 'Pimpalgaon Nimji', 'Patoda Thadi', 'Dhanora Kh.', 'Pimpalgaon Korka', 'Bondhar Tarf Nerli', 'SANGVI (KD.)', 'Bhojuchiwadi', 'Borgaon Telang', 'SHELGAON (KD).', 'Mansingwadi', 'Rui Kh', 'Kedar Wadgaon', 'Loni Kh.', 'Sattarpur', 'Pimpalgaon  (Mistri)', 'Dhanora', 'Kakandi Tarf Pasadgaon', 'Patoda (T.B.)', 'Chikhali Kh.', 'Takli Bk.', 'Sawargaon Nipani', 'Mutnyal (D)', 'Rathod Nagar', 'Bori Kh.', 'Bondhar Tarf Haveli', 'Shelgaon Chatri', 'Rajgadnagar', 'Pangri Tarf Karwadi', 'Bori Bk.', 'Wadi Bk.', 'Umarga Khojan', 'Chincholi P.K.', 'SHELGAON (BK.)', 'Loni Bk.', 'Manur Tarf Ba', 'Ahmadpur (D)', 'Babulgaon', 'Vanzirgaon', 'Bachegaon', 'Babapur', 'Sadakpur', 'Shahapur', 'PIMPALGAON (M.)', 'Shelgaon (Gauri)', 'Shelgaon Thadi', 'Limbatanda', 'Cholichatanda', 'Chenapur (D)', 'Pimpalgaon', 'Dhanora T.M.', 'Majare Warwat', 'UMRAJ', 'Naigaon (D)', 'Wadi Wagji', 'Babhulgaon', 'Isampur', 'Amarabad Tanda (N.V.)', 'Chikhal Bhosi', 'Pimpalgaon (Na)', 'Tembhurni', 'Chikhali Bk.', 'Kalka', 'Mangal Sangvi', 'Wadgaon', 'Hadidadpur'])
+blk_notmatched set(['Umri', 'Deglur', 'Kinwat', 'Mukhed', 'Mudkhed', 'Mahoor', 'Bhokar', 'Biloli', 'Himayatnagar', 'Loha', 'Hadgaon'])
+gp_notmatched set([])
+village_stats [346, 70]
+blk_stats [0, 1173]
+gp_stats [0, 0]
+null_data 0

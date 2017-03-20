@@ -1,0 +1,7 @@
+village_notmatched set(['Gopegaon', 'Khorad Sawangi', 'Bhanang Jalgaon', 'Pangri', 'Dongargaon', 'Arda Khari', 'Vidoli Bk.', 'Tadhadgaon', 'Madh Tanda', 'Math Jalgaon', 'Watur Tanda', 'Mangrul', 'Sawargaon Wayal', 'Khadkeshwar', 'Ishwarnagar', 'Wanjola', 'Bhalgaon', 'Bangaon', 'Dhangar Pimpari', 'Khari Arda', 'Balegaon', 'Churmapuri', 'Kaudgaon', 'Nansi', 'Sukhapuri', 'Wadgaon Sarhadu', 'Malegaon Kh.', 'Pokhari Takle', 'Sindhi Pimpalgaon', 'Naigaon P. Sevli', 'Harat Kheda', 'Gahininath Nagar', 'Vidoli Kh.', 'Rui', 'Lembhewadi', 'Hanwat Kheda', 'Pangarkheda', 'Dawargaon', 'Mardi', 'Bakshachiwadi', 'Kukkadgaon', 'Palaskheda', 'Sonak Pimpalgaon', 'Naigaon  P. Bamhani', 'Bhagawan Nagar', 'Walkheda', 'Zirpi Tanda', 'Ganga Chincholi', 'Waghrul Dongargaon', 'Chandeshwar'])
+blk_notmatched set(['Jafferabad', 'Jalna', 'Partur', 'Ghansawangi', 'Bhokardan'])
+gp_notmatched set([])
+village_stats [294, 50]
+blk_stats [0, 622]
+gp_stats [0, 0]
+null_data 0

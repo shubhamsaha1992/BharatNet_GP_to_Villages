@@ -1,0 +1,7 @@
+village_notmatched set(['Chikhali', 'Dharmapur', 'Chukamba', 'Pangri', 'Bahadarpur', 'Vasantnagar (N.V.)', 'Raipur', 'Sanlapur', 'Ismailpur', 'Shahapur Bk.', 'Nandgaon', 'Khapri', 'Pimpalshenda', 'Dhanora Bhuse', 'Sattar Sawngi', 'Vasant Nagar', 'Rui', 'Terka', 'Hiwara Kh.', 'Shahapur Kh.', 'Wanjarkhed', 'Umardoh', 'Bhamrun', 'Derdi', 'Dahithana', 'Renkapur', 'Ghoti', 'Kakad Chikhali', 'Bidgaon', 'Mahamad Shahapur', 'Dongargaon', 'Giroli', 'Kamlapur', 'Mohgavhan', 'Khandala', 'Umari Bk', 'Yedalpur', 'Pimpri', 'Khambala', 'Dhamni Manora', 'Pardi (Tad)', 'Umari Kh.', 'Warud Bk.', 'Bhandegaon', 'Tembhala', 'Nawkhi', 'Sayyadpur', 'Wadgaon', 'Umari Bk.', 'Ujwal Nagar', 'Dhanora bk.', 'Dilawalpur', 'Dhanora Kh.', 'Jawala Bk.', 'Pimpalgaon', 'Pimpri Bk.', 'Dawakha', 'Sawalapur', 'Chincholi', 'Junapani', 'Naigaon Bandi', 'Jawala Kh.', 'Gartek', 'Abhaykheda', 'Lohara', 'Dhanora kh.', 'Jamni', 'Hiwara Bk.', 'Sawargaon', 'Gogjai', 'Pimpri Kh.', 'Pimpal Shenda', 'Dhanora Bk.', 'Warud Kh.'])
+blk_notmatched set(['Malegaon', 'Washim', 'Risod', 'Karanja'])
+gp_notmatched set(['Inzori', 'Bhoyani', 'Wapta', 'WAUGAUL'])
+village_stats [184, 79]
+blk_stats [0, 517]
+gp_stats [0, 10]
+null_data 0

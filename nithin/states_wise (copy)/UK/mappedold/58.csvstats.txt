@@ -1,0 +1,7 @@
+village_notmatched set([])
+blk_notmatched set(['Basukedar', 'Rudraprayag'])
+gp_notmatched set(['KAUSHALPUR', 'TALJAMAN', 'DHAR TONDALA', 'CHANDRAPURI', 'JAGOTH', 'TINSOLI', 'HAAT', 'GUGALI', 'MOLI', 'TAUSI', 'SALYA', 'barangali', 'FALAI', 'FEGU', 'SERSI', 'KAKOLAA', 'NAINI PAUNDAR', 'KWALI', 'BHARAJ', 'SAN', 'JAIKANDI', 'MACHKANDI', 'GINWALA', 'DADOLI', 'KABILTHAA', 'JAHANGI', 'BHARNGAA', 'KAMSAL', 'KERA', 'BASHTI', 'AKHORI', 'TRIJUGI NARAYAN', 'SINGHATA', 'DAULA', 'PILLU', 'KANSILI', 'BHEERI', 'AURANG', 'syashu', 'DALSINGI', 'SILLA WAMAN GAON', 'TEMRIYA', 'KYARK BARSURI', 'JALAI SURSAL', 'KYUNJA', 'BARAMVARI', 'MUNYADHAR', 'SOD BHARGAON', 'BARAV', 'TEWARI', 'BHUNKHI', 'KINJHANI', 'JAULA', 'kaviltha', 'NAG JAGAI', 'DHAN KURALI', 'KANDARA'])
+village_stats [259, 0]
+blk_stats [0, 301]
+gp_stats [0, 107]
+null_data 0

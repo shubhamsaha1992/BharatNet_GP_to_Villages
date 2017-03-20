@@ -1,0 +1,7 @@
+village_notmatched set(['Nila Gondi', 'Tedwa', 'Pangadi', 'Sonartola (N.V.)', 'Zaliya', 'Sangrampur (Rithi)', 'Rengepar', 'Sai Tola', 'Gondi Tola', 'Seoni', 'Lamba Tola', 'Girola', 'Mohgaon(Bk)', 'Tanda', 'Sondlagondi', 'Changotola', 'Alebedar', 'Pardibandh', 'Kanhartola', 'Nawegaon Dha.', 'Halbi Tola', 'Wazitola (N.V.)', 'Kanhartola Chopa', 'Hausitola', 'Jambhulpani'])
+blk_notmatched set(['Sadak-Arjuni', 'Deori', 'Salekasa', 'Arjuni Morgaon', 'Tirora', 'Amgaon'])
+gp_notmatched set(['FATTEPUR'])
+village_stats [222, 27]
+blk_stats [0, 700]
+gp_stats [0, 1]
+null_data 0

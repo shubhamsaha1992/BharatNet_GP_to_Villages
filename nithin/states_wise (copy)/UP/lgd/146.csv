@@ -1,0 +1,951 @@
+,"District Name
+(in English)","Sub District Name
+(in English)","Village Name
+(in English)","Local Body Name
+(in English)"
+0,AGRA,Agra,Abhaypura,ABHAYPURA
+1,AGRA,Agra,Akbarpur,AKBARPUR
+2,AGRA,Agra,Akola,AKOLA
+3,AGRA,Agra,Albatia,KALWARI
+4,AGRA,Agra,Anguthi,ANGOOTHI
+5,AGRA,Agra,Artauni (CT),ARTAUNI
+6,AGRA,Agra,Azizpur (CT),AZIZPUR
+7,AGRA,Agra,Babarpur Ehtmali,BAIPUR MUSTKIL
+8,AGRA,Agra,Babarpur Mustkil,BAIPUR MUSTKIL
+9,AGRA,Agra,Bad,BAD
+10,AGRA,Agra,Bagd,BAGDA
+11,AGRA,Agra,Bagda,BAMRAULI AHIR
+12,AGRA,Agra,Bahenta,BARAULI AHIR
+13,AGRA,Agra,Bain Khera,BAIN KHERA
+14,AGRA,Agra,Bainpur Mustkil,BAIPUR MUSTKIL
+15,AGRA,Agra,Baipur Ehtmali,BAIPUR MUSTKIL
+16,AGRA,Agra,Bajhera,Bajhera
+17,AGRA,Agra,Balhera,BALHERA
+18,AGRA,Agra,Bamrauli Ahir,BAMRAULI AHIR
+19,AGRA,Agra,BAMRAULI GUJR,BARAULI GUJAR
+20,AGRA,Agra,BAMRAULI KATAR,BAMRAULI KATARA
+21,AGRA,Agra,Bamrauli Katara,BARAULI AHIR
+22,AGRA,Agra,Barara,BARARA
+23,AGRA,Agra,Barauli Ahir,BARAULI AHIR
+24,AGRA,Agra,Barauli Gujar,BARAULI AHIR
+25,AGRA,Agra,Basua Nagla,PATHOLI
+26,AGRA,Agra,BHAHAI,BHAHAI
+27,AGRA,Agra,Bhandai,BHANDAI
+28,AGRA,Agra,Bhidavali,Bhidavali
+29,AGRA,Agra,Bichpuri,BICHPURI
+30,AGRA,Agra,Bijhamai,BIJHAMAI
+31,AGRA,Agra,Bilahani,BILAHANI
+32,AGRA,Agra,Bisarna,BISARNA
+33,AGRA,Agra,Bishara Kalan,BISHARA KALAN
+34,AGRA,Agra,Bishari Bhand,BISHARI BHAND
+35,AGRA,Agra,Brahmnagar,AKBARPUR
+36,AGRA,Agra,Budhana Ehtmali,BUDHANA MUSTKIL
+37,AGRA,Agra,Budhana Mustkil,BUDHANA MUSTKIL
+38,AGRA,Agra,Budhera,BUDHERA
+39,AGRA,Agra,Chamrauli,CHAMRAULI
+40,AGRA,Agra,Chauhatna,CHAUHATNA
+41,AGRA,Agra,Dehtora (CT),DEHTORA
+42,AGRA,Agra,Deoretha (CT),DEORETHA
+43,AGRA,Agra,Deori,DEORI
+44,AGRA,Agra,Dhamota,GHAMOTA
+45,AGRA,Agra,Dhanauli (CT),DHANAULI
+46,AGRA,Agra,Digner,DIGNER
+47,AGRA,Agra,Etmadpur Madra,ETMADPUR MADRA
+48,AGRA,Agra,Gadoli kalan,Gadoli kalan
+49,AGRA,Agra,Gadpura,Gadpura
+50,AGRA,Agra,Gamari,GAMARI
+51,AGRA,Agra,Gangraua,GANGRAUA
+52,AGRA,Agra,Garhsani,GARHSANI
+53,AGRA,Agra,Gooharpur,Gooharpur
+54,AGRA,Agra,Gutla,GUTLA
+55,AGRA,Agra,Hingot Kheria,HINGOT KHERIA
+56,AGRA,Agra,Ikthara,IKTHAR
+57,AGRA,Agra,Islampur,ISLAMPUR
+58,AGRA,Agra,Itaura,ITAURA
+59,AGRA,Agra,Jakhoda,Jakhoda
+60,AGRA,Agra,Janara,JAIN GARA
+61,AGRA,Agra,Jarua Katra,JARUA KATRA
+62,AGRA,Agra,Jaupura,JAUPURA
+63,AGRA,Agra,Kaboolpur,KABOOLPUR
+64,AGRA,Agra,Kahrai,KAHRAI
+65,AGRA,Agra,Kakrari,KAKRARI
+66,AGRA,Agra,Kakua,KAKUA
+67,AGRA,Agra,Kalal Kheria,KALAL KHERIA
+68,AGRA,Agra,Kalika Nagla,KALIKA NAGLA
+69,AGRA,Agra,Kalwari (CT),KALWARI
+70,AGRA,Agra,Karmana Ehtmali,KARMANA MUSTKIL
+71,AGRA,Agra,Karmana Mustkil,KARMANA MUSTKIL
+72,AGRA,Agra,Kaulakha (CT),KAULAKHA
+73,AGRA,Agra,Khal,Khal
+74,AGRA,Agra,Khallauwa,KHALLAUWA
+75,AGRA,Agra,Khaspur Ehtmali,KHASPUR MUSTKIL
+76,AGRA,Agra,Khaspur Mustkil,KHASPUR MUSTKIL
+77,AGRA,Agra,Khera Bhagor,KHERA BHAGOR
+78,AGRA,Agra,Kuan Khera,KUAN KHERA
+79,AGRA,Agra,Kundol,KUNDOL
+80,AGRA,Agra,Kuthawati,KUTHAWATI
+81,AGRA,Agra,Lakavali,LAKAVALI
+82,AGRA,Agra,Lakhanpur,LAKHANPUR
+83,AGRA,Agra,Lalau,LALAU
+84,AGRA,Agra,Laramada,LARAMADA
+85,AGRA,Agra,Lodhai,LODHAI
+86,AGRA,Agra,Mahua Khera,MAHUA KHERA
+87,AGRA,Agra,Malpura,MALPURA
+88,AGRA,Agra,Manghatai,MANGHATAI
+89,AGRA,Agra,Mankenda,MANKENDA
+90,AGRA,Agra,Mayapura,Mayapur
+91,AGRA,Agra,Mehra Naharganj,MEHRA NAHARGANJ
+92,AGRA,Agra,Midhakur,MIDHAKUR
+93,AGRA,Agra,Mohammadpur,MOHAMMADPUR
+94,AGRA,Agra,Mundhera,JARUA KATRA
+95,AGRA,Agra,Nadauta,NADAUTA
+96,AGRA,Agra,Nagla Nathu,ISLAMPUR
+97,AGRA,Agra,Nainana-Brahman (CT),NAINANA-BRAHMAN
+98,AGRA,Agra,Nainana Jat (CT),NAINANA-BRAHMAN
+99,AGRA,Agra,NAINAN JAT,NAINANA JAT
+100,AGRA,Agra,Nanpur,Nanpur
+101,AGRA,Agra,Naubari,NAUBARI
+102,AGRA,Agra,Nauphari,LODHAI
+103,AGRA,Agra,Nurpur,Nurpur
+104,AGRA,Agra,Pachgain Khera,PACHGAIN KHERA
+105,AGRA,Agra,Parihar,Parihar
+106,AGRA,Agra,Patholi (CT),PATHOLI
+107,AGRA,Agra,Patti Pachgain,PACHGAIN KHERA
+108,AGRA,Agra,Pawawali,PAWAWALI
+109,AGRA,Agra,Pinani Ramnagar,PINANI RAMNAGAR
+110,AGRA,Agra,Rahan Khudra,Rahan Khudra
+111,AGRA,Agra,Rajrai,RAJRAI
+112,AGRA,Agra,Rohta (CT),ROHTA
+113,AGRA,Agra,Sadarban,SADARBAN
+114,AGRA,Agra,Sahara,SAHARA
+115,AGRA,Agra,Saimari,SAIMARI
+116,AGRA,Agra,Salemabad,SALEMABAD
+117,AGRA,Agra,Samogar Ehtmali,SAMOGAR MUSTKIL
+118,AGRA,Agra,Samogar Mustkil,SAMOGAR MUSTKIL
+119,AGRA,Agra,Sarbatpura,Sarbatpura
+120,AGRA,Agra,Sargan Khera,SAMOGAR MUSTKIL
+121,AGRA,Agra,Shyamo,SHYAMO
+122,AGRA,Agra,Sikandarpur Ehtmali,KHASPUR MUSTKIL
+123,AGRA,Agra,Sikandarpur Mustkil,KHASPUR MUSTKIL
+124,AGRA,Agra,Siroli,SIROLI
+125,AGRA,Agra,Sucheta,SUCHETA
+126,AGRA,Agra,Sujgai,BAHENTA
+127,AGRA,Agra,Sunari,SUNARI
+128,AGRA,Agra,Sutendi,Sutendi
+129,AGRA,Agra,Swami Ehtmali,SWAMI MUSTKIL
+130,AGRA,Agra,Swami Mustkil,SWAMI MUSTKIL
+131,AGRA,Agra,Tanora Noorpur Ehtmali,TANORA NURPUR MUSTKIL
+132,AGRA,Agra,Tanora Nurpur Mustkil,TANORA NURPUR MUSTKIL
+133,AGRA,Agra,Tapara,TAPARA
+134,AGRA,Agra,Tora,TORA
+135,AGRA,Bah,Abhaypura,ABHAYPURA
+136,AGRA,Bah,Amahi,AMAHI
+137,AGRA,Bah,Arjun Pura,ARJUN PURA
+138,AGRA,Bah,Arnota,ARNOTA
+139,AGRA,Bah,Badagaon,BADAGAON
+140,AGRA,Bah,Badous,BADOUS
+141,AGRA,Bah,Baghrena,BAGHRENA
+142,AGRA,Bah,Bah Dehat,EMANPURA
+143,AGRA,Bah,Balai,BALAI
+144,AGRA,Bah,Bamroli,BAMROLI
+145,AGRA,Bah,Barah,BARAH
+146,AGRA,Bah,Barenda,BARENDA
+147,AGRA,Bah,Basai Arela,BASAI ARELA
+148,AGRA,Bah,Basai Bhadoriya,Basai Bhadoriya
+149,AGRA,Bah,Basai Goojar,ONDH
+150,AGRA,Bah,Basoni,BASONI
+151,AGRA,Bah,Bateshwar,BATESHWAR
+152,AGRA,Bah,Bedpura,Bedpura
+153,AGRA,Bah,Bhadroli,BHADROLI
+154,AGRA,Bah,Bhari Nagla,BHARI NAGLA
+155,AGRA,Bah,Bhartar,Bhartar
+156,AGRA,Bah,Bhaupura,NARHOLI
+157,AGRA,Bah,Bhitari,BALAI
+158,AGRA,Bah,Bhojpura,JAITPURA KALAN
+159,AGRA,Bah,Bhonigapura,LADHAVAPURA
+160,AGRA,Bah,Bichoula,BICHOULA
+161,AGRA,Bah,Bitholi,BITHOLI
+162,AGRA,Bah,Bithona,BITHONA
+163,AGRA,Bah,Budhera,BATESHWAR
+164,AGRA,Bah,CHACHIHA,CHACHIHA
+165,AGRA,Bah,Chamraua,CHAMRAUA
+166,AGRA,Bah,Chandrapura,Chandrapura
+167,AGRA,Bah,Changoli,CHANGOLI
+168,AGRA,Bah,Charitha,GARHI BAROLI
+169,AGRA,Bah,Chikanipura,NADGAWAN
+170,AGRA,Bah,Chitrahar,CHITRAHAR
+171,AGRA,Bah,Chorangabehar,Chorangabehar
+172,AGRA,Bah,Chourangahar,CHOURANGAHAR
+173,AGRA,Bah,Chousingi,CHOUSINGI
+174,AGRA,Bah,Dagroopura,LAKHANPUR KHALSA
+175,AGRA,Bah,Deenpura,PARBATIPURA
+176,AGRA,Bah,Derak,DERAK
+177,AGRA,Bah,Devpura,NADGAWAN
+178,AGRA,Bah,Dhaniyapura,MADHEPURA
+179,AGRA,Bah,Dharmasala,AMAHI
+180,AGRA,Bah,Dhaypura,ROOPPURA
+181,AGRA,Bah,Dhobai,MANGADPUR
+182,AGRA,Bah,Dodapura,DODAPURA
+183,AGRA,Bah,Emanpura,EMANPURA
+184,AGRA,Bah,Fatehpura,FATEHPURA
+185,AGRA,Bah,Gadhbar,GADHBAR
+186,AGRA,Bah,Gadhia Pratappura,GADHIA PRATAPPURA
+187,AGRA,Bah,Gajoura,GAJOURA
+188,AGRA,Bah,Gajrora,CHOUSINGI
+189,AGRA,Bah,Garhi Baroli,GARHI BAROLI
+190,AGRA,Bah,Garhi Rampra,Garhi Rampra
+191,AGRA,Bah,Gohra,KHERA RATHOR
+192,AGRA,Bah,Gonsili,GONSILI
+193,AGRA,Bah,Gopal Pura,GOPAL PURA
+194,AGRA,Bah,Gungawali,GUNGAWALI
+195,AGRA,Bah,Gurha,SIMRAHI
+196,AGRA,Bah,Hajarpura,LAKHANPUR KHALSA
+197,AGRA,Bah,Hatkani,PYARAMPURA
+198,AGRA,Bah,Hingot Khera,HINGOT KHERA
+199,AGRA,Bah,Holy Pura,PHARAIRI
+200,AGRA,Bah,Husainpura,HUSAINPURA
+201,AGRA,Bah,Indaini,VERI
+202,AGRA,Bah,Itaili,ITAILI
+203,AGRA,Bah,Jaitpura Kalan,JAITPURA KALAN
+204,AGRA,Bah,Jaitpur Khurd,UDAYPUR KHALSA
+205,AGRA,Bah,Jarar,JARAR
+206,AGRA,Bah,Jojalipura,SAMARAMAU
+207,AGRA,Bah,Kachhpura,NAHTOLI
+208,AGRA,Bah,Kachora Ghat,KACHORA GHAT
+209,AGRA,Bah,Kalinjar,KALINJAR
+210,AGRA,Bah,Kaliyanpur mafi,Bhartar
+211,AGRA,Bah,Kalyanpur,RAIPURA BHADORIYA
+212,AGRA,Bah,Kamalpura,SUJANPURA
+213,AGRA,Bah,Kamoni,KORATH
+214,AGRA,Bah,Kamtari,KAMTARI
+215,AGRA,Bah,Kanaharpura,UDHANNAPURA
+216,AGRA,Bah,Kanera,RAJPURA
+217,AGRA,Bah,Kankar Kheda,KANKAR KHEDA
+218,AGRA,Bah,Karanpura,KARANPURA
+219,AGRA,Bah,Karanpuri,RICHHAPURA
+220,AGRA,Bah,Karkoli,KARKOLI
+221,AGRA,Bah,Keelpura,MAHUA
+222,AGRA,Bah,Kenjra,KENJRA
+223,AGRA,Bah,Khajuhapura,CHAMRAUA
+224,AGRA,Bah,Kharagpura,VERI
+225,AGRA,Bah,Kharik,MUKUTPURA
+226,AGRA,Bah,Kheda Devidass,HINGOT KHERA
+227,AGRA,Bah,Khera Rathor,KHERA RATHOR
+228,AGRA,Bah,Kherdanda,KHERDANDA
+229,AGRA,Bah,Khetlipura,SAMARAMAU
+230,AGRA,Bah,Khicharpura,PAI
+231,AGRA,Bah,Khilawali,KHILAWALI
+232,AGRA,Bah,Khohri,KHOHRI
+233,AGRA,Bah,Khuliyapura,BITHONA
+234,AGRA,Bah,Kiyori,KIYORI
+235,AGRA,Bah,Kookapur,KOOKAPUR
+236,AGRA,Bah,Korath,KORATH
+237,AGRA,Bah,Kot,SUNSAR
+238,AGRA,Bah,Kukthari,KUKTHARI
+239,AGRA,Bah,Kunwar Kheda,KUNWAR KHEDA
+240,AGRA,Bah,Kwaari,KWAARI
+241,AGRA,Bah,Kyari,KYARI
+242,AGRA,Bah,Ladhavapura,LADHAVAPURA
+243,AGRA,Bah,Lakhanpura Jahageer,SUJANPURA
+244,AGRA,Bah,Lakhanpur Khalsa,LAKHANPUR KHALSA
+245,AGRA,Bah,Lalpura,SUTAHARI
+246,AGRA,Bah,Madhaya Jaisingh,AMAHI
+247,AGRA,Bah,Madhepura,MADHEPURA
+248,AGRA,Bah,Mahapur,BASAI ARELA
+249,AGRA,Bah,Mahua,MAHUA
+250,AGRA,Bah,Mai,MAI
+251,AGRA,Bah,Maloni,MALONI
+252,AGRA,Bah,Mangadpur,MANGADPUR
+253,AGRA,Bah,Manhgoli,KARKOLI
+254,AGRA,Bah,Manikpura,MANIKPURA
+255,AGRA,Bah,Manona,MANONA
+256,AGRA,Bah,Mansoorpura,SUNSAR
+257,AGRA,Bah,Mau,MAU
+258,AGRA,Bah,Midkoli,DODAPURA
+259,AGRA,Bah,Milik,KANKAR KHEDA
+260,AGRA,Bah,Mitaili,UDAYPUR KHALSA
+261,AGRA,Bah,Modidanda,AMAHI
+262,AGRA,Bah,Modipura,SUTAHARI
+263,AGRA,Bah,Mudiyapura,Mudiyapura
+264,AGRA,Bah,Mukutpura,MUKUTPURA
+265,AGRA,Bah,Nadgawan,NADGAWAN
+266,AGRA,Bah,Nagla Bachhgaiyan,SUJANPURA
+267,AGRA,Bah,Nagla Dalel,NAGLA DALEL
+268,AGRA,Bah,Nagla Ent,SUNSAR
+269,AGRA,Bah,Nagoo Pura,BITHOLI
+270,AGRA,Bah,Nagriya,BITHOLI
+271,AGRA,Bah,Nahtoli,NAHTOLI
+272,AGRA,Bah,Narholi,NARHOLI
+273,AGRA,Bah,Naugawan,NAUGAWAN
+274,AGRA,Bah,Nawali,GADHIA PRATAPPURA
+275,AGRA,Bah,Nayepura,NAYEPURA
+276,AGRA,Bah,Neemdanda,BICHOULA
+277,AGRA,Bah,Nonera,SAJAITI
+278,AGRA,Bah,Ondh,ONDH
+279,AGRA,Bah,Padkoli,Padkoli
+280,AGRA,Bah,Paharpura,PAHARPURA
+281,AGRA,Bah,Pahirjaura,RAJAURA
+282,AGRA,Bah,Pai,PAI
+283,AGRA,Bah,Paprinagar,PAPRINAGAR
+284,AGRA,Bah,Parana,PARANA
+285,AGRA,Bah,Parbatipura,PARBATIPURA
+286,AGRA,Bah,Pathakpura,SHAHAPUR BRAHAMAN
+287,AGRA,Bah,Pharaira,PHARAIRA
+288,AGRA,Bah,Pharairi,PHARAIRI
+289,AGRA,Bah,Pharaiyapura,PARBATIPURA
+290,AGRA,Bah,Pidhora,PIDHORA
+291,AGRA,Bah,Pratappura,Pratap Pura
+292,AGRA,Bah,Pundrikpura,UTSANA
+293,AGRA,Bah,Purabhagwan,GONSILI
+294,AGRA,Bah,Purakanera,VERI
+295,AGRA,Bah,Pyarampura,PYARAMPURA
+296,AGRA,Bah,Raipura Bhadoriya,RAIPURA BHADORIYA
+297,AGRA,Bah,Raipuradixit,BITHONA
+298,AGRA,Bah,Rajaura,RAJAURA
+299,AGRA,Bah,Rajpura,RAJPURA
+300,AGRA,Bah,Rampur Chandrasaini,RAMPUR CHANDRASAINI
+301,AGRA,Bah,Ranipura,SIMRAHI
+302,AGRA,Bah,Ratauti,RATAUTI
+303,AGRA,Bah,Reha,REHA
+304,AGRA,Bah,Renka,CHANGOLI
+305,AGRA,Bah,Richhapura,RICHHAPURA
+306,AGRA,Bah,Rithai,PIDHORA
+307,AGRA,Bah,Rooppura,ROOPPURA
+308,AGRA,Bah,Rudmuli,RUDMULI
+309,AGRA,Bah,Sabora,SABORA
+310,AGRA,Bah,Sajaiti,SAJAITI
+311,AGRA,Bah,Samaramau,SAMARAMAU
+312,AGRA,Bah,Sannpura,SANNPURA
+313,AGRA,Bah,Sarokhipura,MUKUTPURA
+314,AGRA,Bah,Seha,SEHA
+315,AGRA,Bah,Serab,SERAB
+316,AGRA,Bah,Shahapur Brahaman,SHAHAPUR BRAHAMAN
+317,AGRA,Bah,Shahapur Goojar,SHAHAPUR GOOJAR
+318,AGRA,Bah,Shahpur Khalsa,Shahpur Khalsa
+319,AGRA,Bah,Siahipura,GAJOURA
+320,AGRA,Bah,Sidhaoli,SIDHAOLI
+321,AGRA,Bah,Sihpura,SEHA
+322,AGRA,Bah,Sijwaripura,PYARAMPURA
+323,AGRA,Bah,Sikthara,SIKTHARA
+324,AGRA,Bah,Silpoli,VERI
+325,AGRA,Bah,Simrahi,SIMRAHI
+326,AGRA,Bah,Siyainch,Siyainch
+327,AGRA,Bah,Sujanpura,SUJANPURA
+328,AGRA,Bah,Sunsar,SUNSAR
+329,AGRA,Bah,Sutahari,SUTAHARI
+330,AGRA,Bah,Tarson,TARSON
+331,AGRA,Bah,Tasond,REHA
+332,AGRA,Bah,Tilupura,SUJANPURA
+333,AGRA,Bah,Torahpall,BASAI ARELA
+334,AGRA,Bah,Udaypur Kalan,UDAYPUR KALAN
+335,AGRA,Bah,Udaypur Khalsa,UDAYPUR KHALSA
+336,AGRA,Bah,Udaypur Khurd,KORATH
+337,AGRA,Bah,Udhannapura,UDHANNAPURA
+338,AGRA,Bah,Uganpura,BADAGAON
+339,AGRA,Bah,Umretha,UMRETHA
+340,AGRA,Bah,Utsana,UTSANA
+341,AGRA,Bah,Vankati,PYARAMPURA
+342,AGRA,Bah,Veri,VERI
+343,AGRA,Bah,Vijkoli,BATESHWAR
+344,AGRA,Bah,Vijoli,VIJOLI
+345,AGRA,Bah,Vikarampur,VIKARAMPUR
+346,AGRA,Bah,Vipraoli,VIPRAOLI
+347,AGRA,Bah,Vrishangpura,DERAK
+348,AGRA,Bah,Zebara,ZEBARA
+349,AGRA,Etmadpur,Agarpur,ANWAL KHERA
+350,AGRA,Etmadpur,Agwarkhas,AGWAR  KHAS
+351,AGRA,Etmadpur,Aharan,AHARAN
+352,AGRA,Etmadpur,Amanabad,AMANABAD
+353,AGRA,Etmadpur,Anwal Khera,ANWAL KHERA
+354,AGRA,Etmadpur,Arela,ARELA
+355,AGRA,Etmadpur,Bahrampur,BAHRAMPUR
+356,AGRA,Etmadpur,Bailoth,BAILOTH
+357,AGRA,Etmadpur,Baman,BAMAN
+358,AGRA,Etmadpur,Bandhanu,BANDHANU
+359,AGRA,Etmadpur,Barhan,BARHAN
+360,AGRA,Etmadpur,Benai,BENAI  KALAN
+361,AGRA,Etmadpur,Bhagupur,BHAGUPUR
+362,AGRA,Etmadpur,Bhikanpur Bakarpur,BHIKANPUR BAKARPUR
+363,AGRA,Etmadpur,Biharipur,Biharipur
+364,AGRA,Etmadpur,Biruni,BIRUNI
+365,AGRA,Etmadpur,Chamraula,SUJANPUR
+366,AGRA,Etmadpur,Chaoli,CHAOLI
+367,AGRA,Etmadpur,Chaugan,CHAUGAN
+368,AGRA,Etmadpur,Chaukra,CHAUKRA
+369,AGRA,Etmadpur,Chirhauli,CHIRHAULI
+370,AGRA,Etmadpur,Chuharpur,CHUHARPUR
+371,AGRA,Etmadpur,Dhangraoli (A.H.),CHAUKRA
+372,AGRA,Etmadpur,Dhangrauli Must,CHAUKRA
+373,AGRA,Etmadpur,Dharera,DHARERA
+374,AGRA,Etmadpur,Dhaurra,DHAURRA
+375,AGRA,Etmadpur,Dhorau,DHORAU
+376,AGRA,Etmadpur,Gadpura,DHORAU
+377,AGRA,Etmadpur,Gajauli (A.H.),GIJAULI  MUSTKIL
+378,AGRA,Etmadpur,Garhibachchi,GARHIBACHCHI
+379,AGRA,Etmadpur,Garhi Pirthi,NAGLA MANI
+380,AGRA,Etmadpur,Gijauli Must,GIJAULI  MUSTKIL
+381,AGRA,Etmadpur,Gurha,GURHA
+382,AGRA,Etmadpur,Hasan Jahanpur,SAIFUDDINPUR
+383,AGRA,Etmadpur,Hasanpur,HASANPUR
+384,AGRA,Etmadpur,Hasnabad,AMANABAD
+385,AGRA,Etmadpur,Hazipur Khera,HAZIPUR
+386,AGRA,Etmadpur,Jaganpur,SAIFUDDINPUR
+387,AGRA,Etmadpur,Jamalnagar Bhains,JAMALNAGAR BHAINS
+388,AGRA,Etmadpur,Jamnipur,KHERI ARU
+389,AGRA,Etmadpur,Jampur,JAMPUR
+390,AGRA,Etmadpur,Khanda,KHANDA
+391,AGRA,Etmadpur,Khandauli (CT),KHANDAULI
+392,AGRA,Etmadpur,Khandia,KHANDIA
+393,AGRA,Etmadpur,Kharagpur,KHANDIA
+394,AGRA,Etmadpur,Kharkana,kharkana
+395,AGRA,Etmadpur,Kheri Aru,KHERI ARU
+396,AGRA,Etmadpur,Kheriya Khandauli,KHERIYA KHANDAULI
+397,AGRA,Etmadpur,Kuberpur,KUBERPUR
+398,AGRA,Etmadpur,Kurgawan Khokar,KURGAWAN KHOKAR
+399,AGRA,Etmadpur,Lakhna Mai,LAKHNA MAI
+400,AGRA,Etmadpur,Madan Pur (A.H.),KUBERPUR
+401,AGRA,Etmadpur,Madan Pur Must,KUBERPUR
+402,AGRA,Etmadpur,Mahabatpur,MUKHWAR
+403,AGRA,Etmadpur,Malupur,MALUPUR
+404,AGRA,Etmadpur,Mitaoli,MITAOLI
+405,AGRA,Etmadpur,Mohisinabad,Mohisinabad
+406,AGRA,Etmadpur,Mubarkpur Nidhauli,CHUHARPUR
+407,AGRA,Etmadpur,Mukhwar,MUKHWAR
+408,AGRA,Etmadpur,Mundi Jahangirpur,MUNDI JAHANGIRPUR
+409,AGRA,Etmadpur,Murlidharpur,NAGLA PACHAURI
+410,AGRA,Etmadpur,Murthar Alipur,MURTHAR ALIPUR
+411,AGRA,Etmadpur,Nadau,NADAU
+412,AGRA,Etmadpur,Nagala Mahasingh,Nagala Mahasingh
+413,AGRA,Etmadpur,Nagla Bariamdan Jelesar,NAGLA BARI
+414,AGRA,Etmadpur,Nagla Beal,NAGLA BEAL
+415,AGRA,Etmadpur,Nagla gola,Nagla gola
+416,AGRA,Etmadpur,Nagla Kuwar Janubi,AHARAN
+417,AGRA,Etmadpur,Nagla Kuwar Shumali,AHARAN
+418,AGRA,Etmadpur,Nagla Mahasingh,KURGAWAN KHOKAR
+419,AGRA,Etmadpur,Nagla Mani,NAGLA MANI
+420,AGRA,Etmadpur,Nagla Nishankh,GARHIBACHCHI
+421,AGRA,Etmadpur,Nagla Pachauri,NAGLA PACHAURI
+422,AGRA,Etmadpur,Nagla Sarup,NAGLA SARUP
+423,AGRA,Etmadpur,Nagla Sirji,Nagla sirj
+424,AGRA,Etmadpur,Nagla Tulsi,NAGLA TULSI
+425,AGRA,Etmadpur,Naharra,NAHARRA
+426,AGRA,Etmadpur,Nawalpur,NAWAL PUR
+427,AGRA,Etmadpur,Nayabans,NAYABANS
+428,AGRA,Etmadpur,Nekpur,NEKPUR
+429,AGRA,Etmadpur,Pant Khara,PANT KHARA
+430,AGRA,Etmadpur,Parbatpur,PANT KHARA
+431,AGRA,Etmadpur,Parihar,PANT KHARA
+432,AGRA,Etmadpur,Pesai,PESAI
+433,AGRA,Etmadpur,Poiya,POIYA
+434,AGRA,Etmadpur,Rahan Kalan,RAHAN KALAN
+435,AGRA,Etmadpur,Rahan Khurd,RAHAN KALAN
+436,AGRA,Etmadpur,Raipur,RAIPUR
+437,AGRA,Etmadpur,Ramnagar Khandauli,RAMNAGAR KHANDAULI
+438,AGRA,Etmadpur,Rasulpur,RASULPUR
+439,AGRA,Etmadpur,Roopdhandu,ROOPDHANDU
+440,AGRA,Etmadpur,Saifuddinpur,SAIFUDDINPUR
+441,AGRA,Etmadpur,Sarai Day Ruppa,SARAI DAY RUPPA
+442,AGRA,Etmadpur,Sarai Jairam,SARAI JAIRAM
+443,AGRA,Etmadpur,SATAULI,SATAUL
+444,AGRA,Etmadpur,Semra,SEMRA
+445,AGRA,Etmadpur,Seora,SEORA
+446,AGRA,Etmadpur,Sherkhan,SHERKHAN
+447,AGRA,Etmadpur,Sihorgarh,CHUHARPUR
+448,AGRA,Etmadpur,Siktara,SIKTARA
+449,AGRA,Etmadpur,Sorai,SORAI
+450,AGRA,Etmadpur,Sujanpur,SUJANPUR
+451,AGRA,Etmadpur,Surehra Ahatmali,SUREHRA (MUST.)
+452,AGRA,Etmadpur,Surehra (Must.),SUREHRA (MUST.)
+453,AGRA,Etmadpur,Swain,SAWAI
+454,AGRA,Etmadpur,Talab Buriya,DHARERA
+455,AGRA,Etmadpur,Tamanchgarh,TAMACHGARH
+456,AGRA,Etmadpur,Tehu,TEHU
+457,AGRA,Etmadpur,Ujrai,UJRAI
+458,AGRA,Etmadpur,Uncha,UNCHA
+459,AGRA,Etmadpur,Usmanpur,USMANPUR
+460,AGRA,Etmadpur,Yusufpur,YUSUFPUR
+461,AGRA,Fatehabad,Aie,AIE
+462,AGRA,Fatehabad,Alampur,SALEMPUR GHANKAR
+463,AGRA,Fatehabad,Arrji Paliya,ARRJI PALIYA
+464,AGRA,Fatehabad,Babarpur,MITHPURA
+465,AGRA,Fatehabad,Bakalpur,BAKALPUR
+466,AGRA,Fatehabad,Bamrauli,BAMRAULI
+467,AGRA,Fatehabad,Banguri,BANGURI
+468,AGRA,Fatehabad,Baripura,SIKRARA
+469,AGRA,Fatehabad,Barna,BARNA
+470,AGRA,Fatehabad,Barobara Kalan,BAROBARA KALAN
+471,AGRA,Fatehabad,Barobara Khurd,BAROBARA KHURD
+472,AGRA,Fatehabad,Basai,BASAI
+473,AGRA,Fatehabad,Begampur,BEGAMPUR
+474,AGRA,Fatehabad,Behri,Behri
+475,AGRA,Fatehabad,Bhadaura,NAGAR
+476,AGRA,Fatehabad,Bhalokhara,BHALOKHARA
+477,AGRA,Fatehabad,Bhanpura,BHANPURA
+478,AGRA,Fatehabad,Bharapur,BHARAPUR
+479,AGRA,Fatehabad,Bhikanpur,BHIKANPUR
+480,AGRA,Fatehabad,Bhogpur,RAMGARH
+481,AGRA,Fatehabad,Bichola,BICHOLA
+482,AGRA,Fatehabad,Bidrai,PENTI KHERA
+483,AGRA,Fatehabad,Bihari,BIHARI
+484,AGRA,Fatehabad,Biloni,BILONI
+485,AGRA,Fatehabad,Bilpura,BILPURA
+486,AGRA,Fatehabad,Bisauri Gaurwa,BISAURI GAURWA
+487,AGRA,Fatehabad,Chamrauli,CHAMRAULI
+488,AGRA,Fatehabad,Chitaura,CHITAURA
+489,AGRA,Fatehabad,Dabari,DABARI
+490,AGRA,Fatehabad,Dauki,DAUKI
+491,AGRA,Fatehabad,Dhanaula Kalan,DHANAULA KALAN
+492,AGRA,Fatehabad,Dhanaula Khurd,DHANAULA KALAN
+493,AGRA,Fatehabad,Dhaurra,Dhaurra
+494,AGRA,Fatehabad,Dhimsiri,DHIMSIRI
+495,AGRA,Fatehabad,Etmadpur Ajnera,ETMADPUR AJNERA
+496,AGRA,Fatehabad,Fatehabad Rural,Fatehabad Rural
+497,AGRA,Fatehabad,Gadhi Shripati,LAHARA
+498,AGRA,Fatehabad,Gadoli Kalan,GADOLI  KALAN
+499,AGRA,Fatehabad,Gangaura,GARI DARYAB
+500,AGRA,Fatehabad,Garhi Dariyab,GARI DARYAB
+501,AGRA,Fatehabad,Garhi Udairaj,GARHI UDAIRAJ
+502,AGRA,Fatehabad,Ghaghpura,SALEMPUR MURIA
+503,AGRA,Fatehabad,Gidron,BHARAPUR
+504,AGRA,Fatehabad,Gubrari,GUBRARI
+505,AGRA,Fatehabad,Gubrauth,GUBRAUTH
+506,AGRA,Fatehabad,Gurha,GURHA
+507,AGRA,Fatehabad,Himayunpur Edoin,HIMAYUNPUR EDOIN
+508,AGRA,Fatehabad,Himayunpur Rohai,HIMAYUNPUR ROHAI
+509,AGRA,Fatehabad,Hirner Newadakhera,HIRNER NAWADAKHERA
+510,AGRA,Fatehabad,Humayonpur Gujar,HUMAYONPUR GUJAR
+511,AGRA,Fatehabad,Inayatpur,INAYATPUR
+512,AGRA,Fatehabad,Indon,HIMAYUNPUR EDOIN
+513,AGRA,Fatehabad,Isauli,ISAULI
+514,AGRA,Fatehabad,Jagraj Pura,JAGRAJ PURA
+515,AGRA,Fatehabad,Jalalpur,MAHRA CHAUDHRI
+516,AGRA,Fatehabad,Jarari,JARARI
+517,AGRA,Fatehabad,Jarauli,JARAULI
+518,AGRA,Fatehabad,Jatpura,JATPURA
+519,AGRA,Fatehabad,Jawaharpur,BIHARI
+520,AGRA,Fatehabad,Kalayan Pur,KALAYAN PUR
+521,AGRA,Fatehabad,Kanharpura,KANHARPURA
+522,AGRA,Fatehabad,Karaudhna,KARAUDHNA
+523,AGRA,Fatehabad,Khandar,KHANDAR
+524,AGRA,Fatehabad,Khera Jawahar,BHALOKHARA
+525,AGRA,Fatehabad,Kolara Kalan,KOLARA KALAN
+526,AGRA,Fatehabad,Kolara Khurd,KOLARA KHURD
+527,AGRA,Fatehabad,Kolari,KOLARI
+528,AGRA,Fatehabad,Koomppura,Koomppura
+529,AGRA,Fatehabad,Krapal Pura,PALIYA
+530,AGRA,Fatehabad,Kurra Chitterpur,KURRA CHITTERPUR
+531,AGRA,Fatehabad,Kutabpur Gujar,BEGAMPUR
+532,AGRA,Fatehabad,Lahara,LAHARA
+533,AGRA,Fatehabad,Lahar Patti,LAHAR PATTI
+534,AGRA,Fatehabad,Lakhanpur,SEWALA GORAWA
+535,AGRA,Fatehabad,Lakhurani,LAKHURANI
+536,AGRA,Fatehabad,Lohari Iradatnagar,LOHARI IRADATNAGAR
+537,AGRA,Fatehabad,Loheta,LOHETA
+538,AGRA,Fatehabad,Maharajpur,MAHARAJPUR
+539,AGRA,Fatehabad,Maharampur,MAHARAMPUR
+540,AGRA,Fatehabad,Mahra Chaudhri,MAHRA CHAUDHRI
+541,AGRA,Fatehabad,Maraina,MARAINA
+542,AGRA,Fatehabad,Mewali Kalan,MEWALI KALAN
+543,AGRA,Fatehabad,Mewali Khurd,MEWALI KHURD
+544,AGRA,Fatehabad,Mirpur,MIRPUR
+545,AGRA,Fatehabad,Mithpura,MITHPURA
+546,AGRA,Fatehabad,Mohammadpur,MOHAMMADPUR
+547,AGRA,Fatehabad,Mubarikpur,MUBARIKPUR
+548,AGRA,Fatehabad,Murawal,MURAWAL
+549,AGRA,Fatehabad,Musepura,MUSEPURA
+550,AGRA,Fatehabad,Mutawai,MUTAWAI
+551,AGRA,Fatehabad,Mutnai,MUTNAI
+552,AGRA,Fatehabad,Muzaffarpur,MUZAFFARPUR
+553,AGRA,Fatehabad,Nagar,NAGAR
+554,AGRA,Fatehabad,Nagar Chand,NAGAR CHAND
+555,AGRA,Fatehabad,Nagariya,NAGARIYA
+556,AGRA,Fatehabad,Nagla Bhikki,NAGLA BHIKKI
+557,AGRA,Fatehabad,Nagla Dhir,NAGLA DHIR
+558,AGRA,Fatehabad,Nagla Haji,NAGLA HAJI
+559,AGRA,Fatehabad,Nagla Lohiya,UJHAOLI
+560,AGRA,Fatehabad,Nagla Mawai,NAGLA MAWAI
+561,AGRA,Fatehabad,Nagla Patam,NAGLA PATAM
+562,AGRA,Fatehabad,Nagla Shadhi,BAROBARA KALAN
+563,AGRA,Fatehabad,Naugawan,JARARI
+564,AGRA,Fatehabad,Nibohra,NIBOHRA
+565,AGRA,Fatehabad,Nichakhera,NICHAKHERA
+566,AGRA,Fatehabad,Nisk Patti Jarauli,JARAULI
+567,AGRA,Fatehabad,Paliya,PALIYA
+568,AGRA,Fatehabad,Paroli Sikarwar,PAROLI SIKARWAR
+569,AGRA,Fatehabad,Patharkot,BILPURA
+570,AGRA,Fatehabad,Patti Akilkhan,SARANGPUR
+571,AGRA,Fatehabad,Patti Bhanpura,BHANPURA
+572,AGRA,Fatehabad,Patti Mirpur,PATTI SHAIKHUPUR
+573,AGRA,Fatehabad,Patti Muzaffarpur,MUZAFFARPUR
+574,AGRA,Fatehabad,Patti Shaikhupur,PATTI SHAIKHUPUR
+575,AGRA,Fatehabad,Patti Siktara,SIKRARA
+576,AGRA,Fatehabad,Pauser,PAUSER
+577,AGRA,Fatehabad,Penti Khera,PENTI KHERA
+578,AGRA,Fatehabad,Phulpur,PHULPUR
+579,AGRA,Fatehabad,Pratap Pura,PRATAP PURA
+580,AGRA,Fatehabad,Qutubpur Gola,BHIKANPUR
+581,AGRA,Fatehabad,Qutubpur Rohai,QUTUBPUR ROHAI
+582,AGRA,Fatehabad,Raipura,MAHARAJPUR
+583,AGRA,Fatehabad,Ramgarh,RAMGARH
+584,AGRA,Fatehabad,Rampura,RAMPURA
+585,AGRA,Fatehabad,Ran Pura,RAN PURA
+586,AGRA,Fatehabad,Rasulpur,RASULPUR
+587,AGRA,Fatehabad,Rihauli,RIHAULI
+588,AGRA,Fatehabad,Rohai Khas,ROHAI KHAS
+589,AGRA,Fatehabad,Ruppur,RUPPUR
+590,AGRA,Fatehabad,Saidpur,BIHARI
+591,AGRA,Fatehabad,Salempur Ghankar,SALEMPUR GHANKAR
+592,AGRA,Fatehabad,Salempur Muria,SALEMPUR MURIA
+593,AGRA,Fatehabad,Sankuri Kalan,SANKURI KALAN
+594,AGRA,Fatehabad,Sankuri Khurd,Sankuri khurd
+595,AGRA,Fatehabad,Sarangpur,SARANGPUR
+596,AGRA,Fatehabad,Seola Ahir,SANKURI KALAN
+597,AGRA,Fatehabad,Seola Gaurwa,SEWALA GORAWA
+598,AGRA,Fatehabad,Shahidpur,NAGLA HAJI
+599,AGRA,Fatehabad,Shahpur Toola,SHAHPUR TOOLA
+600,AGRA,Fatehabad,Shahved,SHAHVED
+601,AGRA,Fatehabad,Shamshabad,PATTI SHAIKHUPUR
+602,AGRA,Fatehabad,Shekhupur,SHEKHUPUR
+603,AGRA,Fatehabad,Sikrara,SIKRARA
+604,AGRA,Fatehabad,Siktara,SIKTARA
+605,AGRA,Fatehabad,Silauli,Silauli
+606,AGRA,Fatehabad,Singaicha,SINGAICHA
+607,AGRA,Fatehabad,Sudhrai,SUDHRAI
+608,AGRA,Fatehabad,Surajpura,Surajpura
+609,AGRA,Fatehabad,Swara,SWARA
+610,AGRA,Fatehabad,Tarauli Gujar,TARAULI GUJAR
+611,AGRA,Fatehabad,Tas Pura,RAN PURA
+612,AGRA,Fatehabad,Thana Shankar Dwari,THANA SHANKAR DWARI
+613,AGRA,Fatehabad,Thap Khargh,THAP KHARGH
+614,AGRA,Fatehabad,Thap Mahadwari,THAP MAHADWARI
+615,AGRA,Fatehabad,Therai,THERAI
+616,AGRA,Fatehabad,Tiwaha,TIWAHA
+617,AGRA,Fatehabad,Tondra,TONDRA
+618,AGRA,Fatehabad,Tor,Tor
+619,AGRA,Fatehabad,Ujhaoli,UJHAOLI
+620,AGRA,Fatehabad,Uncha,UNCHA
+621,AGRA,Fatehabad,Usara,USARA GADI
+622,AGRA,Fatehabad,Wazidpur,WAZIDPUR
+623,AGRA,Kheragarh,Ata,ATA
+624,AGRA,Kheragarh,Aurangpur,AURANGPUR
+625,AGRA,Kheragarh,Ayela,AYELA
+626,AGRA,Kheragarh,Babarpur,GOHARRA
+627,AGRA,Kheragarh,Baghour,BAGHOUR
+628,AGRA,Kheragarh,Bakalpur,BAKALPUR
+629,AGRA,Kheragarh,Bamnai Kalan,BAMNAI KALAN
+630,AGRA,Kheragarh,Bamnai Khurd,BAMNAI KALAN
+631,AGRA,Kheragarh,Bargawan Buzurg,BARGAWAN BUZURG
+632,AGRA,Kheragarh,Bargawan Khurd,BARIGWAMA KHURD
+633,AGRA,Kheragarh,Basai Jagner,BASAI JAGNER
+634,AGRA,Kheragarh,Basai Kalan,BASAI KALAN
+635,AGRA,Kheragarh,Basai Kheragarh,BASAI KHERAGARH
+636,AGRA,Kheragarh,Basai Khurd,BASAI KALAN
+637,AGRA,Kheragarh,Bazidpur,BAZIDPUR
+638,AGRA,Kheragarh,Beesalpur,BEESALPUR
+639,AGRA,Kheragarh,Beri Chahar,BERI CHAHAR
+640,AGRA,Kheragarh,Bhaker,BHAKER
+641,AGRA,Kheragarh,Bhara,BHARA
+642,AGRA,Kheragarh,Bhawanpura,Bhawanpura
+643,AGRA,Kheragarh,Bhenson,BHENSON
+644,AGRA,Kheragarh,BHILAWALI,BHILAWALI
+645,AGRA,Kheragarh,Bhojpur,BAKALPUR
+646,AGRA,Kheragarh,Bhopur Jagner,BAZIDPUR
+647,AGRA,Kheragarh,Bhopur Kheragarh,ATA
+648,AGRA,Kheragarh,Bidhauli Kheragarh,BIDHAULI KHERAGARH
+649,AGRA,Kheragarh,Bidhouli Jagner,BIDHOULI JAGNER
+650,AGRA,Kheragarh,Biraharu,BIRAHARU
+651,AGRA,Kheragarh,Birai,BIRAI
+652,AGRA,Kheragarh,Bisahara,BISAHARA
+653,AGRA,Kheragarh,Bishrampur,BISHRAMPUR
+654,AGRA,Kheragarh,Brithala,BRITHALA
+655,AGRA,Kheragarh,Burhera,BURHERA
+656,AGRA,Kheragarh,Chachond,chachond
+657,AGRA,Kheragarh,Chandi,SALAHNAGAR BARBAR
+658,AGRA,Kheragarh,Chandsora,CHANDSORA
+659,AGRA,Kheragarh,Cheet,CHEET
+660,AGRA,Kheragarh,Cheetpur,BISHRAMPUR
+661,AGRA,Kheragarh,Chhattapura,Mangalpur Bantara
+662,AGRA,Kheragarh,Chhitapur Nagla Birai,TAHARPUR
+663,AGRA,Kheragarh,Chitapur Motipura,CHITAPUR MOTIPURA
+664,AGRA,Kheragarh,Dahgawan,DAHGAWAN
+665,AGRA,Kheragarh,Danda,DANDA
+666,AGRA,Kheragarh,Dankasa,DANKASA
+667,AGRA,Kheragarh,Darki,Darki
+668,AGRA,Kheragarh,Deori,JALALPUR
+669,AGRA,Kheragarh,Dhanina,DHANINA
+670,AGRA,Kheragarh,Digrauta,DIGRAUTA
+671,AGRA,Kheragarh,Dungarwala,DUNGARWALA
+672,AGRA,Kheragarh,Garhi Ahir,PACHMORI
+673,AGRA,Kheragarh,Garhi Karimpur,Garhi Karimpur
+674,AGRA,Kheragarh,Garsan,GARSAN
+675,AGRA,Kheragarh,Ghaskata,GHASKATA
+676,AGRA,Kheragarh,Ghusiana,GHUSIANA
+677,AGRA,Kheragarh,Goharra,GOHARRA
+678,AGRA,Kheragarh,Gorau,GORAU
+679,AGRA,Kheragarh,Gugawand,GUGAWAND
+680,AGRA,Kheragarh,Gulabganj,BHARA
+681,AGRA,Kheragarh,Hironda,HIRONDA
+682,AGRA,Kheragarh,Iradat Nagar,IRADAT NAGAR
+683,AGRA,Kheragarh,Jagner-Dehat,JALALPUR
+684,AGRA,Kheragarh,Jajau,JAJAU
+685,AGRA,Kheragarh,Jalalpur,JALALPUR
+686,AGRA,Kheragarh,Jheetpura,NAGLA VIRBHAN
+687,AGRA,Kheragarh,Jonai,JONAI
+688,AGRA,Kheragarh,Kagarol,KAGAROL
+689,AGRA,Kheragarh,Karhaki,BASAI JAGNER
+690,AGRA,Kheragarh,Kathumari,Kathumari
+691,AGRA,Kheragarh,Kentholi,LAKHANPURA
+692,AGRA,Kheragarh,Khankara,BAMNAI KALAN
+693,AGRA,Kheragarh,Khanpur,KHANPUR
+694,AGRA,Kheragarh,Khedia,KHEDIA
+695,AGRA,Kheragarh,Kheragarh Dehat,SITOULI
+696,AGRA,Kheragarh,Khohara,NAUNI
+697,AGRA,Kheragarh,Kondari,SONI KHERA
+698,AGRA,Kheragarh,Kukandai,DUNGARWALA
+699,AGRA,Kheragarh,Kukawar,KUKAWAR
+700,AGRA,Kheragarh,Kulhara,KULHARA
+701,AGRA,Kheragarh,Ladukhera,LADUKHERA
+702,AGRA,Kheragarh,Lahchora,LAHCHORA
+703,AGRA,Kheragarh,Lakhanpura,LAKHANPURA
+704,AGRA,Kheragarh,Lalpur,LALPUR
+705,AGRA,Kheragarh,Mahao,MAHAO
+706,AGRA,Kheragarh,Mahdewa,MAHDEWA
+707,AGRA,Kheragarh,Mahua Khera,MAHUA KHERA
+708,AGRA,Kheragarh,Mai,SILOKHAR
+709,AGRA,Kheragarh,Mangalpur Bantara,Mangalpur Bantara
+710,AGRA,Kheragarh,Meola,MEOLI
+711,AGRA,Kheragarh,Meoli,MEOLI
+712,AGRA,Kheragarh,Mihawa,MIHAWA
+713,AGRA,Kheragarh,Mohanpur,Mohanpur
+714,AGRA,Kheragarh,Motipura,MIHAWA
+715,AGRA,Kheragarh,Mukhrai,MUKHRAI
+716,AGRA,Kheragarh,Murkia,MURKIA
+717,AGRA,Kheragarh,Nadim,NADIM
+718,AGRA,Kheragarh,Nagla Duleh Khan,NAGLA DULEH KHAN
+719,AGRA,Kheragarh,Nagla Inami,NAGLA INAMI
+720,AGRA,Kheragarh,Nagla Kasimpur,NAGLA KASIMPUR
+721,AGRA,Kheragarh,Nagla Kisana,BAZIDPUR
+722,AGRA,Kheragarh,Nagla Mohare,NAGLA MOHARE
+723,AGRA,Kheragarh,Nagla Virbhan,NAGLA VIRBHAN
+724,AGRA,Kheragarh,Nasaua,BASAI JAGNER
+725,AGRA,Kheragarh,Nauni,NAUNI
+726,AGRA,Kheragarh,Nayagaon,NAYAGAON
+727,AGRA,Kheragarh,Nimena,NIMENA
+728,AGRA,Kheragarh,Noharika,RAGHUPURA
+729,AGRA,Kheragarh,Pachmori,PACHMORI
+730,AGRA,Kheragarh,Pahari Kalan,PAHADI KALAN
+731,AGRA,Kheragarh,Pahari Khurd,BIDHAULI KHERAGARH
+732,AGRA,Kheragarh,Pai Ghusiyan,KULHARA
+733,AGRA,Kheragarh,Pairatia,LALPUR
+734,AGRA,Kheragarh,Panota,PANOTA
+735,AGRA,Kheragarh,Patparganj,NAGLA DULEH KHAN
+736,AGRA,Kheragarh,Pipretha,PIPRETHA
+737,AGRA,Kheragarh,Pusenta,PUSENTA
+738,AGRA,Kheragarh,Raghupura,RAGHUPURA
+739,AGRA,Kheragarh,Rahalai,RAHALAI
+740,AGRA,Kheragarh,Rajpura,RAJPURA
+741,AGRA,Kheragarh,Rasulpur,RASULPUR
+742,AGRA,Kheragarh,Richhoha,RICHHOHA
+743,AGRA,Kheragarh,Rithori,RITHORI
+744,AGRA,Kheragarh,Roodhau,Roodhau
+745,AGRA,Kheragarh,Sadupura,THAPENRA
+746,AGRA,Kheragarh,Saiyan,SAIYAN
+747,AGRA,Kheragarh,Salahnagar Barbar,SALAHNAGAR BARBAR
+748,AGRA,Kheragarh,Santhan,DUNGARWALA
+749,AGRA,Kheragarh,Sarai Ahmad,BARIGWAMA KHURD
+750,AGRA,Kheragarh,Sarenda,SARENDA
+751,AGRA,Kheragarh,Sarendhi,SARENDHI
+752,AGRA,Kheragarh,Sekhpur Nagla,PANOTA
+753,AGRA,Kheragarh,Shahganj,SINGRAWALI
+754,AGRA,Kheragarh,Shahpur Jagner,BARGAWAN BUZURG
+755,AGRA,Kheragarh,Shahpur Nadim,Shahpur Nadim
+756,AGRA,Kheragarh,Shahpur Rakauli,SOUN
+757,AGRA,Kheragarh,Sherpur,sherpur
+758,AGRA,Kheragarh,Siarmau,SIARMAU
+759,AGRA,Kheragarh,Sikandar Pur,SIKANDAR PUR
+760,AGRA,Kheragarh,Silokhar,SILOKHAR
+761,AGRA,Kheragarh,Singaicha,SINGAICHA
+762,AGRA,Kheragarh,Singrawali,SINGRAWALI
+763,AGRA,Kheragarh,Sitouli,SITOULI
+764,AGRA,Kheragarh,Soni Khera,SONI KHERA
+765,AGRA,Kheragarh,Sonra,SONRA
+766,AGRA,Kheragarh,Soun,SOUN
+767,AGRA,Kheragarh,Syial Pahari,MEOLI
+768,AGRA,Kheragarh,Taharpur,TAHARPUR
+769,AGRA,Kheragarh,Tantpur,TANTPUR
+770,AGRA,Kheragarh,Tarhat,RICHHOHA
+771,AGRA,Kheragarh,Tehra,TEHRA
+772,AGRA,Kheragarh,Thansera,BAZIDPUR
+773,AGRA,Kheragarh,Thapenra,THAPENRA
+774,AGRA,Kheragarh,Udena,UDENA
+775,AGRA,Kheragarh,Untgiri,UNTGIRI
+776,AGRA,Kheragarh,Usarra,PIPRETHA
+777,AGRA,Kiraoli,Abhaudopura,ABHAUDOPURA
+778,AGRA,Kiraoli,Akabara,AKABARA
+779,AGRA,Kiraoli,Akhbai,AKHBAI
+780,AGRA,Kiraoli,Anganpur,Anganpur
+781,AGRA,Kiraoli,Ardaya,ARDAYA
+782,AGRA,Kiraoli,Arhera,ARHERA
+783,AGRA,Kiraoli,Arrua Khas,ARRUA KHAS
+784,AGRA,Kiraoli,Arsena,ARSENA
+785,AGRA,Kiraoli,Atus,ATUS
+786,AGRA,Kiraoli,Aulenda,AULENDA
+787,AGRA,Kiraoli,Babrod,BABROD
+788,AGRA,Kiraoli,Badanpur Barnabai,BADANPUR BARNABAI
+789,AGRA,Kiraoli,Baha,BAGHA SONIGA
+790,AGRA,Kiraoli,Baharabati Khas,SINGARPUR
+791,AGRA,Kiraoli,Bajidpura,ROJAULI
+792,AGRA,Kiraoli,Bakanda Khas,KHERA BAKANDA
+793,AGRA,Kiraoli,Baman,BAMAN
+794,AGRA,Kiraoli,Bamanpura,CHAINKORA
+795,AGRA,Kiraoli,Bandrauli,Badrauli
+796,AGRA,Kiraoli,Banpur,BANPUR
+797,AGRA,Kiraoli,Barauli,BARAULI
+798,AGRA,Kiraoli,Baroda Sadar,BARODA SADAR
+799,AGRA,Kiraoli,Basaia Raimol,BASAIA RAIMOL
+800,AGRA,Kiraoli,Basaia Rajput,Basaia Rajput
+801,AGRA,Kiraoli,Basai Bobla,BASAI BOBLA
+802,AGRA,Kiraoli,Basarai Chahar,BASARAI CHAHAR
+803,AGRA,Kiraoli,Basari Sikandar,DAULTABAD
+804,AGRA,Kiraoli,Baseri Kazi,BASERI KAZI
+805,AGRA,Kiraoli,Basia Jotiraj,BASIA JOTIRAJ
+806,AGRA,Kiraoli,Bastai,BASTAI
+807,AGRA,Kiraoli,Bhandiri,Bhandiri
+808,AGRA,Kiraoli,Bharhkol,BHARHKOL
+809,AGRA,Kiraoli,Bhilawati,BHILAWATI
+810,AGRA,Kiraoli,Bho Pur,BHO PUR
+811,AGRA,Kiraoli,Biara,BIARA
+812,AGRA,Kiraoli,Bidhapur,BIDHAPUR
+813,AGRA,Kiraoli,Chainkora,CHAINKORA
+814,AGRA,Kiraoli,Chauma Farah,SINGMA
+815,AGRA,Kiraoli,Chauma Shahpur,CHAUMA SHAHPUR
+816,AGRA,Kiraoli,Chha Pokhar,CHHAE POKHAR
+817,AGRA,Kiraoli,Churiyari,CHURIYARI
+818,AGRA,Kiraoli,Dabar,DABAR
+819,AGRA,Kiraoli,Dadukara,CHURIYARI
+820,AGRA,Kiraoli,Dadupura,MAI BUJURG
+821,AGRA,Kiraoli,Daudpur,DAUDPUR
+822,AGRA,Kiraoli,Daultabad,DAULTABAD
+823,AGRA,Kiraoli,Davli,DAVLI
+824,AGRA,Kiraoli,Deonari,DEONARI
+825,AGRA,Kiraoli,Deorentha,DEORENTHA
+826,AGRA,Kiraoli,Dhanoli,DHANOLI
+827,AGRA,Kiraoli,Didhwar,DIDHWAR
+828,AGRA,Kiraoli,Doora,DOORA
+829,AGRA,Kiraoli,Dulhara,DULHARA
+830,AGRA,Kiraoli,Fatehpura,FATEHPURA
+831,AGRA,Kiraoli,Gadi Candarman,GADI CANDARMAN
+832,AGRA,Kiraoli,Gahara Kalan,GAHARA KALAN
+833,AGRA,Kiraoli,Gahara Khurd,GAHARA KHURD
+834,AGRA,Kiraoli,Garhima,GARHIMA
+835,AGRA,Kiraoli,Ghiloy,KARAHI
+836,AGRA,Kiraoli,Ghorali,DAUDPUR
+837,AGRA,Kiraoli,Gobra,GOBRA
+838,AGRA,Kiraoli,Gopau,GOPAU
+839,AGRA,Kiraoli,Gothara,GOTHARA
+840,AGRA,Kiraoli,Gujarpura,Gujarpura
+841,AGRA,Kiraoli,Gurha,KHERA BAKANDA
+842,AGRA,Kiraoli,Gurki Mandi,GURKI MANDI
+843,AGRA,Kiraoli,Hansela,HANSELA
+844,AGRA,Kiraoli,Hanspura,NAGLA MANGOLI
+845,AGRA,Kiraoli,Ikram Nagar,IKRAM NAGAR
+846,AGRA,Kiraoli,Imlabada,BASERI KAZI
+847,AGRA,Kiraoli,Jahanpur,JAHANPUR
+848,AGRA,Kiraoli,Jain Gara,JAIN GARA
+849,AGRA,Kiraoli,Jajauli,JAJAULI
+850,AGRA,Kiraoli,Jajav,JAJAU
+851,AGRA,Kiraoli,Jakha,MAHUAR
+852,AGRA,Kiraoli,Janutha,JANUTHA
+853,AGRA,Kiraoli,Jautana,JAUTANA
+854,AGRA,Kiraoli,Jharoti,JHAROTI
+855,AGRA,Kiraoli,Jitora,Jitora
+856,AGRA,Kiraoli,Jugsana,SINGMA
+857,AGRA,Kiraoli,Kachaura,KACHAURA
+858,AGRA,Kiraoli,Kandau Barau,MAI BUJURG
+859,AGRA,Kiraoli,Karahara,KARAHARA
+860,AGRA,Kiraoli,Karahi,KARAHI
+861,AGRA,Kiraoli,Kasoti,MAI
+862,AGRA,Kiraoli,Kathawari,KATHAWARI
+863,AGRA,Kiraoli,Khanpur Nithari,MANDOLI
+864,AGRA,Kiraoli,Kharbai,KHARBAI
+865,AGRA,Kiraoli,Khera Bakanda,KHERA BAKANDA
+866,AGRA,Kiraoli,Khera Jat,KHERA JAT
+867,AGRA,Kiraoli,Khera Sadhan,KHERA SADHAN
+868,AGRA,Kiraoli,Kheria,KHERIA
+869,AGRA,Kiraoli,Kitham,KITHAM
+870,AGRA,Kiraoli,Korai,KORAI
+871,AGRA,Kiraoli,Kukathala,KUKATHALA
+872,AGRA,Kiraoli,Loh Karera,LOH KARERA
+873,AGRA,Kiraoli,Mahdav,MAHDAV
+874,AGRA,Kiraoli,Mahuar,MAHUAR
+875,AGRA,Kiraoli,Mai,MAI
+876,AGRA,Kiraoli,Mai Bujurg,MAI BUJURG
+877,AGRA,Kiraoli,Malikpur,MALIKPUR
+878,AGRA,Kiraoli,Mandi Mirza Khan,MANDI MIRZA KHAN
+879,AGRA,Kiraoli,Mandoli,MANDOLI
+880,AGRA,Kiraoli,Mangarol Gujar,MANGAROL GUJAR
+881,AGRA,Kiraoli,Mangaroli Jat,MANGAROLI JAT
+882,AGRA,Kiraoli,Mangoli Kalan,NAGLA MANGOLI
+883,AGRA,Kiraoli,Mangoli Khurd,NAGLA MANGOLI
+884,AGRA,Kiraoli,Mangura,MANGURA
+885,AGRA,Kiraoli,Maniyan,MANIYAN
+886,AGRA,Kiraoli,Mohammadpur,SAHANPUR
+887,AGRA,Kiraoli,Mori,BARAULI
+888,AGRA,Kiraoli,Mubarikpur,MUBARIKPUR
+889,AGRA,Kiraoli,Muranda,MURANDA
+890,AGRA,Kiraoli,Nagar,NAGAR
+891,AGRA,Kiraoli,Nagirpura,SIKRI HISSA IV
+892,AGRA,Kiraoli,Nagla Arua,NAGLA ARUA
+893,AGRA,Kiraoli,Nagla Baharwati,NAGLA BAHARWATI
+894,AGRA,Kiraoli,Nagla Mangoli,NAGLA MANGOLI
+895,AGRA,Kiraoli,Nagla Sarai,NAGLA SARAI
+896,AGRA,Kiraoli,Nagla Sikarwar,NAGLA SIKARWAR
+897,AGRA,Kiraoli,Nahchani,NAHCHANI
+898,AGRA,Kiraoli,Nanau,MAI
+899,AGRA,Kiraoli,Naraul,Naraul
+900,AGRA,Kiraoli,Naya Bass,DAULTABAD
+901,AGRA,Kiraoli,Ninbaya,NINBAYA
+902,AGRA,Kiraoli,Nurpur,GURKI MANDI
+903,AGRA,Kiraoli,Pali Kiraoli,PALI KIRAOLI
+904,AGRA,Kiraoli,Pali Sadar,MAHUAR
+905,AGRA,Kiraoli,Panchakki,GOTHARA
+906,AGRA,Kiraoli,Panwari,PANWARI
+907,AGRA,Kiraoli,Patsal,PATSAL
+908,AGRA,Kiraoli,Puramana,PURAMANA
+909,AGRA,Kiraoli,Raibha,RAIBHA
+910,AGRA,Kiraoli,Raipura Ahir,RAIPURA AHIR
+911,AGRA,Kiraoli,Rampur,BABROD
+912,AGRA,Kiraoli,Rasulpur Kiraoli,RASULPUR KIRAOLI
+913,AGRA,Kiraoli,Rasulpur Sadar,SEHTA
+914,AGRA,Kiraoli,Rithaura,AKHBAI
+915,AGRA,Kiraoli,Rojauli,ROJAULI
+916,AGRA,Kiraoli,Runkata (CT),RUNKATA
+917,AGRA,Kiraoli,Sagunapur,Sagunapur
+918,AGRA,Kiraoli,Sahanpur,SAHANPUR
+919,AGRA,Kiraoli,Sahri,SAHAI
+920,AGRA,Kiraoli,Sakatpur,SAKATPUR
+921,AGRA,Kiraoli,Salemabad,SALEMABAD
+922,AGRA,Kiraoli,Samara,SAMARA
+923,AGRA,Kiraoli,Sandhan,SANDHAN
+924,AGRA,Kiraoli,Santha,SANTHA
+925,AGRA,Kiraoli,Sarsa,SARSA
+926,AGRA,Kiraoli,Sehta,SEHTA
+927,AGRA,Kiraoli,Sika Rauda,SIKA RAUDA
+928,AGRA,Kiraoli,Sikari Hissa Ii,SIKRI HISSA IV
+929,AGRA,Kiraoli,Sikri Hissa Iv,SIKRI HISSA IV
+930,AGRA,Kiraoli,Singarpur,SINGARPUR
+931,AGRA,Kiraoli,Singma,SINGMA
+932,AGRA,Kiraoli,Sirauli,SIRAULI
+933,AGRA,Kiraoli,Sonothi,SONOTHI
+934,AGRA,Kiraoli,Sunhara,BADANPUR BARNABAI
+935,AGRA,Kiraoli,Suphaera,BHARHKOL
+936,AGRA,Kiraoli,Surodhi,Surothi
+937,AGRA,Kiraoli,Tajpur,TAJPUR  NAGARIYA
+938,AGRA,Kiraoli,Teekri,TEEKRI
+939,AGRA,Kiraoli,Tehra Rawat,TEHRA RAWAT
+940,AGRA,Kiraoli,Thapi,SEHTA
+941,AGRA,Kiraoli,Tirpuri,GOBRA
+942,AGRA,Kiraoli,Turkia,JHAROTI
+943,AGRA,Kiraoli,Ujarai,UJARAI
+944,AGRA,Kiraoli,Undera,UNDERA
+945,AGRA,Kiraoli,Uttoo,DAUDPUR

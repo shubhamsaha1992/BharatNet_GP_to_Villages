@@ -1,0 +1,7 @@
+village_notmatched set(['Malharwadi', 'Jaulka', 'Singarwadi', 'Chinchala', 'Pimparkhed', 'Ambala', 'Ghogartala', 'Bhatsawangi', 'Bhatsawangi Tanda', 'Ganjapur', 'Khanapur', 'Ganeshwadi', 'Dongi', 'Durgasawangi', 'Charthana', 'Sandas Tarf Basamba', 'Dudheri', 'Deulgaon Rama', 'Sasewadi', 'Jambharun Andhwadi', 'Rajwadi', 'Khanapur Chi.', 'Nawkha', 'Bhuli', 'Jamrun jahagir', 'Dhotarwadi', 'Sawar kheda', 'Hingoli', 'Santuk pimpari', 'Warud Gawali', 'Sawad', 'Tikhadi', 'Sawargaon', 'Wadhona  pr. washim'])
+blk_notmatched set(['Sengaon', 'Aundha (Nagnath)', 'Kalamnuri', 'Basmath'])
+gp_notmatched set(['TAKALI E N', 'HIVARABEL', 'RAHOLE KH'])
+village_stats [114, 34]
+blk_stats [0, 558]
+gp_stats [0, 5]
+null_data 0

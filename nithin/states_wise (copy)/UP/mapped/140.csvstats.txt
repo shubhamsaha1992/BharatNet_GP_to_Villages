@@ -1,0 +1,7 @@
+village_notmatched set([])
+blk_notmatched set(['Ghaziabad', 'Modinagar'])
+gp_notmatched set(['ILAICHIPUR', 'HAQIQATPUR URF KHUDAWAS', 'SADABAD DUGRAVALI', 'ALLIPUR NORASPUR'])
+village_stats [41, 0]
+blk_stats [0, 160]
+gp_stats [0, 5]
+null_data 0

@@ -1,0 +1,7 @@
+village_notmatched set(['Anfield Jungle T.K. Jangal'])
+blk_notmatched set(['Rishikesh', 'Tyuni', 'Dehradun'])
+gp_notmatched set(['VYAS BHOOD', 'DUMET', 'DHUDHAI', 'SALGA', 'DOHA', 'DASAU', 'Baronwala', 'CENTRAL HOP TOWN', 'CHAUKI', 'LORLI', 'KARBARI GRANT', 'Kakari', 'DHOOLKOT MAFI', 'Nagal Bulandawala', 'JAKHNOJ BHISTO', 'AMBI WALA', 'KOTDA SANTAUR', 'KHUSHHAL PUR', 'TILWADI', 'birpa', 'Atliyo', 'Tungra', 'ABDUALLA PUR', 'RAJA WALA', 'RAMPUR KALAN', 'KAKNAOI', 'MOHANA', 'DHAKI', 'SUDHOWALA', 'KETARI', 'KANSWALI KOTHDI', 'RIKHAAD', 'KHARAYA', 'Aashta', 'Manuwa', 'BOHA', 'CHARBA', 'RAMPUR BHAOWALA', 'birmau', 'bhuddi', 'HARIA WALA KALAN', 'BIDHAULI', 'KOTDA KALYANPUR', 'BHAGVAN PURJULO', 'THAKURPUR     EAST HOPE TOWN', 'Pyunal', 'KUWARNA', 'THANA', 'Chausaal', 'SHANKAR PUR', 'NARAYA', 'ninus', 'PALIO NATHUWALA', 'JHAJRA', 'KORWA', 'AMABADI', 'MISRAS PATTI', 'LAXMI PUR', 'baanpur', 'ASTAAD', 'SAMOG', 'Sainj Bamtad', 'SAHASPUR', 'KANDOLI', 'kaluwala', 'NAGAU', 'ATAKFARM', 'NAUGANVA', 'PAUNDHA', 'GUJRADA KARANPUR', 'MAGROLLI', 'HASHTI', 'MASRAD', 'HAYOTANGARI', 'silavada', 'NITHLA', 'BEHMU', 'TIMRA'])
+village_stats [322, 1]
+blk_stats [0, 282]
+gp_stats [0, 130]
+null_data 0

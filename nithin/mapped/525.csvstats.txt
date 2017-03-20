@@ -1,0 +1,7 @@
+village_notmatched set(['Pardi', 'Hingangaon kh.', 'Jankapur', 'Kolhegaon', 'Chincholi kate', 'Dasmegaon', 'Yasawandi', 'Belwadi', 'Nandgaon', 'Pithapuri', 'Jakate wadi', 'Selu', 'Terkheda', 'Ghodki', 'Pimpalgaon Dola', 'Asu', 'Pargaon', 'Sarola', 'Sakkarwadi', 'Chincholi rebe', 'Tandul wadi', 'Kalewadi', 'Lonarwadi', 'Wakdi Istal', 'Diksal', 'Wadgaon(jagir)', 'Massa (kh)', 'Sanjitpur', 'Awad Shirpura', 'Karanja', 'Jawala Khurd', 'Adhala', 'Bawachi', 'Khamkarwadi', 'Kawadewadi', 'Wadgaon', 'Borgaon', 'Gojwada', 'Kelewadi', 'Pimpalgaon(l)', 'Ekondi lohara', 'rudrawadi', 'Saramkondi', 'Makani', 'Lohara Bk.', 'Borgaon Bk.', 'Jagdalwadi', 'Manik nagar', 'Shelgaon Divani', 'Borgaon Kh.', 'Ghatpimpari', 'Dhorala', 'Masobachiwadi', 'Ashta kasar', 'Mandva', 'Bori', 'Wadji', 'Lohara Kh.', 'Shelka Dhanora', 'Zinner', 'Indapur'])
+blk_notmatched set(['Osmanabad', 'Bhum', 'Umarga', 'Tuljapur'])
+gp_notmatched set(['BHOUGA'])
+village_stats [238, 62]
+blk_stats [0, 461]
+gp_stats [0, 1]
+null_data 0

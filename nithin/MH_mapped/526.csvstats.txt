@@ -1,0 +1,7 @@
+village_notmatched set(['Ujani (N.V.)', 'Udanwadi', 'Dongargaon', 'Lavangi', 'Naralewadi', 'Burange Wadi', 'Sadepur', 'Sugavabhose (N.V.)', 'Fatewadi', 'Narayan Chincholi', 'Buralewadi', 'Takaligursala (N.V.)', 'Bitargaon (N.V.)', 'Chincholi Bhose', 'Shankar Nagar', 'Indiranagar (N.V.)', 'Karkal', 'Khanapur', 'Taratgaon Kasegaon', 'Bhandi Shegaon', 'Mangalvedha', 'Sugavakhurd (N.V.)', 'Sarkoli', 'Ghodatanda (N.V.)', 'Ingalgi', 'Sharadrenagar(N.V.)', 'Wadgaon', 'Narale', 'Satarkarvasti (N.V.)', 'Isbavi', 'Tandulwadi', 'Misalwadi', 'Chincholi', 'Nalvadewadi', 'Bhandar Kavade', 'Balgi', 'Dindur', 'Nandur', 'Telgaon Mandrup', 'Auj Mandrup', 'Kusur', 'Karandewadi', 'Venunagar'])
+blk_notmatched set(['Barshi', 'Karmala', 'Malshiras', 'Akkalkot', 'Mohol', 'Madha'])
+gp_notmatched set(['KAUTUALI', 'HATTARSANG', 'DHAYATI', 'PALSALI', 'SANGAVI', 'NANAJ', 'BASAVNAGAR', 'SANT CHOKHAMELA NAGAR', 'CHINCHPUR', 'SANT DAMAJI NAGAR', 'AJOTI', 'TANALI', 'MARAWADE', 'SAVE', 'MAHUD BK'])
+village_stats [358, 44]
+blk_stats [0, 743]
+gp_stats [0, 18]
+null_data 0
