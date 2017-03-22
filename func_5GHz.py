@@ -609,14 +609,15 @@ def calcNextVilList(V_n,n,dictVilToGPAll,valLinkOnListVilSINR,vallistGPCon,valdi
 	[Rew_V_n,valdictVilCon,_] = rewardSINR(V_n,dictVilToGPAll,valLinkOnListVilSINR,vallistGPCon,valdictVilCon)
 	[Rew_V_n_,valdictVilCon_,_] = rewardSINR(V_n_,dictVilToGPAll,valLinkOnListVilSINR,vallistGPCon,valdictVilCon)
 	Beta = math.log(1+n)
-	p = math.exp(Beta*(Rew_V_n_ - Rew_V_n))
 	print "Rew_V_n_",Rew_V_n_,"Rew_V_n",Rew_V_n
 	if(Rew_V_n_ >= Rew_V_n):
 		return [V_n_,valdictVilCon_]
-	elif random.random()< p:
-		return [V_n_,valdictVilCon_]
 	else:
-		return [V_n,valdictVilCon]
+	    	p = math.exp(Beta*(Rew_V_n_ - Rew_V_n))
+		if random.random()< p:
+		    return [V_n_,valdictVilCon_]
+		else:
+		    return [V_n,valdictVilCon]
 	
 def rewardSINR(V_n,dictVilToGPAll,valLinkOnListVilSINR,vallistGPCon,valdictVilCon):
 	keysVilAll = V_n

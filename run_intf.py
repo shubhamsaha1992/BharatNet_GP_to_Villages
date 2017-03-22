@@ -26,11 +26,11 @@ VilName = []
 VilID =[]
 
 #readCSV = sample(readCSV,50)
-nSamples = 50
+nSamples = 200
 begin = randint(1,(len(readCSV) - nSamples - 1))
 begin = 25
 end = begin + nSamples
-#readCSV = readCSV[begin:end]
+readCSV = readCSV[begin:end]
 for row in readCSV:
 	thisGP = row[4]+'_'+row[5]
 	GPName.append(thisGP)
@@ -68,21 +68,11 @@ countVil = 0
 #locListGP = []
 #locListVil = []
 
-for thisGP in GPUniq :
-    thisGPID = int(thisGP[0])
-    locThisGP = (thisGP[1],thisGP[2])
-    GR_GP2Vil.add_node(thisGPID, pos = locThisGP, label = str(thisGPID), category = 'g')
-    #locListGP.append(locThisGP)
-    countGP += 1
-    
+
 
 for thisVil in VilUniq :
     thisVil[0] = thisVil[0] + 1000
-    thisVilID = int(thisVil[0])
-    locThisVil = (thisVil[1],thisVil[2])
-    GR_GP2Vil.add_node(thisVilID, pos = locThisVil, label = str(thisVilID), category = 'r')
     #locListVil.append(locThisVil)
-    countVil += 1
 
 
 ts2 = time.time()
@@ -138,7 +128,7 @@ V_n = keysVilAll
 valLinkOnListVilSINR = []
 vallistGPCon = []
 valdictVilCon = {}
-for n in range(1000):
+for n in range(100):
     
     ts4 = time.time()
     [V_n,valdictVilCon] = calcNextVilList(V_n,n,dictVilToGPAll,valLinkOnListVilSINR,vallistGPCon,valdictVilCon)
@@ -149,17 +139,36 @@ for n in range(1000):
 [Rew_V_n,valdictVilCon,valdictGPThpt] = rewardSINR(V_n,dictVilToGPAll,valLinkOnListVilSINR,vallistGPCon,valdictVilCon)    
 print valdictGPThpt
 
+for thisGP in GPUniq :
+    thisGPID = int(thisGP[0])
+    locThisGP = (thisGP[1],thisGP[2])
+    if thisGPID in valdictVilCon.values():
+	GR_GP2Vil.add_node(thisGPID, pos = locThisGP, label = str(thisGPID), category = 'b')
+    #locListGP.append(locThisGP)
+    countGP += 1
+
+for thisVil in VilUniq :
+    thisVilID = int(thisVil[0])
+    locThisVil = (thisVil[1],thisVil[2])
+    if thisVilID in valdictVilCon.keys():
+	GR_GP2Vil.add_node(thisVilID, pos = locThisVil, label = str(thisVilID), category = 'g')
+    else:
+	GR_GP2Vil.add_node(thisVilID, pos = locThisVil, label = str(thisVilID), category = 'r')
+    #locListVil.append(locThisVil)
+    countVil += 1
+
 labels = nx.get_node_attributes(GR_GP2Vil, 'label')
 labels = list(labels.values())
-pos = nx.get_node_attributes(GR_GP2Vil,'pos')
+pos_nodes = nx.get_node_attributes(GR_GP2Vil,'pos')
 color = nx.get_node_attributes(GR_GP2Vil, 'category')
 color = list(color.values())
-nx.draw_networkx_nodes(GR_GP2Vil,pos,node_size=20, node_color = color,linewidths = 0)
-nx.draw_networkx_labels(GR_GP2Vil,pos,font_size=5)
+nx.draw_networkx_nodes(GR_GP2Vil,pos_nodes,node_size=5, node_color = color,linewidths = 0)
+pos_labels = {k:[v[0],v[1]+.004] for k,v in pos_nodes.iteritems()}
+nx.draw_networkx_labels(GR_GP2Vil,pos_labels,font_size=3)
 
 edges = list(valdictVilCon.items())
 #labels = nx.get_edge_attributes(GR_GP2Vil,'weight')
-nx.draw_networkx_edges(GR_GP2Vil, pos, edges)
+nx.draw_networkx_edges(GR_GP2Vil, pos_nodes, edges)
 #nx.draw_networkx_edge_labels(GR_GP2Vil, pos, edge_labels = labels)
 plt.axis('off')
 plt.savefig("weighted_graph.pdf", dpi = 2000) # save as png
