@@ -645,25 +645,33 @@ def rewardSINR(V_n,dictVilToGPAll,valLinkOnListVilSINR,vallistGPCon,valdictVilCo
 		maxSINRGPID = -1
 		GPList = value[1]
 		keysGPAll = list(GPList.keys())
-		for keyGP in keysGPAll :
-		    maxLinkOnListVilSINR = []
-		    thisGPID = keyGP
-		    #thisGPLoc = GPList[keyGP]
-		    thisLinkSig = GPList[keyGP]
-		    #dictVilCon[thisVilID] = thisGPID
-		    #print "dictVilCon,listGPCon,thisGPID" ,dictVilCon,listGPCon,thisGPID
-		    thisLinkOnListVilSINR = calcSINR(dictVilToGPAll,dictVilCon,listGPCon,thisVilID,thisGPID) #Pass list of already connected Villages and this GP as signaler
-		    #print "Village", thisVilID, " can be connected to", thisGPID, "with total SINR", thisLinkOnTotalSINR
-		    #dictVilCon[thisVilID][1].append(keyGP)
-		    minVilSINR = min(thisLinkOnListVilSINR)
+		#for keyGP in keysGPAll :
+		    #maxLinkOnListVilSINR = []
+		    #thisGPID = keyGP
+		    ##thisGPLoc = GPList[keyGP]
+		    #thisLinkSig = GPList[keyGP]
+		    ##dictVilCon[thisVilID] = thisGPID
+		    ##print "dictVilCon,listGPCon,thisGPID" ,dictVilCon,listGPCon,thisGPID
+		    #thisLinkOnListVilSINR = calcSINR(dictVilToGPAll,dictVilCon,listGPCon,thisVilID,thisGPID) #Pass list of already connected Villages and this GP as signaler
+		    ##print "Village", thisVilID, " can be connected to", thisGPID, "with total SINR", thisLinkOnTotalSINR
+		    ##dictVilCon[thisVilID][1].append(keyGP)
+		    #minVilSINR = min(thisLinkOnListVilSINR)
 		    
-		    #if(thisLinkOnTotalSINR > maxLinkOnTotalSINR) & isSuffThpt(dictGPThpt,thisGPID,thisVilReqThpt):
-		    if compareLL(thisLinkOnListVilSINR,maxLinkOnListVilSINR) or (maxLinkOnListVilSINR == []) & isSuffThpt(dictGPThpt,thisGPID,thisVilReqThpt) & (minVilSINR > 10):
-			maxLinkOnListVilSINR = thisLinkOnListVilSINR
-			maxLinkOnTotalSINR = max(thisLinkOnListVilSINR)
-			maxSINRGPID = thisGPID
-			dictVilCon[thisVilID] = maxSINRGPID
-		    #print "dictVilCon", dictVilCon
+		    ##if(thisLinkOnTotalSINR > maxLinkOnTotalSINR) & isSuffThpt(dictGPThpt,thisGPID,thisVilReqThpt):
+		    #if compareLL(thisLinkOnListVilSINR,maxLinkOnListVilSINR) or (maxLinkOnListVilSINR == []) & isSuffThpt(dictGPThpt,thisGPID,thisVilReqThpt) & (minVilSINR > 10):
+			#maxLinkOnListVilSINR = thisLinkOnListVilSINR
+			#maxLinkOnTotalSINR = max(thisLinkOnListVilSINR)
+			#maxSINRGPID = thisGPID
+			#dictVilCon[thisVilID] = maxSINRGPID
+		    ##print "dictVilCon", dictVilCon
+		choiceSINRGPID = random.choice(keysGPAll)
+		choiceLinkOnListVilSINR = calcSINR(dictVilToGPAll,dictVilCon,listGPCon,thisVilID,choiceSINRGPID)
+		minVilSINR = min(choiceLinkOnListVilSINR)
+		if isSuffThpt(dictGPThpt,choiceSINRGPID,thisVilReqThpt) & (minVilSINR > 10):
+		    maxLinkOnListVilSINR = choiceLinkOnListVilSINR
+		    maxLinkOnTotalSINR = max(maxLinkOnListVilSINR)
+		    maxSINRGPID = choiceSINRGPID
+		    dictVilCon[thisVilID] = maxSINRGPID
 		if (maxSINRGPID not in listGPCon) & (maxSINRGPID != -1):
 		    listGPCon.append(maxSINRGPID)
 		    dictGPThpt[maxSINRGPID] = 100

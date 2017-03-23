@@ -26,7 +26,7 @@ VilName = []
 VilID =[]
 
 #readCSV = sample(readCSV,50)
-nSamples = 200
+nSamples = 50
 begin = randint(1,(len(readCSV) - nSamples - 1))
 begin = 25
 end = begin + nSamples
