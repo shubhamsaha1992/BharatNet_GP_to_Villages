@@ -19,7 +19,6 @@ with open('497.csv', 'rb') as f:
     reader = csv.reader(f)
     readCSV = list(reader)
     
-    
 GPName = []
 GPID = []
 VilName = []
@@ -88,16 +87,3 @@ with open('DistMatrix.csv', 'wb') as csv_file:
     writer = csv.writer(csv_file)
     for key, value in dictVilToGPAll.items():
        writer.writerow([key, value])
-
-	#if(thisDist < 5):
-	    #thisLinkResult =  rf_get([thisGPLoc,thisVilLoc],[10,15],[3,6,9,12],thisVilReqThpt)
-	    #thisLinkObtThpt = thisLinkResult[0][0]
-	    #thisLinkSig = thisLinkResult[0][2] + NN_5_8
-	#if(thisLinkObtThpt > thisVilReqThpt):
-	    ##thisVilNoise = addIntf(thisVilNoise,thisLinkSig)
-	    #thisVilToGPList[thisGPID] = thisLinkSig
-    #if len(thisVilToGPList) > 0:
-	##print thisVilToGPList
-	#dictVilToGPAll[thisVilID].append(thisVilToGPList)
-    #else:
-	#del dictVilToGPAll[thisVilID]
