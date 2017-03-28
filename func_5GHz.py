@@ -403,7 +403,7 @@ def rf_get( pos=[[17, 23],[18, 22]],\
 			receivedThpt = rsTable_5_8[1][i]
 			if (fadeMargin > FADE_MARGIN_REQ) & (receivedThpt > reqThpt):
 				maxTP5_8 = receivedThpt
-				txPower_5_8 = txPower_5_8 - (fadeMargin - FADE_MARGIN_REQ)
+				txPower_5_8 = (requiredSNR5_8 + FADE_MARGIN_REQ) - (Gt_5_8 + Gr_5_8 - PL - NN_5_8)
 				break
 	else:
 		#print 'Ht is not able to clear the fresnel'
@@ -554,7 +554,7 @@ def subIntf( Intf1, Intf2):
 		#plt.show()
 		#plt.close()
 
-def calcSINR_(dictVilToGPAll,dictVilCon,listGPCon,thisVilID,thisGPID): #Pass list of already connected Villages and this GP as signaler
+def calcSINR(dictVilToGPAll,dictVilCon,listGPCon,thisVilID,thisGPID): #Pass list of already connected Villages and this GP as signaler
 	#print "\n"
 	listGPCon = copy(listGPCon)
 	listGPCon.append(thisGPID)
@@ -619,7 +619,9 @@ def calcNextVilList(V_n,n,dictVilToGPAll,valLinkOnListVilSINR,vallistGPCon,valdi
 		else:
 		    return [V_n,valdictVilCon]
 	
-def rewardFunc_(dictVilToGPAll,keysVilAll,listGPCon,valLinkOnListVilSINR,vallistGPCon,dictVilCon):
+def rewardSINR(V_n,dictVilToGPAll,valLinkOnListVilSINR,vallistGPCon,valdictVilCon):
+	keysVilAll = V_n
+	listGPCon = []
 	dictVilCon = {}
 	dictGPThpt = {}
 	dictGPTxPower = {}
@@ -662,16 +664,6 @@ def rewardFunc_(dictVilToGPAll,keysVilAll,listGPCon,valLinkOnListVilSINR,vallist
 			maxSINRGPID = thisGPID
 			dictVilCon[thisVilID] = maxSINRGPID
 		    #print "dictVilCon", dictVilCon
-		    
-		#choiceSINRGPID = random.choice(keysGPAll)
-		#choiceLinkOnListVilSINR = calcSINR(dictVilToGPAll,dictVilCon,listGPCon,thisVilID,choiceSINRGPID)
-		#minVilSINR = min(choiceLinkOnListVilSINR)
-		#if isSuffThpt(dictGPThpt,choiceSINRGPID,thisVilReqThpt) & (minVilSINR > 10):
-		    #maxLinkOnListVilSINR = choiceLinkOnListVilSINR
-		    #maxLinkOnTotalSINR = max(maxLinkOnListVilSINR)
-		    #maxSINRGPID = choiceSINRGPID
-		    #dictVilCon[thisVilID] = maxSINRGPID
-		    
 		if (maxSINRGPID not in listGPCon) & (maxSINRGPID != -1):
 		    listGPCon.append(maxSINRGPID)
 		    dictGPThpt[maxSINRGPID] = 100
@@ -693,53 +685,3 @@ def rewardFunc_(dictVilToGPAll,keysVilAll,listGPCon,valLinkOnListVilSINR,vallist
 	    #print valdictGPThpt
 	
 	return [len(valdictVilCon),valdictVilCon,valdictGPThpt]
-
-
-def generate_GPPower(listGPCon,dictGPTxPow):
-    dictGPSetTxPow = {}
-    for thisGPID in listGPCon:
-	#print dictGPTxPow[thisGPID]
-	dictGPSetTxPow[thisGPID] = random.choice(dictGPTxPow[thisGPID])
-	if(dictGPSetTxPow[thisGPID] == 0):
-	    del dictGPSetTxPow[thisGPID]
-    return dictGPSetTxPow
-
-def rewardFunc(dictGPSetTxPow,dictVilToGPAll,dictGPTxPow,listVilCon):
-    dictVilCon = {}
-    for thisVilID in listVilCon:
-	thisGPID = findGP(thisVilID,dictVilToGPAll,dictGPSetTxPow,dictGPTxPow)
-	if thisGPID != -1:
-	    dictVilCon[thisVilID] = thisGPID
-    return len(dictVilCon),dictVilCon
-    
-def findGP(thisVilID,dictVilToGPAll,dictGPSetTxPow,dictGPTxPow):
-    maxSigGPID = -1
-    maxGPSig = -200
-    for thisGPID in dictVilToGPAll[thisVilID][2].keys():
-	if thisGPID in dictGPSetTxPow.keys():
-	    thisGPSig = calcGPSig(thisGPID,thisVilID,dictGPSetTxPow,dictVilToGPAll)
-	    if thisGPSig > maxGPSig:
-		maxGPSig = thisGPSig
-		thisVilSINR = calcSINR(thisGPID,thisVilID,dictGPSetTxPow,dictVilToGPAll)
-		if thisVilSINR > 10:
-		    maxSigGPID = thisGPID
-    return maxSigGPID
-
-def calcGPSig(thisGPID,thisVilID,dictGPSetTxPow,dictVilToGPAll):
-    SigDiff = dictVilToGPAll[thisVilID][2][thisGPID][1] - dictGPSetTxPow[thisGPID]
-    #thisGPSig = dictVilToGPAll[thisVilID][2][thisGPID][0] - SigDiff
-    thisGPSig = dictVilToGPAll[thisVilID][2][thisGPID][0]
-    return thisGPSig
-
-def calcSINR(thisGPID,thisVilID,dictGPSetTxPow,dictVilToGPAll):
-    thisVilSig = -200
-    thisVilIntf = -200
-    keysVilGP = list(dictVilToGPAll[thisVilID][2].keys())
-    for thisVilGPID in keysVilGP:
-	if thisVilGPID == thisGPID:
-		thisVilSig = calcGPSig(thisGPID,thisVilID,dictGPSetTxPow,dictVilToGPAll)	
-	elif thisVilGPID in dictGPSetTxPow.keys():
-		thisVilGPIntf = calcGPSig(thisGPID,thisVilID,dictGPSetTxPow,dictVilToGPAll)
-		thisVilIntf = addIntf(thisVilIntf,thisVilGPIntf)
-    thisVilSINR = SINR(thisVilSig,thisVilIntf)
-    return thisVilSINR
