@@ -6,7 +6,7 @@ import networkx as nx
 import numpy as np
 import pandas as pd
 from scipy.signal import argrelextrema
-from snap import *
+#from snap import *
 import time
 from random import shuffle,sample,randint
 from geopy.distance import vincenty
@@ -82,39 +82,42 @@ print "\n Time taken for preprocessing : ", (ts2-ts1), "\n"
 maxCountLinks = 0
 
 dictVilToGPAll = {}
-
+listGPCon = []
+listVilCon = []
+dictVilCon = []
+dictGPTxPow = {}
 #dummyCountVil = 1
 for thisVil in VilUniq :
     thisVilID = int(thisVil[0])
     thisVilLoc = (thisVil[1],thisVil[2])
     thisVilReqThpt = thisVil[3]
-    dictVilToGPAll[thisVilID] = [[thisVilLoc, thisVilReqThpt]]
-    thisVilToGPList = {}
+    dictthisVilToGPSig = {}
+    listthisVilGPCon = []
     #thisVilNoise = -200
     #dummyCountGP = 0
     for thisGP in GPUniq :
-	thisGPID = int(thisGP[0])
-	thisGPLoc = (thisGP[1],thisGP[2])
-	thisDist = vincenty(thisGPLoc, thisVilLoc).km
-	thisLinkObtThpt = 0
-	thisLinkSig = -200
-	if(thisDist < 5):
-	    thisLinkResult =  rf_get([thisGPLoc,thisVilLoc],[10,15],[3,6,9,12],thisVilReqThpt)
-	    thisLinkObtThpt = thisLinkResult[0][0]
-	    thisLinkSig = thisLinkResult[0][2] + NN_5_8
-	if(thisLinkObtThpt > thisVilReqThpt):
-	    #thisVilNoise = addIntf(thisVilNoise,thisLinkSig)
-	    thisVilToGPList[thisGPID] = thisLinkSig
-    if len(thisVilToGPList) > 0:
-	#print thisVilToGPList
-	dictVilToGPAll[thisVilID].append(thisVilToGPList)
-    else:
-	del dictVilToGPAll[thisVilID]
-    #dictVilToGPAll[thisVilID][0].append(thisVilNoise)
-	    #dummyCountGP = dummyCountGP + 1
-    #if(dummyCountGP > 0):
-	#dummyCountVil = dummyCountVil * dummyCountGP
-	#print dummyCountVil
+        thisGPID = int(thisGP[0])
+        thisGPLoc = (thisGP[1],thisGP[2])
+        thisDist = vincenty(thisGPLoc, thisVilLoc).km
+        thisLinkObtThpt = 0
+        thisLinkSig = -200
+        if(thisDist < 5):
+            thisLinkResult =  rf_get([thisGPLoc,thisVilLoc],[10,15],[3,6,9,12],thisVilReqThpt)
+            thisLinkObtThpt = thisLinkResult[0][0]
+            thisLinkSig = thisLinkResult[0][2] + NN_5_8
+            thisLinkTxPow = thisLinkResult[0][1]
+            if(thisLinkObtThpt > thisVilReqThpt):
+                dictthisVilToGPSig[thisGPID] = [thisLinkSig,thisLinkTxPow]
+                dictVilToGPAll[thisVilID] = [thisVilLoc, thisVilReqThpt]
+            	#dictVilToGPAll[thisVilID].append(dictthisVilToGPSig)
+            	listVilCon.append(thisVilID)
+            	listthisVilGPCon.append(thisGPID)
+                if thisGPID not in listGPCon:
+                      listGPCon.append(thisGPID)
+                      dictGPTxPow[thisGPID] = []
+                dictGPTxPow[thisGPID].append(thisLinkTxPow)
+    if(thisVilID in dictVilToGPAll.keys()):
+        dictVilToGPAll[thisVilID].append(dictthisVilToGPSig)
 	    
 	    
 #print dummyCountVil
@@ -124,19 +127,18 @@ ts3 = time.time()
 print "\n Time taken for shortlisting GPs", (ts3-ts2), "\n"
 keysVilAll = list(dictVilToGPAll.keys())
 V_n = keysVilAll
-
+dictGPSetTxPow = generate_GPPower(listGPCon,dictGPTxPow)
 valLinkOnListVilSINR = []
-vallistGPCon = []
+vallistGPCon = [] 
 valdictVilCon = {}
-for n in range(100):
+for n in range(1000):
     
     ts4 = time.time()
-    [V_n,valdictVilCon] = calcNextVilList(V_n,n,dictVilToGPAll,valLinkOnListVilSINR,vallistGPCon,valdictVilCon)
-    
+    [V_n,valdictVilCon] = calcNextVilList(V_n,dictGPSetTxPow,n,dictVilToGPAll,valLinkOnListVilSINR,listGPCon,vallistGPCon,valdictVilCon,dictGPTxPow)
 #print len(valdictVilCon.keys())
 #edges = GR_GP2Vil.edges()
     
-[Rew_V_n,valdictVilCon,valdictGPThpt] = rewardSINR(V_n,dictVilToGPAll,valLinkOnListVilSINR,vallistGPCon,valdictVilCon)    
+[Rew_V_n,valdictVilCon,valdictGPThpt] = rewardSINR(V_n,dictGPSetTxPow,dictVilToGPAll,valLinkOnListVilSINR,vallistGPCon,valdictVilCon)    
 print valdictGPThpt
 
 for thisGP in GPUniq :
