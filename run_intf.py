@@ -15,7 +15,7 @@ from func_5GHz import *
 
 ts1 = time.time()
 
-with open('497.csv', 'rb') as f:
+with open('/home/shubham/TVWS/BharatNet_GP_to_Villages/Throughput files/529.csv', 'rb') as f:
     reader = csv.reader(f)
     readCSV = list(reader)
     
@@ -30,7 +30,9 @@ nSamples = 50
 begin = randint(1,(len(readCSV) - nSamples - 1))
 begin = 25
 end = begin + nSamples
+
 readCSV = readCSV[begin:end]
+
 for row in readCSV:
 	thisGP = row[4]+'_'+row[5]
 	GPName.append(thisGP)
@@ -40,7 +42,7 @@ for row in readCSV:
 GPconv = pd.Series(GPName).astype('category')
 GPID = GPconv.cat.codes
 Vilconv = pd.Series(VilName).astype('category')
-VilID = Vilconv.cat.codes + 1000
+VilID = Vilconv.cat.codes + len(readCSV)
 readCSV = np.insert(readCSV,4,GPID,axis=1)
 readCSV = np.insert(readCSV,10,VilID,axis=1)
 GPID = readCSV[1:,(4,5,6)]
@@ -86,6 +88,7 @@ listGPCon = []
 listVilCon = []
 dictVilCon = []
 dictGPTxPow = {}
+time_stamps = []
 #dummyCountVil = 1
 for thisVil in VilUniq :
     thisVilID = int(thisVil[0])
@@ -115,6 +118,7 @@ for thisVil in VilUniq :
                 if thisGPID not in listGPCon:
                       listGPCon.append(thisGPID)
                       dictGPTxPow[thisGPID] = []
+                      
                 dictGPTxPow[thisGPID].append(thisLinkTxPow)
     if(thisVilID in dictVilToGPAll.keys()):
         dictVilToGPAll[thisVilID].append(dictthisVilToGPSig)
