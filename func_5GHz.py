@@ -698,6 +698,7 @@ def generate_GPPower(listGPCon,dictGPTxPow):
 def calcGPSig(thisGPID,thisVilID,dictGPSetTxPow,dictVilToGPAll):
     #print dictGPSetTxPow,thisGPID
     SigDiff = dictVilToGPAll[thisVilID][2][thisGPID][1] - dictGPSetTxPow[thisGPID]
+    #print SigDiff
     thisGPSig = dictVilToGPAll[thisVilID][2][thisGPID][0] - SigDiff
     #thisGPSig = dictVilToGPAll[thisVilID][2][thisGPID][0]
     return thisGPSig
