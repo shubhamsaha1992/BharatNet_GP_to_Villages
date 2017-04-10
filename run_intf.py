@@ -1,5 +1,7 @@
 from copy import copy 
 import csv
+import cPickle as pickle
+import json
 import math
 import matplotlib.pyplot as plt
 import networkx as nx
@@ -15,41 +17,87 @@ from func_5GHz import *
 
 ts1 = time.time()
 
+dictGPTxPow = {}
+    
+with open('/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/512/dictGPTxPow.p', 'r') as dictGPTxPowFile:
+    dictGPTxPow = pickle.load(dictGPTxPowFile)
+    
+dictVilToGPAll = {}
 
+with open('/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/512/dictVilToGPAll.p', 'r') as dictVilToGPAllFile:
+    dictVilToGPAll = pickle.load(dictVilToGPAllFile)
+#print dictVilToGPAll
+
+with open('/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/512/listGPCon.p', 'r') as listGPConFile:
+    listGPCon = pickle.load(listGPConFile)
+    
+with open('/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/512/GPUniq.p', 'r') as GPUniqFile:
+    GPUniq = pickle.load(GPUniqFile)
+    
+with open('/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/512/VilUniq.p', 'r') as VilUniqFile:
+    VilUniq = pickle.load(VilUniqFile)
+    
+ts2 = time.time()
+print "Time taken to load from file", (ts2-ts1)
+    
 
 keysVilAll = list(dictVilToGPAll.keys())
 V_n = keysVilAll
-dictGPSetTxPow = generate_GPPower(listGPCon,dictGPTxPow)
 valLinkOnListVilSINR = []
 vallistGPCon = [] 
 valdictVilCon = {}
-for n in range(1000):
-    
-    ts4 = time.time()
-    [V_n,valdictVilCon] = calcNextVilList(V_n,dictGPSetTxPow,n,dictVilToGPAll,valLinkOnListVilSINR,listGPCon,vallistGPCon,valdictVilCon,dictGPTxPow)
-#print len(valdictVilCon.keys())
-#edges = GR_GP2Vil.edges()
-    
-[Rew_V_n,valdictVilCon,valdictGPThpt] = rewardSINR(V_n,dictGPSetTxPow,dictVilToGPAll,valLinkOnListVilSINR,vallistGPCon,valdictVilCon)    
-print valdictGPThpt
+nIter = len(VilUniq)*10
 
+maxIterTrial = []
+for trials in range(10):
+    ts3 = time.time()
+    maxIter = 0
+    maxRew = 0
+    dictGPSetTxPow = generate_GPPower(listGPCon,dictGPTxPow)
+    for n in range(nIter):    
+        ts4 = time.time()
+        [V_n,valdictVilCon] = calcNextVilList(V_n,dictGPSetTxPow,n,dictVilToGPAll,valLinkOnListVilSINR,listGPCon,vallistGPCon,valdictVilCon,dictGPTxPow)
+        Rew_V_n = len(valdictVilCon)
+        if(Rew_V_n > maxRew):
+            maxRew = Rew_V_n
+            maxIter = n
+        #ts5 = time.time()
+        #print "Time taken for this iteration", (ts5-ts4)
+    maxIterTrial.append(maxIter)
+    ts6 = time.time()
+    print "Time taken for ", (nIter), " iterations is ", (ts6-ts3)
+
+
+[Rew_V_n,valdictVilCon,valdictGPThpt] = rewardSINR(V_n,dictGPSetTxPow,dictVilToGPAll,valLinkOnListVilSINR,vallistGPCon,valdictVilCon)    
+#print valdictGPThpt
+    
+countGP = 0
+countVil = 0
+countGP2Lit = 0
+countVilLit = 0
+
+GR_GP2Vil = nx.Graph()
 for thisGP in GPUniq :
     thisGPID = int(thisGP[0])
     locThisGP = (thisGP[1],thisGP[2])
     if thisGPID in valdictVilCon.values():
-	GR_GP2Vil.add_node(thisGPID, pos = locThisGP, label = str(thisGPID), category = 'b')
+        GR_GP2Vil.add_node(thisGPID, pos = locThisGP, label = str(thisGPID), category = 'b')
+        countGP2Lit += 1
     #locListGP.append(locThisGP)
     countGP += 1
-
+    
 for thisVil in VilUniq :
     thisVilID = int(thisVil[0])
     locThisVil = (thisVil[1],thisVil[2])
     if thisVilID in valdictVilCon.keys():
-	GR_GP2Vil.add_node(thisVilID, pos = locThisVil, label = str(thisVilID), category = 'g')
+        GR_GP2Vil.add_node(thisVilID, pos = locThisVil, label = str(thisVilID), category = 'g')
+        countVilLit += 1
     else:
 	GR_GP2Vil.add_node(thisVilID, pos = locThisVil, label = str(thisVilID), category = 'r')
     #locListVil.append(locThisVil)
     countVil += 1
+
+
 
 labels = nx.get_node_attributes(GR_GP2Vil, 'label')
 labels = list(labels.values())
@@ -64,14 +112,18 @@ edges = list(valdictVilCon.items())
 nx.draw_networkx_edges(GR_GP2Vil, pos_nodes, edges)
 #nx.draw_networkx_edge_labels(GR_GP2Vil, pos, edge_labels = labels)
 plt.axis('off')
-plt.savefig("weighted_graph.pdf", dpi = 5000) # save as png
+plt.savefig("/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/512/weighted_graph.pdf", dpi = 5000) # save as png
 plt.show()
 
 
 # Generate a report
-with open("Report.txt", "w") as text_file:
-    text_file.write("Total number of Villages: %s" % countVil)
-    text_file.write("Total number of Villages connected: %s" % Rew_V_n)
-    text_file.write("Total number of GPs: %s" % countGP)
-    text_file.write("Total number of GPs used: %s" % len(vallistGPCon))
+with open("/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/512/Report.txt", "w") as text_file:
+    text_file.write("Time taken for %s iterations is %s \n" % (countVil,(ts6-ts3)))
+    text_file.write("Total number of Villages: %s \n" % countVil)
+    text_file.write("Total number of Villages connected: %s \n" % countVilLit)
+    text_file.write("Total number of GPs: %s \n" % countGP)
+    text_file.write("Total number of GPs used: %s \n" % countGP2Lit)
+    text_file.write("Convergence conditions: \n")
+    for item in maxIterTrial:
+        text_file.write("%s " % item)
     

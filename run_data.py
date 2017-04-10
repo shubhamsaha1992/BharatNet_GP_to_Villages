@@ -7,6 +7,8 @@ Created on Mon Apr  3 23:48:43 2017
 
 from copy import copy 
 import csv
+import cPickle as pickle
+import json
 import math
 import matplotlib.pyplot as plt
 import networkx as nx
@@ -69,7 +71,6 @@ VilID = np.array(VilID)
 b = np.ascontiguousarray(VilID).view(np.dtype((np.void, VilID.dtype.itemsize * VilID.shape[1])))
 _, idx = np.unique(b, return_index=True)
 VilUniq = VilID[idx]
-GR_GP2Vil = nx.Graph()
 
 countGP = 0
 countVil = 0
@@ -129,8 +130,19 @@ for thisVil in VilUniq :
         
 ts3 = time.time()
 print "\n Time taken for shortlisting GPs", (ts3-ts2), "\n"
-	    
-w = csv.writer(open("/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/dictVilToGPAll.csv", "w"))
-for key, val in dictVilToGPAll.items():
-    w.writerow([key, val])
+
+with open('/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/512/dictGPTxPow.p', 'w') as dictGPTxPowFile:
+    pickle.dump(dictGPTxPow, dictGPTxPowFile)
     
+with open('/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/512/dictVilToGPAll.p', 'w') as dictVilToGPAllFile:
+    pickle.dump(dictVilToGPAll, dictVilToGPAllFile)
+ 
+with open('/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/512/listGPCon.p', 'w') as listGPConFile:
+    pickle.dump(listGPCon, listGPConFile)
+    
+with open('/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/512/GPUniq.p', 'w') as GPUniqFile:
+    pickle.dump(GPUniq, GPUniqFile)
+    
+with open('/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/512/VilUniq.p', 'w') as VilUniqFile:
+    pickle.dump(VilUniq, VilUniqFile)
+
