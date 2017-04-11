@@ -16,6 +16,7 @@ import hashlib
 import hmac
 import base64
 from copy import copy
+import sys
 import urlparse
 
 
@@ -606,10 +607,10 @@ def swapRandomTwo(keysVilAll):
 def calcNextVilList(V_n,dictGPSetTxPow,n,dictVilToGPAll,valLinkOnListVilSINR,listGPCon,vallistGPCon,valdictVilCon,dictGPTxPow):
     #V_n_ = swapRandomTwo(V_n)
     V_n_ = copy(V_n)
-    random.shuffle(V_n_)
     dictGPSetTxPow_ = generate_GPPower(listGPCon,dictGPTxPow)
-    [Rew_V_n_,valdictVilCon_,_] = rewardSINR(V_n_,dictGPSetTxPow_,dictVilToGPAll,valLinkOnListVilSINR,vallistGPCon,valdictVilCon)
-    [Rew_V_n,valdictVilCon,_] = rewardSINR(V_n,dictGPSetTxPow,dictVilToGPAll,valLinkOnListVilSINR,vallistGPCon,valdictVilCon)
+    
+    [Rew_V_n_,valdictVilCon_,_] = rewardSINR(V_n_,dictGPSetTxPow_,dictVilToGPAll)
+    [Rew_V_n,valdictVilCon,_] = rewardSINR(V_n,dictGPSetTxPow,dictVilToGPAll)
     Beta = math.log(1+n)
     #Beta = math.log(1+float(n/100))    
     #Beta = 1 - float(1/(1+n))
@@ -618,84 +619,66 @@ def calcNextVilList(V_n,dictGPSetTxPow,n,dictVilToGPAll,valLinkOnListVilSINR,lis
         return [V_n_,valdictVilCon_]
     else:
         p = math.exp(Beta*(Rew_V_n_ - Rew_V_n))
-        print p
+        #print p
         if random.random() < p:
             return [V_n_,valdictVilCon_]
         else:
             return [V_n,valdictVilCon]
 	
-def rewardSINR(V_n,dictGPSetTxPow,dictVilToGPAll,valLinkOnListVilSINR,vallistGPCon,valdictVilCon):
-	keysVilAll = V_n
-	listGPCon = []
-	dictVilCon = {}
-	dictGPThpt = {}
-	dictGPTxPower = {}
-	valdictGPThpt = {}
-	maxLinkOnListVilSINR = []
+def rewardSINR(V_n,dictGPSetTxPow,dictVilToGPAll):
+    keysVilAll = V_n
+    listGPCon = []
+    dictVilCon = {}
+    dictGPThpt = {}
+    dictGPTxPower = {}
+    valdictGPThpt = {}
+    maxLinkOnListVilSINR = []
 
-	for keyVil in keysVilAll:
-		thisVil = dictVilToGPAll[keyVil]
-		maxLinkOnListVilSINR = []
-		thisVilID = keyVil
-		thisVilLoc = thisVil[0]
-		thisVilReqThpt = thisVil[1]
+    for keyVil in keysVilAll:
+        thisVil = dictVilToGPAll[keyVil]
+        maxLinkOnListVilSINR = []
+        thisVilID = keyVil
+        thisVilReqThpt = thisVil[1]
 		#thisVilNoise = thisVil[2]
 		#if(len(listSINR)==0):
 		    #print thisVilID
 		#totalSINR = []
 		#totalSpec = []
-		maxSINR = -200
-		maxLinkOnTotalSINR = -200
-		maxSINRGPID = -1
-		GPList = thisVil[2]
-		keysGPAll = list(GPList.keys())
-		for keyGP in keysGPAll :
-		    maxLinkOnListVilSINR = []
-		    thisGPID = keyGP
-		    #thisGPLoc = GPList[keyGP]
-		    thisLinkSig = calcGPSig(thisGPID,thisVilID,dictGPSetTxPow,dictVilToGPAll)
-		    #dictVilCon[thisVilID] = thisGPID
-		    #print "dictVilCon,listGPCon,thisGPID" ,dictVilCon,listGPCon,thisGPID
-		    thisLinkOnListVilSINR = calcSINR(dictVilToGPAll,dictVilCon,listGPCon,thisVilID,thisGPID) #Pass list of already connected Villages and this GP as signaler
-		    #print "Village", thisVilID, " can be connected to", thisGPID, "with total SINR", thisLinkOnTotalSINR
-		    #dictVilCon[thisVilID][1].append(keyGP)
-		    minVilSINR = min(thisLinkOnListVilSINR)
-		    
-		    #if(thisLinkOnTotalSINR > maxLinkOnTotalSINR) & isSuffThpt(dictGPThpt,thisGPID,thisVilReqThpt):
-		    if compareLL(thisLinkOnListVilSINR,maxLinkOnListVilSINR) or (maxLinkOnListVilSINR == []) & isSuffThpt(dictGPThpt,thisGPID,thisVilReqThpt) & (minVilSINR > 20):
-			maxLinkOnListVilSINR = thisLinkOnListVilSINR
-			maxLinkOnTotalSINR = max(thisLinkOnListVilSINR)
-			maxSINRGPID = thisGPID
-			dictVilCon[thisVilID] = maxSINRGPID
-		    #print "dictVilCon", dictVilCon
-		if (maxSINRGPID not in listGPCon) & (maxSINRGPID != -1):
-		    listGPCon.append(maxSINRGPID)
-		    dictGPThpt[maxSINRGPID] = 100
-		if maxSINRGPID != -1:
-			#print maxSINRGPID,dictGPThpt[maxSINRGPID]
-			dictGPThpt = reducThptBy(maxSINRGPID,thisVilReqThpt,dictGPThpt)
-			#print maxSINRGPID,dictGPThpt[maxSINRGPID]
-			if(dictGPThpt[maxSINRGPID] < 0): 
-				print "Error"
-				wait = input("PAUSED")
-				
-		#print "Village", thisVilID, "connected to", maxSINRGPID, "with total SINR", maxLinkOnTotalSINR
-	    #print maxLinkOnListVilSINR
-	if (maxLinkOnListVilSINR != []):
-	    valLinkOnListVilSINR = maxLinkOnListVilSINR
-	    vallistGPCon = listGPCon
-	    valdictGPThpt = dictGPThpt
-	    valdictVilCon = dictVilCon
-	    #print valdictGPThpt
-	
-	return [len(valdictVilCon),valdictVilCon,valdictGPThpt]
+        maxSigGPID = -1
+        maxLinkSig = -200
+        GPList = thisVil[2]
+        keysGPAll = list(GPList.keys())
+        for keyGP in keysGPAll :
+            thisGPID = keyGP
+            if thisGPID not in dictGPSetTxPow.keys():
+                continue
+            maxLinkOnListVilSINR = []
+            thisLinkSig = calcGPSig(thisGPID,thisVilID,dictGPSetTxPow,dictVilToGPAll)
+            thisLinkOnListVilSINR = calcSINR(dictVilToGPAll,dictVilCon,listGPCon,thisVilID,thisGPID) 
+            minVilSINR = min(thisLinkOnListVilSINR)
+            if (thisLinkSig > maxLinkSig) and isSuffThpt(dictGPThpt,thisGPID,thisVilReqThpt) and (minVilSINR > 20):
+                maxLinkSig = thisLinkSig
+                maxSigGPID = thisGPID
+                dictVilCon[thisVilID] = maxSigGPID
+		if (maxSigGPID not in listGPCon) and (maxSigGPID != -1):
+                    listGPCon.append(maxSigGPID)
+                    dictGPThpt[maxSigGPID] = 100
+		if maxSigGPID != -1:
+                    dictGPThpt = reducThptBy(maxSigGPID,thisVilReqThpt,dictGPThpt)
+                    if(dictGPThpt[maxSigGPID] < 0):
+                        print maxSigGPID,thisVilReqThpt,dictGPThpt
+                        print "Error"
+                        sys.exit()
+                        
+    return [len(dictVilCon),dictVilCon,dictGPThpt]
 
 def generate_GPPower(listGPCon,dictGPTxPow):
     dictGPSetTxPow = {}
     for thisGPID in listGPCon:
-	dictGPSetTxPow[thisGPID] = random.choice(dictGPTxPow[thisGPID])
-	if(dictGPSetTxPow[thisGPID] == 0):
-	    del dictGPSetTxPow[thisGPID]
+        dictGPTxPow[thisGPID].append(0)
+        dictGPSetTxPow[thisGPID] = random.choice(dictGPTxPow[thisGPID])
+        if(dictGPSetTxPow[thisGPID] == 0):
+            del dictGPSetTxPow[thisGPID]
     return dictGPSetTxPow
     
 def calcGPSig(thisGPID,thisVilID,dictGPSetTxPow,dictVilToGPAll):
