@@ -42,24 +42,23 @@ print "Time taken to load from file", (ts2-ts1)
     
 
 keysVilAll = list(dictVilToGPAll.keys())
-V_n = keysVilAll
 valLinkOnListVilSINR = []
 vallistGPCon = [] 
 valdictVilCon = {}
-nIter = len(VilUniq)*10
+nIter = len(VilUniq)*1000
 
 maxIterTrial = []
 for trials in range(1):
     ts3 = time.time()
     maxIter = 0
     maxRew = 0
-    dictGPSetTxPow = generate_GPPower(listGPCon,dictGPTxPow)
+    dictGPSetTxPow = generate_GPPower(dictGPTxPow)
     for n in range(nIter):    
         ts4 = time.time()
-        [V_n,valdictVilCon] = calcNextVilList(V_n,dictGPSetTxPow,n,dictVilToGPAll,valLinkOnListVilSINR,listGPCon,vallistGPCon,valdictVilCon,dictGPTxPow)
-        Rew_V_n = len(valdictVilCon)
-        if(Rew_V_n > maxRew):
-            maxRew = Rew_V_n
+        [dictGPSetTxPow,valdictVilCon] = calcNextVilList(dictGPSetTxPow,n,dictVilToGPAll,listGPCon,dictGPTxPow)
+        Rew = len(valdictVilCon)
+        if(Rew > maxRew):
+            maxRew = Rew
             maxIter = n
         #ts5 = time.time()
         #print "Time taken for this iteration", (ts5-ts4)
@@ -68,7 +67,7 @@ for trials in range(1):
     print "Time taken for ", (nIter), " iterations is ", (ts6-ts3)
 
 
-[Rew_V_n,valdictVilCon,valdictGPThpt] = rewardSINR(V_n,dictGPSetTxPow,dictVilToGPAll,valLinkOnListVilSINR,vallistGPCon,valdictVilCon)    
+[Rew,valdictVilCon,valdictGPThpt] = rewardSINR(dictGPSetTxPow,dictVilToGPAll)
 #print valdictGPThpt
     
 countGP = 0
