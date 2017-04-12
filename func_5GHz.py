@@ -607,13 +607,13 @@ def calcNextVilList(V_n,dictGPSetTxPow,n,dictVilToGPAll,valLinkOnListVilSINR,lis
     #V_n_ = swapRandomTwo(V_n)
     V_n_ = copy(V_n)
     random.shuffle(V_n_)
-    dictGPSetTxPow_ = generate_GPPower(listGPCon,dictGPTxPow)
+    dictGPSetTxPow_ = recomb_GPPower(dictGPSetTxPow,dictGPTxPow)
     [Rew_V_n_,valdictVilCon_,_] = rewardSINR(V_n_,dictGPSetTxPow_,dictVilToGPAll,valLinkOnListVilSINR,vallistGPCon,valdictVilCon)
     [Rew_V_n,valdictVilCon,_] = rewardSINR(V_n,dictGPSetTxPow,dictVilToGPAll,valLinkOnListVilSINR,vallistGPCon,valdictVilCon)
     Beta = math.log(1+n)
     #Beta = math.log(1+float(n/100))    
     #Beta = 1 - float(1/(1+n))
-    print "Rew_V_n_",Rew_V_n_,"Rew_V_n",Rew_V_n
+    print n,"Rew_V_n_",Rew_V_n_,"Rew_V_n",Rew_V_n
     if(Rew_V_n_ >= Rew_V_n):
         return [V_n_,valdictVilCon_]
     else:
@@ -696,6 +696,13 @@ def generate_GPPower(listGPCon,dictGPTxPow):
 	dictGPSetTxPow[thisGPID] = random.choice(dictGPTxPow[thisGPID])
 	if(dictGPSetTxPow[thisGPID] == 0):
 	    del dictGPSetTxPow[thisGPID]
+    return dictGPSetTxPow
+    
+def recomb_GPPower(dictGPSetTxPow,dictGPTxPow):
+    thisGPID = random.choice(dictGPTxPow.keys())
+    dictGPSetTxPow[thisGPID] = random.choice(dictGPTxPow[thisGPID])
+    if(dictGPSetTxPow[thisGPID] == 0):
+        del dictGPSetTxPow[thisGPID]    
     return dictGPSetTxPow
     
 def calcGPSig(thisGPID,thisVilID,dictGPSetTxPow,dictVilToGPAll):

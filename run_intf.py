@@ -49,7 +49,7 @@ valdictVilCon = {}
 nIter = len(VilUniq)*10
 
 maxIterTrial = []
-for trials in range(10):
+for trials in range(1):
     ts3 = time.time()
     maxIter = 0
     maxRew = 0
