@@ -608,7 +608,7 @@ def calcNextVilList(dictGPSetTxPow,n,dictVilToGPAll,listGPCon,dictGPTxPow):
     Beta = math.log(1+n)
     #Beta = math.log(1+float(n/100))    
     #Beta = 1 - float(1/(1+n))
-    print "Rew_",Rew_,"Rew",Rew
+    print n,"Rew_",Rew_,"Rew",Rew
     if(Rew_ >= Rew):
         return [dictGPSetTxPow_,valdictVilCon_]
     else:
