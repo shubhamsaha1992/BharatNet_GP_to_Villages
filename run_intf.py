@@ -119,7 +119,6 @@ plt.show()
 
 # Generate a report
 with open("/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/512/Report.txt", "w") as text_file:
-    text_file.write("Time taken for %s iterations is %s \n" % (countVil,(ts6-ts3)))
     text_file.write("Total number of Villages: %s \n" % countVil)
     text_file.write("Total number of Villages connected: %s \n" % countVilLit)
     text_file.write("Total number of GPs: %s \n" % countGP)
@@ -128,7 +127,7 @@ with open("/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/512/Report.txt", "w"
     text_file.write("\n Convergence conditions: \n")
     for item in maxIterTrial:
         text_file.write("%s " % item)
-    text_file.write("\n Convergence values: \n")
+    text_file.write("\n Convergence values (number of Villages connected): \n")
     for item in maxRewTrial:
         text_file.write("%s " % item)
     
