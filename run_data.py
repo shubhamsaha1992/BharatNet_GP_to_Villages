@@ -25,7 +25,7 @@ from func_5GHz import *
 ts1 = time.time()
 
 
-with open('/home/shubham/TVWS/BharatNet_GP_to_Villages/Throughput files/512.csv', 'rb') as f:
+with open('/home/shubham/TVWS/BharatNet_GP_to_Villages/Throughput files/513.csv', 'rb') as f:
     reader = csv.reader(f)
     readCSV = list(reader)
     
@@ -131,18 +131,18 @@ for thisVil in VilUniq :
 ts3 = time.time()
 print "\n Time taken for shortlisting GPs", (ts3-ts2), "\n"
 
-with open('/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/512/dictGPTxPow.p', 'w') as dictGPTxPowFile:
+with open('/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/513/dictGPTxPow.p', 'w') as dictGPTxPowFile:
     pickle.dump(dictGPTxPow, dictGPTxPowFile)
     
-with open('/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/512/dictVilToGPAll.p', 'w') as dictVilToGPAllFile:
+with open('/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/513/dictVilToGPAll.p', 'w') as dictVilToGPAllFile:
     pickle.dump(dictVilToGPAll, dictVilToGPAllFile)
  
-with open('/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/512/listGPCon.p', 'w') as listGPConFile:
+with open('/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/513/listGPCon.p', 'w') as listGPConFile:
     pickle.dump(listGPCon, listGPConFile)
     
-with open('/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/512/GPUniq.p', 'w') as GPUniqFile:
+with open('/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/513/GPUniq.p', 'w') as GPUniqFile:
     pickle.dump(GPUniq, GPUniqFile)
     
-with open('/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/512/VilUniq.p', 'w') as VilUniqFile:
+with open('/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/513/VilUniq.p', 'w') as VilUniqFile:
     pickle.dump(VilUniq, VilUniqFile)
 

@@ -46,10 +46,11 @@ V_n = keysVilAll
 valLinkOnListVilSINR = []
 vallistGPCon = [] 
 valdictVilCon = {}
-nIter = len(VilUniq)*10
+nIter = len(VilUniq)*200
 
 maxIterTrial = []
-for trials in range(1):
+maxRewTrial = []
+for trials in range(10):
     ts3 = time.time()
     maxIter = 0
     maxRew = 0
@@ -64,6 +65,7 @@ for trials in range(1):
         #ts5 = time.time()
         #print "Time taken for this iteration", (ts5-ts4)
     maxIterTrial.append(maxIter)
+    maxRewTrial.append(maxRew)
     ts6 = time.time()
     print "Time taken for ", (nIter), " iterations is ", (ts6-ts3)
 
@@ -118,12 +120,14 @@ plt.show()
 
 # Generate a report
 with open("/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/512/Report.txt", "w") as text_file:
-    text_file.write("Time taken for %s iterations is %s \n" % (countVil,(ts6-ts3)))
     text_file.write("Total number of Villages: %s \n" % countVil)
     text_file.write("Total number of Villages connected: %s \n" % countVilLit)
     text_file.write("Total number of GPs: %s \n" % countGP)
     text_file.write("Total number of GPs used: %s \n" % countGP2Lit)
-    text_file.write("Convergence conditions: \n")
+    text_file.write("Time taken for %s iterations is %s"%(nIter, (ts6-ts3)))
+    text_file.write("\n Convergence conditions: \n")
     for item in maxIterTrial:
         text_file.write("%s " % item)
-    
+    text_file.write("\n Convergence values (number of Villages connected): \n")
+    for item in maxRewTrial:
+        text_file.write("%s " % item)

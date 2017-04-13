@@ -1,7 +1,9 @@
-Time taken for 113 iterations is 219.859420061 
 Total number of Villages: 113 
-Total number of Villages connected: 81 
+Total number of Villages connected: 84 
 Total number of GPs: 93 
-Total number of GPs used: 28 
-Convergence conditions: 
-148 
+Total number of GPs used: 27 
+Time taken for 22600 iterations is 4470.39253998
+ Convergence conditions: 
+4233 5984 13153 15369 12689 8891 0 13162 0 18597 
+ Convergence values (number of Villages connected): 
+84 84 83 86 83 85 85 84 84 84 
