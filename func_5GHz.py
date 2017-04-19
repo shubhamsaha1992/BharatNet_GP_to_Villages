@@ -603,22 +603,37 @@ def localOpt(dictGPSetTxPow,dictGPTxPow,dictVilToGPAll):
         setPow = dictGPSetTxPow[keyGP]
         givenPowList = dictGPTxPow[keyGP]
         givenPowList.sort()
-        setPowIndex = givenPowList.index(setPow)
+        if setPow is not 0 :
+            setPowIndex = givenPowList.index(setPow)
         #print setPowIndex
         #print beginPow,setPow,endPow
-        if setPowIndex > 0 :
-            print "Happening"
-            beginPow = givenPowList[setPowIndex-1]
-            #for setPow_ in np.arange(beginPow,setPow,1) :
-            for setPow_ in givenPowList:
-                dictGPSetTxPow_[keyGP] = setPow_
-                [Rew_,valdictVilCon_,_] = rewardSINR(dictGPSetTxPow_,dictVilToGPAll)
-                print "Rew_",Rew_,"maxRew",maxRew
-                if(Rew_ > maxRew):
-                    maxRew = Rew_
-                    maxdictGPSetTxPow = dictGPSetTxPow_
-                    maxdictVilCon = valdictVilCon_
-            dictGPSetTxPow_ =  maxdictGPSetTxPow                               
+        
+        
+        print "Opt over all pre calc values"
+        for setPow_ in givenPowList:
+            dictGPSetTxPow_[keyGP] = setPow_
+            [Rew_,valdictVilCon_,_] = rewardSINR(dictGPSetTxPow_,dictVilToGPAll)
+            print "Rew_",Rew_,"maxRew",maxRew
+            if(Rew_ > maxRew):
+                maxRew = Rew_
+                maxdictGPSetTxPow = dictGPSetTxPow_
+                maxdictVilCon = valdictVilCon_
+        dictGPSetTxPow_ =  maxdictGPSetTxPow  
+
+
+#        if setPowIndex > 0 :
+#            print "Happening"
+#            beginPow = givenPowList[setPowIndex-1]
+#            #for setPow_ in np.arange(beginPow,setPow,1) :
+#            for setPow_ in givenPowList:
+#                dictGPSetTxPow_[keyGP] = setPow_
+#                [Rew_,valdictVilCon_,_] = rewardSINR(dictGPSetTxPow_,dictVilToGPAll)
+#                print "Rew_",Rew_,"maxRew",maxRew
+#                if(Rew_ > maxRew):
+#                    maxRew = Rew_
+#                    maxdictGPSetTxPow = dictGPSetTxPow_
+#                    maxdictVilCon = valdictVilCon_
+#            dictGPSetTxPow_ =  maxdictGPSetTxPow                               
                     
 #        if setPowIndex < (len(givenPowList)-1):
 #            print "Happening again"
