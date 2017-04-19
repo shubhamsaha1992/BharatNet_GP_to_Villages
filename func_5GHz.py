@@ -594,7 +594,53 @@ def swapRandomTwo(keysVilAll):
 	
 	return keysVilAll_
 	
-def calcNextVilList(dictGPSetTxPow,n,dictVilToGPAll,listGPCon,dictGPTxPow):
+def localOpt(dictGPSetTxPow,dictGPTxPow,dictVilToGPAll):
+    dictGPSetTxPow_ = copy(dictGPSetTxPow)
+    keysGPPowList = dictGPSetTxPow_.keys()
+    [maxRew,maxdictVilCon,_] = rewardSINR(dictGPSetTxPow_,dictVilToGPAll)
+    maxdictGPSetTxPow = copy(dictGPSetTxPow)
+    for keyGP in keysGPPowList:
+        setPow = dictGPSetTxPow[keyGP]
+        givenPowList = dictGPTxPow[keyGP]
+        givenPowList.sort()
+        setPowIndex = givenPowList.index(setPow)
+        #print setPowIndex
+        #print beginPow,setPow,endPow
+        if setPowIndex > 0 :
+            print "Happening"
+            beginPow = givenPowList[setPowIndex-1]
+            #for setPow_ in np.arange(beginPow,setPow,1) :
+            for setPow_ in givenPowList:
+                dictGPSetTxPow_[keyGP] = setPow_
+                [Rew_,valdictVilCon_,_] = rewardSINR(dictGPSetTxPow_,dictVilToGPAll)
+                print "Rew_",Rew_,"maxRew",maxRew
+                if(Rew_ > maxRew):
+                    maxRew = Rew_
+                    maxdictGPSetTxPow = dictGPSetTxPow_
+                    maxdictVilCon = valdictVilCon_
+            dictGPSetTxPow_ =  maxdictGPSetTxPow                               
+                    
+#        if setPowIndex < (len(givenPowList)-1):
+#            print "Happening again"
+#            endPow = givenPowList[setPowIndex+1]
+#            for setPow_ in np.arange(setPow,endPow,1) :
+#                dictGPSetTxPow_[keyGP] = setPow_
+#                [Rew_,valdictVilCon_,_] = rewardSINR(dictGPSetTxPow_,dictVilToGPAll)
+#                print "Rew_",Rew_,"maxRew",maxRew
+#                if(Rew_ > maxRew):
+#                    maxRew = Rew_
+#                    maxdictGPSetTxPow = dictGPSetTxPow_
+#                    maxdictVilCon = valdictVilCon_
+#            dictGPSetTxPow_ =  maxdictGPSetTxPow
+#  
+  
+            
+        
+    return [maxdictGPSetTxPow,maxdictVilCon]
+    
+    
+
+def calcNextVilList(dictGPSetTxPow,n,dictVilToGPAll,dictGPTxPow):
 #    print dictGPSetTxPow
 
     dictGPSetTxPow_ = recomb_GPPower(dictGPSetTxPow,dictGPTxPow)
