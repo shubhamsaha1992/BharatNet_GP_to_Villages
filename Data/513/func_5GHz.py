@@ -15,7 +15,7 @@ from goapi import sign_url
 import hashlib
 import hmac
 import base64
-from copy import copy,deepcopy
+from copy import copy
 import sys
 import urlparse
 
@@ -580,7 +580,7 @@ def calcSINR(dictVilToGPAll,thisVilID,dictGPSetTxPow):
 def reducThptBy(maxSINRGPID,thisVilReqThpt,dictGPThpt):
 	dictGPThpt[maxSINRGPID] -= thisVilReqThpt
 	return dictGPThpt
-   
+
 def isSuffThpt(dictGPThpt,thisGPID,thisVilReqThpt):
 	if (thisGPID not in dictGPThpt.keys()) :
 		return (thisVilReqThpt <= GPThptVal)
@@ -595,80 +595,37 @@ def swapRandomTwo(keysVilAll):
 	return keysVilAll_
 	
 def localOpt(dictGPSetTxPow,dictGPTxPow,dictVilToGPAll):
-    dictVilToGPAll_= deepcopy(dictVilToGPAll)
-    dictGPSetTxPow_ = deepcopy(dictGPSetTxPow)
-    dictGPTxPow_ = deepcopy(dictGPTxPow)
-    #keysGPPowList = dictGPSetTxPow_.keys()
-    keysGPPowList = dictGPTxPow_.keys()
-    maxdictGPSetTxPow = deepcopy(dictGPSetTxPow)
-    [maxRew,maxdictVilCon,_] = rewardSINR(maxdictGPSetTxPow,dictVilToGPAll)
+    dictGPSetTxPow_ = copy(dictGPSetTxPow)
+    keysGPPowList = dictGPSetTxPow_.keys()
+    [maxRew,maxdictVilCon,_] = rewardSINR(dictGPSetTxPow_,dictVilToGPAll)
+    maxdictGPSetTxPow = copy(dictGPSetTxPow)
     for keyGP in keysGPPowList:
-        givenPowList = dictGPTxPow_[keyGP]
-        givenPowList.sort()        
+        setPow = dictGPSetTxPow[keyGP]
+        givenPowList = dictGPTxPow[keyGP]
+        givenPowList.sort()
+        if setPow is not 0 :
+            setPowIndex = givenPowList.index(setPow)
+        #print setPowIndex
+        #print beginPow,setPow,endPow
+        
         
         print "Opt over all pre calc values"
-        minPow = min(givenPowList)
-        maxPow = max(givenPowList)
-        print minPow, maxPow
-        
-        if keyGP in dictGPSetTxPow.keys():
-            prevPow = dictGPSetTxPow_[keyGP]
-            print "GP already lit"
-            print "Opt over incrementally decr values"
-            for setPow_ in np.arange(prevPow,minPow,-1):
-                dictGPSetTxPow__ = deepcopy(dictGPSetTxPow_)
-                dictGPSetTxPow__[keyGP] = setPow_
-                [Rew_,_,_] = rewardSINR(dictGPSetTxPow__,dictVilToGPAll)
-                print "Rew_",Rew_,"maxRew",maxRew
-                if(Rew_ > maxRew):
-                    maxRew = Rew_
-                    maxdictGPSetTxPow = deepcopy(dictGPSetTxPow__)
-                    print "maxdictGPSetTxPow changing"
-            #print "dictGPSetTxPow_ setting to maxdictGPSetTxPow"
-            dictGPSetTxPow_ =  maxdictGPSetTxPow
-            [Rew_,_,_] = rewardSINR(maxdictGPSetTxPow,dictVilToGPAll_)
-            print "Rew_",Rew_
-            
-            print "Opt over incrementally incr values"
-            for setPow_ in np.arange(prevPow,maxPow,1):
-                dictGPSetTxPow__ = deepcopy(dictGPSetTxPow_)
-                dictGPSetTxPow__[keyGP] = setPow_
-                [Rew_,_,_] = rewardSINR(dictGPSetTxPow__,dictVilToGPAll)
-                print "Rew_",Rew_,"maxRew",maxRew
-                if(Rew_ > maxRew):
-                    maxRew = Rew_
-                    maxdictGPSetTxPow = deepcopy(dictGPSetTxPow__)
-                    print "maxdictGPSetTxPow changing"
-            #print "dictGPSetTxPow_ setting to maxdictGPSetTxPow"
-            dictGPSetTxPow_ =  maxdictGPSetTxPow
-            [Rew_,_,_] = rewardSINR(maxdictGPSetTxPow,dictVilToGPAll_)
-            print "Rew_",Rew_
-            
-        else:
-            print "Lighting GP now"
-            for setPow_ in np.arange(minPow,maxPow,1):
-                dictGPSetTxPow__ = deepcopy(dictGPSetTxPow_)
-                dictGPSetTxPow__[keyGP] = setPow_
-                [Rew_,_,_] = rewardSINR(dictGPSetTxPow__,dictVilToGPAll)
-                print "Rew_",Rew_,"maxRew",maxRew
-                if(Rew_ > maxRew):
-                    maxRew = Rew_
-                    maxdictGPSetTxPow = deepcopy(dictGPSetTxPow__)
-                    print "maxdictGPSetTxPow changing"
-            #print "dictGPSetTxPow_ setting to maxdictGPSetTxPow"
-            dictGPSetTxPow_ =  maxdictGPSetTxPow
-            [Rew_,_,_] = rewardSINR(maxdictGPSetTxPow,dictVilToGPAll_)
-            print "Rew_",Rew_
-            
+        for setPow_ in givenPowList:
+            dictGPSetTxPow_[keyGP] = setPow_
+            [Rew_,valdictVilCon_,_] = rewardSINR(dictGPSetTxPow_,dictVilToGPAll)
+            print "Rew_",Rew_,"maxRew",maxRew
+            if(Rew_ > maxRew):
+                maxRew = Rew_
+                maxdictGPSetTxPow = dictGPSetTxPow_
+                maxdictVilCon = valdictVilCon_
+        dictGPSetTxPow_ =  maxdictGPSetTxPow  
 
-#        setPow = dictGPSetTxPow[keyGP]
-#        if setPow is not 0 :
-#            setPowIndex = givenPowList.index(setPow)
+    
 #        if setPowIndex > 0 :
 #            print "Opt over incrementally decr values"
 #            beginPow = givenPowList[setPowIndex-1]
 #            #for setPow_ in np.arange(beginPow,setPow,1) :
-#            for setPow_ in np.arange(beginPow,setPow,1):
+#            for setPow_ in givenPowList:
 #                dictGPSetTxPow_[keyGP] = setPow_
 #                [Rew_,valdictVilCon_,_] = rewardSINR(dictGPSetTxPow_,dictVilToGPAll)
 #                print "Rew_",Rew_,"maxRew",maxRew
@@ -677,9 +634,9 @@ def localOpt(dictGPSetTxPow,dictGPTxPow,dictVilToGPAll):
 #                    maxdictGPSetTxPow = dictGPSetTxPow_
 #                    maxdictVilCon = valdictVilCon_
 #            dictGPSetTxPow_ =  maxdictGPSetTxPow                               
-#                    
+                    
 #        if setPowIndex < (len(givenPowList)-1):
-#            print "Opt over incrementally incr values"
+#            print "Happening again"
 #            endPow = givenPowList[setPowIndex+1]
 #            for setPow_ in np.arange(setPow,endPow,1) :
 #                dictGPSetTxPow_[keyGP] = setPow_
@@ -690,7 +647,7 @@ def localOpt(dictGPSetTxPow,dictGPTxPow,dictVilToGPAll):
 #                    maxdictGPSetTxPow = dictGPSetTxPow_
 #                    maxdictVilCon = valdictVilCon_
 #            dictGPSetTxPow_ =  maxdictGPSetTxPow
-
+#  
   
             
         
@@ -727,10 +684,7 @@ def rewardSINR(dictGPSetTxPow,dictVilToGPAll):
     listGPCon = []
     dictVilCon = {}
     dictGPThpt = {}
-    dictVilToGPAll = copy(dictVilToGPAll)
-    dictGPSetTxPow = deepcopy(dictGPSetTxPow)
     keysVilAll = list(dictVilToGPAll.keys())
-    
 
     for keyVil in keysVilAll:
         thisVil = dictVilToGPAll[keyVil]

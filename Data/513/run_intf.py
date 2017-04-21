@@ -19,22 +19,22 @@ ts1 = time.time()
 
 dictGPTxPow = {}
     
-with open('/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/512/dictGPTxPow.p', 'r') as dictGPTxPowFile:
+with open('/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/513/dictGPTxPow.p', 'r') as dictGPTxPowFile:
     dictGPTxPow = pickle.load(dictGPTxPowFile)
     
 dictVilToGPAll = {}
 
-with open('/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/512/dictVilToGPAll.p', 'r') as dictVilToGPAllFile:
+with open('/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/513/dictVilToGPAll.p', 'r') as dictVilToGPAllFile:
     dictVilToGPAll = pickle.load(dictVilToGPAllFile)
 #print dictVilToGPAll
 
-with open('/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/512/listGPCon.p', 'r') as listGPConFile:
+with open('/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/513/listGPCon.p', 'r') as listGPConFile:
     listGPCon = pickle.load(listGPConFile)
     
-with open('/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/512/GPUniq.p', 'r') as GPUniqFile:
+with open('/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/513/GPUniq.p', 'r') as GPUniqFile:
     GPUniq = pickle.load(GPUniqFile)
     
-with open('/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/512/VilUniq.p', 'r') as VilUniqFile:
+with open('/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/513/VilUniq.p', 'r') as VilUniqFile:
     VilUniq = pickle.load(VilUniqFile)
     
 ts2 = time.time()
@@ -47,10 +47,9 @@ vallistGPCon = []
 valdictVilCon = {}
 
 
-nIter = len(VilUniq)*10
-ts3 = time.time()
-maxIterTrial = []
-maxRewTrial = []
+#nIter = len(VilUniq)*10
+#maxIterTrial = []
+#maxRewTrial = []
 #for trials in range(1):
 #    ts3 = time.time()
 #    maxIter = 0
@@ -70,15 +69,14 @@ maxRewTrial = []
 #    ts6 = time.time()
 #    print "Time taken for ", (nIter), " iterations is ", (ts6-ts3)
     
-ts6 = time.time()
     
-with open('/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/512/dictGPSetTxPow.p', 'r') as dictGPSetTxPowFile:
+with open('/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/513/dictGPSetTxPow.p', 'r') as dictGPSetTxPowFile:
     dictGPSetTxPow = pickle.load(dictGPSetTxPowFile)
     
-with open('/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/512/valdictVilCon.p', 'r') as valdictVilConFile:
+with open('/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/513/valdictVilCon.p', 'r') as valdictVilConFile:
     valdictVilCon = pickle.load(valdictVilConFile)
 
-[dictGPSetTxPow,_] = localOpt(dictGPSetTxPow,dictGPTxPow,dictVilToGPAll)
+[dictGPSetTxPow,valdictVilCon] = localOpt(dictGPSetTxPow,dictGPTxPow,dictVilToGPAll)
 
 [Rew,valdictVilCon,valdictGPThpt] = rewardSINR(dictGPSetTxPow,dictVilToGPAll)
 #print valdictGPThpt
@@ -116,24 +114,20 @@ labels = list(labels.values())
 pos_nodes = nx.get_node_attributes(GR_GP2Vil,'pos')
 color = nx.get_node_attributes(GR_GP2Vil, 'category')
 color = list(color.values())
-node_labels = nx.get_edge_attributes(GR_GP2Vil,'weight')
-label_pos = {k:[v[0],v[1]+.004] for k,v in pos_nodes.iteritems()}
-edges = list(valdictVilCon.items())
-
 nx.draw_networkx_nodes(GR_GP2Vil,pos_nodes,node_size=5, node_color = color,linewidths = 0)
-nx.draw_networkx_labels(GR_GP2Vil,label_pos,font_size=3)
+pos_labels = {k:[v[0],v[1]+.004] for k,v in pos_nodes.iteritems()}
+nx.draw_networkx_labels(GR_GP2Vil,pos_labels,font_size=3)
+edges = list(valdictVilCon.items())
+#labels = nx.get_edge_attributes(GR_GP2Vil,'weight')
 nx.draw_networkx_edges(GR_GP2Vil, pos_nodes, edges)
-
-
 #nx.draw_networkx_edge_labels(GR_GP2Vil, pos, edge_labels = labels)
 plt.axis('off')
-#nx.draw_networkx(GR_GP2Vil,pos=pos_nodes,node_size=5,font_size=3,node_color=color,edgelist=edges,labels=pos_labels,linewidths=0)
-plt.savefig("/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/512/weighted_graph.pdf", dpi = 5000)
+plt.savefig("/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/513/weighted_graph.pdf", dpi = 5000) # save as pdf
 plt.show()
 
 
 # Generate a report
-with open("/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/512/Report.txt", "w") as text_file:
+with open("/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/513/Report.txt", "w") as text_file:
     text_file.write("Total number of Villages: %s \n" % countVil)
     text_file.write("Total number of Villages connected: %s \n" % countVilLit)
     text_file.write("Total number of GPs: %s \n" % countGP)
@@ -142,10 +136,10 @@ with open("/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/512/Report.txt", "w"
     text_file.write("\n Convergence conditions: \n")
     for item in maxIterTrial:
         text_file.write("%s " % item)
-    #minIter = min(maxIterTrial)
-    #maxIter = max(maxIterTrial)
-    #avgIter = (sum(maxIterTrial) / float(len(maxIterTrial)))
-    #text_file.write("\n(Min,Max,Avg): (%s,%s,%s) \n"%(minIter,maxIter,avgIter))
+    minIter = min(maxIterTrial)
+    maxIter = max(maxIterTrial)
+    avgIter = (sum(maxIterTrial) / float(len(maxIterTrial)))
+    text_file.write("\n(Min,Max,Avg): (%s,%s,%s) \n"%(minIter,maxIter,avgIter))
     text_file.write("\n Convergence values (number of Villages connected): \n")
     for item in maxRewTrial:
         text_file.write("%s " % item)
