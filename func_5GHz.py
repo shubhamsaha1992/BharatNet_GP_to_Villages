@@ -390,7 +390,7 @@ def rf_get( pos=[[17, 23],[18, 22]],\
 		##print('distance : {}, Tx:{}, Rx:{}'.format(distt, pos[0], pos[1]))
 		PL = freePathLoss(distt, 5.8)
 		rsTable_5_8_Temp=[29.3, 58.5, 87.8, 117, 175.5, 234, 263.3, 292.5, 351, 390]
-		rsTable_5_8_TP = [TPactual * i for i in rsTable_5_8_Temp]
+		rsTable_5_8_TP = [0.4 * TPactual * i for i in rsTable_5_8_Temp]
 		rsTable_5_8 = [[-96, -95, -92, -90, -86, -83 , -77, -74, -69, -65], rsTable_5_8_TP]#[[ -76, -78, -82], [ 54, 48, 36]]                 ## looks like some pre-calculated table ( RX sensitivity ?)
 		# rsTable_5_8 = [[ -65, -69, -74, -77, -83, -86, -90, -92, -95, -96], [ 195, 175 , 146, 130, 117, 85, 59, 44, 27, 15]]
 		# rsTable_5_8 = [[ -65, -69, -74, -77, -83, -86, -90, -92, -95, -96], [ 50, 45 , 40, 40, 30, 26, 24, 14, 10, 6]]                                                                ## Why 2 rows and 3 columns ??

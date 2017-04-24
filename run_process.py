@@ -52,7 +52,7 @@ keysVilAll = list(dictVilToGPAll.keys())
 valLinkOnListVilSINR = []
 vallistGPCon = [] 
 valdictVilCon = {}
-nIter = len(VilUniq)*200
+nIter = len(VilUniq)*1000
 
 maxIterTrial = []
 maxRewTrial = []

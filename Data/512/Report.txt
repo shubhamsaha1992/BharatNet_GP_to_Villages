@@ -1,8 +1,8 @@
 Total number of Villages: 113 
-Total number of Villages connected: 92 
+Total number of Villages connected: 96 
 Total number of GPs: 93 
-Total number of GPs used: 39 
-Time taken for 1130 iterations is 0.0
+Total number of GPs used: 41 
+Time taken for 1130 iterations is 9.53674316406e-07
  Convergence conditions: 
 
  Convergence values (number of Villages connected): 
