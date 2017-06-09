@@ -21,29 +21,53 @@ from random import shuffle,sample,randint
 from geopy.distance import vincenty
 from Path_Loss import *
 from func_5GHz import *
+import sys
 
 ts1 = time.time()
 
 dictGPTxPow = {}
-    
-with open('/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/512/dictGPTxPow.p', 'r') as dictGPTxPowFile:
-    dictGPTxPow = pickle.load(dictGPTxPowFile)
-    
 dictVilToGPAll = {}
 
-with open('/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/512/dictVilToGPAll.p', 'r') as dictVilToGPAllFile:
-    dictVilToGPAll = pickle.load(dictVilToGPAllFile)
-#print dictVilToGPAll
+base_filename = sys.argv[1]
+dir_name = os.getcwd() + '/Data/' +base_filename
 
-with open('/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/512/listGPCon.p', 'r') as listGPConFile:
+if not os.path.exists(dir_name):
+    sys.exit(dir_name + " doesn't exist. Next file trying.")
+    
+
+#full_filename = os.getcwd() + '/Data/' +base_filename+ '/dictGPSetTxPow.p'
+#if os.path.exists(full_filename):
+#    sys.exit(full_filename + " already exist. Next file trying.")
+    
+base_filename = 'dictGPTxPow'
+full_filename = os.path.join(dir_name, base_filename + "." + 'p')
+with open(full_filename, 'r') as dictGPTxPowFile:
+    dictGPTxPow = pickle.load(dictGPTxPowFile)
+    
+
+base_filename = 'dictVilToGPAll'
+full_filename = os.path.join(dir_name, base_filename + "." + 'p')    
+with open(full_filename, 'r') as dictVilToGPAllFile:
+    dictVilToGPAll = pickle.load(dictVilToGPAllFile)
+
+base_filename = 'listGPCon'
+full_filename = os.path.join(dir_name, base_filename + "." + 'p')  
+with open(full_filename, 'r') as listGPConFile:
     listGPCon = pickle.load(listGPConFile)
-    
-with open('/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/512/GPUniq.p', 'r') as GPUniqFile:
+
+base_filename = 'GPUniq'
+full_filename = os.path.join(dir_name, base_filename + "." + 'p')     
+with open(full_filename, 'r') as GPUniqFile:
     GPUniq = pickle.load(GPUniqFile)
-    
-with open('/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/512/VilUniq.p', 'r') as VilUniqFile:
+ 
+base_filename = 'VilUniq'
+full_filename = os.path.join(dir_name, base_filename + "." + 'p')    
+with open(full_filename, 'r') as VilUniqFile:
     VilUniq = pickle.load(VilUniqFile)
     
+
+
+
 ts2 = time.time()
 print "Time taken to load from file", (ts2-ts1)
     
@@ -52,7 +76,7 @@ keysVilAll = list(dictVilToGPAll.keys())
 valLinkOnListVilSINR = []
 vallistGPCon = [] 
 valdictVilCon = {}
-nIter = len(VilUniq)*1000
+nIter = len(VilUniq)*100
 
 maxIterTrial = []
 maxRewTrial = []
@@ -75,10 +99,18 @@ for trials in range(1):
     ts6 = time.time()
     print "Time taken for ", (nIter), " iterations is ", (ts6-ts3)
 
-
-with open('/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/512/dictGPSetTxPow.p', 'w') as dictGPSetTxPowFile:
+base_filename = 'dictGPSetTxPow'
+full_filename = os.path.join(dir_name, base_filename + "." + 'p')     
+with open(full_filename, 'w') as dictGPSetTxPowFile:
     pickle.dump(dictGPSetTxPow, dictGPSetTxPowFile)
     
-with open('/home/shubham/TVWS/BharatNet_GP_to_Villages/Data/512/valdictVilCon.p', 'w') as valdictVilConFile:
+ 
+base_filename = 'valdictVilCon'
+full_filename = os.path.join(dir_name, base_filename + "." + 'p')    
+with open(full_filename, 'w') as valdictVilConFile:
     pickle.dump(valdictVilCon, valdictVilConFile)
+
+
+
+
     

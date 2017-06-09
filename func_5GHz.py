@@ -48,7 +48,7 @@ ELEVATION_BASE_URL = 'https://maps.google.com/maps/api/elevation/json'
 
 
 
-def getElevation(path, latlong_list, state="Maharashtra", dist="Nandurbar", samples="512",sensor="false", **elvtn_args):
+def getElevation(path, latlong_list, dist_filename, state="Maharashtra", dist="Nandurbar", samples="512",sensor="false", **elvtn_args):
 	'''
 		path contains a '|' seperated lat long eg
 			lat0, long0 | lat1, long1
@@ -85,7 +85,7 @@ def getElevation(path, latlong_list, state="Maharashtra", dist="Nandurbar", samp
 	if(elevationArray):
 		if not os.path.exists('elefile'):
 	 		os.makedirs('elefile')
-	 	with open('elefile/eleFile_'+str(state)+'_'+str(dist), 'a+') as fo:
+	 	with open('elefile/eleFile_'+dist_filename, 'a+') as fo:
 	 		lstr = ''
 	 		for ht in elevationArray:
 	 			lstr += str(ht)
@@ -96,15 +96,17 @@ def getElevation(path, latlong_list, state="Maharashtra", dist="Nandurbar", samp
 
 
 
-def get_elevation_profile(latlongPair,state='Maharashtra',dist='Nandurbar'):
+def get_elevation_profile(latlongPair,dist_filename,state='Maharashtra',dist='Nandurbar'):
 	'''
 		RETURNS a list of two elements
 		First element is status. 
 			If status is true, Second element will return elevation profile.
 	'''
 	print "called at", time.time()
-	if(os.path.exists('elefile/eleFile_'+str(state)+'_'+str(dist))):
-		with open('elefile/eleFile_'+str(state)+'_'+str(dist), 'r+') as foo:
+#	if(os.path.exists('elefile/eleFile_'+str(state)+'_'+str(dist)+'_'+dist_filename)):
+#		with open('elefile/eleFile_'+str(state)+'_'+str(dist)+'_'+dist_filename, 'r+') as foo:
+ 	if(os.path.exists('elefile/eleFile_'+dist_filename)):
+		with open('elefile/eleFile_'+dist_filename, 'r+') as foo:
 			lines = foo.readlines()
 
 		for li in lines:
@@ -132,13 +134,13 @@ def get_elevation_profile(latlongPair,state='Maharashtra',dist='Nandurbar'):
 	##print 'elevation will be fetched now',latlongPair
 	#return getElevation(latlong_query_str,[latlongPair[0], latlongPair[1], latlongPair[2], latlongPair[3]],state,dist)
 	try:
-		return getElevation(latlong_query_str,[latlongPair[0], latlongPair[1], latlongPair[2], latlongPair[3]],state,dist)
+		return getElevation(latlong_query_str,[latlongPair[0], latlongPair[1], latlongPair[2], latlongPair[3]],dist_filename,state,dist)
 	except IOError, e:
 		if e.errno == 101 or e.errno == 'socket error' or e.errno == -3 or e.errno == -2 or e.errno == 1:
 			#print "Network Error"
 			time.sleep(1)
 					#return get_distance(orig_coord,dest_coord,state,dist) 
-			return get_elevation_profile(latlongPair,state,dist)
+			return get_elevation_profile(latlongPair,state,dist,dist_filename)
 			#return getElevation(latlong_query_str,[latlongPair[0], latlongPair[1], latlongPair[2], latlongPair[3]],state,dist)         
 		else:
 			raise             
@@ -286,7 +288,7 @@ def compareGLL(l1, l2):
 		return True
 	return False
 
-def rf_get( pos=[[17, 23],[18, 22]],\
+def rf_get(base_filename, pos=[[17, 23],[18, 22]],\
 			htListT= [10,15,20,30,40],\
 			htListR = [3,6,9,15] ,\
 			reqThpt = 0
@@ -303,7 +305,7 @@ def rf_get( pos=[[17, 23],[18, 22]],\
 	# ele = get_elevation_profile([pos[0][0],pos[0][1],pos[1][0],pos[1][1]],state,dist)
 	latlong_query_str = '{},{} | {},{}'.format(pos[0][0],pos[0][1],pos[1][0],pos[1][1])
 	#ele = getElevation(latlong_query_str,[pos[0][0],pos[0][1],pos[1][0],pos[1][1]])
-	ele = get_elevation_profile([pos[0][0],pos[0][1],pos[1][0],pos[1][1]])
+	ele = get_elevation_profile([pos[0][0],pos[0][1],pos[1][0],pos[1][1]],base_filename)
 	lenEP = len(ele)
 	##print lenEP
 	dist = latlongdist(pos[0], pos[1])
@@ -613,8 +615,12 @@ def localOpt(dictGPSetTxPow,dictGPTxPow,dictVilToGPAll):
         
         if keyGP in dictGPSetTxPow.keys():
             prevPow = dictGPSetTxPow_[keyGP]
-            print "GP already lit"
-            print "Opt over incrementally decr values"
+            
+            
+            ##print "GP already lit"
+            ##print "Opt over incrementally decr values"
+            
+            
             for setPow_ in np.arange(prevPow,minPow,-1):
                 dictGPSetTxPow__ = deepcopy(dictGPSetTxPow_)
                 dictGPSetTxPow__[keyGP] = setPow_
@@ -629,7 +635,11 @@ def localOpt(dictGPSetTxPow,dictGPTxPow,dictVilToGPAll):
             [Rew_,_,_] = rewardSINR(maxdictGPSetTxPow,dictVilToGPAll_)
             print "Rew_",Rew_
             
-            print "Opt over incrementally incr values"
+            
+            
+            ##print "Opt over incrementally incr values"
+            
+            
             for setPow_ in np.arange(prevPow,maxPow,1):
                 dictGPSetTxPow__ = deepcopy(dictGPSetTxPow_)
                 dictGPSetTxPow__[keyGP] = setPow_
@@ -645,7 +655,11 @@ def localOpt(dictGPSetTxPow,dictGPTxPow,dictVilToGPAll):
             print "Rew_",Rew_
             
         else:
-            print "Lighting GP now"
+            
+            
+            ##print "Lighting GP now"
+            
+            
             for setPow_ in np.arange(minPow,maxPow,1):
                 dictGPSetTxPow__ = deepcopy(dictGPSetTxPow_)
                 dictGPSetTxPow__[keyGP] = setPow_
@@ -693,7 +707,6 @@ def localOpt(dictGPSetTxPow,dictGPTxPow,dictVilToGPAll):
 
   
             
-        
     return [maxdictGPSetTxPow,maxdictVilCon]
     
     
