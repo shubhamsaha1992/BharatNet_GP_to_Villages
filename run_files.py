@@ -18,11 +18,11 @@ def process(filename):
     
  
 
-
+os.remove("Maharashtra.csv")
 dir_name = os.getcwd() + '/Throughput files'
-base_filename = sys.argv[1]
-process(base_filename)
+#base_filename = sys.argv[1]
+#process(base_filename)
 
-#for f in os.listdir(dir_name):
-#    process(f)
+for f in os.listdir(dir_name):
+    process(f)
     

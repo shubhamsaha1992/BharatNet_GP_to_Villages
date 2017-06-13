@@ -31,11 +31,33 @@ dir_name = os.getcwd() + '/Throughput files'
 full_filename = os.path.join(dir_name, base_filename + "." + 'csv')
 #full_filename = os.path.join(dir_name, base_filename)
 
-
-
 with open(full_filename, 'rb') as f:
     reader = csv.reader(f)
     readCSV = list(reader)
+    
+for row in readCSV:
+#	thisGP = row[4]+'_'+row[5]
+#	GPName.append(thisGP)
+	thisVil = row[9]+'_'+row[10] 
+	VilName.append(thisVil)
+    
+    
+base_filename = sys.argv[1]
+dir_name = os.getcwd() + '/Throughput files/Maharashtra_input'
+full_filename = os.path.join(dir_name, base_filename + "." + 'csv')
+#full_filename = os.path.join(dir_name, base_filename)
+
+with open(full_filename, 'rb') as f:
+    reader = csv.reader(f)
+    readCSV_GP = list(reader)
+    
+for row in readCSV_GP:
+      thisGPCode = row[11]
+	thisGP = row[8]+'_'+row[9]
+	GPName.append(thisGP)
+#	thisVil = row[9]+'_'+row[10] 
+#	VilName.append(thisVil)
+    
     
     
 GPName = []
@@ -49,31 +71,22 @@ VilID =[]
 #begin = 25
 #end = begin + nSamples
 #readCSV = readCSV[begin:end]
-for row in readCSV:
-	thisGP = row[8]+'_'+row[9]
-	GPName.append(thisGP)
-	thisVil = row[13]+'_'+row[14] 
-	VilName.append(thisVil)
-    
+
 GPconv = pd.Series(GPName).astype('category')
 GPID = GPconv.cat.codes
 Vilconv = pd.Series(VilName).astype('category')
 VilID = Vilconv.cat.codes + 1000
-readCSV = np.insert(readCSV,8,GPID,axis=1)
-readCSV = np.insert(readCSV,14,VilID,axis=1)
-GPID = readCSV[1:,(8,9,10)]
+readCSV_GP = np.insert(readCSV_GP,8,GPID,axis=1)
+readCSV = np.insert(readCSV,10,VilID,axis=1)
+GPID = readCSV_GP[1:,(8,9,10)]
 GPID = [[float(y) for y in x] for x in GPID]
-VilID = readCSV[1:,(14,15,16,19)]
+VilID = readCSV[1:,(10,11,12,8)]
 VilID = [map(float,x) for x in VilID]
 
 GPID = np.array(GPID)
 b = np.ascontiguousarray(GPID).view(np.dtype((np.void, GPID.dtype.itemsize * GPID.shape[1])))
 _, idx = np.unique(b, return_index=True)
 GPUniq = GPID[idx]
-GPThptVal = 100
-maxThptCol = np.ones((len(GPUniq),1)) * GPThptVal
-GPUniq = np.append(GPUniq,maxThptCol,axis = 1)
-
 
 VilID = np.array(VilID)
 b = np.ascontiguousarray(VilID).view(np.dtype((np.void, VilID.dtype.itemsize * VilID.shape[1])))

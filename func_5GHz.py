@@ -707,6 +707,7 @@ def localOpt(dictGPSetTxPow,dictGPTxPow,dictVilToGPAll):
 
   
             
+    print("returned")
     return [maxdictGPSetTxPow,maxdictVilCon]
     
     
