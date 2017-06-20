@@ -1,0 +1,10 @@
+88888,forbesganj block
+88888,palasi block
+91134,bhatiyahi
+91156,rampur south
+91237,dehti south
+91203,badhepara
+91213,madhura north
+91215,madhura south
+91214,madhura west
+91121,raghunathpur south

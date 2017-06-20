@@ -1,0 +1,963 @@
+State_Name,State Code,District_Name,District_Code,Block_Name,Block_Code,GP Name,GP Code,Latitude,Longitude,Location_OF_GP,Phase,population
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Agali, 4686,agali, 195775, 13.782912, 77.054593, Agali Gp, 2,603
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Agali, 4686,hullekeradevarahalli, 195776, 13.77772, 77.016846, HD Halli Gp, 2,1936
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Agali, 4686,ingalore, 195777, 13.836294, 77.042582, Ingalore Gp, 2,500
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Agali, 4686,kodihalli, 195778, 13.782362, 77.073476, Kodihalli Gp, 2,4161
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Agali, 4686,madhudi, 195779, 13.819792, 77.018573, Madhudu Gp, 2,3586
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Agali, 4686,narasambudi, 195780, 13.807341, 77.045992, Narsambudi Gp, 2,3852
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Agali, 4686,p.byadigera, 195781, 13.789012, 76.994063, P.byadigera Gp, 2,2921
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Agali, 4686,ragelinganahalli, 195782, 13.759368, 77.067893, Ragelingala halli Gp, 2,6461
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Agali, 4686,ravudi, 195783, 13.823379, 76.987299, Ravudi GP, 2,3880
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Amadagur, 4687,amadagur, 195784, 13.886683, 78.022654, AMADAGUR GP, 2,1139
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Amadagur, 4687,cheekirevulapalli, 195785, 13.877348, 78.034842, CHEEKIREVULAPALLI GP, 2,775
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Amadagur, 4687,chinaganipalli, 195786, 13.867603, 77.980653, CHINAGANIPALLI GP, 2,603
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Amadagur, 4687,gunduvaripalli, 195787, 13.90174, 78.02996, GUNDUVARIPALLI GP, 2,6818
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Amadagur, 4687,jowkulakothapalli, 195788, 13.979452, 78.028243, JOWKULAKOTHAPALLI GP, 2,3818
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Amadagur, 4687,kassamudram, 195789, 13.944916, 78.009492, KASSAMUDRAM GP, 2,1686
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Amadagur, 4687,mohammadabad, 195790, 13.969024, 78.007426, MOHAMMADABAD GP, 2,4123
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Amadagur, 4687,pulikuntapalli, 195791, 13.894828, 78.101036, PULIKUNTAPALLI GP, 2,1438
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Amadagur, 4687,thummala, 195792, 13.928753, 78.073024, THUMMALA GP, 2,5771
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Amarapuram, 4688,aldahalli, 195793, 14.047359, 77.046696, ALDAHALLI GP, 2,6606
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Amarapuram, 4688,amarapuram, 195794, 14.131421, 76.978049, AMARAPURAM GP, 2,5884
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Amarapuram, 4688,basavanahalli, 195795, 14.02434, 77.062036, BASAVANAHALLI GP, 2,6219
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Amarapuram, 4688,halukuru, 195796, 14.094286, 77.006732, HALUKURU GP, 2,6988
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Amarapuram, 4688,hemavathi, 195797, 14.026932, 76.992484, HEMAVATHI GP, 2,8910
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Amarapuram, 4688,nidragatta, 195798, 14.038069, 76.951756, NIDRAGATTA GP, 2,3277
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Amarapuram, 4688,sivaram, 195799, 14.031874, 77.025546, SIVARAM GP, 2,4600
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Amarapuram, 4688,thammedahalli, 195800, 14.148015, 76.980308, THAMMEDAHALLI GP, 2,6671
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Amarapuram, 4688,valasa, 195801, 14.160897, 76.948151, VALASA GP, 2,5660
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Atmakuru, 4690,atmakur, 195827, 14.644544, 77.364376, ATMAKUR GP, 2,1584
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Atmakuru, 4690,b.yaleru, 195828, 14.629728, 77.507685, B.YALERU GP, 2,2555
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Atmakuru, 4690,goridindla, 195829, 14.573172, 77.378059, GORIDINDLA GP, 2,768
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Atmakuru, 4690,madigubba, 195830, 14.636697, 77.471914, MADIGUBBA GP, 2,2444
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Atmakuru, 4690,muttala, 195831, 14.595832, 77.377071, MUTTALA GP, 2,5918
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Atmakuru, 4690,p.siddarampuram, 195832, 14.667893, 77.326089, P.SIDDARAMPURAM GP, 2,4350
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Atmakuru, 4690,p.yaleru, 195833, 14.674098, 77.35977, P.YALERU GP, 2,6051
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Atmakuru, 4690,pampanur, 195834, 14.661506, 77.417153, PAMPANUR GP, 2,10633
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Atmakuru, 4690,rangampeta, 195835, 14.591435, 77.489016, RANGAMPETA GP, 2,4087
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Atmakuru, 4690,sanapa, 195836, 14.607115, 77.471991, SANAPA GP, 2,1545
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Atmakuru, 4690,singampalli, 195837, 14.695573, 77.400488, SINGAMPALLI GP, 2,12614
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Atmakuru, 4690,talupuru, 195838, 14.695936, 77.465593, TALUPURU GP, 2,4292
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Atmakuru, 4690,thopudurthi, 195839, 14.547885, 77.490584, THOPUDURTHI GP, 2,2990
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Atmakuru, 4690,vaddupalli, 195840, 14.672086, 77.457698, VADDUPALLI GP, 2,1447
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Atmakuru, 4690,vepacherla, 195841, 14.573357, 77.428754, VEPACHERLA GP, 2,3256
+ANDHRA PRADESH                                    , 28, Anantapur, 553, BATHALAPALLI, 4691,apparacheruvu, 195842, 14.475178, 77.798463, APPARACHERUVU GP, 2,280
+ANDHRA PRADESH                                    , 28, Anantapur, 553, BATHALAPALLI, 4691,bathalapalli, 195843, 14.518059, 77.768147, BATHALAPALLI GP, 2,12697
+ANDHRA PRADESH                                    , 28, Anantapur, 553, BATHALAPALLI, 4691,d.cherlopalli, 195844, 14.440128, 77.873908, D.CHERLOPALLI GP, 2,3256
+ANDHRA PRADESH                                    , 28, Anantapur, 553, BATHALAPALLI, 4691,dampetla, 195845, 14.462351, 77.885726, DAMPETLA GP, 2,2185
+ANDHRA PRADESH                                    , 28, Anantapur, 553, BATHALAPALLI, 4691,edula mustur, 195846, 14.529551, 77.72314, EDULA MUSTUR GP, 2,5009
+ANDHRA PRADESH                                    , 28, Anantapur, 553, BATHALAPALLI, 4691,garisalapalli, 195847, 14.483016, 77.908268, GARISALAPALLI GP, 2,1666
+ANDHRA PRADESH                                    , 28, Anantapur, 553, BATHALAPALLI, 4691,malyavantham, 195848, 14.564668, 77.779665, MALYAVANTHAM GP, 2,4886
+ANDHRA PRADESH                                    , 28, Anantapur, 553, BATHALAPALLI, 4691,nallaboyanapalli, 195849, 14.427948, 77.896121, NALLABOYANAPALLI GP, 2,4027
+ANDHRA PRADESH                                    , 28, Anantapur, 553, BATHALAPALLI, 4691,obulapuram, 195850, 14.45561, 77.847706, OBULAPURAM GP, 2,2556
+ANDHRA PRADESH                                    , 28, Anantapur, 553, BATHALAPALLI, 4691,sangala, 195851, 14.447385, 77.81784, SANGALA GP, 2,3432
+ANDHRA PRADESH                                    , 28, Anantapur, 553, BATHALAPALLI, 4691,sanjeevapuram, 195852, 14.552279, 77.730381, SANJEEVAPURAM GP, 2,1043
+ANDHRA PRADESH                                    , 28, Anantapur, 553, BATHALAPALLI, 4691,thambapuram, 195853, 14.501388, 77.824388, THAMBAPURAM GP, 2,2823
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Beluguppa, 4692,ankampalli, 198559, 14.704618, 77.234059, ANKAMPALLI GP, 2,3095
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Beluguppa, 4692,avulenna, 198560, 14.680896, 77.144236, AVULENNA GP, 2,1422
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Beluguppa, 4692,beluguppa, 198561, 14.714916, 77.134733, BELUGUPPA GP, 2,7457
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Beluguppa, 4692,budigumma (ramasagaram), 198562, 14.721571, 77.252644, BUDIGUMMA (RAMASAGARAM) GP, 2,2026
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Beluguppa, 4692,duddekunta, 198563, 14.673347, 77.216175, DUDDEKUNTA GP, 2,2513
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Beluguppa, 4692,gangavaram, 198564, 14.641561, 77.202515, GANGAVARAM GP, 2,4295
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Beluguppa, 4692,hanimireddipalli, 198565, 14.608753, 77.262617, HANIMIREDDIPALLI GP, 2,853
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Beluguppa, 4692,jeedipalli, 198566, 14.701921, 77.270908, JEEDIPALLI GP, 2,4259
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Beluguppa, 4692,kalvapalli, 198567, 14.63391, 77.283542, KALVAPALLI GP, 2,3606
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Beluguppa, 4692,n. gundlapalli, 198568, 14.706993, 77.054788, N. GUNDLAPALLI GP, 2,1845
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Beluguppa, 4692,nakkalapalli, 198569, 14.725954, 77.101432, NAKKALAPALLI GP, 2,30128
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Beluguppa, 4692,narasapuram, 198570, 14.652541, 77.064924, NARASAPURAM GP, 2,4789
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Beluguppa, 4692,ramanepalli, 198571, 14.680012, 77.064394, RAMANEPALLI GP, 2,1252
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Beluguppa, 4692,seerpi, 198572, 14.665666, 77.156324, SEERPI GP, 2,1545
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Beluguppa, 4692,sreerangapuram, 198573, 14.742617, 77.074597, SREERANGAPURAM GP, 2,3432
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Beluguppa, 4692,thagguparthy, 198574, 14.724238, 77.198462, THAGGUPARTHY GP, 2,2099
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Beluguppa, 4692,virupapalli, 198575, 14.640433, 77.132569, VIRUPAPALLI GP, 2,5023
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Beluguppa, 4692,yerragudi, 198576, 14.701502, 77.159574, YERRAGUDI GP, 2,1280
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Bommanahal, 4693,bandur, 195872, 14.946077, 77.006914, BANDUR, 2,2887
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Bommanahal, 4693,bollanaguddam, 195873, 14.973081, 77.0561, BOLLANAGUDDAM, 2,3513
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Bommanahal, 4693,bommanahal, 195874, 14.999086, 76.978815, BOMMANAHAL, 2,4952
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Bommanahal, 4693,d.honnur, 195875, 14.908362, 77.085946, D.HONNUR, 2,5905
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Bommanahal, 4693,elanji, 195876, 14.880495, 76.912265, ELANJI, 2,1489
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Bommanahal, 4693,gonehal, 195877, 14.880488, 77.014578, GONEHAL, 2,4721
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Bommanahal, 4693,govindawada, 195878, 14.934759, 77.056489, GOVINDAWADA, 2,1888
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Bommanahal, 4693,haresamudram, 195879, 14.97811, 77.030779, HARESAMUDRAM, 2,454
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Bommanahal, 4693,kalluhola, 195880, 14.97203, 77.054788, KALLUHOLA, 2,4644
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Bommanahal, 4693,kolaganahalli, 195881, 14.917008, 76.947441, KOLAGANAHALLI, 2,4134
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Bommanahal, 4693,kuruvalli, 195882, 15.017189, 77.017607, KURUVALLI, 2,3080
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Bommanahal, 4693,lingadahal, 195883, 14.922486, 76.965452, LINGADAHAL, 2,6461
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Bommanahal, 4693,nemakallu, 195884, 15.012822, 76.939367, NEMAKALLU, 2,2585
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Bommanahal, 4693,siddarampuram, 195885, 15.022223, 77.030147, SIDDARAMPURAM, 2,4350
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Bommanahal, 4693,singanahalli, 195886, 14.92048, 77.042114, SINGANAHALLI, 2,3248
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Bommanahal, 4693,sreedharaghatta, 195887, 14.905351, 77.01042, SREEDHARAGHATTA, 2,5023
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Bommanahal, 4693,uddehal, 195888, 14.941822, 76.973222, UDDEHAL, 2,4897
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Bommanahal, 4693,unthakal, 195889, 14.986936, 76.961318, UNTHAKAL, 2,3804
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Bommanahal, 4693,upparahal, 195890, 14.909346, 76.995781, UPPARAHAL, 2,3153
+ANDHRA PRADESH                                    , 28, Anantapur, 553, BRAHMASAMUDRAM, 4694,bhairasamudram, 195891, 14.567552, 76.945506, BHAIRASAMUDRAM GP, 2,3528
+ANDHRA PRADESH                                    , 28, Anantapur, 553, BRAHMASAMUDRAM, 4694,bhyravanithippa, 195892, 14.529935, 76.847387, BHYRAVANITHIPPA GP, 2,4243
+ANDHRA PRADESH                                    , 28, Anantapur, 553, BRAHMASAMUDRAM, 4694,bommaganipalli, 195893, 14.596978, 77.032251, BOMMAGANIPALLI GP, 2,7727
+ANDHRA PRADESH                                    , 28, Anantapur, 553, BRAHMASAMUDRAM, 4694,brahmasamudram, 195894, 14.538735, 76.947327, BRAHMASAMUDRAM GP, 2,2095
+ANDHRA PRADESH                                    , 28, Anantapur, 553, BRAHMASAMUDRAM, 4694,eradikera, 195895, 14.510563, 76.925975, ERADIKERA GP, 2,2508
+ANDHRA PRADESH                                    , 28, Anantapur, 553, BRAHMASAMUDRAM, 4694,gundiganihalli, 195896, 14.548186, 76.868462, GUNDIGANIHALLI GP, 2,1510
+ANDHRA PRADESH                                    , 28, Anantapur, 553, BRAHMASAMUDRAM, 4694,kannepalli, 195897, 14.624245, 76.978605, KANNEPALLI GP, 2,5078
+ANDHRA PRADESH                                    , 28, Anantapur, 553, BRAHMASAMUDRAM, 4694,muppulakunta, 195898, 14.561198, 77.041178, MUPPULAKUNTA GP, 2,5464
+ANDHRA PRADESH                                    , 28, Anantapur, 553, BRAHMASAMUDRAM, 4694,nagireddipalli, 195899, 14.55967, 76.97321, NAGIREDDIPALLI GP, 2,2057
+ANDHRA PRADESH                                    , 28, Anantapur, 553, BRAHMASAMUDRAM, 4694,palavenkatapuram, 195900, 14.500378, 76.986938, PALAVENKATAPURAM GP, 2,504
+ANDHRA PRADESH                                    , 28, Anantapur, 553, BRAHMASAMUDRAM, 4694,pillalapalli, 195901, 14.570682, 77.014542, PILLALAPALLI GP, 2,6028
+ANDHRA PRADESH                                    , 28, Anantapur, 553, BRAHMASAMUDRAM, 4694,rayalappadoddi, 195902, 14.6049, 77.012709, RAYALAPPADODDI GP, 2,2229
+ANDHRA PRADESH                                    , 28, Anantapur, 553, BRAHMASAMUDRAM, 4694,s. kondapuram, 195903, 14.550128, 77.01787, S. KONDAPURAM GP, 2,6171
+ANDHRA PRADESH                                    , 28, Anantapur, 553, BRAHMASAMUDRAM, 4694,theetakal, 195904, 14.63866, 77.021664, THEETAKAL GP, 2,2485
+ANDHRA PRADESH                                    , 28, Anantapur, 553, BRAHMASAMUDRAM, 4694,vepalaparthi, 195905, 14.568226, 76.886331, VEPALAPARTHI GP, 2,1179
+ANDHRA PRADESH                                    , 28, Anantapur, 553, BRAHMASAMUDRAM, 4694,west kodipalli, 195906, 14.511699, 76.914669, WEST KODIPALLI GP, 2,2536
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Bukkapatnam, 4695,agraharam, 195907, 14.25418, 77.953821, AGRAHARAM GP, 2,3381
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Bukkapatnam, 4695,bukkapatnam, 195908, 14.19677, 77.798956, BUKKAPATNAM GP, 2,12196
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Bukkapatnam, 4695,garikavaripalli, 195909, 14.291211, 77.9887, GARIKAVARIPALLI GP, 2,4959
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Bukkapatnam, 4695,gunipalli, 195910, 14.278583, 77.901783, GUNIPALLI GP, 2,6818
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Bukkapatnam, 4695,kothakota, 195911, 14.239312, 77.940476, KOTHAKOTA GP, 2,4634
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Bukkapatnam, 4695,krishnapuram, 195912, 14.345511, 77.910561, KRISHNAPURAM GP, 2,3086
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Bukkapatnam, 4695,marala, 195913, 14.306373, 77.928336, MARALA GP, 2,3755
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Bukkapatnam, 4695,narasimpalli thanda, 195914, 14.177063, 77.886191, NARASIMPALLI THANDA GP, 2,3036
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Bukkapatnam, 4695,pamudurthi, 195915, 14.271733, 77.973417, PAMUDURTHI GP, 2,5813
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Bukkapatnam, 4695,siddarampuram, 195916, 14.27498, 77.880748, SIDDARAMPURAM GP, 2,4350
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Bukkapatnam, 4695,yadalankapalli, 195917, 14.314569, 77.92, YADALANKAPALLI GP, 2,4143
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Bukkarayasamudram, 4696,b.k.samudram, 195919, 14.694084, 77.632119, B.K.SAMUDRAM GP, 2,22000
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Bukkarayasamudram, 4696,b.kothapalli, 195920, 14.754248, 77.57779, B.KOTHAPALLI GP, 2,2193
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Bukkarayasamudram, 4696,bommalatapalli, 195921, 14.705017, 77.763164, BOMMALATAPALLI GP, 2,5474
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Bukkarayasamudram, 4696,chedulla, 195922, 14.770224, 77.675253, CHEDULLA GP, 2,1621
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Bukkarayasamudram, 4696,chennampalli, 195923, 14.725512, 77.753183, CHENNAMPALLI GP, 2,2521
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Bukkarayasamudram, 4696,danduvaripalli, 195924, 14.662631, 77.710338, DANDUVARIPALLI GP, 2,2014
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Bukkarayasamudram, 4696,dayyalakuntapalli, 195925, 14.69592, 77.715313, DAYYALAKUNTAPALLI GP, 2,7154
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Bukkarayasamudram, 4696,govindapalli, 195926, 14.752217, 77.632556, GOVINDAPALLI GP, 2,2130
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Bukkarayasamudram, 4696,janthulur, 195927, 14.755948, 77.650201, JANTHULUR GP, 2,2584
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Bukkarayasamudram, 4696,k.k.agraharam, 195928, 14.678087, 77.739604, K.K.AGRAHARAM GP, 2,8367
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Bukkarayasamudram, 4696,korrapadu, 195929, 14.756165, 77.706736, KORRAPADU GP, 2,2082
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Bukkarayasamudram, 4696,neelampalli, 195930, 14.766631, 77.656126, NEELAMPALLI GP, 2,430
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Bukkarayasamudram, 4696,pasalur, 195931, 14.647012, 77.67161, PASALUR GP, 2,1621
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Bukkarayasamudram, 4696,podaralla, 195932, 14.758989, 77.619334, PODARALLA GP, 2,8000
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Bukkarayasamudram, 4696,reddipalli, 195933, 14.718505, 77.677525, REDDIPALLI GP, 2,2584
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Bukkarayasamudram, 4696,regidikottur, 195934, 14.751153, 77.602505, REGIDIKOTTUR GP, 2,7635
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Bukkarayasamudram, 4696,siddarampuram, 195935, 14.675008, 77.664628, SIDDARAMPURAM GP, 2,4350
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Bukkarayasamudram, 4696,venkatapuram, 195936, 14.704725, 77.725678, VENKATAPURAM GP, 2,961
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Chennekotapalli, 4697,basampalli, 195936, 14.315441, 77.73905, BASAMPALLI GP, 2,8000
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Chennekotapalli, 4697,basinepalli, 195937, 14.322861, 77.666621, BASINEPALLI GP, 2,2448
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Chennekotapalli, 4697,chennekothapalli, 195938, 14.27193, 77.626239, CHENNEKOTHAPALLI GP, 2,7387
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Chennekotapalli, 4697,ganginepalli, 195939, 14.286167, 77.800778, GANGINEPALLI GP, 2,247
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Chennekotapalli, 4697,kanumukkala, 195940, 14.303795, 77.75257, KANUMUKKALA GP, 2,2523
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Chennekotapalli, 4697,medapuram, 195941, 14.336053, 77.712141, MEDAPURAM GP, 2,6641
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Chennekotapalli, 4697,mustikovila, 195942, 14.220129, 77.533422, MUSTIKOVILA GP, 2,2593
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Chennekotapalli, 4697,nagasamudram, 195943, 14.307132, 77.656992, NAGASAMUDRAM GP, 2,4024
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Chennekotapalli, 4697,nyamaddala, 195944, 14.26089, 77.58708, NYAMADDALA GP, 2,5676
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Chennekotapalli, 4697,obulampalli, 195945, 14.268897, 77.731175, OBULAMPALLI GP, 2,6257
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Chennekotapalli, 4697,poletipalli, 195946, 14.282895, 77.672038, POLETIPALLI GP, 2,1712
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Chennekotapalli, 4697,pyadindi, 195947, 14.352453, 77.679153, PYADINDI GP, 2,3228
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Chennekotapalli, 4697,veldurthi, 195948, 14.284276, 77.770162, VELDURTHI GP, 2,1502
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Chennekotapalli, 4697,venkatampalli, 195949, 14.265565, 77.688076, VENKATAMPALLI GP, 2,4413
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Chilamaturu, 4698,chagaleru, 195950, 13.898146, 77.769767, CHAGALERU GP, 2,4262
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Chilamaturu, 4698,chilamathur, 195951, 13.839268, 77.705628, CHILAMATHUR GP, 2,15449
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Chilamaturu, 4698,demakethepalli, 195952, 13.82008, 77.645007, DEMAKETHEPALLI GP, 2,703
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Chilamaturu, 4698,kodi konda, 195953, 13.832894, 77.772621, KODI KONDA GP, 2,2789
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Chilamaturu, 4698,kodur, 195954, 13.870135, 77.729465, KODUR GP, 2,200
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Chilamaturu, 4698,morasalapalli, 195955, 13.858929, 77.777627, MORASALAPALLI GP, 2,2773
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Chilamaturu, 4698,palagala palli, 195956, 13.909676, 77.80196, PALAGALA PALLI GP, 2,82
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Chilamaturu, 4698,settipalli, 195957, 13.915147, 77.725223, SETTIPALLI GP, 2,2990
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Chilamaturu, 4698,somaghatta, 195958, 13.882919, 77.810894, SOMAGHATTA GP, 2,500
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Chilamaturu, 4698,tekulodu, 195959, 13.861931, 77.664751, TEKULODU GP, 2,2250
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Chilamaturu, 4698,veera puram, 195960, 13.759249, 77.716698, VEERA PURAM GP, 2,1910
+ANDHRA PRADESH                                    , 28, Anantapur, 553, D Herehal, 4699,cherlopalli, 195961, 14.91842, 76.912351, CHERLOPALLI GP, 2,6596
+ANDHRA PRADESH                                    , 28, Anantapur, 553, D Herehal, 4699,d.hirehal, 195962, 15.0114, 76.833732, D.HIREHAL GP, 2,500
+ANDHRA PRADESH                                    , 28, Anantapur, 553, D Herehal, 4699,dodaghatta, 195963, 14.840565, 76.893064, DODAGHATTA GP, 2,1145
+ANDHRA PRADESH                                    , 28, Anantapur, 553, D Herehal, 4699,hulikal, 195964, 14.796463, 76.854459, HULIKAL GP, 2,3262
+ANDHRA PRADESH                                    , 28, Anantapur, 553, D Herehal, 4699,jajarakal, 195965, 14.978061, 76.848941, JAJARAKAL GP, 2,912
+ANDHRA PRADESH                                    , 28, Anantapur, 553, D Herehal, 4699,kadalur, 195966, 14.844151, 76.866855, KADALUR GP, 2,2365
+ANDHRA PRADESH                                    , 28, Anantapur, 553, D Herehal, 4699,kudlur, 195967, 14.861499, 76.891525, KUDLUR GP, 2,4426
+ANDHRA PRADESH                                    , 28, Anantapur, 553, D Herehal, 4699,m.hanumapuram, 195968, 14.812886, 76.930312, M.HANUMAPURAM GP, 2,6145
+ANDHRA PRADESH                                    , 28, Anantapur, 553, D Herehal, 4699,madenahalli, 195969, 14.987606, 76.808613, MADENAHALLI GP, 2,872
+ANDHRA PRADESH                                    , 28, Anantapur, 553, D Herehal, 4699,malapanagudi, 195970, 15.046109, 76.797982, MALAPANAGUDI GP, 2,1758
+ANDHRA PRADESH                                    , 28, Anantapur, 553, D Herehal, 4699,mallikethi, 195971, 14.957366, 76.907637, MALLIKETHI GP, 2,5102
+ANDHRA PRADESH                                    , 28, Anantapur, 553, D Herehal, 4699,muradi, 195972, 14.80326, 76.89366, MURADI GP, 2,447
+ANDHRA PRADESH                                    , 28, Anantapur, 553, D Herehal, 4699,nagalapuram, 195973, 14.935273, 76.928681, NAGALAPURAM GP, 2,1126
+ANDHRA PRADESH                                    , 28, Anantapur, 553, D Herehal, 4699,obulapuram, 195974, 15.031925, 76.848857, OBULAPURAM GP, 2,2556
+ANDHRA PRADESH                                    , 28, Anantapur, 553, D Herehal, 4699,pulakurthi, 195975, 14.964852, 76.882669, PULAKURTHI GP, 2,2660
+ANDHRA PRADESH                                    , 28, Anantapur, 553, D Herehal, 4699,somalapuram, 195976, 14.913607, 76.869742, SOMALAPURAM GP, 2,1712
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Darmavaram, 4700,c.c.kothakota, 195977, 14.335415, 77.750174, C.C.KOTHAKOTA GP, 2,3397
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Darmavaram, 4700,chingicherla, 195978, 14.51768, 77.681504, CHINGICHERLA GP, 2,3635
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Darmavaram, 4700,chintalapalli, 195979, 14.505753, 77.70099, CHINTALAPALLI GP, 2,1635
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Darmavaram, 4700,darsimala, 195980, 14.392348, 77.755339, DARSIMALA GP, 2,3591
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Darmavaram, 4700,dharmapuri, 195981, 14.412461, 77.760478, DHARMAPURI GP, 2,5404
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Darmavaram, 4700,elukuntla, 195982, 14.313755, 77.88912, ELUKUNTLA GP, 2,1998
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Darmavaram, 4700,gotluru, 195983, 14.449529, 77.738891, GOTLURU GP, 2,8876
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Darmavaram, 4700,kunuthuru, 195984, 14.435057, 77.670031, KUNUTHURU GP, 2,1139
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Darmavaram, 4700,mallakalva, 195985, 14.376859, 77.754704, MALLAKALVA GP, 2,3302
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Darmavaram, 4700,nelakota, 195986, 14.332489, 77.84735, NELAKOTA GP, 2,2082
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Darmavaram, 4700,pothukunta, 195987, 14.412345, 77.718746, POTHUKUNTA GP, 2,11044
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Darmavaram, 4700,pothulanagepalli, 195988, 14.347462, 77.750112, POTHULANAGEPALLI GP, 2,2490
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Darmavaram, 4700,ravulacheruvu, 195989, 14.419376, 77.786391, RAVULACHERUVU GP, 2,2412
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Darmavaram, 4700,regatipalli, 195990, 14.401413, 77.677434, REGATIPALLI GP, 2,3748
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Darmavaram, 4700,subbaraopeta, 195991, 14.462158, 77.781814, SUBBARAOPETA GP, 2,764
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Darmavaram, 4700,thummala, 195992, 14.442635, 77.775941, THUMMALA GP, 2,5771
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Darmavaram, 4700,uppunesinapalli, 195993, 14.520753, 77.662383, UPPUNESINAPALLI GP, 2,4931
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Darmavaram, 4700,venkata thimmapuram, 195994, 14.390867, 77.81917, VENKATA THIMMAPURAM GP, 2,504
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gandlapenta, 4701,chamalagondi, 195995, 14.06324, 78.331396, CHAMALAGONDI GP, 2,1969
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gandlapenta, 4701,gandlapenta, 195996, 14.095539, 78.269268, GANDLAPENTA GP, 2,1324
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gandlapenta, 4701,godduvelagala, 195997, 14.149321, 78.212222, GODDUVELAGALA GP, 2,1839
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gandlapenta, 4701,jeenulakunta, 195998, 14.118864, 78.283789, JEENULAKUNTA GP, 2,882
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gandlapenta, 4701,katarupalli, 195999, 14.114589, 78.249001, KATARUPALLI GP, 2,1389
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gandlapenta, 4701,kurumamidi, 196000, 14.079947, 78.309505, KURUMAMIDI GP, 2,1813
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gandlapenta, 4701,maddivarigondi, 196001, 14.111875, 78.208318, MADDIVARIGONDI GP, 2,640
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gandlapenta, 4701,malameedapalli, 196002, 14.021229, 78.274189, MALAMEEDAPALLI GP, 2,3237
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gandlapenta, 4701,somayajulapalli, 196003, 14.082515, 78.276363, SOMAYAJULAPALLI GP, 2,500
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gandlapenta, 4701,thoopalli, 196004, 14.084607, 78.260767, THOOPALLI GP, 2,9611
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gandlapenta, 4701,thummalabylu, 196005, 14.147585, 78.24245, THUMMALABYLU GP, 2,980
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gandlapenta, 4701,veparala, 196006, 14.100452, 78.293877, VEPARALA GP, 2,1580
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Garladinne, 4702,budedu, 196007, 14.850086, 77.557871, BUDEDU GP, 2,1472
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Garladinne, 4702,garladinne, 196008, 14.823644, 77.597277, GARLADINNE GP, 2,1064
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Garladinne, 4702,illuru, 196009, 14.924683, 77.621514, ILLURU GP, 2,3388
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Garladinne, 4702,kalluru, 196010, 14.932809, 77.586321, KALLURU GP, 2,1841
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Garladinne, 4702,kamalapuram, 196011, 14.872046, 77.530359, KAMALAPURAM GP, 2,2942
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Garladinne, 4702,kanampalli, 196012, 14.868253, 77.616954, KANAMPALLI GP, 2,1818
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Garladinne, 4702,kesavapuram, 196013, 14.896127, 77.541487, KESAVAPURAM GP, 2,1144
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Garladinne, 4702,koppalakonda, 196014, 14.894788, 77.517054, KOPPALAKONDA GP, 2,1886
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Garladinne, 4702,kotanka, 196015, 14.770299, 77.527164, KOTANKA GP, 2,2225
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Garladinne, 4702,krishnapuram, 196016, 14.856049, 77.552474, KRISHNAPURAM GP, 2,3086
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Garladinne, 4702,m.p.r. dam, 196017, 14.880238, 77.43188, M.P.R. DAM GP, 2,4792
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Garladinne, 4702,marthadu, 196018, 14.792136, 77.563544, MARTHADU GP, 2,572
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Garladinne, 4702,mukundapuram, 196019, 14.825615, 77.501444, MUKUNDAPURAM GP, 2,4780
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Garladinne, 4702,muntimadugu, 196020, 14.907175, 77.562931, MUNTIMADUGU GP, 2,211
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Garladinne, 4702,penakacherla, 196021, 14.871574, 77.457089, PENAKACHERLA GP, 2,3635
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Garladinne, 4702,sirivaram, 196022, 14.872325, 77.557248, SIRIVARAM GP, 2,3921
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Garladinne, 4702,thimmampeta, 196023, 14.841367, 77.601242, THIMMAMPETA GP, 2,7766
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Garladinne, 4702,yerraguntla, 196024, 14.841858, 77.530854, YERRAGUNTLA GP, 2,1900
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gooty, 4703,abbedoddi, 196025, 15.072653, 77.586639, ABBEDODDI GP, 2,1550
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gooty, 4703,basinepalli, 196026, 15.165787, 77.610969, BASINEPALLI GP, 2,2448
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gooty, 4703,bethapalli, 196027, 15.195591, 77.637511, BETHAPALLI GP, 2,6681
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gooty, 4703,bramhanapalli, 196028, 15.066157, 77.543278, BRAMHANAPALLI GP, 2,2594
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gooty, 4703,cherlopalli, 196029, 15.117408, 77.538641, CHERLOPALLI GP, 2,6596
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gooty, 4703,dharmapuram, 196030, 15.164536, 77.647461, DHARMAPURAM GP, 2,1294
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gooty, 4703,erragudi, 196031, 15.067994, 77.563492, ERRAGUDI GP, 2,1130
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gooty, 4703,issurarallapalli, 196032, 15.099006, 77.739499, ISSURARALLAPALLI GP, 2,4566
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gooty, 4703,jakkalacheruvu, 196033, 15.115126, 77.726906, JAKKALACHERUVU GP, 2,1844
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gooty, 4703,karidikonda, 196034, 15.170724, 77.68328, KARIDIKONDA GP, 2,2732
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gooty, 4703,kojjepalli, 196035, 15.127031, 77.595485, KOJJEPALLI GP, 2,4285
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gooty, 4703,kothapeta, 196036, 15.112383, 77.666004, KOTHAPETA GP, 2,594
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gooty, 4703,lachenapalli, 196037, 15.144603, 77.604244, LACHENAPALLI GP, 2,3622
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gooty, 4703,mamadur, 196038, 15.048872, 77.588525, MAMADUR GP, 2,1347
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gooty, 4703,peddoddi, 196039, 15.101787, 77.566639, PEDDODDI GP, 2,863
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gooty, 4703,rajapuram, 196040, 15.129004, 77.574882, RAJAPURAM GP, 2,1754
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gooty, 4703,t.kothapalli, 196041, 15.134911, 77.692183, T.KOTHAPALLI GP, 2,2193
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gooty, 4703,thondapadu, 196042, 15.118548, 77.706176, THONDAPADU GP, 2,3034
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gooty, 4703,turakapalli, 196043, 15.094466, 77.626577, TURAKAPALLI GP, 2,1371
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gooty, 4703,ubicherla, 196044, 15.171432, 77.683161, UBICHERLA GP, 2,2506
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gooty, 4703,utakallu, 196045, 15.216828, 77.657783, UTAKALLU GP, 2,1162
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gooty, 4703,vannedoddi, 196046, 15.142196, 77.669143, VANNEDODDI GP, 2,3158
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gorantla, 4704,budili, 196048, 13.93414, 77.735887, BUDILI, 2,9015
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gorantla, 4704,gangampalli, 196049, 14.038399, 77.811698, GANGAMPALLI, 2,3207
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gorantla, 4704,gorantla, 196050, 13.984265, 77.76971, GORANTLA, 2,24586
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gorantla, 4704,gownivaripalli, 196051, 13.976011, 77.876565, GOWNIVARIPALLI, 2,8387
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gorantla, 4704,kammavaripalli, 196052, 14.005888, 77.79705, KAMMAVARIPALLI, 2,2807
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gorantla, 4704,kondapuram, 196053, 13.958506, 77.836884, KONDAPURAM, 2,1543
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gorantla, 4704,mallapalli, 196055, 13.966706, 77.71659, MALLAPALLI, 2,3040
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gorantla, 4704,manasamudram, 196054, 13.990619, 77.853714, MANASAMUDRAM, 2,1533
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gorantla, 4704,mandalapalli, 196056, 14.020453, 77.751057, MANDALAPALLI, 2,37
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gorantla, 4704,narsimpalli, 196057, 13.957003, 77.715986, NARSIMPALLI, 2,3228
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gorantla, 4704,palasamudram, 196058, 13.957787, 77.676031, PALASAMUDRAM, 2,238
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gorantla, 4704,puleru, 196059, 13.954804, 77.794536, PULERU, 2,3472
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gorantla, 4704,reddicheruvupalli, 196060, 13.907366, 77.670541, REDDICHERUVUPALLI, 2,3256
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gorantla, 4704,vadigepalli, 196061, 13.945476, 77.693721, VADIGEPALLI, 2,2795
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gorantla, 4704,vanavolu, 196062, 14.007757, 77.833012, VANAVOLU, 2,500
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gorantla, 4704,venkataramanapalli, 196063, 13.937581, 77.809075, VENKATARAMANAPALLI, 2,495
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gudibanda, 4705,chigathurpi, 196064, 14.000833, 77.098446, CHIGATHURPI GP, 2,1169
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gudibanda, 4705,gudibanda, 196065, 13.974906, 77.104894, GUDIBANDA GP, 2,9561
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gudibanda, 4705,gunemorubagal, 196066, 13.950936, 77.038113, GUNEMORUBAGAL GP, 2,1964
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gudibanda, 4705,jambulabanda, 196067, 13.983202, 77.156305, JAMBULABANDA GP, 2,4203
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gudibanda, 4705,karikera, 196068, 14.14382, 77.55325, KARIKERA GP, 2,4217
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gudibanda, 4705,konkallu, 196069, 13.942248, 77.120068, KONKALLU GP, 2,2988
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gudibanda, 4705,kumbaranagehalli, 196070, 14.016012, 77.094938, KUMBARANAGEHALLI GP, 2,1700
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gudibanda, 4705,mandalahalli, 196071, 13.933332, 77.104358, MANDALAHALLI GP, 2,5421
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gudibanda, 4705,morubagal, 196072, 13.969704, 77.040491, MORUBAGAL GP, 2,7806
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gudibanda, 4705,muthukur, 196073, 13.944531, 77.068381, MUTHUKUR GP, 2,4985
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gudibanda, 4705,rallahalli, 196074, 13.994164, 77.208443, RALLAHALLI GP, 2,6
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gudibanda, 4705,s.rayapuram, 196075, 13.92536, 77.140169, S.RAYAPURAM GP, 2,1509
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gummagatta, 4706,75.veerapuram, 196076, 14.648194, 76.854174, 75.VEERAPURAM, 2,2013
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gummagatta, 4706,belodu, 196077, 14.629539, 76.907636, BELODU, 2,2250
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gummagatta, 4706,bhupasamudram, 196078, 14.630853, 76.970789, BHUPASAMUDRAM, 2,4735
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gummagatta, 4706,galagala, 196079, 14.626221, 76.793776, GALAGALA, 2,4169
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gummagatta, 4706,gollapalli, 196080, 14.650198, 76.792322, GOLLAPALLI, 2,6290
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gummagatta, 4706,gonabhavi, 196081, 14.589014, 76.865036, GONABHAVI, 2,3014
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gummagatta, 4706,gummagatta, 196082, 14.565304, 76.865308, GUMMAGATTA, 2,6279
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gummagatta, 4706,k.p. doddi, 196083, 14.615906, 76.819418, K.P. DODDI, 2,3417
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gummagatta, 4706,kalugodu, 196084, 14.594467, 76.908048, KALUGODU, 2,6781
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gummagatta, 4706,marem palli, 196085, 14.691311, 76.954553, MAREM PALLI, 2,449
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gummagatta, 4706,netrapalli, 196086, 14.648726, 76.918035, NETRAPALLI, 2,4437
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gummagatta, 4706,pulakunta, 196087, 14.618294, 76.855915, PULAKUNTA, 2,5232
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gummagatta, 4706,rangasamudram, 196088, 14.597092, 76.824651, RANGASAMUDRAM, 2,2047
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gummagatta, 4706,sirige doddi, 196089, 14.661978, 76.826456, SIRIGE DODDI, 2,7642
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Gummagatta, 4706,tllikera, 196090, 14.57605, 76.823805, TLLIKERA, 2,7356
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Guntakal, 4707,ayyavaripalli, 196091, 15.020824, 77.540134, AYYAVARIPALLI GP, 2,1080
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Guntakal, 4707,chintalampalli, 196092, 15.041062, 77.462859, CHINTALAMPALLI GP, 2,1635
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Guntakal, 4707,dancherla, 196093, 15.135654, 77.511827, DANCHERLA GP, 2,2489
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Guntakal, 4707,donimukkala, 196094, 15.130214, 77.394125, DONIMUKKALA GP, 2,1035
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Guntakal, 4707,dosaludiki, 196095, 15.193994, 77.426049, DOSALUDIKI GP, 2,1649
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Guntakal, 4707,g.kottala, 196096, 15.157289, 77.344063, G.KOTTALA GP, 2,1872
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Guntakal, 4707,gundala, 196097, 15.182974, 77.480715, GUNDALA GP, 2,1740
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Guntakal, 4707,gundala thanda, 196098, 15.21032, 77.464275, GUNDALA THANDA GP, 2,697
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Guntakal, 4707,gurrabadu, 196099, 15.067071, 77.523652, GURRABADU GP, 2,2178
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Guntakal, 4707,imampuram, 196100, 15.01495, 77.516638, IMAMPURAM GP, 2,7891
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Guntakal, 4707,kadiripalli, 196101, 15.048039, 77.526878, KADIRIPALLI GP, 2,214
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Guntakal, 4707,kasapuram, 196102, 15.197661, 77.394574, KASAPURAM GP, 2,3692
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Guntakal, 4707,konganapalli, 196103, 15.181825, 77.544892, KONGANAPALLI GP, 2,3886
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Guntakal, 4707,molakalpenta, 196104, 15.201375, 77.511697, MOLAKALPENTA GP, 2,715
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Guntakal, 4707,n.timmapuram, 196105, 15.152834, 77.43851, N.TIMMAPURAM GP, 2,1840
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Guntakal, 4707,n.venkatampalli, 196106, 15.074331, 77.477761, N.VENKATAMPALLI GP, 2,2412
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Guntakal, 4707,nagasamudram, 196107, 15.056049, 77.501295, NAGASAMUDRAM GP, 2,4024
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Guntakal, 4707,nakkanadoddi, 196108, 15.154968, 77.467197, NAKKANADODDI GP, 2,3098
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Guntakal, 4707,nalladasarapalli, 196109, 15.123284, 77.463035, NALLADASARAPALLI GP, 2,5403
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Guntakal, 4707,nelagonda, 196110, 15.100617, 77.448993, NELAGONDA GP, 2,1804
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Guntakal, 4707,obulapuram, 196111, 15.166593, 77.576284, OBULAPURAM GP, 2,2556
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Guntakal, 4707,pathakotha cheruvu, 196112, 15.15904, 77.511531, PATHAKOTHA CHERUVU GP, 2,3064
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Guntakal, 4707,puliguttapalli, 196113, 15.100731, 77.429701, PULIGUTTAPALLI GP, 2,1438
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Guntakal, 4707,y.t.cheruvu, 196114, 15.153475, 77.560192, Y.T.CHERUVU GP, 2,3399
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Hindupur, 4708,balampalli, 196115, 13.898252, 77.609074, BALAMPALLI GP, 2,8000
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Hindupur, 4708,beerepalli, 196116, 13.870379, 77.566761, BEEREPALLI GP, 2,5942
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Hindupur, 4708,bevina halli, 196117, 13.778389, 77.469119, BEVINA HALLI GP, 2,706
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Hindupur, 4708,chalivendala, 196118, 13.886112, 77.606788, CHALIVENDALA GP, 2,5231
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Hindupur, 4708,chowlur, 196119, 13.696829, 77.484653, CHOWLUR GP, 2,6038
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Hindupur, 4708,gollapuram, 196120, 13.729241, 77.527174, GOLLAPURAM GP, 2,2625
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Hindupur, 4708,kaggallu, 196121, 13.846477, 77.534273, KAGGALLU GP, 2,7081
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Hindupur, 4708,kirikera, 196122, 13.768093, 77.483398, KIRIKERA GP, 2,11184
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Hindupur, 4708,kotipi, 196123, 13.765617, 77.517473, KOTIPI GP, 2,4157
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Hindupur, 4708,maluguru, 196124, 13.892446, 77.555214, MALUGURU GP, 2,1139
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Hindupur, 4708,manesamudram, 196125, 13.881541, 77.524762, MANESAMUDRAM GP, 2,1533
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Hindupur, 4708,pulakunta, 196126, 13.824034, 77.529031, PULAKUNTA GP, 2,5232
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Hindupur, 4708,santhebidanur, 196127, 13.730315, 77.479996, SANTHEBIDANUR GP, 2,468
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Hindupur, 4708,thumukunta, 196128, 13.720233, 77.488266, THUMUKUNTA GP, 2,2417
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kadiri, 4709,buruga palli, 196129, 14.081759, 78.226358, BURUGA PALLI GP, 2,8667
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kadiri, 4709,chalamakuntla palli, 196130, 14.172529, 78.187606, CHALAMAKUNTLA PALLI GP, 2,750
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kadiri, 4709,eguvapalli, 196131, 14.065009, 78.090574, EGUVAPALLI GP, 2,859
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kadiri, 4709,kadiri bramhana palli, 196132, 14.056922, 78.114497, KADIRI BRAMHANA PALLI GP, 2,3557
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kadiri, 4709,kadirikuntla palli, 196133, 14.174118, 78.164364, KADIRIKUNTLA PALLI GP, 2,214
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kadiri, 4709,kalasamudram, 196134, 14.202463, 78.114533, KALASAMUDRAM GP, 2,453
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kadiri, 4709,kondamanayani palem, 196135, 14.125179, 78.1137, KONDAMANAYANI PALEM GP, 2,764
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kadiri, 4709,kummaravandla palli, 196136, 14.109482, 78.170957, KUMMARAVANDLA PALLI GP, 2,3755
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kadiri, 4709,motukupalli, 196137, 14.072648, 78.175266, MOTUKUPALLI GP, 2,1125
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kadiri, 4709,muthylacheruvu, 196138, 14.100815, 78.0893, MUTHYLACHERUVU GP, 2,4553
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kadiri, 4709,patnam, 196139, 14.234043, 78.095843, PATNAM GP, 2,5009
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kadiri, 4709,yerradoddi, 196140, 14.17502, 78.121339, YERRADODDI GP, 2,2357
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kalyanadurgam, 4710,bhattuvanipalli, 196141, 14.507821, 77.198175, BHATTUVANIPALLI GP, 2,754
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kalyanadurgam, 4710,borampalli, 196142, 14.585945, 77.16436, BORAMPALLI GP, 2,5104
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kalyanadurgam, 4710,byadrahalli, 196143, 14.457427, 77.156782, BYADRAHALLI GP, 2,2202
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kalyanadurgam, 4710,chapiri, 196144, 14.605463, 77.120015, CHAPIRI GP, 2,2751
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kalyanadurgam, 4710,duradakunta, 196145, 14.482432, 77.194856, DURADAKUNTA GP, 2,2345
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kalyanadurgam, 4710,east kodipalli, 196146, 14.531723, 77.20623, EAST KODIPALLI GP, 2,4259
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kalyanadurgam, 4710,garudapuram, 196147, 14.508851, 77.111321, GARUDAPURAM GP, 2,1295
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kalyanadurgam, 4710,golla, 196148, 14.598722, 77.210678, GOLLA GP, 2,3356
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kalyanadurgam, 4710,hulikal, 196149, 14.618366, 77.073849, HULIKAL GP, 2,3262
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kalyanadurgam, 4710,kondapuram, 196150, 14.60875, 77.264825, KONDAPURAM GP, 2,1543
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kalyanadurgam, 4710,kotturu, 196151, 14.458366, 77.098156, KOTTURU GP, 2,6253
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kalyanadurgam, 4710,manirevu, 196152, 14.595107, 77.305815, MANIREVU GP, 2,403
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kalyanadurgam, 4710,muddinayanapalli, 196153, 14.55367, 77.260807, MUDDINAYANAPALLI GP, 2,4387
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kalyanadurgam, 4710,narayanapuram, 196154, 14.501427, 77.141453, NARAYANAPURAM GP, 2,5517
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kalyanadurgam, 4710,palavoy, 196155, 14.511737, 77.164378, PALAVOY GP, 2,30128
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kalyanadurgam, 4710,thimmasamudram, 196156, 14.52902, 77.306205, THIMMASAMUDRAM GP, 2,4657
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kambaduru, 4711,chennampalli, 198868, 14.356662, 77.318165, CHENNAMPALLI GP, 2,2521
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kambaduru, 4711,gollapalli, 198869, 14.433132, 77.227227, GOLLAPALLI GP, 2,6290
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kambaduru, 4711,kambadur, 198870, 14.344086, 77.230135, KAMBADUR GP, 2,15441
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kambaduru, 4711,karthanaparthi, 198871, 14.472093, 77.309334, KARTHANAPARTHI GP, 2,2459
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kambaduru, 4711,kurakulapalli, 198872, 14.29691, 77.333573, KURAKULAPALLI GP, 2,2838
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kambaduru, 4711,marrimakula palli, 198873, 14.422993, 77.137614, MARRIMAKULA PALLI GP, 2,825
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kambaduru, 4711,mulakanur, 198874, 14.436586, 77.180768, MULAKANUR GP, 2,5622
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kambaduru, 4711,nuthimadugu, 198875, 14.491561, 77.324409, NUTHIMADUGU GP, 2,3897
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kambaduru, 4711,pallur, 198876, 14.447118, 77.227521, PALLUR GP, 2,5877
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kambaduru, 4711,ralla anantapuram, 198877, 14.404553, 77.302726, RALLA ANANTAPURAM GP, 2,1283
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kambaduru, 4711,ramapuram, 198878, 14.480849, 77.293739, RAMAPURAM GP, 2,3116
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kambaduru, 4711,timmapuram, 198879, 14.374522, 77.180904, TIMMAPURAM GP, 2,5833
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kanaganapalli, 4712,bhadrapuram, 196169, 14.449771, 77.458478, BHADRAPURAM GP, 2,1294
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kanaganapalli, 4712,bhanukota, 196170, 14.479497, 77.374698, BHANUKOTA GP, 2,6426
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kanaganapalli, 4712,dadulur, 196171, 14.386632, 77.640351, DADULUR GP, 2,3505
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kanaganapalli, 4712,elukuntla, 196172, 14.434676, 77.483995, ELUKUNTLA GP, 2,1998
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kanaganapalli, 4712,kanaganapalli, 196173, 14.445766, 77.525565, KANAGANAPALLI GP, 2,6965
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kanaganapalli, 4712,konapuram, 196174, 14.411561, 77.53363, KONAPURAM GP, 2,500
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kanaganapalli, 4712,kondapalli, 196175, 14.540431, 77.390395, KONDAPALLI GP, 2,4515
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kanaganapalli, 4712,konetinayani palyam, 196176, 14.388166, 77.329515, KONETINAYANIPALYAM GP, 2,2820
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kanaganapalli, 4712,maddelacheruvu, 196177, 14.430197, 77.359598, MADDELACHERUVU GP, 2,1844
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kanaganapalli, 4712,mamillapalli, 196178, 14.437829, 77.628877, MAMILLAPALLI GP, 2,4093
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kanaganapalli, 4712,mukthapuram, 196179, 14.45022, 77.624821, MUKTHAPURAM GP, 2,695
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kanaganapalli, 4712,muthavakuntla, 196180, 14.378991, 77.484146, MUTHAVAKUNTLA GP, 2,2634
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kanaganapalli, 4712,narasampalli, 196181, 14.421046, 77.432356, NARASAMPALLI GP, 2,1562
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kanaganapalli, 4712,pathapalyam, 196182, 14.469303, 77.434476, PATHAPALYAM GP, 2,2820
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kanaganapalli, 4712,thagarakunta, 196183, 14.489988, 77.460593, THAGARAKUNTA GP, 2,4059
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kanaganapalli, 4712,thumucherla, 196184, 14.533313, 77.451441, THUMUCHERLA GP, 2,2268
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kanaganapalli, 4712,vepakunta, 196185, 14.455905, 77.387031, VEPAKUNTA GP, 2,7154
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kanekal, 4713,bennikal, 198897, 14.896601, 77.063699, BENNIKAL GP, 2,2075
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kanekal, 4713,bidurukuntham, 198898, 14.886449, 77.089791, BIDURUKUNTHAM GP, 2,982
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kanekal, 4713,brahmasamudram, 198899, 14.871881, 77.072853, BRAHMASAMUDRAM GP, 2,2095
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kanekal, 4713,ganigera, 198900, 14.852789, 76.981691, GANIGERA GP, 2,403
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kanekal, 4713,garudachedu, 198901, 14.854597, 77.106054, GARUDACHEDU GP, 2,1566
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kanekal, 4713,gopula puram, 198902, 14.743366, 76.991839, GOPULA PURAM GP, 2,5926
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kanekal, 4713,hanakanahal, 198903, 14.756103, 77.138733, HANAKANAHAL GP, 2,3309
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kanekal, 4713,hulikera, 198904, 14.76422, 76.994877, HULIKERA GP, 2,6001
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kanekal, 4713,jakkalavadiki, 198905, 14.833671, 76.981806, JAKKALAVADIKI GP, 2,5523
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kanekal, 4713,kalekurthy, 198906, 14.780327, 77.090027, KALEKURTHY GP, 2,1933
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kanekal, 4713,kanekal, 198907, 14.804459, 77.07775, KANEKAL GP, 2,19731
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kanekal, 4713,malyam, 198908, 14.803299, 77.099876, MALYAM GP, 2,3212
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kanekal, 4713,n.hanumapuram, 198909, 14.840002, 77.149048, N.HANUMAPURAM GP, 2,2005
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kanekal, 4713,ratchumarri, 198910, 14.758378, 77.064901, RATCHUMARRI, 2,1950
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kanekal, 4713,sollapuram, 198911, 14.817254, 77.159433, SOLLAPURAM GP, 2,2029
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kanekal, 4713,thumbiganur, 198912, 14.84343, 77.108228, THUMBIGANUR GP, 2,2718
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kanekal, 4713,udegolam, 198913, 14.853626, 77.078739, UDEGOLAM GP, 2,1977
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kanekal, 4713,yerragunta, 198914, 14.835687, 77.0097, YERRAGUNTA GP, 2,1900
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kottacheruvu, 4714,bandlapalli, 196204, 14.126461, 77.700792, BANDLAPALLI GP, 2,500
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kottacheruvu, 4714,byrapuram, 196205, 14.13687, 77.710094, BYRAPURAM GP, 2,500
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kottacheruvu, 4714,iragampalli, 196206, 14.205315, 77.744465, IRAGAMPALLI GP, 2,247
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kottacheruvu, 4714,k.locherla, 196207, 14.169035, 77.735049, K.LOCHERLA GP, 2,2388
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kottacheruvu, 4714,k.nagireddy palli, 196208, 14.199635, 77.757699, K.NAGIREDDY PALLI GP, 2,14564
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kottacheruvu, 4714,kesapuram, 196209, 14.26011, 77.771212, KESAPURAM GP, 2,25
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kottacheruvu, 4714,kodapaganipalli, 196210, 14.235291, 77.756857, KODAPAGANIPALLI GP, 2,1310
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kottacheruvu, 4714,kothacheruvu, 196211, 14.186831, 77.767467, KOTHACHERUVU GP, 2,3064
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kottacheruvu, 4714,lingareddypalli, 196212, 14.215898, 77.780111, LINGAREDDYPALLI GP, 2,655
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kottacheruvu, 4714,mirzapuram, 196213, 14.225591, 77.706472, MIRZAPURAM GP, 2,5210
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kottacheruvu, 4714,mylasamudram, 196214, 14.257929, 77.781537, MYLASAMUDRAM GP, 2,1228
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kottacheruvu, 4714,narepalli, 196215, 14.238955, 77.786593, NAREPALLI GP, 2,787
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kottacheruvu, 4714,pothulakunta, 196216, 14.160097, 77.705072, POTHULAKUNTA GP, 2,95
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kottacheruvu, 4714,talamarla, 196217, 14.212893, 77.724654, TALAMARLA GP, 2,3755
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kottacheruvu, 4714,thirumaladevarapalli, 196218, 14.233894, 77.770395, THIRUMALADEVARAPALLI GP, 2,409
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kuderu, 4715,aravakur, 196219, 14.741894, 77.463045, ARAVAKUR GP, 2,1126
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kuderu, 4715,cholasamudram, 196220, 14.737259, 77.35295, CHOLASAMUDRAM GP, 2,4455
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kuderu, 4715,gotukuru, 196221, 14.733904, 77.521033, GOTUKURU GP, 2,579
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kuderu, 4715,ipperu, 196222, 14.777907, 77.424821, IPPERU GP, 2,280
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kuderu, 4715,jallipalli, 196223, 14.804598, 77.349594, JALLIPALLI GP, 2,4803
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kuderu, 4715,kalagalla, 196224, 14.811529, 77.417788, KALAGALLA GP, 2,1661
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kuderu, 4715,kammuru, 196225, 14.745142, 77.482701, KAMMURU GP, 2,3441
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kuderu, 4715,korrakodu, 196226, 14.771918, 77.331472, KORRAKODU GP, 2,3301
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kuderu, 4715,kudair, 196227, 14.730813, 77.429185, KUDAIR GP, 2,6315
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kuderu, 4715,marutla, 196228, 14.832317, 77.399871, MARUTLA GP, 2,2942
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kuderu, 4715,muddalapuram, 196229, 14.759436, 77.392254, MUDDALAPURAM GP, 2,5390
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kuderu, 4715,p.narayanapuram, 196230, 14.706819, 77.357205, P.NARAYANAPURAM GP, 2,1126
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kuderu, 4715,thimmapuram, 196231, 14.702108, 77.377806, THIMMAPURAM GP, 2,4231
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kuderu, 4715,udiripikonda, 196232, 14.827868, 77.344, UDIRIPIKONDA GP, 2,2347
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kundurpi, 4716,appilepalli, 196233, 14.326177, 77.048889, APPILEPALLI GP, 2,3559
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kundurpi, 4716,basapuram, 196234, 14.333726, 76.991004, BASAPURAM GP, 2,4735
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kundurpi, 4716,bestharapalli, 196235, 14.292245, 77.10151, BESTHARAPALLI GP, 2,6681
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kundurpi, 4716,jambugumpala, 196236, 14.256153, 77.064199, JAMBUGUMPALA GP, 2,4938
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kundurpi, 4716,kariganipalli, 196237, 14.344363, 77.093383, KARIGANIPALLI GP, 2,4749
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kundurpi, 4716,kundurpi, 196238, 14.291211, 77.035048, KUNDURPI GP, 2,6818
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kundurpi, 4716,mahanthapuram, 196239, 14.296561, 77.05861, MAHANTHAPURAM GP, 2,11516
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kundurpi, 4716,malayanur, 196240, 14.25345, 76.970976, MALAYANUR GP, 2,6822
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kundurpi, 4716,nijavalli, 196241, 14.255973, 77.017374, NIJAVALLI GP, 2,2526
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kundurpi, 4716,tenagal, 196242, 14.351235, 77.113118, TENAGAL GP, 2,847
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kundurpi, 4716,tumukunta, 196243, 14.309142, 77.110561, TUMUKUNTA GP, 2,4834
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kundurpi, 4716,yarrakunta, 196244, 14.355511, 77.003413, YARRAKUNTA GP, 2,5555
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Kundurpi, 4716,yenumaladoddi, 196245, 14.383265, 77.110003, YENUMALADODDI GP, 2,644
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Lepakshi, 4717,bisalamane palli, 196246, 13.81169, 77.582762, BISALAMANE PALLI GP, 2,750
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Lepakshi, 4717,cholasamudram, 196247, 13.809209, 77.564462, CHOLASAMUDRAM GP, 2,4455
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Lepakshi, 4717,kallur, 196248, 13.834752, 77.562083, KALLUR GP, 2,1841
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Lepakshi, 4717,kanchisamudram, 196249, 13.774726, 77.61231, KANCHISAMUDRAM GP, 2,4809
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Lepakshi, 4717,kodihalli, 196250, 13.800962, 77.547213, KODIHALLI GP, 2,4161
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Lepakshi, 4717,kondur, 196251, 13.850593, 77.609958, KONDUR GP, 2,4189
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Lepakshi, 4717,lepakshi, 196252, 13.804312, 77.60751, LEPAKSHI GP, 2,10042
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Lepakshi, 4717,manepalli, 196253, 13.753436, 77.562817, MANEPALLI GP, 2,3223
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Lepakshi, 4717,mydugolam, 196254, 13.742003, 77.626287, MYDUGOLAM GP, 2,1424
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Lepakshi, 4717,nayanipalli, 196255, 13.833372, 77.57477, NAYANIPALLI GP, 2,4581
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Lepakshi, 4717,pulamathi, 196256, 13.787999, 77.531806, PULAMATHI GP, 2,4317
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Lepakshi, 4717,sirivaram, 196257, 13.759321, 77.574391, SIRIVARAM GP, 2,3921
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Madakasira, 4718,amidalagondi, 198969, 13.990267, 77.281268, AMIDALAGONDI GP, 2,500
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Madakasira, 4718,bullasamudram, 198970, 13.925845, 77.321742, BULLASAMUDRAM GP, 2,3513
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Madakasira, 4718,c.kodigepalle, 198971, 13.860541, 77.40475, C.KODIGEPALLE GP, 2,2202
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Madakasira, 4718,chandakacherla, 198972, 14.00524, 77.320117, CHANDAKACHERLA GP, 2,3635
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Madakasira, 4718,chatram, 198973, 13.939224, 77.317977, CHATRAM GP, 2,1815
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Madakasira, 4718,gangalavai palyam, 198974, 13.887396, 77.19045, GANGALAVAI PALYAM GP, 2,1324
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Madakasira, 4718,govindapuram, 198975, 13.889776, 77.221396, GOVINDAPURAM GP, 2,5342
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Madakasira, 4718,gowdanahalli, 198976, 13.968721, 77.313775, GOWDANAHALLI GP, 2,3014
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Madakasira, 4718,haresamudram, 198977, 13.909065, 77.294715, HARESAMUDRAM GP, 2,454
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Madakasira, 4718,kallumarri, 198978, 13.875288, 77.381148, KALLUMARRI GP, 2,4550
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Madakasira, 4718,manur, 198980, 13.861004, 77.341941, MANUR GP, 2,4157
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Madakasira, 4718,melavoi, 198981, 13.939825, 77.225907, MELAVOI GP, 2,447
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Madakasira, 4718,r.anantapuram, 198982, 13.950946, 77.339703, R.ANANTAPURAM GP, 2,3566
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Madakasira, 4718,yerrabommanahalli, 198983, 13.874034, 77.265102, YERRABOMMANAHALLI GP, 2,4512
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Mudigubba, 4719,budanampalli, 196272, 14.495081, 77.962473, BUDANAMPALLI GP, 2,1662
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Mudigubba, 4719,chinnakotla, 196273, 14.520778, 77.962975, CHINNAKOTLA GP, 2,1164
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Mudigubba, 4719,dorigallu, 196274, 14.424207, 78.038551, DORIGALLU GP, 2,5856
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Mudigubba, 4719,edulapalli, 196275, 14.469725, 77.989299, EDULAPALLI GP, 2,2898
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Mudigubba, 4719,gandlavari palle, 196276, 14.422658, 77.978988, GANDLAVARI PALLE GP, 2,1324
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Mudigubba, 4719,gunjepalli, 196277, 14.383678, 77.949598, GUNJEPALLI GP, 2,16626
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Mudigubba, 4719,jonnalakothapalli, 196278, 14.402765, 77.939554, JONNALAKOTHAPALLI GP, 2,3847
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Mudigubba, 4719,kodavandlapalli, 196279, 14.469399, 77.963667, KODAVANDLAPALLI GP, 2,3374
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Mudigubba, 4719,kondagattupalli, 196280, 14.290149, 78.11162, KONDAGATTUPALLI GP, 2,3471
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Mudigubba, 4719,malakavemula, 196281, 14.301528, 78.056835, MALAKAVEMULA GP, 2,1895
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Mudigubba, 4719,mallepalli, 196282, 14.359675, 78.108836, MALLEPALLI GP, 2,3248
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Mudigubba, 4719,mangalamadaka, 196283, 14.301528, 77.960075, MANGALAMADAKA GP, 2,311
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Mudigubba, 4719,marthadu, 196284, 14.444849, 77.997643, MARTHADU GP, 2,572
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Mudigubba, 4719,mudigubba, 196285, 14.351439, 77.996036, MUDIGUBBA GP, 2,2444
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Mudigubba, 4719,mukthapuram, 196286, 14.387731, 77.907809, MUKTHAPURAM GP, 2,695
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Mudigubba, 4719,p.c.revu, 196287, 14.488198, 77.929407, P.C.REVU GP, 2,1365
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Mudigubba, 4719,podarallapalli, 196288, 14.325182, 77.969152, PODARALLAPALLI GP, 2,500
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Mudigubba, 4719,sanevaripalli, 196289, 14.276871, 78.061648, SANEVARIPALLI GP, 2,1545
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Mudigubba, 4719,sankepalli, 196290, 14.414254, 77.96409, SANKEPALLI GP, 2,1117
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Mudigubba, 4719,thappetavaripalli, 196291, 14.343869, 78.121821, THAPPETAVARIPALLI GP, 2,856
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Mudigubba, 4719,uppalapadu, 196292, 14.467012, 77.916418, UPPALAPADU GP, 2,1198
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Nallacheruvu, 4720,allugundu, 196293, 14.060886, 78.163577, ALLUGUNDU GP, 2,1930
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Nallacheruvu, 4720,jogannapeta, 196294, 14.05146, 78.172325, JOGANNAPETA GP, 2,4432
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Nallacheruvu, 4720,kadiripulakunta, 196295, 13.989727, 78.15868, KADIRIPULAKUNTA GP, 2,2347
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Nallacheruvu, 4720,m.agraharam(s.m.palli), 196296, 14.030279, 78.158253, M.AGRAHARAM(S.M.PALLI) GP, 2,1275
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Nallacheruvu, 4720,maddimadugu, 196297, 14.0161, 78.141601, MADDIMADUGU GP, 2,661
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Nallacheruvu, 4720,nallacheruvu, 196298, 13.987724, 78.182357, NALLACHERUVU GP, 2,8023
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Nallacheruvu, 4720,oravoy, 196299, 13.962384, 78.221387, ORAVOY GP, 2,3462
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Nallacheruvu, 4720,p.kothapalli, 196300, 14.026352, 78.189327, P.KOTHAPALLI GP, 2,2193
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Nallacheruvu, 4720,panthulacheruvu, 196301, 14.049884, 78.145745, PANTHULACHERUVU GP, 2,1206
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Nallacheruvu, 4720,talamarlavandlapalli, 196302, 13.938706, 78.184313, TALAMARLAVANDLAPALLI GP, 2,3755
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Nallacheruvu, 4720,tavalamarri, 196303, 14.024587, 78.13052, TAVALAMARRI GP, 2,1439
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Nallacheruvu, 4720,ubicherla, 196304, 13.998448, 78.12959, UBICHERLA GP, 2,2506
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Nallamada, 4721,charupalli, 196305, 14.195375, 78.078946, CHARUPALLI, 2,2602
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Nallamada, 4721,donnikota, 196306, 14.09079, 78.036402, DONNIKOTA, 2,4008
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Nallamada, 4721,gopepalli, 199019, 14.138416, 78.017313, GOPEPALLI, 2,1871
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Nallamada, 4721,kurumala, 199020, 14.079745, 77.991477, KURUMALA, 2,815
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Nallamada, 4721,masakarankapalli, 199021, 14.103181, 78.015214, MASAKARANKAPALLI, 2,3409
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Nallamada, 4721,nallamada, 199022, 14.141158, 77.984947, NALLAMADA, 2,10944
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Nallamada, 4721,pathabathalapalli, 199023, 14.169431, 78.018416, PATHABATHALAPALLI, 2,3374
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Nallamada, 4721,pulagampalli, 199024, 14.077696, 78.060773, PULAGAMPALLI, 2,1921
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Nallamada, 4721,reddipalli, 199025, 14.197402, 78.010561, REDDIPALLI, 2,2584
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Nallamada, 4721,vankarakunta, 199026, 14.194088, 77.997244, VANKARAKUNTA, 2,3128
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Nallamada, 4721,vellamaddi, 199027, 14.238159, 78.043273, VELLAMADDI, 2,3036
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Nallamada, 4721,yerravankapalli, 199028, 14.238159, 78.043273, YERRAVANKAPALLI, 2,3929
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Nambulapulikunta, 4722,balija palli, 196317, 13.955882, 78.386754, BALIJA PALLI GP, 2,3374
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Nambulapulikunta, 4722,dhaniyanicheruvu, 196318, 14.079886, 78.353251, DHANIYANICHERUVU GP, 2,3181
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Nambulapulikunta, 4722,eastnadimpalli, 196319, 14.156324, 78.419442, EASTNADIMPALLI GP, 2,3883
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Nambulapulikunta, 4722,edurudona, 196320, 13.990157, 78.324013, EDURUDONA GP, 2,2298
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Nambulapulikunta, 4722,gowkanapalli, 196321, 14.174375, 78.4088, GOWKANAPALLI GP, 2,3958
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Nambulapulikunta, 4722,marrikommadinne, 196322, 14.097782, 78.436922, MARRIKOMMADINNE GP, 2,2703
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Nambulapulikunta, 4722,mekalacheruvu, 196323, 14.038838, 78.309078, MEKALACHERUVU GP, 2,1844
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Nambulapulikunta, 4722,nambulapulikunta, 196324, 14.05497, 78.415987, NAMBULAPULIKUNTA GP, 2,5464
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Nambulapulikunta, 4722,p.kothapalli, 196325, 14.020092, 78.391242, P.KOTHAPALLI GP, 2,2193
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Nambulapulikunta, 4722,pedaballi, 196326, 13.986015, 78.392366, PEDABALLI GP, 2,6584
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Nambulapulikunta, 4722,vankamaddi, 196327, 14.080278, 78.405478, VANKAMADDI GP, 2,1035
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Nambulapulikunta, 4722,velichelimala, 196328, 14.164674, 78.341766, VELICHELIMALA GP, 2,3036
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Nambulapulikunta, 4722,west nadim palli, 196329, 14.156068, 78.352799, WEST NADIM PALLI GP, 2,3883
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Narpala, 4723,b.pappuru, 196331, 14.635801, 77.794122, B.PAPPURU GP, 2,3507
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Narpala, 4723,bandlapalli, 196332, 14.614805, 77.774773, BANDLAPALLI GP, 2,500
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Narpala, 4723,bondalawada, 196333, 14.673753, 77.787284, BONDALAWADA GP, 2,2180
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Narpala, 4723,chamaluru, 196334, 14.761165, 77.772577, CHAMALURU GP, 2,1584
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Narpala, 4723,duggumarri, 196335, 14.678169, 77.809549, DUGGUMARRI GP, 2,3009
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Narpala, 4723,gadamnagepalle, 196336, 14.762239, 77.830689, GADAMNAGEPALLE GP, 2,3783
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Narpala, 4723,ganganapalli, 196337, 14.647301, 77.83997, GANGANAPALLI GP, 2,3712
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Narpala, 4723,gugudu, 196338, 14.665609, 77.862798, GUGUDU GP, 2,6821
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Narpala, 4723,gunjepalle, 196339, 14.605049, 77.818035, GUNJEPALLE GP, 2,2208
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Narpala, 4723,h.sodanapalli, 196340, 14.632155, 77.819956, H.SODANAPALLI GP, 2,2083
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Narpala, 4723,kesepalli, 196341, 14.746348, 77.795921, KESEPALLI GP, 2,5937
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Narpala, 4723,nadimidoddi, 196342, 14.766363, 77.798073, NADIMIDODDI GP, 2,644
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Narpala, 4723,narpala, 196343, 14.711588, 77.811466, NARPALA GP, 2,18982
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Narpala, 4723,nayanapalli, 196344, 14.800518, 77.813514, NAYANAPALLI GP, 2,3638
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Narpala, 4723,rangapuram, 196345, 14.684366, 77.847033, RANGAPURAM GP, 2,3432
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Narpala, 4723,siddaracherla, 196346, 14.63567, 77.757697, SIDDARACHERLA GP, 2,739
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Narpala, 4723,venkatampalli, 196347, 14.789622, 77.83068, VENKATAMPALLI GP, 2,4413
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Obuladevarecheruvu, 4724,allapalli, 196347, 13.983329, 77.926341, ALLAPALLI, 2,5634
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Obuladevarecheruvu, 4724,chinthamanipalli, 196348, 14.05483, 77.936751, CHINTHAMANIPALLI, 2,102
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Obuladevarecheruvu, 4724,daburuvaripalli, 196349, 14.050177, 77.965213, DABURUVARIPALLI, 2,4932
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Obuladevarecheruvu, 4724,inagalur, 196350, 14.043834, 78.040672, INAGALUR, 2,5715
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Obuladevarecheruvu, 4724,kondakamarla, 196351, 14.068952, 77.954363, KONDAKAMARLA, 2,9118
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Obuladevarecheruvu, 4724,mamillakuntlapalli, 196352, 14.034886, 77.990622, MAMILLAKUNTLAPALLI, 2,825
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Obuladevarecheruvu, 4724,mittapalli, 196353, 14.054405, 78.049559, MITTAPALLI, 2,825
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Obuladevarecheruvu, 4724,obuladevara cheruvu, 196354, 14.022853, 77.996307, OBULADEVARA CHERUVU, 2,6639
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Obuladevarecheruvu, 4724,sunnampalli, 196355, 13.988499, 77.97529, SUNNAMPALLI, 2,4109
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Obuladevarecheruvu, 4724,thangedukunta, 196356, 13.944041, 77.918535, THANGEDUKUNTA, 2,58
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Obuladevarecheruvu, 4724,thippepalli, 196357, 14.018327, 77.970439, THIPPEPALLI, 2,2680
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Obuladevarecheruvu, 4724,thummalakuntlapalli, 196358, 14.012344, 78.066529, THUMMALAKUNTLAPALLI, 2,2490
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Obuladevarecheruvu, 4724,venkatapuram, 196359, 14.010781, 78.034124, VENKATAPURAM, 2,961
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Pamidi, 4725,anumpalli, 196360, 14.994745, 77.514394, ANUMPALLI, 2,2761
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Pamidi, 4725,devarapalli, 196361, 14.992549, 77.558835, DEVARAPALLI, 2,2115
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Pamidi, 4725,dibbasani palli, 196362, 14.984904, 77.461859, DIBBASANI PALLI, 2,3557
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Pamidi, 4725,eddulapalli, 196363, 14.94528, 77.495268, EDDULAPALLI, 2,2555
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Pamidi, 4725,edururu, 196364, 15.026681, 77.602522, EDURURU, 2,1053
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Pamidi, 4725,gajarampalli, 196365, 14.999473, 77.61709, GAJARAMPALLI, 2,343
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Pamidi, 4725,gulimikondla kottala, 196366, 14.995327, 77.578944, GULIMIKONDLA KOTTALA, 2,768
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Pamidi, 4725,kandlapalli, 196367, 14.90857, 77.520847, KANDLAPALLI, 2,1265
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Pamidi, 4725,katrimala, 196368, 14.894456, 77.455392, KATRIMALA, 2,2438
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Pamidi, 4725,kattakinda palli, 196369, 15.006448, 77.450548, KATTAKINDA PALLI, 2,750
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Pamidi, 4725,khadarpeta, 196370, 14.987904, 77.533599, KHADARPETA, 2,1246
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Pamidi, 4725,neeluru, 196371, 14.974394, 77.62607, NEELURU, 2,747
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Pamidi, 4725,palyam, 196372, 14.915363, 77.471086, PALYAM, 2,686
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Pamidi, 4725,palyam thanda, 196373, 14.923455, 77.45436, PALYAM THANDA, 2,697
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Pamidi, 4725,ramagiri, 196374, 14.958926, 77.472313, RAMAGIRI, 2,3778
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Pamidi, 4725,ramarajupalli, 196375, 15.051235, 77.629716, RAMARAJUPALLI, 2,1222
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Pamidi, 4725,sorakayalapeta, 196376, 14.944146, 77.52501, SORAKAYALAPETA, 2,860
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Pamidi, 4725,vankarajukalva, 196377, 14.918467, 77.548569, VANKARAJUKALVA, 2,1119
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Parigii, 4726,beechiganipalli, 196378, 13.926472, 77.508157, BEECHIGANIPALLI, 2,3759
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Parigii, 4726,honnampalli, 196379, 13.893168, 77.426068, HONNAMPALLI, 2,2521
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Parigii, 4726,kodigenahalli, 196380, 13.858065, 77.479289, KODIGENAHALLI, 2,12664
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Parigii, 4726,moda, 196381, 13.823957, 77.444125, MODA, 2,8751
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Parigii, 4726,p.narasapuram, 196382, 13.930887, 77.429514, P.NARASAPURAM, 2,668
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Parigii, 4726,parigi, 196383, 13.892462, 77.459179, PARIGI, 2,1712
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Parigii, 4726,pydeti, 196384, 13.945661, 77.454069, PYDETI, 2,1688
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Parigii, 4726,sasanakota, 196385, 13.878708, 77.495469, SASANAKOTA, 2,1971
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Parigii, 4726,seegipalli, 196386, 13.947739, 77.485937, SEEGIPALLI, 2,1176
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Parigii, 4726,sirekolam, 196387, 13.903886, 77.436614, SIREKOLAM, 2,3719
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Parigii, 4726,srirangarajupalli, 196388, 13.855284, 77.438689, SRIRANGARAJUPALLI, 2,12614
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Parigii, 4726,utakur, 196389, 13.913226, 77.496171, UTAKUR, 2,376
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Parigii, 4726,vittapalli, 196390, 13.938624, 77.463598, VITTAPALLI, 2,1415
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Parigii, 4726,yerragunta, 196391, 13.909923, 77.481995, YERRAGUNTA, 2,1900
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Pedapappuru, 4727,ammaladinne, 196392, 14.887625, 77.898001, AMMALADINNE GP, 2,2357
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Pedapappuru, 4727,c.chikkepalli, 196393, 14.890195, 77.867256, C.CHIKKEPALLI GP, 2,2283
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Pedapappuru, 4727,chagallu, 196394, 14.9222, 77.833655, CHAGALLU GP, 2,603
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Pedapappuru, 4727,cheemulavagu palli, 196395, 15.00996, 77.920007, CHEEMULAVAGU PALLI GP, 2,96
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Pedapappuru, 4727,chinnayekkaluru, 196396, 14.916788, 77.799955, CHINNAYEKKALURU GP, 2,1296
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Pedapappuru, 4727,devanuppalapadu, 196397, 14.906083, 77.7785, DEVANUPPALAPADU GP, 2,1220
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Pedapappuru, 4727,dharmapuram, 196398, 14.920173, 77.883444, DHARMAPURAM GP, 2,1294
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Pedapappuru, 4727,garladinne, 196399, 14.95181, 77.857896, GARLADINNE GP, 2,1064
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Pedapappuru, 4727,jutur, 196400, 14.94288, 77.914377, JUTUR GP, 2,4529
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Pedapappuru, 4727,kummetha, 196401, 14.970715, 77.882985, KUMMETHA GP, 2,566
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Pedapappuru, 4727,muchukota, 196402, 14.848761, 77.87669, MUCHUKOTA GP, 2,4862
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Pedapappuru, 4727,namananka palli, 196403, 14.892422, 77.873766, NAMANANKA PALLI GP, 2,8000
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Pedapappuru, 4727,narasapuram, 196404, 14.968784, 77.89008, NARASAPURAM GP, 2,4789
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Pedapappuru, 4727,p.cherlopalli, 196405, 14.949929, 77.808762, P.CHERLOPALLI GP, 2,3256
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Pedapappuru, 4727,pasalur, 196406, 14.95927, 77.8632, PASALUR GP, 2,1621
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Pedapappuru, 4727,peddapappur, 196407, 14.929048, 77.860182, PEDDAPAPPUR GP, 2,4391
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Pedapappuru, 4727,peddayekkaluru, 196408, 14.928978, 77.817819, PEDDAYEKKALURU GP, 2,2602
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Pedapappuru, 4727,somana palli, 196409, 14.912691, 77.891498, SOMANA PALLI GP, 2,750
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Pedapappuru, 4727,tabjula, 196410, 14.896157, 77.82307, TABJULA GP, 2,1809
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Pedapappuru, 4727,varadaya palli, 196411, 14.864088, 77.878311, VARADAYA PALLI GP, 2,495
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Peddavaduguru, 4728,a.thimmapuram, 196412, 15.093718, 77.761266, A.THIMMAPURAM GP, 2,4231
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Peddavaduguru, 4728,appecherla, 196413, 15.076041, 77.748978, APPECHERLA GP, 2,2268
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Peddavaduguru, 4728,bheemunipalli, 196414, 15.026738, 77.761294, BHEEMUNIPALLI GP, 2,2485
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Peddavaduguru, 4728,burnakunta, 196415, 15.049525, 77.737598, BURNAKUNTA GP, 2,4796
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Peddavaduguru, 4728,chinnavaduguru, 196416, 14.998137, 77.674259, CHINNAVADUGURU GP, 2,1340
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Peddavaduguru, 4728,chinthala cheruvu, 196417, 14.989203, 77.764706, CHINTHALA CHERUVU GP, 2,1227
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Peddavaduguru, 4728,chitrachedu, 196418, 14.923265, 77.732301, CHITRACHEDU GP, 2,1049
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Peddavaduguru, 4728,chitturu, 196419, 14.935759, 77.700161, CHITTURU GP, 2,1675
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Peddavaduguru, 4728,dimmagudi, 196420, 14.975365, 77.692096, DIMMAGUDI GP, 2,2202
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Peddavaduguru, 4728,g.venkatampalli, 196421, 15.073722, 77.691181, G.VENKATAMPALLI GP, 2,1206
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Peddavaduguru, 4728,gooty ananthapuram, 196422, 15.074515, 77.647502, GOOTY ANANTHAPURAM GP, 2,2650
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Peddavaduguru, 4728,kandlaguduru, 196423, 14.971239, 77.722377, KANDLAGUDURU GP, 2,1139
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Peddavaduguru, 4728,kasepalli, 196424, 15.049841, 77.640586, KASEPALLI GP, 2,8000
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Peddavaduguru, 4728,kristipadu, 196425, 15.063277, 77.778618, KRISTIPADU GP, 2,5776
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Peddavaduguru, 4728,lakshumpalli, 196426, 15.033872, 77.713457, LAKSHUMPALLI GP, 2,3885
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Peddavaduguru, 4728,mallenipalli, 196427, 15.048988, 77.720246, MALLENIPALLI GP, 2,886
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Peddavaduguru, 4728,medimakulapalli, 196428, 15.007361, 77.725428, MEDIMAKULAPALLI GP, 2,923
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Peddavaduguru, 4728,miduthuru, 196429, 15.019499, 77.616233, MIDUTHURU GP, 2,1419
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Peddavaduguru, 4728,muppalagutti, 196430, 15.044793, 77.735954, MUPPALAGUTTI GP, 2,1112
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Peddavaduguru, 4728,p.kottalapalli, 196431, 14.975391, 77.673084, P.KOTTALAPALLI GP, 2,451
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Peddavaduguru, 4728,peddavadugur, 196432, 15.020438, 77.669343, PEDDAVADUGUR GP, 2,7630
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Peddavaduguru, 4728,penakalapadu (u.i), 196433, 14.956326, 77.662178, PENAKALAPADU (U.I) GP, 2,746
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Peddavaduguru, 4728,rampuram, 196434, 14.95284, 77.729876, RAMPURAM GP, 2,1163
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Peddavaduguru, 4728,ravuludiki, 196435, 15.007991, 77.799586, RAVULUDIKI GP, 2,606
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Peddavaduguru, 4728,virupapuram, 196436, 15.054217, 77.670243, VIRUPAPURAM GP, 2,506
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Penukonda, 4729,adadakulapalli, 196437, 14.042703, 77.544962, ADADAKULAPALLI GP, 2,1447
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Penukonda, 4729,duddebanda, 196438, 14.181624, 77.603978, DUDDEBANDA GP, 2,396
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Penukonda, 4729,erramanchi, 196439, 14.148757, 77.620344, ERRAMANCHI GP, 2,2032
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Penukonda, 4729,gonipeta, 196440, 14.059858, 77.644413, GONIPETA GP, 2,1225
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Penukonda, 4729,gutturu, 196441, 14.190626, 77.633133, GUTTURU GP, 2,1139
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Penukonda, 4729,konapuram, 196442, 14.11424, 77.585834, KONAPURAM GP, 2,500
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Penukonda, 4729,mavaturu, 196443, 14.033684, 77.50259, MAVATURU GP, 2,2425
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Penukonda, 4729,munimadugu, 196444, 14.181086, 77.658085, MUNIMADUGU GP, 2,3770
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Penukonda, 4729,nagaluru, 196445, 14.010166, 77.521039, NAGALURU GP, 2,2163
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Penukonda, 4729,penukonda(major), 196446, 14.079808, 77.59417, PENUKONDA(MAJOR) GP, 2,27382
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Penukonda, 4729,rampuram, 196447, 14.119943, 77.629193, RAMPURAM GP, 2,1163
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Penukonda, 4729,settipalli, 196448, 14.092836, 77.687949, SETTIPALLI GP, 2,2990
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Penukonda, 4729,venkatagiri palem, 196449, 14.195382, 77.610796, VENKATAGIRI PALEM GP, 2,5694
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Penukonda, 4729,venkatareddy palli, 196450, 14.112906, 77.604028, VENKATAREDDY PALLI GP, 2,495
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Putluru, 4730,a.kondapuram, 196451, 14.863893, 77.906739, A.KONDAPURAM GP, 2,2034
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Putluru, 4730,arakatavemula, 196452, 14.85313, 77.907066, ARAKATAVEMULA GP, 2,1895
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Putluru, 4730,balapuram, 196453, 14.788733, 77.976371, BALAPURAM GP, 2,5848
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Putluru, 4730,c.vengannapalli, 196454, 14.788183, 78.031543, C.VENGANNAPALLI GP, 2,2412
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Putluru, 4730,chalavemula, 196455, 14.747546, 77.96337, CHALAVEMULA GP, 2,1247
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Putluru, 4730,cherlopalli, 196456, 14.788979, 77.932313, CHERLOPALLI GP, 2,6596
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Putluru, 4730,dosaledu, 196457, 14.784998, 77.907172, DOSALEDU GP, 2,1683
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Putluru, 4730,ellutla, 196458, 14.671282, 77.9068, ELLUTLA GP, 2,2372
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Putluru, 4730,gandlapadu, 196459, 14.845172, 78.021995, GANADALAPDU GP, 2,1324
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Putluru, 4730,garugu chintalapalli, 196460, 14.725406, 77.999247, GARUJU CHINALAPALLI GB, 2,1635
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Putluru, 4730,jangamreddipeta, 196461, 14.688436, 77.905217, JANGAMREDDIPETA GP, 2,853
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Putluru, 4730,kadavakal, 196462, 14.811715, 77.922111, KADAVAKAL GP, 2,4040
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Putluru, 4730,kandikapula, 196463, 14.844752, 77.950168, KANDIKAPULA GP, 2,615
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Putluru, 4730,komatikuntla, 196464, 14.771675, 77.9951, KOMATIKUNTLA GP, 2,1829
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Putluru, 4730,kondepalli, 196465, 14.835087, 78.068196, KONDEPALLI GP, 2,4285
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Putluru, 4730,kummanamala, 196466, 14.719728, 77.946024, KUMMANAMALA GP, 2,1700
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Putluru, 4730,maddipalli, 196467, 14.752947, 77.935659, MADDIPALLI GP, 2,1535
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Putluru, 4730,madugupalli, 196468, 14.711142, 77.894296, MADUGUPALLI GP, 2,2296
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Putluru, 4730,putlur, 196469, 14.812198, 77.96658, PUTLUR GP, 2,5926
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Putluru, 4730,rangarajukunta, 196470, 14.710069, 77.940733, RANGARAJUKUNTA GP, 2,2494
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Putluru, 4730,sangalaguduru, 196471, 14.814564, 78.040319, SANGALAGUDURU GP, 2,1139
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Putluru, 4730,surepalli, 196472, 14.840682, 77.90708, SUREPALLI GP, 2,1711
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Putluru, 4730,takkallapalli, 196473, 14.822977, 78.010546, TAKKALLAPALLI GP, 2,572
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Puttaparthy, 4731,amagondapalem, 196474, 14.10682, 77.86693, AMAGONDAPALEM GP, 2,1528
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Puttaparthy, 4731,cherlopalli, 196475, 14.1459, 77.87837, CHERLOPALLI GP, 2,6596
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Puttaparthy, 4731,diguvacherlopalli, 196476, 14.0556, 77.86497, DIGUVACHERLOPALLI GP, 2,3256
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Puttaparthy, 4731,eragarajupalli, 196477, 14.08742, 77.70926, ERAGARAJUPALLI GP, 2,12614
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Puttaparthy, 4731,jagarajupalli, 196478, 14.13027, 77.73778, JAGARAJUPALLI GP, 2,2539
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Puttaparthy, 4731,kappala banda, 196479, 14.14875, 77.75404, KAPPALA BANDA GP, 2,2216
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Puttaparthy, 4731,kotlapalli, 196480, 14.07354, 77.72157, KOTLAPALLI GP, 2,451
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Puttaparthy, 4731,nidimamidi, 196481, 14.06075, 77.71622, NIDIMAMIDI GP, 2,3894
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Puttaparthy, 4731,paipalli, 196482, 14.07798, 77.75432, PAIPALLI GP, 2,1712
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Puttaparthy, 4731,pedaballi, 196483, 14.05994, 77.77554, PEDABALLI GP, 2,6584
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Puttaparthy, 4731,rachuvaripalli, 196484, 14.04831, 77.73346, RACHUVARIPALLI GP, 2,3595
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Puttaparthy, 4731,vengalammacheruvu, 196485, 14.15404, 77.86331, VENGALAMMACHERUVU GP, 2,5660
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Puttaparthy, 4731,venkatagaripalli, 196486, 14.11477, 77.74618, VENKATAGARIPALLI GP, 2,495
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Ramagiri, 4732,ganthimarri, 199201, 14.364637, 77.602145, GANTHIMARRI GP, 2,2210
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Ramagiri, 4732,kondapuram, 199202, 14.290265, 77.361309, KONDAPURAM GP, 2,1543
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Ramagiri, 4732,kuntimaddi, 199203, 14.330116, 77.598452, KUNTIMADDI GP, 2,856
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Ramagiri, 4732,madapuram, 199204, 14.385127, 77.446394, MADAPURAM GP, 2,1295
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Ramagiri, 4732,motorchintalapalli, 199205, 14.232028, 77.390983, MOTORCHINTALAPALLI GP, 2,4868
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Ramagiri, 4732,nasanakota, 199206, 14.354264, 77.443463, NASANAKOTA GP, 2,6482
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Ramagiri, 4732,polepalli, 199208, 14.303793, 77.558497, POLEPALLI GP, 2,3388
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Rapthadu, 4733,bandameedapalli, 196496, 14.494842, 77.558068, BANDAMEEDAPALLI GP, 2,3640
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Rapthadu, 4733,bhoginepalli, 196497, 14.497188, 77.487099, BHOGINEPALLI GP, 2,2279
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Rapthadu, 4733,bommeparthy, 196498, 14.5815, 77.579608, BOMMEPARTHY GP, 2,1492
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Rapthadu, 4733,bukkacherla, 196499, 14.587314, 77.54717, BUKKACHERLA GP, 2,1416
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Rapthadu, 4733,cherlopalli, 196500, 14.481077, 77.611293, CHERLOPALLI GP, 2,6596
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Rapthadu, 4733,gandlaparthy, 196501, 14.542076, 77.5432, GANDLAPARTHY GP, 2,1324
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Rapthadu, 4733,gollapalli, 196502, 14.515291, 77.629981, GOLLAPALLI GP, 2,6290
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Rapthadu, 4733,gondireddipalli, 196503, 14.55392, 77.585734, GONDIREDDIPALLI GP, 2,3013
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Rapthadu, 4733,hampapuram, 196504, 14.557462, 77.639757, HAMPAPURAM GP, 2,2187
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Rapthadu, 4733,kothapalli, 196505, 14.549554, 77.542006, KOTHAPALLI GP, 2,2221
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Rapthadu, 4733,marur, 196506, 14.491808, 77.627273, MARUR GP, 2,5660
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Rapthadu, 4733,palacherla, 196507, 14.512256, 77.499751, PALACHERLA GP, 2,739
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Rapthadu, 4733,parasannayapalli, 196508, 14.639893, 77.601918, PARASANNAYAPALLI GP, 2,8000
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Rapthadu, 4733,pullalarevu, 196509, 14.557856, 77.565987, PULLALAREVU GP, 2,6639
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Rapthadu, 4733,raptadu, 196510, 14.618062, 77.607153, RAPTADU GP, 2,796
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Rapthadu, 4733,yerragunta, 196511, 14.527299, 77.553287, YERRAGUNTA GP, 2,1900
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Rayadurgam, 4734,avuladatla, 196512, 14.695254, 76.984085, AVULADATLA GP, 2,1776
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Rayadurgam, 4734,b.n. halli, 196513, 14.662024, 76.914739, B.N. HALLI GP, 2,3042
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Rayadurgam, 4734,c.gollala doddi, 196515, 14.760496, 76.870979, C.GOLLALA DODDI GP, 2,3417
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Rayadurgam, 4734,chadam, 196516, 14.767475, 76.86691, CHADAM GP, 2,4809
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Rayadurgam, 4734,d.kondapuram, 196517, 14.726247, 76.960259, D.KONDAPURAM GP, 2,2804
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Rayadurgam, 4734,gramadatla, 196518, 14.780815, 76.942528, GRAMADATLA GP, 2,3036
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Rayadurgam, 4734,junjurampalli, 196519, 14.644401, 77.002117, JUNJURAMPALLI GP, 2,3664
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Rayadurgam, 4734,kenchanapalli, 196520, 14.670533, 77.050502, KENCHANAPALLI GP, 2,4640
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Rayadurgam, 4734,kontanapalli, 196521, 14.717896, 76.884316, KONTANAPALLI GP, 2,1260
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Rayadurgam, 4734,mallapuram, 196522, 14.755097, 76.835902, MALLAPURAM GP, 2,762
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Rayadurgam, 4734,mechiri, 196523, 14.775333, 76.796178, MECHIRI GP, 2,1946
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Rayadurgam, 4734,nagireddipalli, 196524, 14.73229, 77.022395, NAGIREDDIPALLI GP, 2,2057
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Rayadurgam, 4734,pallepalli, 196525, 14.775756, 76.836766, PALLEPALLI GP, 2,3720
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Rayadurgam, 4734,rekulakunta, 196526, 14.665171, 76.996181, REKULAKUNTA GP, 2,7154
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Rayadurgam, 4734,t.veerapuram, 196527, 14.75589, 76.942675, T.VEERAPURAM GP, 2,4528
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Rayadurgam, 4734,udegolam, 196528, 14.683589, 76.882784, UDEGOLAM GP, 2,1977
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Rayadurgam, 4734,vadrahonnur, 196529, 14.695254, 76.908411, VADRAHONNUR GP, 2,1442
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Rayadurgam, 4734,veparalla, 196530, 14.723297, 77.042019, VEPARALLA GP, 2,1580
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Roddam, 4735,bokkasampalli, 199245, 14.112197, 77.532448, BOKKASAMPALLI GP, 2,500
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Roddam, 4735,bucharla, 199246, 14.130494, 77.440416, BUCHARLA GP, 2,1887
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Roddam, 4735,cherukur, 199247, 13.99757, 77.418324, CHERUKUR GP, 2,1898
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Roddam, 4735,chinnamanthur, 199248, 14.028749, 77.416928, CHINNAMANTHUR GP, 2,1493
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Roddam, 4735,cholemarri, 199249, 14.050615, 77.46112, CHOLEMARRI GP, 2,2512
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Roddam, 4735,dodagatta, 199250, 14.030394, 77.372765, DODAGATTA GP, 2,3055
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Roddam, 4735,kalipi, 199251, 13.980543, 77.444084, KALIPI GP, 2,4271
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Roddam, 4735,kambalapalli, 199252, 14.136802, 77.501301, KAMBALAPALLI GP, 2,4376
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Roddam, 4735,kogira, 199253, 14.117163, 77.5034, KOGIRA GP, 2,1310
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Roddam, 4735,m.kothapalli, 199254, 14.157626, 77.393783, M.KOTHAPALLI GP, 2,2193
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Roddam, 4735,nalluru, 199255, 14.043559, 77.442781, NALLURU GP, 2,2110
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Roddam, 4735,naranagepalli, 199256, 14.16217, 77.404805, NARANAGEPALLI GP, 2,897
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Roddam, 4735,peddamanthuru, 199257, 14.004581, 77.431251, PEDDAMANTHURU GP, 2,2276
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Roddam, 4735,r.locharla, 199258, 14.114144, 77.454686, R.LOCHARLA GP, 2,2264
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Roddam, 4735,reddipalli, 199259, 14.050664, 77.375722, REDDIPALLI GP, 2,2584
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Roddam, 4735,roddam, 199260, 14.093271, 77.427249, RODDAM GP, 2,10164
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Roddam, 4735,sanipalli, 199261, 14.057106, 77.505732, SANIPALLI GP, 2,1715
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Roddam, 4735,thadankipalli, 199262, 14.122667, 77.368431, THADANKIPALLI GP, 2,3258
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Roddam, 4735,thurakalapatnam, 199263, 14.086309, 77.502574, THURAKALAPATNAM GP, 2,2127
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Rolla, 4736,bommagundanahalli, 196550, 13.896699, 77.071504, BOMMAGUNDANAHALLI GP, 2,7727
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Rolla, 4736,dodderi, 196551, 13.777724, 77.143769, DODDERI GP, 2,4121
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Rolla, 4736,gudduguriki, 196552, 13.840354, 77.141612, GUDDUGURIKI GP, 2,6818
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Rolla, 4736,kaki, 196553, 13.784678, 77.121501, KAKI GP, 2,3624
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Rolla, 4736,m.rayapuram, 196554, 13.887377, 77.033994, M.RAYAPURAM GP, 2,4754
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Rolla, 4736,ratnagiri, 196555, 13.810143, 77.128678, RATNAGIRI GP, 2,8507
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Rolla, 4736,rolla, 196556, 13.841275, 77.102881, ROLLA GP, 2,211
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Setturu, 4737,anumpalli, 196557, 14.328531, 76.955124, ANUMPALLI GP, 2,2761
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Setturu, 4737,ayyagarlapalli, 196558, 14.42421, 76.956165, AYYAGARLAPALLI GP, 2,1875
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Setturu, 4737,bachehalli, 196559, 14.456116, 77.047933, BACHEHALLI GP, 2,2454
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Setturu, 4737,cherlopalli, 196560, 14.417143, 77.058557, CHERLOPALLI GP, 2,6596
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Setturu, 4737,chinnampalli, 196561, 14.479625, 77.063128, CHINNAMPALLI GP, 2,6597
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Setturu, 4737,chintarlapalli, 196562, 14.417699, 76.997865, CHINTARLAPALLI GP, 2,2688
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Setturu, 4737,idukal, 196563, 14.534424, 77.067646, IDUKAL GP, 2,7154
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Setturu, 4737,kanukur, 196564, 14.360823, 76.965635, KANUKUR GP, 2,5425
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Setturu, 4737,khairevu, 196565, 14.422988, 77.033124, KHAIREVU GP, 2,1698
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Setturu, 4737,lakshmampalli, 196566, 14.387192, 77.041724, LAKSHMAMPALLI GP, 2,3885
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Setturu, 4737,makodiki, 196567, 14.395443, 77.018185, MAKODIKI GP, 2,4259
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Setturu, 4737,mulakaledu, 196568, 14.366188, 76.92586, MULAKALEDU GP, 2,715
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Setturu, 4737,perugupalyam, 196569, 14.375474, 76.920451, PERUGUPALYAM GP, 2,13518
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Setturu, 4737,settur, 196570, 14.447327, 76.982435, SETTUR GP, 2,4751
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Setturu, 4737,thippanapalli, 196571, 14.354415, 76.913892, THIPPANAPALLI GP, 2,1712
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Setturu, 4737,yatakal, 196572, 14.501211, 77.054153, YATAKAL GP, 2,3929
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Singanamala, 4738,akuledu, 196573, 14.798069, 77.638075, AKULEDU GP, 2,2741
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Singanamala, 4738,chakrayapeta, 196574, 14.77506, 77.757639, CHAKRAYAPETA GP, 2,3210
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Singanamala, 4738,gummepalli, 196575, 14.890806, 77.655776, GUMMEPALLI GP, 2,3921
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Singanamala, 4738,joolakalva, 196576, 14.832652, 77.800841, JOOLAKALVA GP, 2,500
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Singanamala, 4738,kallumadi, 196577, 14.926135, 77.654829, KALLUMADI GP, 2,4550
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Singanamala, 4738,korivipalle, 196578, 14.867799, 77.789664, KORIVIPALLE GP, 2,404
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Singanamala, 4738,lolur, 196579, 14.798327, 77.616569, LOLUR GP, 2,980
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Singanamala, 4738,nayanavaripalli, 196580, 14.861632, 77.747157, NAYANAVARIPALLI GP, 2,500
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Singanamala, 4738,nidhanawada, 196581, 14.903171, 77.73201, NIDHANAWADA GP, 2,1163
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Singanamala, 4738,p.matlagondi, 196582, 14.826766, 77.742737, P.MATLAGONDI GP, 2,1391
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Singanamala, 4738,peravali, 196583, 14.794627, 77.784385, PERAVALI GP, 2,2048
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Singanamala, 4738,rachepalle, 196584, 14.888911, 77.759573, RACHEPALLE GP, 2,2403
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Singanamala, 4738,salakamcheruvu, 196585, 14.852483, 77.765026, SALAKAMCHERUVU GP, 2,2828
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Singanamala, 4738,singanamala, 196586, 14.800517, 77.720005, SINGANAMALA GP, 2,4986
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Singanamala, 4738,sodanapalli, 196587, 14.801269, 77.760332, SODANAPALLI GP, 2,2083
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Singanamala, 4738,tarimela, 196588, 14.915421, 77.689275, TARIMELA GP, 2,4681
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Singanamala, 4738,ullikallu, 196589, 14.895196, 77.794276, ULLIKALLU GP, 2,2005
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Singanamala, 4738,west narasapuram, 196590, 14.81623, 77.66625, WEST NARASAPURAM GP, 2,500
+ANDHRA PRADESH                                    , 28, Anantapur, 553, SOMANDAPALLI, 4739,brahmanapalli, 196591, 14.00255, 77.49006, BRAHMANAPALLI, 2,1252
+ANDHRA PRADESH                                    , 28, Anantapur, 553, SOMANDAPALLI, 4739,chalakur, 196593, 13.941256, 77.558051, CHALAKUR, 2,2627
+ANDHRA PRADESH                                    , 28, Anantapur, 553, SOMANDAPALLI, 4739,challapalli, 196594, 14.004868, 77.556996, CHALLAPALLI, 2,2515
+ANDHRA PRADESH                                    , 28, Anantapur, 553, SOMANDAPALLI, 4739,edulabalapuram, 196595, 13.96433, 77.573654, EDULABALAPURAM, 2,1068
+ANDHRA PRADESH                                    , 28, Anantapur, 553, SOMANDAPALLI, 4739,gudipalli, 196596, 13.992411, 77.627718, GUDIPALLI, 2,854
+ANDHRA PRADESH                                    , 28, Anantapur, 553, SOMANDAPALLI, 4739,julukunta, 196597, 13.977906, 77.528118, JULUKUNTA, 2,1404
+ANDHRA PRADESH                                    , 28, Anantapur, 553, SOMANDAPALLI, 4739,kethaganicheruvu, 196598, 13.929479, 77.549568, KETHAGANICHERUVU, 2,1698
+ANDHRA PRADESH                                    , 28, Anantapur, 553, SOMANDAPALLI, 4739,magecheruvu, 196599, 14.004144, 77.572539, MAGECHERUVU, 2,583
+ANDHRA PRADESH                                    , 28, Anantapur, 553, SOMANDAPALLI, 4739,mandli, 196600, 13.982069, 77.507642, MANDLI, 2,2620
+ANDHRA PRADESH                                    , 28, Anantapur, 553, SOMANDAPALLI, 4739,nadimpalli, 196601, 13.916151, 77.55939, NADIMPALLI, 2,1621
+ANDHRA PRADESH                                    , 28, Anantapur, 553, SOMANDAPALLI, 4739,naginayanicheruvu, 196602, 14.020584, 77.652871, NAGINAYANICHERUVU, 2,403
+ANDHRA PRADESH                                    , 28, Anantapur, 553, SOMANDAPALLI, 4739,pandiparthi, 196603, 13.978646, 77.585907, PANDIPARTHI, 2,2078
+ANDHRA PRADESH                                    , 28, Anantapur, 553, SOMANDAPALLI, 4739,somandepalli, 196604, 14.009967, 77.609175, SOMANDEPALLI, 2,18895
+ANDHRA PRADESH                                    , 28, Anantapur, 553, SOMANDAPALLI, 4739,tungodu, 196605, 13.947576, 77.636768, TUNGODU, 2,2379
+ANDHRA PRADESH                                    , 28, Anantapur, 553, SOMANDAPALLI, 4739,velidadakala, 196606, 13.937225, 77.63277, VELIDADAKALA, 2,1480
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tadimarry, 4740,atmakur, 196607, 14.528104, 77.841279, ATMAKUR GP, 2,1584
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tadimarry, 4740,c.c.revu, 196608, 14.49841, 77.920285, C.C.REVU GP, 2,2254
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tadimarry, 4740,chillakondaiahpalli, 196609, 14.581258, 77.890821, CHILLAKONDAIAHPALLI GP, 2,12
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tadimarry, 4740,chillavaripalli, 196610, 14.628453, 77.895944, CHILLAVARIPALLI GP, 2,1288
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tadimarry, 4740,dadithota, 196611, 14.593865, 77.961617, DADITHOTA GP, 2,4026
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tadimarry, 4740,ekapadampalli, 196612, 14.599364, 77.797645, EKAPADAMPALLI GP, 2,4655
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tadimarry, 4740,kunukuntla, 196613, 14.612481, 77.870206, KUNUKUNTLA GP, 2,4586
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tadimarry, 4740,m.agraharam, 196614, 14.517533, 77.864578, M.AGRAHARAM GP, 2,3753
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tadimarry, 4740,narsimpalli, 196615, 14.532597, 77.796915, NARSIMPALLI GP, 2,3228
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tadimarry, 4740,nidigallu, 196616, 14.544591, 77.817539, NIDIGALLU GP, 2,5856
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tadimarry, 4740,peddakotla, 196617, 14.563818, 77.899493, PEDDAKOTLA GP, 2,3526
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tadimarry, 4740,pinnadari, 196618, 14.581178, 77.817753, PINNADARI GP, 2,3374
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tadimarry, 4740,ramapuram, 196619, 14.640377, 77.862638, RAMAPURAM GP, 2,3116
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tadimarry, 4740,tadimarri, 196620, 14.560987, 77.856443, TADIMARRI GP, 2,5738
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tadipatry, 4741,alur, 196621, 14.910428, 78.049871, ALUR GP, 2,1350
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tadipatry, 4741,bhogasamudram, 196622, 15.012927, 78.008702, BHOGASAMUDRAM GP, 2,3870
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tadipatry, 4741,bodaipalli, 196623, 14.884425, 78.089526, BODAIPALLI GP, 2,1300
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tadipatry, 4741,bondaladinne, 196624, 14.846465, 78.106658, BONDALADINNE GP, 2,1115
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tadipatry, 4741,bramhanapalli, 196625, 14.996373, 77.956522, BRAMHANAPALLI GP, 2,2594
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tadipatry, 4741,challavaripalli, 196626, 14.878226, 78.027485, CHALLAVARIPALLI GP, 2,254
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tadipatry, 4741,chinnapolamada, 196627, 14.932869, 77.962042, CHINNAPOLAMADA GP, 2,4181
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tadipatry, 4741,chukkalur, 196628, 14.947309, 77.984669, CHUKKALUR GP, 2,3394
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tadipatry, 4741,diguvapalli, 196629, 14.857778, 77.965625, DIGUVAPALLI GP, 2,1921
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tadipatry, 4741,gangadevipalli, 196630, 14.582249, 77.58993, GANGADEVIPALLI GP, 2,1640
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tadipatry, 4741,gannevaripalli, 196631, 14.886386, 78.012142, GANNEVARIPALLI GP, 2,12819
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tadipatry, 4741,hussain puram, 196632, 14.89693, 78.042813, HUSSAIN PURAM GP, 2,518
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tadipatry, 4741,igudur, 196633, 14.964374, 77.941465, IGUDUR GP, 2,72
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tadipatry, 4741,kavetisamudram, 196634, 14.968742, 78.008064, KAVETISAMUDRAM GP, 2,1190
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tadipatry, 4741,komali, 196635, 14.938548, 77.936865, KOMALI GP, 2,827
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tadipatry, 4741,kondepalli, 196636, 14.837593, 78.068064, KONDEPALLI GP, 2,4285
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tadipatry, 4741,peddapolamada, 196637, 14.9283, 77.955696, PEDDAPOLAMADA GP, 2,5802
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tadipatry, 4741,ravivenkatampalli, 196638, 14.893259, 77.950533, RAVIVENKATAMPALLI GP, 2,3036
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tadipatry, 4741,sajjaladinne, 196639, 14.933167, 78.019262, SAJJALADINNE GP, 2,5545
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tadipatry, 4741,terannapalli, 196640, 14.87266, 77.9678, TERANNAPALLI GP, 2,847
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tadipatry, 4741,urichinthala, 196641, 14.94469, 78.092272, URICHINTHALA GP, 2,1132
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tadipatry, 4741,vanganur, 196642, 14.848369, 78.077723, VANGANUR GP, 2,590
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tadipatry, 4741,veerapuram, 196643, 14.873126, 78.074536, VEERAPURAM GP, 2,4528
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tadipatry, 4741,velamakur, 196644, 14.895809, 78.078299, VELAMAKUR GP, 2,903
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tadipatry, 4741,venkatareddypalli, 196645, 14.970911, 78.02442, VENKATAREDDYPALLI GP, 2,495
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tadipatry, 4741,yerraguntapalli, 196646, 14.888487, 77.931872, YERRAGUNTAPALLI GP, 2,3929
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Talapula, 4742,bandlapalli, 196647, 14.21972, 78.266153, BANDLAPALLI GP, 2,500
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Talapula, 4742,batrepalli, 196648, 14.249435, 78.183657, BATREPALLI GP, 2,3503
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Talapula, 4742,edulakuntapalli, 196649, 14.217527, 78.334809, EDULAKUNTLAPALLI GP, 2,7154
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Talapula, 4742,gunduvaripalli, 196650, 14.161996, 78.192241, GUNDUVARIPALLI GP, 2,6818
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Talapula, 4742,kurli, 196651, 14.275619, 78.196703, KURLI GP, 2,1700
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Talapula, 4742,lakkasamudram, 196652, 14.267126, 78.13471, LAKKASAMUDRAM GP, 2,2248
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Talapula, 4742,nuthanakalva, 196653, 14.206541, 78.259826, NUTHANAKALVA GP, 2,2417
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Talapula, 4742,obulareddepalli, 196654, 14.191062, 78.29272, OBULAREDDEPALLI GP, 2,655
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Talapula, 4742,odulapalli, 196655, 14.290221, 78.208275, ODULAPALLI GP, 2,2579
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Talapula, 4742,peddannavaripalli, 196656, 14.254206, 78.33656, PEDDANNAVARIPALLI GP, 2,2014
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Talapula, 4742,pennabadavandlapalli, 196657, 14.172433, 78.30582, PENNABADAVANDLAPALLI GP, 2,3374
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Talapula, 4742,polthalavandlapalli, 196658, 14.170827, 78.250098, POLTHALAVANDLAPALLI GP, 2,3755
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Talapula, 4742,pulligundlapalli, 196659, 14.192039, 78.304523, PULLIGUNDLAPALLI GP, 2,1775
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Talapula, 4742,talupula, 196660, 14.241839, 78.25601, TALUPULA GP, 2,11213
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Talapula, 4742,udumulakurthy, 196661, 14.289321, 78.22168, UDUMULAKURTHY GP, 2,2660
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Talapula, 4742,vepamanipeta, 196662, 14.267007, 78.302377, VEPAMANIPETA GP, 2,4007
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tanakal, 4743,balasamudram, 196663, 13.879509, 78.220405, BALASAMUDRAM GP, 2,3479
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tanakal, 4743,bonthalapalli, 196664, 13.802047, 78.230683, BONTHALAPALLI GP, 2,3248
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tanakal, 4743,cheekatimani palli, 196665, 13.830668, 78.237394, CHEEKATIMANI PALLI GP, 2,2485
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tanakal, 4743,chinnaramannagaripalli, 196666, 13.932191, 78.146189, CHINNARAMANNAGARIPALLI GP, 2,500
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tanakal, 4743,d.thottipalli, 196667, 13.873815, 78.203238, D.THOTTIPALLI GP, 2,7058
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tanakal, 4743,diguvachakkavaripalli, 196668, 13.955828, 78.267417, DIGUVACHAKKAVARIPALLI GP, 2,5531
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tanakal, 4743,ethodu, 196669, 13.908541, 78.155916, ETHODU GP, 2,2533
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tanakal, 4743,gemenaik thanda, 196670, 13.836088, 78.187525, GEMENAIK THANDA GP, 2,697
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tanakal, 4743,kokkanti, 196671, 13.94088, 78.280456, KOKKANTI GP, 2,30128
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tanakal, 4743,korthikota, 196672, 13.936078, 78.322258, KORTHIKOTA GP, 2,105
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tanakal, 4743,kotapalli, 196673, 13.851615, 78.143989, KOTAPALLI GP, 2,1276
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tanakal, 4743,mallireddipalli, 196674, 13.801512, 78.142196, MALLIREDDIPALLI GP, 2,1535
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tanakal, 4743,mundlavaripalli, 196675, 13.860684, 78.159827, MUNDLAVARIPALLI GP, 2,447
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tanakal, 4743,rachine palli, 196676, 13.927303, 78.191185, RACHINE PALLI GP, 2,3595
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tanakal, 4743,t.sadum, 196677, 13.870201, 78.244357, T.SADUM GP, 2,2890
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tanakal, 4743,tanakal, 196678, 13.92033, 78.195626, TANAKAL GP, 2,500
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Tanakal, 4743,tavalam, 196679, 13.84847, 78.209882, TAVALAM GP, 2,1439
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Uravakonda, 4744,amidala, 196680, 14.850533, 77.251767, AMIDALA GP, 2,6938
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Uravakonda, 4744,budagavi, 196681, 14.964646, 77.236886, BUDAGAVI GP, 2,1932
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Uravakonda, 4744,chinnamusturu, 196682, 14.897193, 77.273865, CHINNAMUSTURU GP, 2,1942
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Uravakonda, 4744,indravathi, 196683, 14.888157, 77.25204, INDRAVATHI GP, 2,736
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Uravakonda, 4744,lathavaram, 196684, 14.92345, 77.280277, LATHAVARAM GP, 2,2269
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Uravakonda, 4744,mopidi, 196685, 14.882586, 77.263594, MOPIDI GP, 2,2462
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Uravakonda, 4744,nerimetla, 196686, 14.926237, 77.168147, NERIMETLA GP, 2,2206
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Uravakonda, 4744,nimbagal, 196687, 14.885827, 77.209477, NIMBAGAL GP, 2,2849
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Uravakonda, 4744,peddakoukuntla, 196689, 14.79302, 77.250961, PEDDAKOUKUNTLA GP, 2,1248
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Uravakonda, 4744,peddamusturu, 196688, 14.894577, 77.268522, PEDDAMUSTURU GP, 2,1409
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Uravakonda, 4744,raketla, 196690, 14.824395, 77.254123, RAKETLA GP, 2,4405
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Uravakonda, 4744,rayampalli, 196691, 14.923847, 77.177371, RAYAMPALLI GP, 2,1339
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Uravakonda, 4744,renimakulapalli, 196692, 14.921265, 77.230178, RENIMAKULAPALLI GP, 2,1666
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Uravakonda, 4744,shaiksanipalli, 196693, 14.902143, 77.305199, SHAIKSANIPALLI GP, 2,710
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Uravakonda, 4744,uravakonda (major), 196694, 14.946804, 77.260163, URAVAKONDA (MAJOR) GP, 2,35565
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Uravakonda, 4744,veligonda, 196695, 14.982893, 77.248345, VELIGONDA GP, 2,1804
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Uravakonda, 4744,vyasapuram, 196696, 14.904216, 77.165854, VYASAPURAM GP, 2,1518
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Vajrakaruru, 4745,chabala, 196697, 15.03511, 77.283618, CHABALA GP, 2,3974
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Vajrakaruru, 4745,chayapuram, 196698, 15.072356, 77.334629, CHAYAPURAM GP, 2,11382
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Vajrakaruru, 4745,chinna hothur, 196699, 15.010115, 77.300575, CHINNA HOTHUR GP, 2,1197
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Vajrakaruru, 4745,dharmapuri, 196700, 15.03898, 77.260584, DHARMAPURI GP, 2,5404
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Vajrakaruru, 4745,gade hothur, 196701, 15.009564, 77.304946, GADE HOTHUR GP, 2,2392
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Vajrakaruru, 4745,ganjikunta, 196702, 15.002755, 77.379926, GANJIKUNTA GP, 2,1695
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Vajrakaruru, 4745,gulapalem, 196703, 15.090591, 77.374211, GULAPALEM GP, 2,2475
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Vajrakaruru, 4745,j.rampuram, 196704, 14.892652, 77.366088, J.RAMPURAM GP, 2,1096
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Vajrakaruru, 4745,kamalapadu, 196705, 15.062035, 77.406494, KAMALAPADU GP, 2,1785
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Vajrakaruru, 4745,konakondla, 196706, 15.107697, 77.364112, KONAKONDLA GP, 2,768
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Vajrakaruru, 4745,pandikunta, 196707, 14.970844, 77.392034, PANDIKUNTA GP, 2,2214
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Vajrakaruru, 4745,patha kadamala kunta, 196708, 14.965918, 77.338377, PATHA KADAMALA KUNTA GP, 2,1188
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Vajrakaruru, 4745,pedda pyapili, 196709, 14.952481, 77.320898, PEDDA PYAPILI GP, 2,3452
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Vajrakaruru, 4745,ragulapadu, 196710, 14.982699, 77.360205, RAGULAPADU GP, 2,2178
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Vajrakaruru, 4745,thatrakal, 196711, 14.999258, 77.379696, THATRAKAL GP, 2,2986
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Vajrakaruru, 4745,vajrakarur, 196712, 15.026118, 77.383679, VAJRAKARUR GP, 2,7925
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Vajrakaruru, 4745,venkatampalli, 196713, 14.932521, 77.371824, VENKATAMPALLI GP, 2,4413
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Vajrakaruru, 4745,venkatampalli peddathanda, 196714, 14.943794, 77.381826, VENKATAMPALLI PEDDATHANDA GP, 2,3036
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Vidapanakal, 4746,cheekalaguriki, 196715, 14.975681, 77.199133, CHEEKALAGURIKI GP, 2,2136
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Vidapanakal, 4746,donekal, 196716, 15.133417, 77.195893, DONEKAL GP, 2,2540
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Vidapanakal, 4746,gadekal, 196717, 15.117254, 77.244374, GADEKAL GP, 2,771
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Vidapanakal, 4746,hanchanahal, 196718, 15.121954, 77.288419, HANCHANAHAL GP, 2,2246
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Vidapanakal, 4746,havaligi, 196719, 15.013701, 77.114134, HAVALIGI GP, 2,7408
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Vidapanakal, 4746,janardhanapalli, 196720, 15.049264, 77.243673, JANARDHANA PALLI GP, 2,3374
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Vidapanakal, 4746,kadadarabenchi, 196721, 15.126989, 77.216122, KADADARABENCHI GP, 2,818
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Vidapanakal, 4746,karakamukkala, 196722, 15.009762, 77.158625, KARAKAMUKKALA GP, 2,2523
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Vidapanakal, 4746,kottala palli, 196723, 15.015751, 77.220742, KOTTALA PALLI GP, 2,5822
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Vidapanakal, 4746,malapuram, 196724, 15.045078, 77.193331, MALAPURAM GP, 2,1094
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Vidapanakal, 4746,palthuru, 196725, 14.974107, 77.147187, PALTHURU GP, 2,9270
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Vidapanakal, 4746,poliki, 196726, 15.071563, 77.294871, POLIKI GP, 2,2330
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Vidapanakal, 4746,r.kottala, 196727, 15.087265, 77.20561, R.KOTTALA GP, 2,1872
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Vidapanakal, 4746,undabanda, 196728, 14.959833, 77.191319, UNDABANDA GP, 2,2285
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Vidapanakal, 4746,v.kothakota, 196729, 15.052672, 77.155301, V.KOTHAKOTA GP, 2,3397
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Vidapanakal, 4746,velpumadugu, 196730, 15.053632, 77.203948, VELPUMADUGU GP, 2,5660
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Vidapanakal, 4746,vidapanakal, 196731, 15.05822, 77.182697, VIDAPANAKAL GP, 2,8763
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Yadiki, 4747,chandana, 196732, 15.081625, 77.813145, CHANDANA, 2,5811
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Yadiki, 4747,gudipadu, 196733, 15.067436, 77.947905, GUDIPADU, 2,1455
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Yadiki, 4747,kamalapadu, 196734, 15.073608, 77.906196, KAMALAPADU, 2,1785
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Yadiki, 4747,konuppalapadu, 196735, 15.100954, 77.895121, KONUPPALAPADU, 2,2109
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Yadiki, 4747,lakshumpalli, 196736, 15.116185, 77.822523, LAKSHUMPALLI, 2,3885
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Yadiki, 4747,n.chikkepalli, 196737, 15.047214, 77.92976, N.CHIKKEPALLI, 2,2283
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Yadiki, 4747,nagarur, 196738, 14.99647, 77.826913, NAGARUR, 2,2320
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Yadiki, 4747,nitturu, 196739, 15.038522, 77.948154, NITTURU, 2,3324
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Yadiki, 4747,p.vengannapalli, 196740, 14.968806, 77.806901, P.VENGANNAPALLI, 2,3374
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Yadiki, 4747,puppala, 196741, 14.963729, 77.770874, PUPPALA, 2,2413
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Yadiki, 4747,rayalacheruvu, 196742, 15.051816, 77.819042, RAYALACHERUVU, 2,6493
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Yadiki, 4747,tutrallapalli, 196743, 15.030114, 77.817722, TUTRALLAPALLI, 2,1518
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Yadiki, 4747,vemulapadu, 196744, 15.012801, 77.864731, VEMULAPADU, 2,2312
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Yadiki, 4747,yadiki, 196745, 15.049473, 77.873253, YADIKI, 2,24018
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Yallanuru, 4748,boppepalli, 196747, 14.689186, 77.970448, BOPPEPALLI GP, 2,2867
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Yallanuru, 4748,bukkapuram, 196748, 14.656572, 77.991742, BUKKAPURAM GP, 2,296
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Yallanuru, 4748,chilamakuru, 196749, 14.684678, 78.024386, CHILAMAKURU GP, 2,1584
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Yallanuru, 4748,chinthakayamanda, 196750, 14.627408, 78.018147, CHINTHAKAYAMANDA GP, 2,4369
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Yallanuru, 4748,danthalapalli, 196751, 14.576783, 78.04372, DANTHALAPALLI GP, 2,1635
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Yallanuru, 4748,guddumarri, 196752, 14.606442, 78.01167, GUDDUMARRI GP, 2,6818
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Yallanuru, 4748,jangampalli, 196753, 14.679148, 78.10977, JANGAMPALLI GP, 2,6715
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Yallanuru, 4748,kalluru, 196754, 14.610956, 78.039355, KALLURU GP, 2,1841
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Yallanuru, 4748,kuchivaripalli, 196755, 14.678888, 77.969268, KUCHIVARIPALLI GP, 2,5531
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Yallanuru, 4748,mallagundla, 196756, 14.634399, 78.025017, MALLAGUNDLA GP, 2,1369
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Yallanuru, 4748,medikurthi, 196757, 14.747743, 78.074731, MEDIKURTHI GP, 2,463
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Yallanuru, 4748,neerajampalli, 196758, 14.544702, 78.014589, NEERAJAMPALLI GP, 2,2998
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Yallanuru, 4748,nittor, 196746, 14.735467, 78.061509, NITTOR GP, 2,851
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Yallanuru, 4748,pathapalli, 196759, 14.654238, 78.114818, PATHAPALLI GP, 2,937
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Yallanuru, 4748,peddamallepalli, 196760, 14.726776, 78.05627, PEDDAMALLEPALLI GP, 2,1189
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Yallanuru, 4748,singavaram, 196761, 14.599909, 78.02625, SINGAVARAM GP, 2,2898
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Yallanuru, 4748,thirumalapuram, 196762, 14.704504, 78.030543, THIRUMALAPURAM GP, 2,762
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Yallanuru, 4748,vemulapalli, 196763, 14.756105, 78.028176, VEMULAPALLI GP, 2,957
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Yallanuru, 4748,venkatampalli, 196764, 14.597019, 78.073867, VENKATAMPALLI GP, 2,4413
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Yallanuru, 4748,vennapusapalli, 196765, 14.652458, 78.084612, VENNAPUSAPALLI GP, 2,1791
+ANDHRA PRADESH                                    , 28, Anantapur, 553, Yallanuru, 4748,yellanur, 196766, 14.700899, 78.071166, YELLANUR GP, 2,1068

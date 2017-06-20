@@ -1,0 +1,665 @@
+State_Name,State Code,District_Name,District_Code,Block_Name,Block_Code,GP Name,GP Code,Latitude,Longitude,Location_OF_GP,Phase,population
+GUJARAT                                           ,24,JAMNAGAR,477,OKHAMANDAL,4131,okhamandal block hq,88888,22.239628,68.958891,Okhamandal Block HQ,2,581
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,kalyanpur block hq,88888,22.018295,69.403969,Kalyanpur Block HQ,2,654
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,gokalpar,88888,22.153166,69.479375,Gokalpar,2,1280
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,aathamna bara,88888,22.288745,69.497776,Aathamna Bara,2,1052
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,dakhanda bara,88888,22.280672,69.500532,Dakhanda Bara,2,1161
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,ugamna bara,88888,22.28906,69.505405,Ugamna Bara,2,664
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,salaya,88888,22.308489,69.60083,Salaya,2,364
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,juni fot,88888,22.032054,69.654229,Juni Fot,2,2292
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,khambhaliya block hq,88888,22.203358,69.654422,Khambhaliya Block HQ,2,581
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,nava tathiya,88888,22.133074,69.660254,Nava Tathiya,2,116
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,navi fot,88888,22.034932,69.667947,Navi Fot,2,2292
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,juna tathiya,88888,22.110277,69.682508,Juna Tathiya,2,116
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,vijaypur,88888,21.910619,69.766971,Vijaypur,2,601
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,bhanvad block hq,88888,21.92663,69.772098,Bhanvad Block HQ,2,2246
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,devaliya,88888,22.112708,69.797323,Devaliya,2,6664
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,jogra,88888,22.070617,69.815698,Jogra,2,921
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,nawaniya,88888,22.299719,69.840022,NAWANIYA,2,116
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,manpar,88888,22.000034,69.854887,Manpar,2,226
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,khaidi,88888,22.149357,69.9143,KHAIDI,2,5928
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,lalpur block hq,88888,22.19104,69.961239,LALPUR Block HQ,2,1161
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,jamjodhpur block hq,88888,21.901784,70.033658,Jamjodhpur Block HQ,2,370
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,bavariya,88888,22.309003,70.048251,Bavariya,2,1322
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,jamnagar block hq,88888,22.470901,70.05829,Jamnagar B/HQ,2,2148
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,rampur,88888,22.29774,70.059471,RAMPUR,2,692
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,dhuniya nava,88888,22.196765,70.094378,DHUNIYA NAVA,2,1510
+GUJARAT                                           ,24,JAMNAGAR,477,DHROL,4123,dhrol b/hq,88888,22.557773,70.244816,Dhrol BSNLExch.,2,588
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,laxmipur,88888,22.229572,70.297472,Laxmipur,2,9677
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,jodiya block hq,88888,22.694229,70.314629,Jodiya Block HQ,2,1695
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,nandpur,88888,22.406663,70.363872,Nandpur,2,3001
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,kalavad block hq,88888,22.20505,70.38481,Kalavad Block HQ,2,3602
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,pitharpur,88888,22.35302,70.399842,Pitharpur,2,692
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,manavar khijadiya,88888,22.207878,70.419827,Manavar Khijadiya,2,2246
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,balambha,88888,22.738512,70.426065,Balambha,2,1337
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,charan pipariya,88888,22.174389,70.574375,Charan Pipariya,2,815
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,ambaliyara,158662,21.926508,69.735824,Ambaliyara,2,908
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,ambardi,158663,21.916423,69.858002,Ambardi,2,1773
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,bhangor,158664,22.098157,69.856333,Bhangor,2,1481
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,bharatpur,158665,21.917795,69.750549,Bharatpur,2,1969
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,bhavaneshvar,158666,21.888829,69.687024,Bhavaneshvar,2,1596
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,bhenakvad,158667,21.906251,69.721839,Bhenakvad,2,2806
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,bhoria,158668,22.042488,69.85738,Bhoria,2,749
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,bodki,158669,21.998247,69.834889,Bodki,2,964
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,chandvad,158670,22.045267,69.721963,Chandvad,2,584
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,chokhanda,158671,22.082222,69.772188,Chokhanda,2,3372
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,dharagar,158672,22.00314,69.857318,Dharagar,2,1463
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,dhebar,158673,21.894674,69.706741,Dhebar,2,4394
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,dudhala,158674,21.855532,69.652925,Dudhala,2,979
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,fatepur,158675,21.945549,69.822195,Fatepur,2,1824
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,gadu,158676,21.852819,69.657617,Gadu,2,2079
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,ghumli,158677,21.884955,69.763464,Ghumli,2,1015
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,gunda,158678,22.008414,69.713264,Gunda,2,2321
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,gundla,158679,22.020982,69.683768,Gundla,2,1000
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,hathla,158680,21.851868,69.621911,Hathla,2,1713
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,jambusar,158681,21.829599,69.852024,Jambusar,2,685
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,jampar,158682,22.046086,69.761217,Jampar,2,1909
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,jasapar,158683,21.842892,69.863514,Jasapar,2,493
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,jharera,158684,21.907293,69.675608,Jharera,2,1205
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,kabarka,158685,22.052802,69.845578,Kabarka,2,1443
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,kalyanpar,158686,21.859666,69.841101,Kalyanpar,2,2049
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,katkola,158687,21.869983,69.878115,Katkola,2,3216
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,krushnagadh,158688,21.951165,69.915051,Krushnagadh,2,1585
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,mevasa,158689,21.909013,69.814288,Mevasa,2,1921
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,modpar,158690,21.852492,69.813182,Modpar,2,2824
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,modpar,158690,22.360126,70.228171,Modpar,2,2824
+GUJARAT                                           ,24,JAMNAGAR,477,DHROL,4123,modpar,158690,22.510615,70.494153,Modpar,2,2824
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,mokhana,158691,21.900485,69.742165,Mokhana,2,2254
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,mokhana,158691,22.396392,70.106055,Mokhana,2,2254
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,morjhar,158692,22.016615,69.797091,Morjhar,2,2434
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,mota kalavad,158693,21.899685,69.837956,Mota Kalavad,2,3602
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,navagam,158694,21.975143,69.771895,Navagam,2,2098
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,pachhatar,158695,21.867058,69.687852,Pachhatar,2,2763
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,pachhatardi,158696,21.859737,69.684289,Pachhatardi,2,1515
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,ranpar,158697,21.839146,69.678637,Ranpar,2,2700
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,ranparda,158698,21.926998,69.750109,Ranparda,2,541
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,renta kalavad,158699,21.990207,69.651571,Renta Kalavad,2,918
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,rojhda,158700,21.813864,69.620079,Rojhda,2,972
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,jam rojivada,158701,21.978122,69.731171,Jam Rojivada,2,2427
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,rupamora,158702,21.950023,69.743601,Rupamora,2,2919
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,sai devaliya,158703,21.982306,69.810904,Sai Devaliya,2,1840
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,sajadiyali,158704,21.99499,69.688654,Sajadiyali,2,1114
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,sanakhala,158705,21.931151,69.64765,Sanakhala,2,3326
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,sevak devaliya,158706,22.002019,69.771966,Sevak Devaliya,2,1359
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,shedhakhai,158707,22.044198,69.812797,Shedhakhai,2,1597
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,shiva,158708,21.889283,69.887629,Shiva,2,2313
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,timbdi,158709,21.891391,69.795592,Timbdi,2,1639
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,vanavad,158710,21.897997,69.908918,Vanavad,2,1747
+GUJARAT                                           ,24,JAMNAGAR,477,BHANVAD,4122,verad,158711,21.94708,69.868471,Verad,2,4300
+GUJARAT                                           ,24,JAMNAGAR,477,DHROL,4123,bhensdad,158712,22.652444,70.47757,Bhensdad,2,1466
+GUJARAT                                           ,24,JAMNAGAR,477,DHROL,4123,bijalka,158713,22.538087,70.423702,Bijalka,2,334
+GUJARAT                                           ,24,JAMNAGAR,477,DHROL,4123,dangra,158714,22.369622,70.451133,Dangra,2,393
+GUJARAT                                           ,24,JAMNAGAR,477,DHROL,4123,dedakdad,158715,22.484512,70.533248,Dedakdad,2,1528
+GUJARAT                                           ,24,JAMNAGAR,477,DHROL,4123,dharampur,158716,22.532133,70.524765,Dharampur,2,692
+GUJARAT                                           ,24,JAMNAGAR,477,DHROL,4123,gadhada,158717,22.512743,70.492452,Gadhada,2,534
+GUJARAT                                           ,24,JAMNAGAR,477,DHROL,4123,golita,158718,22.393754,70.475724,Golita,2,889
+GUJARAT                                           ,24,JAMNAGAR,477,DHROL,4123,hadatoda,158719,22.653209,70.476455,Hadatoda,2,1282
+GUJARAT                                           ,24,JAMNAGAR,477,DHROL,4123,hajamchora,158720,22.649399,70.439265,Hajamchora,2,921
+GUJARAT                                           ,24,JAMNAGAR,477,DHROL,4123,hamapar,158721,22.462414,70.398411,Hamapar,2,2006
+GUJARAT                                           ,24,JAMNAGAR,477,DHROL,4123,haripar,158722,22.561362,70.432345,Haripar,2,2814
+GUJARAT                                           ,24,JAMNAGAR,477,DHROL,4123,jabida,158723,22.496494,70.470997,Jabida,2,524
+GUJARAT                                           ,24,JAMNAGAR,477,DHROL,4123,jaliya mansar,158724,22.431353,70.402597,Jaliya Mansar,2,2078
+GUJARAT                                           ,24,JAMNAGAR,477,DHROL,4123,jayva,158725,22.537975,70.460827,Jayva,2,2001
+GUJARAT                                           ,24,JAMNAGAR,477,DHROL,4123,khakhra,158727,22.393754,70.475724,Khakhra,2,1332
+GUJARAT                                           ,24,JAMNAGAR,477,DHROL,4123,kharva,158728,22.561362,70.432345,Kharva,2,2385
+GUJARAT                                           ,24,JAMNAGAR,477,DHROL,4123,khengarka,158729,22.416443,70.45934,Khengarka,2,1238
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,khijadiya,158730,22.509473,70.156895,Khijadiya,2,572
+GUJARAT                                           ,24,JAMNAGAR,477,DHROL,4123,khijadiya,158730,22.42483,70.412649,Khijadiya,2,572
+GUJARAT                                           ,24,JAMNAGAR,477,DHROL,4123,laiyala,158731,22.510615,70.494153,Laiyala,2,1442
+GUJARAT                                           ,24,JAMNAGAR,477,DHROL,4123,latipur,158732,22.623966,70.529792,Latipur,2,9677
+GUJARAT                                           ,24,JAMNAGAR,477,DHROL,4123,majoth,158733,22.631954,70.352898,Majoth,2,1407
+GUJARAT                                           ,24,JAMNAGAR,477,DHROL,4123,manekpar,158734,22.606441,70.415665,Manekpar,2,626
+GUJARAT                                           ,24,JAMNAGAR,477,DHROL,4123,mavapar,158735,22.596233,70.397679,Mavapar,2,641
+GUJARAT                                           ,24,JAMNAGAR,477,DHROL,4123,mota garediya,158737,22.617149,70.40777,Mota Garediya,2,748
+GUJARAT                                           ,24,JAMNAGAR,477,DHROL,4123,mota itala,158738,22.512891,70.43569,Mota Itala,2,1358
+GUJARAT                                           ,24,JAMNAGAR,477,DHROL,4123,mota vagudad,158739,22.570166,70.480153,Mota Vagudad,2,2034
+GUJARAT                                           ,24,JAMNAGAR,477,DHROL,4123,nana garediya,158740,22.603194,70.392493,Nana Garediya,2,629
+GUJARAT                                           ,24,JAMNAGAR,477,DHROL,4123,nana vagudad,158741,22.570166,70.480153,Nana Vagudad,2,359
+GUJARAT                                           ,24,JAMNAGAR,477,DHROL,4123,nathuvadla,158742,22.553402,70.357927,Nathuvadla,2,1627
+GUJARAT                                           ,24,JAMNAGAR,477,DHROL,4123,pipartoda,158743,22.422383,70.448463,Pipartoda,2,2815
+GUJARAT                                           ,24,JAMNAGAR,477,DHROL,4123,rajpar,158744,22.442142,70.442121,Rajpar,2,2286
+GUJARAT                                           ,24,JAMNAGAR,477,DHROL,4123,roziya,158745,22.462094,70.397315,Roziya,2,1440
+GUJARAT                                           ,24,JAMNAGAR,477,DHROL,4123,sanosara-chhalla,158746,22.471713,70.485893,Sanosara-Chhalla,2,363
+GUJARAT                                           ,24,JAMNAGAR,477,DHROL,4123,soyal,158747,22.552316,70.358976,Soyal,2,2139
+GUJARAT                                           ,24,JAMNAGAR,477,DHROL,4123,sudhadhuna,158748,22.512743,70.492452,Sudhadhuna,2,578
+GUJARAT                                           ,24,JAMNAGAR,477,DHROL,4123,sumra,158749,22.42483,70.447088,Sumra,2,1143
+GUJARAT                                           ,24,JAMNAGAR,477,DHROL,4123,vankiya,158750,22.554003,70.383279,Vankiya,2,2316
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,ambardi bhupat,158751,22.024982,70.086745,Ambardi Bhupat,2,1308
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,ambardi deri,158752,22.009746,70.075702,Ambardi Deri,2,867
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,ambardi jam,158753,22.052556,70.085872,Ambardi Jam,2,1034
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,ambardi meghpar,158754,21.960871,70.063747,Ambardi Meghpar,2,555
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,ambardi mevasa,158755,21.931832,70.048295,Ambardi Mevasa,2,834
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,amrapar,158756,21.721451,70.05077,Amrapar,2,2100
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,bagdhara,158757,21.983774,70.225268,Bagdhara,2,1647
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,balva,158758,21.886476,69.956012,Balva,2,2104
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,bamthiya,158759,22.047963,70.045343,Bamthiya,2,642
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,bavdidad,158760,22.148814,70.167615,Bavdidad,2,807
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,bharad moti,158761,22.014052,70.155619,Bharad Moti,2,540
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,bhardki,158762,22.043699,70.182315,Bhardki,2,471
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,bhojabedi,158763,22.091008,70.071844,Bhojabedi,2,1244
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,butavadar,158764,21.954534,70.191926,Butavadar,2,3095
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,chiroda muluji,158765,21.993647,70.116872,Chiroda Muluji,2,588
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,chiroda sang,158766,21.991622,70.174093,Chiroda Sang,2,805
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,chur,158767,21.869195,69.926947,Chur,2,707
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,dal devaliya,158768,22.101611,70.175071,Dal Devaliya,2,978
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,dhrafa,158769,21.969372,70.105779,Dhrafa,2,2618
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,gadhakda,158770,22.023623,70.048283,Gadhakda,2,595
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,ghelda,158771,22.036572,69.960356,Ghelda,2,866
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,ghunda,158772,22.057394,69.963565,Ghunda,2,656
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,gingni,158773,21.887361,70.078232,Gingni,2,4008
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,gorkhadi,158774,21.981812,70.134819,Gorkhadi,2,586
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,hothiji khadba,158775,21.970321,69.995258,Hothiji Khadba,2,1185
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,ishvariya,158776,22.005427,69.997551,Ishvariya,2,1974
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,jamvali,158777,21.916817,69.946321,Jamvali,2,3550
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,jasapar,158778,22.004517,70.144758,Jasapar,2,493
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,kadbal,158779,21.96365,70.036645,Kadbal,2,1807
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,kalyanpur,158780,22.031679,70.139829,Kalyanpur,2,654
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,karsanpar,158781,22.041552,69.870022,Karsanpar,2,698
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,kotda bavisi,158782,21.920334,70.071834,Kotda Bavisi,2,927
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,laloi,158783,22.076779,70.115363,Laloi,2,763
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,luvarsar,158784,22.094699,70.132148,Luvarsar,2,399
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,mahiki,158785,21.849799,69.984588,Mahiki,2,1537
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,malvada,158786,21.82585,70.075657,Malvada,2,251
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,mandasan,158787,21.919913,70.184413,Mandasan,2,2712
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,meghpar,158788,22.003307,69.893359,Meghpar,2,376
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,melan,158789,21.94867,70.038065,Melan,2,1497
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,methan,158790,22.020298,70.213959,Methan,2,804
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,mota vadiya,158791,21.975966,69.949163,Mota Vadiya,2,2482
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,moti gop,158792,22.035817,69.888658,Moti Gop,2,3441
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,nandana,158793,22.002563,70.052606,Nandana,2,1380
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,narmana,158794,22.085212,70.159399,Narmana,2,1999
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,paradva,158795,21.761666,70.030699,Paradva,2,1578
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,patan,158796,21.819157,70.032012,Patan,2,2651
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,rabarika,158797,21.990574,69.948609,Rabarika,2,1126
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,sadodar,158798,22.058914,70.210786,Sadodar,2,3116
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,samana,158799,22.104932,70.162978,Samana,2,2731
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,satapar,158800,21.823725,69.911401,Satapar,2,532
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,sheth vadala,158801,22.032647,70.12346,Sheth Vadala,2,3332
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,sidsar,158802,21.876198,70.105745,Sidsar,2,3221
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,son vadiya,158803,21.981927,69.911344,Son Vadiya,2,1229
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,sukhpar dhrafa,158804,21.750854,69.849442,Sukhpar Dhrafa,2,414
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,sakhpurjam,158805,22.068028,70.125187,Sakhpurjam,2,1663
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,tarsai,158806,21.77384,69.836452,Tarsai,2,4644
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,udepur,158807,21.793281,69.907939,Udepur,2,1160
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,vadwala,158808,21.839337,69.950283,Vadwala,2,1536
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,valasan,158809,21.901138,70.127801,Valasan,2,2423
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,vanana,158810,22.002314,70.02903,Vanana,2,1982
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,vansjaliya,158811,21.802686,69.872582,Vansjaliya,2,3965
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,vasantpur,158812,21.927838,69.990604,Vasantpur,2,1021
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,veraval,158813,22.026193,70.000019,Veraval,2,675
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,virpur,158814,22.12374,70.101174,Virpur,2,458
+GUJARAT                                           ,24,JAMNAGAR,477,JAMJODHPUR,4124,zinavari,158815,22.02862,69.930072,Zinavari,2,1761
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,alia,158816,22.450799,70.217279,Alia,2,6535
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,amra,158817,22.414188,69.93541,Amra,2,4597
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,bada,158818,22.458499,70.219189,Bada,2,1268
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,balambhdi,158819,22.371692,69.946729,Balambhdi,2,449
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,bed,158820,22.430813,69.90026,Bed,2,8229
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,beraja,158821,22.404606,70.253355,Beraja,2,1609
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,champa beraja,158822,22.400163,69.99967,Champa Beraja,2,998
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,chandraga,158823,22.308491,70.140338,Chandraga,2,518
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,chandragadh,158824,22.326955,70.004143,Chandragadh,2,1231
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,changa,158825,22.341999,70.046642,Changa,2,188
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,chavda,158826,22.440622,70.304014,Chavda,2,855
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,chela,158827,22.372417,70.053828,Chela,2,7035
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,dared,158829,22.406268,70.055607,Dared,2,5666
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,dhandha,158830,22.298024,70.124879,Dhandha,2,377
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,dhinchda,158831,22.490822,70.019794,Dhinchda,2,3759
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,dhrangda,158832,22.52802,70.346019,Dhrangda,2,1935
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,dhudasiya,158833,22.312694,70.338212,Dhudasiya,2,2829
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,dhunvav (hapa),158834,22.486794,70.137481,Dhunvav (Hapa),2,109
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,dhutarpar,158835,22.335276,70.343682,Dhutarpar,2,3366
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,dodhiya,158836,22.375208,69.967338,Dodhiya,2,1398
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,fachariya,158837,22.356948,70.209442,Fachariya,2,344
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,fala,158838,22.530815,70.305631,Fala,2,3806
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,gaduka,158839,22.383575,69.940515,Gaduka,2,305
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,gagva,158840,22.392921,69.817105,Gagva,2,901
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,gordhanpar,158841,22.450612,70.000327,Gordhanpar,2,945
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,hadmatiya,158842,22.342113,70.211739,Hadmatiya,2,1243
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,harshadpar,158844,22.360664,70.131162,Harshadpar,2,1856
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,jaga,158845,22.391093,70.292419,Jaga,2,1230
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,jambuda,158846,22.516677,70.20663,Jambuda,2,3507
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,jamvanathali,158847,22.437211,70.327288,Jamvanathali,2,2148
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,jivapar,158848,22.391144,69.95449,Jivapar,2,756
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,juna nagna,158849,22.484811,70.082761,Juna Nagna,2,3329
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,kansumara,158850,22.426844,70.031162,Kansumara,2,2546
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,khambhalida motovas,158851,22.498458,70.371266,Khambhalida Motovas,2,1442
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,khambhalida nanovas,158852,22.500114,70.370732,Khambhalida Nanovas,2,581
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,khara beraja,158853,22.476876,69.995984,Khara Beraja,2,569
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,khara vedha,158854,22.347251,70.379101,Khara Vedha,2,755
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,khijadiya ravani,158856,22.491806,70.352923,Khijadiya Ravani,2,347
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,khilos,158857,22.506396,70.307714,Khilos,2,1962
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,khimaliya,158858,22.419558,70.101705,Khimaliya,2,3067
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,khimrana,158859,22.469228,70.164423,Khimrana,2,5444
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,khoja beraja,158860,22.335414,69.988098,Khoja Beraja,2,791
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,konza,158861,22.331503,70.139091,Konza,2,565
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,lakha baval,158862,22.411688,69.997834,Lakha Baval,2,4373
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,lakhani motovas,158863,22.47144,70.304855,Lakhani Motovas,2,1146
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,lakhani nanovas,158864,22.467274,70.309799,Lakhani Nanovas,2,755
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,lavadiya,158865,22.326877,70.121733,Lavadiya,2,1294
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,lonthiya,158866,22.313897,69.980546,Lonthiya,2,856
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,makvana,158867,22.311619,70.126146,Makvana,2,314
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,masitiya,158868,22.405871,70.017743,Masitiya,2,4241
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,matva,158869,22.338268,70.218757,Matva,2,1314
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,medi,158870,22.368224,70.308341,Medi,2,973
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,miyatra,158871,22.375196,70.178419,Miyatra,2,1146
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,moda (gangajala),158872,22.437525,70.239434,Moda (Gangajala),2,754
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,morkanda,158875,22.435933,70.097143,Morkanda,2,4459
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,mota thavariya,158876,22.431107,70.170731,Mota Thavariya,2,2259
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,moti banugar,158877,22.51214,70.231337,Moti Banugar,2,3836
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,moti bhalsan,158878,22.320745,70.169098,Moti Bhalsan,2,1769
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,moti khavdi,158879,22.386927,69.865031,Moti Khavdi,2,5928
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,mungani,158880,22.41389,69.831153,Mungani,2,3163
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,naghedi,158881,22.437935,70.008185,Naghedi,2,3758
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,naghuna,158882,22.34557,70.119364,Naghuna,2,1250
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,nana thavariya,158883,22.363811,70.180278,Nana Thavariya,2,819
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,nani banugar,158884,22.496197,70.264926,Nani Banugar,2,399
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,nani khavdi,158885,22.410915,69.863759,Nani Khavdi,2,2178
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,nani matli,158886,22.355212,70.262804,Nani Matli,2,1175
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,naranpar,158887,22.357914,70.094287,Naranpar,2,1995
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,nava nagna,158888,22.497418,70.083376,Nava Nagna,2,4371
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,pasaya,158889,22.38608,70.252908,Pasaya,2,1490
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,rampar,158890,22.543032,70.245962,Rampar,2,579
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,ranjitpar,158891,22.499503,70.309496,Ranjitpar,2,1662
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,ravalsar,158892,22.429484,69.96844,Ravalsar,2,1179
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,sachana,158893,22.566282,70.183053,Sachana,2,5416
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,sapar,158894,22.404732,69.905361,Sapar,2,2364
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,sapda,158895,22.404986,70.220694,Sapda,2,1027
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,sarmat,158896,22.454379,69.948894,Sarmat,2,1837
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,shekhpat,158897,22.473152,70.188212,Shekhpat,2,2832
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,sumri (bhalsan),158898,22.319946,70.161648,Sumri (Bhalsan),2,369
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,sumri (dhutarpar),158899,22.339449,70.367318,Sumri (Dhutarpar),2,342
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,suryapara,158900,22.46255,70.232939,Suryapara,2,1329
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,suvarda,158901,22.394668,70.149738,Suvarda,2,686
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,tamachan,158902,22.434973,70.377251,Tamachan,2,769
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,theba,158903,22.438076,70.133347,Theba,2,3534
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,vagadiya,158904,22.298095,70.179381,Vagadiya,2,1021
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,vaniyagam,158905,22.304538,70.172154,Vaniyagam,2,399
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,varna,158906,22.4038,70.320631,Varna,2,1113
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,vasai,158907,22.429727,69.933174,Vasai,2,2071
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,vav beraja,158908,22.39673,70.00439,Vav Beraja,2,821
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,veratiya (bajrangpur),158909,22.378072,70.349484,Veratiya (Bajrangpur),2,109
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,vijarkhi,158910,22.411969,70.179321,Vijarkhi,2,1625
+GUJARAT                                           ,24,JAMNAGAR,477,JAMNAGAR,4125,virpar (bharatpur),158911,22.39265,70.377805,Virpar (Bharatpur),2,1161
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,ambala,158912,22.777167,70.542672,Ambala,2,646
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,amran,158913,22.825191,70.557733,Amran,2,1052
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,anada,158914,22.642715,70.335097,Anada,2,970
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,badanpar (amran),158915,22.796883,70.604867,Badanpar (Amran),2,1052
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,balachadi,158917,22.59936,70.219876,Balachadi,2,1707
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,baradi,158919,22.564512,70.285715,Baradi,2,319
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,bela,158920,22.856143,70.532626,Bela,2,1487
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,beraja,158921,22.555991,70.296048,Beraja,2,1609
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,bhadra,158922,22.659489,70.343982,Bhadra,2,1998
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,bhimkata,158923,22.799962,70.466059,Bhimkata,2,990
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,bodka,158924,22.703927,70.536109,Bodka,2,1063
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,dhudkot,158925,22.793639,70.577235,Dhudkot,2,1429
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,dudhai,158926,22.790071,70.501551,Dudhai,2,1844
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,fadsar,158927,22.878029,70.555688,Fadsar,2,1338
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,fatsar,158928,22.803768,70.638541,Fatsar,2,629
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,gajdi,158929,22.714173,70.623931,Gajdi,2,1192
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,hadiyana,158930,22.603511,70.261533,Hadiyana,2,4995
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,jamsar,158931,22.793958,70.434917,Jamsar,2,507
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,jasapar,158932,22.680813,70.532809,Jasapar,2,493
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,jiragadh,158933,22.718158,70.508289,Jiragadh,2,927
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,jivapar,158934,22.816744,70.612263,Jivapar,2,756
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,jodiya,158935,22.697386,70.305767,Jodiya,2,13178
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,kerali,158936,22.838975,70.645547,Kerali,2,1072
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,keshiya,158937,22.668536,70.39329,Keshiya,2,3713
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,kharachiya,158938,22.853271,70.606603,Kharachiya,2,1576
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,khiri,158939,22.570278,70.22137,Khiri,2,638
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,kothariya,158940,22.831391,70.50216,Kothariya,2,804
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,koyli,158941,22.746635,70.610391,Koyli,2,2980
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,lakhtar,158943,22.627962,70.380061,Lakhtar,2,1575
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,limbuda,158944,22.621012,70.292284,Limbuda,2,908
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,madhapar,158945,22.735964,70.461822,Madhapar,2,1007
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,manamora,158946,22.813219,70.475031,Manamora,2,411
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,manpar,158947,22.714861,70.431026,Manpar,2,226
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,mavnugam,158948,22.805301,70.526013,Mavnugam,2,459
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,meghpar,158949,22.695066,70.487304,Meghpar,2,376
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,morana,158950,22.708769,70.471292,Morana,2,492
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,nesda,158951,22.607049,70.330833,Nesda,2,994
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,padana,158952,22.727799,70.556436,Padana,2,4541
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,pithad,158953,22.684027,70.562144,Pithad,2,3940
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,rajpar,158954,22.900418,70.589043,Rajpar,2,2286
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,rasnal,158956,22.673162,70.587962,Rasnal,2,1208
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,sampar,158957,22.741199,70.460906,Sampar,2,704
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,tarana,158958,22.726523,70.481949,Tarana,2,1687
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,timbdi,158959,22.650967,70.590174,Timbdi,2,1639
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,untbet-shampar,158960,22.889139,70.513486,Untbet-Shampar,2,750
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,vavdi,158961,22.59595,70.305148,Vavdi,2,764
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,zinzuda,158962,22.914097,70.559064,Zinzuda,2,1524
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,anandpar,158963,22.206476,70.569537,Anandpar,2,3001
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,arala,158964,22.155208,70.27745,Arala,2,1364
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,balambhadi,158965,22.151886,70.420962,Balambhadi,2,1337
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,bamangam,158966,22.060637,70.429103,Bamangam,2,1220
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,banga,158967,22.26073,70.2297,Banga,2,1245
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,bava khakhariya,158968,22.251772,70.409209,Bava Khakhariya,2,1322
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,bediya,158969,22.151612,70.522579,Bediya,2,507
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,beraja,158970,22.25967,70.196761,Beraja,2,1609
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,bhagat khijadiya,158971,22.114076,70.468228,Bhagat Khijadiya,2,815
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,bhangda,158972,22.060019,70.340867,Bhangda,2,330
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,bhavabhi khijadiya,158973,22.045034,70.437149,Bhavabhi Khijadiya,2,1123
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,bhayu khakhariya,158974,22.24237,70.404327,Bhayu Khakhariya,2,246
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,bhimanugam,158975,22.282348,70.411296,Bhimanugam,2,531
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,bodi,158976,22.157009,70.23626,Bodi,2,743
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,chapra,158977,22.187038,70.459872,Chapra,2,570
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,chela bedi,158978,22.181074,70.209067,Chela Bedi,2,539
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,chhatar,158979,22.127379,70.233313,Chhatar,2,1865
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,dangarvada,158980,22.109562,70.571926,Dangarvada,2,551
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,deri,158981,22.092929,70.526049,Deri,2,1014
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,dhundhoraji,158982,22.082096,70.258157,Dhundhoraji,2,1918
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,dudhala,158983,22.239477,70.251041,Dudhala,2,979
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,dungrani devaliya,158984,22.247091,70.153562,Dungrani Devaliya,2,583
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,fagas,158985,22.096908,70.350531,Fagas,2,605
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,galpadar,158986,22.197853,70.215065,Galpadar,2,350
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,golaniya,158987,22.252211,70.283326,Golaniya,2,403
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,gunda,158988,22.07144,70.547794,Gunda,2,2321
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,hansthal,158989,22.197198,70.185491,Hansthal,2,616
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,haripar (khandhera),158990,22.267945,70.335423,Haripar (Khandhera),2,1161
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,mevasa,158991,22.01174,70.272152,Mevasa,2,1921
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,jalansar,158992,22.146778,70.339558,Jalansar,2,559
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,jamvali,158993,22.134051,70.308723,Jamvali,2,3550
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,jashapar,158994,22.214662,70.422475,Jashapar,2,1927
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,jivapar,158995,22.237908,70.392107,Jivapar,2,756
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,juvanpur,158996,22.280182,70.489509,Juvanpur,2,769
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,kalmeghada,158997,22.033203,70.547097,Kalmeghada,2,1623
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,khad dhoraji,158998,22.181691,70.534375,Khad Dhoraji,2,895
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,khan kotda,158999,22.295852,70.250272,Khan Kotda,2,1483
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,khandhera,159000,22.281243,70.311803,Khandhera,2,2370
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,kharedi,159001,22.070282,70.479625,Kharedi,2,6304
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,khimani sanosara,159002,22.187598,70.438966,Khimani Sanosara,2,622
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,labukiya bhadukiya,159004,22.135741,70.461503,Labukiya Bhadukiya,2,225
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,laloi,159005,22.22297,70.239268,Laloi,2,763
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,machhalivad,159006,22.181337,70.300811,Machhalivad,2,958
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,machharda,159007,22.083459,70.319417,Machharda,2,590
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,makaji meghpar,159008,22.335217,70.488379,Makaji Meghpar,2,1942
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,makha karod,159009,22.060209,70.54223,Makha Karod,2,864
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,makrani sanosara,159010,22.142546,70.363383,Makrani Sanosara,2,1626
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,haripar,159011,22.019833,70.258718,Haripar,2,2814
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,moridad,159012,22.006041,70.510817,Moridad,2,952
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,morvadi,159013,22.17673,70.2505,Morvadi,2,342
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,mota bhadukiya,159014,22.163089,70.464696,Mota Bhadukiya,2,1259
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,mota panchdevda,159015,22.124533,70.213298,Mota Panchdevda,2,1386
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,mota vadala,159016,22.256528,70.465957,Mota Vadala,2,4129
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,moti bhagedi,159017,22.216767,70.276268,Moti Bhagedi,2,517
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,moti matli,159018,22.31737,70.268827,Moti Matli,2,1504
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,moti nagajar,159019,22.325448,70.415342,Moti Nagajar,2,1827
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,moti vavdi,159020,22.084599,70.281443,Moti Vavdi,2,1185
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,mulila,159021,22.123728,70.396574,Mulila,2,1460
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,nagpur,159022,22.262018,70.287967,Nagpur,2,643
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,nana badanpar,159023,22.252045,70.33442,Nana Badanpar,2,311
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,nana panchdevda,159024,22.126542,70.203915,Nana Panchdevda,2,670
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,nana vadala,159025,22.118033,70.537661,Nana Vadala,2,2932
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,nani bhagedi,159026,22.210864,70.279882,Nani Bhagedi,2,1163
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,nani bhalsan,159027,22.255962,70.196608,Nani Bhalsan,2,906
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,nani nagajar,159028,22.327983,70.422287,Nani Nagajar,2,436
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,nani vavdi,159029,22.236094,70.332159,Nani Vavdi,2,1201
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,napaniya khijadiya,159030,22.116058,70.433904,Napaniya Khijadiya,2,1704
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,navagam,159031,22.059944,70.304093,Navagam,2,2098
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,navania khakhariya,159032,22.236258,70.449612,Navania Khakhariya,2,116
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,nikava,159033,22.192746,70.53403,Nikava,2,4799
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,pata meghpar,159034,22.242997,70.516314,Pata Meghpar,2,1730
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,pipaliya (dhandhaliya),159035,22.178642,70.342714,Pipaliya (Dhandhaliya),2,377
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,pipar,159036,22.135871,70.492351,Pipar,2,2435
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,pithadiya,159037,22.345321,70.432527,Pithadiya,2,2313
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,rajda,159038,22.183877,70.495459,Rajda,2,1082
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,rajsthali,159039,22.19647,70.4373,Rajsthali,2,803
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,rampar,159040,22.193376,70.168555,Rampar,2,579
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,ravashiya,159041,22.211687,70.177416,Ravashiya,2,399
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,rinari,159042,22.112927,70.372979,Rinari,2,756
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,sanala,159043,22.194233,70.333568,Sanala,2,897
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,sarapadar,159044,22.280836,70.200547,Sarapadar,2,578
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,sarvaniya,159045,22.169098,70.370868,Sarvaniya,2,1505
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,sarvaniya hakumati,159046,22.064978,70.264099,Sarvaniya Hakumati,2,364
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,satiya,159047,22.287943,70.411223,Satiya,2,1123
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,savli,159048,22.180552,70.24276,Savli,2,325
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,shishang,159049,22.219034,70.483835,Shishang,2,1245
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,sortha,159050,22.306255,70.41784,Sortha,2,919
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,toda,159051,22.061883,70.387403,Toda,2,1456
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,umrala,159052,22.035901,70.307682,Umrala,2,1233
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,vazir khakhariya,159053,22.168179,70.265916,Vazir Khakhariya,2,566
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,vibhaniya,159054,22.313228,70.468979,Vibhaniya,2,840
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,virvav,159055,22.257557,70.409322,Virvav,2,704
+GUJARAT                                           ,24,JAMNAGAR,477,KALAVAD,4127,vodisang,159056,22.280544,70.357313,Vodisang,2,1738
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,asiyavadar,159057,21.973301,69.506901,Asiyavadar,2,742
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,asota mota,159058,22.271067,69.371914,Asota Mota,2,4004
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,bamanasa,159059,22.09213,69.204975,Bamanasa,2,1198
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,bankodi,159060,22.035959,69.341755,Bankodi,2,695
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,bhatiya,159061,22.092625,69.271946,Bhatiya,2,17352
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,bhatvadiya,159062,22.050861,69.222283,Bhatvadiya,2,1937
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,bhogat,159063,21.994525,69.244923,Bhogat,2,6253
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,bhopalka,159064,22.121923,69.382161,Bhopalka,2,1710
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,chachlana,159065,21.924282,69.374934,Chachlana,2,2030
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,chandravada,159066,21.873183,69.467151,Chandravada,2,2241
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,chapar,159067,22.061185,69.490791,Chapar,2,1661
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,chur,159068,22.022327,69.494869,Chur,2,707
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,dangarvad,159069,21.950113,69.513081,Dangarvad,2,1353
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,devaliya,159070,21.948699,69.378724,Devaliya,2,6664
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,dhaturiya,159071,22.008445,69.574103,Dhaturiya,2,3195
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,dhrumthal,159072,22.077523,69.470569,Dhrumthal,2,770
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,dudhiya,159073,21.981047,69.525522,Dudhiya,2,1690
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,gadhka,159074,22.100393,69.418903,Gadhka,2,6306
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,gaga,159075,22.141444,69.198074,Gaga,2,3046
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,gandhvi,159076,21.846304,69.367221,Gandhvi,2,2595
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,gangdi,159077,21.889351,69.359118,Gangdi,2,1718
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,goji nes,159078,22.011277,69.200154,Goji Nes,2,512
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,gokalpar,159079,22.054148,69.255575,Gokalpar,2,1280
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,gorana,159080,21.909693,69.519039,Gorana,2,3141
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,gurgadh,159081,22.196365,69.190441,Gurgadh,2,1852
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,habardi manipur,159082,22.226431,69.376287,Habardi Manipur,2,555
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,hadmatiya,159083,22.024175,69.303394,Hadmatiya,2,1243
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,haripar,159084,22.0192,69.459351,Haripar,2,2814
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,jampar,159085,22.067356,69.471475,Jampar,2,1909
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,jodhpar,159086,21.981115,69.298881,Jodhpar,2,757
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,juvanpar,159087,22.164336,69.366735,Juvanpar,2,3426
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,kalyanpur,159088,22.016374,69.403069,Kalyanpur,2,654
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,kanakpar,159089,22.096275,69.515486,Kanakpar,2,2293
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,kanpar sherdi,159090,22.067191,69.533013,Kanpar Sherdi,2,853
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,kenedi,159091,22.072991,69.311779,Kenedi,2,6450
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,khakharda,159092,22.102419,69.375045,Khakharda,2,2307
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,khijadad,159093,22.046253,69.441346,Khijadad,2,1720
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,khirasara,159094,21.97572,69.603264,Khirasara,2,3180
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,lamba,159095,21.900899,69.316564,Lamba,2,8681
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,mahadeviya,159096,22.193421,69.278793,Mahadeviya,2,1691
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,maleta,159097,21.997309,69.338891,Maleta,2,1318
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,mangaliya,159098,22.036847,69.470024,Mangaliya,2,347
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,meghpur titodi,159099,22.14188,69.454294,Meghpur Titodi,2,1994
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,mevasa,159100,22.224931,69.307357,Mevasa,2,1921
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,nagadiya,159101,21.971482,69.556556,Nagadiya,2,1561
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,nandana,159102,22.129976,69.291661,Nandana,2,1380
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,navadra,159103,21.947823,69.258071,Navadra,2,3316
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,paneli,159104,21.986497,69.441541,Paneli,2,1192
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,patelka,159105,22.081214,69.394343,Patelka,2,3961
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,pindara,159106,22.243087,69.259039,Pindara,2,2130
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,rajpar,159107,22.024497,69.53616,Rajpar,2,2286
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,ran,159108,22.178763,69.328821,Ran,2,8648
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,ranjitpar,159109,22.182768,69.219399,Ranjitpar,2,1662
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,ranparda,159110,21.942428,69.496744,Ranparda,2,541
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,sanosara,159111,21.941118,69.415766,Sanosara,2,363
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,satapar,159112,21.954731,69.320633,Satapar,2,532
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,sidsara,159113,22.151706,69.419794,Sidsara,2,684
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,suryavadar,159114,21.958509,69.479624,Suryavadar,2,2496
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,tankariya,159115,21.949282,69.446888,Tankariya,2,2621
+GUJARAT                                           ,24,JAMNAGAR,477,KALYANPUR,4128,virpur,159116,22.253533,69.314668,Virpur,2,458
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,ambardi,159117,22.107953,69.770787,Ambardi,2,1773
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,bajana,159118,22.142383,69.753584,Bajana,2,2619
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,beh,159119,22.27572,69.462314,Beh,2,3025
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,beraja,159120,22.231108,69.412766,Beraja,2,1609
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,bhadthar,159121,22.07714,69.577767,Bhadthar,2,4599
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,bhandariya,159122,22.093306,69.707586,Bhandariya,2,497
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,bhankhokhari,159123,22.092936,69.658381,Bhankhokhari,2,1481
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,bhara beraja,159124,22.079277,69.605328,Bhara Beraja,2,412
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,bharana,159125,22.37186,69.705308,Bharana,2,5287
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,bhatel,159126,22.167511,69.491886,Bhatel,2,2607
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,bhatgam,159127,22.152809,69.680571,Bhatgam,2,744
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,bhinda,159128,22.091773,69.621833,Bhinda,2,2296
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,chudeshvar,159129,22.337047,69.539325,Chudeshvar,2,2260
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,danta,159130,22.278511,69.676049,Danta,2,1452
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,datrana,159131,22.197407,69.410109,Datrana,2,2315
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,dhandhusar,159133,22.193187,69.454156,Dhandhusar,2,578
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,goinj,159136,22.308186,69.55873,Goinj,2,1858
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,golan sherdi,159137,22.078697,69.540937,Golan Sherdi,2,789
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,hanjdapar,159138,22.178427,69.430312,Hanjdapar,2,1401
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,hansthal,159139,22.218379,69.542826,Hansthal,2,616
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,haripar,159140,22.228999,69.637321,Haripar,2,2814
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,harshadpur,159141,22.222351,69.619592,Harshadpur,2,10288
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,juvangadh,159142,22.155758,69.552797,Juvangadh,2,1972
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,kabar visotri,159143,22.278305,69.610839,Kabar Visotri,2,944
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,kajurda,159144,22.336443,69.701814,Kajurda,2,1673
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,kalawad simani,159145,22.323934,69.502928,Kalawad Simani,2,872
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,kanchanpur,159146,22.234616,69.692594,Kanchanpur,2,889
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,kandorna,159147,22.158535,69.732897,Kandorna,2,1422
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,keshod,159149,22.121689,69.584229,Keshod,2,2359
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,khajuriya,159150,22.162839,69.52514,Khajuriya,2,1529
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,kolava,159151,22.129988,69.697208,Kolava,2,2434
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,kota,159152,22.171057,69.700844,Kota,2,723
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,kotadiya,159153,22.075477,69.69026,Kotadiya,2,570
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,kotha visotri,159154,22.271428,69.582022,Kotha Visotri,2,2206
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,kuvadiya,159155,22.215772,69.590474,Kuvadiya,2,1168
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,lakhasar hapa,159156,22.174213,69.759651,Lakhasar Hapa,2,1234
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,laliya,159157,22.132465,69.646842,Laliya,2,449
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,lalparda,159158,22.008599,69.612519,Lalparda,2,2701
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,laluka,159159,22.043442,69.616836,Laluka,2,1280
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,madhupur,159160,22.141368,69.535937,Madhupur,2,593
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,mahadeviya,159161,22.208034,69.792746,Mahadeviya,2,1691
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,manza,159162,22.155982,69.645021,Manza,2,797
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,mota ambla,159163,22.356942,69.664878,Mota Ambla,2,660
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,mota mandha,159164,22.315577,69.670411,Mota Mandha,2,2005
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,movan,159166,22.118718,69.488049,Movan,2,4080
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,nagada,159167,22.266661,69.71901,Nagada,2,322
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,nana ambla,159168,22.353746,69.666003,Nana Ambla,2,1974
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,nana ashota,159169,22.267616,69.40015,Nana Ashota,2,89
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,nana mandha,159170,22.330219,69.671979,Nana Mandha,2,1934
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,parodiya,159171,22.336658,69.632619,Parodiya,2,1872
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,pipriya,159172,22.130146,69.526382,Pipriya,2,552
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,pir lakhasar,159173,22.161485,69.796171,Pir Lakhasar,2,1564
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,sakhpar,159175,22.268058,69.717531,Sakhpar,2,356
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,samor,159176,22.251356,69.572534,Samor,2,2811
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,shaktinagar,159177,22.19706,69.663865,Shaktinagar,2,13463
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,sheda bhadthar,159178,22.058286,69.559346,Sheda Bhadthar,2,877
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,sidhpur,159179,22.105583,69.464413,Sidhpur,2,1285
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,sinhan aher,159180,22.220366,69.734543,Sinhan Aher,2,2256
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,sodasala,159182,22.289887,69.607469,Sodasala,2,1666
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,sodha tardhari,159183,22.323959,69.72045,Sodha Tardhari,2,1436
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,sonaradi,159184,22.189695,69.454626,Sonaradi,2,1273
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,sumra tardhari,159185,22.205462,69.733597,Sumra Tardhari,2,664
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,sutariya,159186,22.065421,69.706292,Sutariya,2,1455
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,thakar sherdi,159188,22.093591,69.568478,Thakar Sherdi,2,2323
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,timbdi,159189,22.349712,69.702171,Timbdi,2,1639
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,vachlabara,159190,22.289483,69.500822,Vachlabara,2,5852
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,vadaliya sinhan,159191,22.27769,69.71371,Vadaliya Sinhan,2,1695
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,vadinar,159192,22.399986,69.727028,Vadinar,2,8946
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,vadtra,159193,22.205522,69.505326,Vadtra,2,5105
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,vinzalpar,159194,22.150264,69.602395,Vinzalpar,2,3592
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,viramdad,159195,22.175133,69.556462,Viramdad,2,2550
+GUJARAT                                           ,24,JAMNAGAR,477,KHAMBHALIA,4129,zakasiya,159196,22.23929,69.444332,Zakasiya,2,1054
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,apia,159197,22.20583,69.819602,APIA,2,1549
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,arablus,159198,22.305819,69.941589,ARABLUS,2,1649
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,arikhana,159199,22.253759,70.009505,ARIKHANA,2,781
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,babarzar,159200,22.159249,69.829078,BABARZAR,2,1758
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,baghala,159201,22.135492,70.08037,BAGHALA,2,1003
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,bharudiya mota,159202,22.163464,70.006537,BHARUDIYA MOTA,2,794
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,charantungi,159203,22.223412,69.803266,CHARANTUNGI,2,911
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,chorbedi - babariya,159204,22.096155,70.022844,CHORBEDI - BABARIYA,2,1267
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,dabasang,159205,22.25638,69.9098,DABASANG,2,1334
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,daltungi,159206,22.236963,69.828281,DALTUNGI,2,838
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,dera chhikari,159207,22.387206,69.911066,DERA CHHIKARI,2,702
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,dharampur,159208,22.112977,69.923279,DHARAMPUR,2,692
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,gajana,159209,22.229858,69.955849,GAJANA,2,1380
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,gala,159210,22.246169,70.118662,GALA,2,374
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,godavari,159211,22.157494,69.958265,GODAVARI,2,1382
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,govana,159212,22.156274,69.877552,GOVANA,2,2185
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,haripar,159213,22.272999,70.003931,HARIPAR,2,2814
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,jasapar,159214,22.238275,69.795684,JASAPAR,2,493
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,jogvad,159215,22.367745,69.812517,JOGVAD,2,1706
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,kana chhikari,159216,22.3916,69.908914,KANA CHHIKARI,2,985
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,kanalus,159217,22.317855,69.902139,KANALUS,2,2342
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,kanvirdi,159218,22.208545,69.846018,KANVIRDI,2,518
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,karana,159219,22.26076,70.148149,KARANA,2,1064
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,kathitad,159220,22.063459,69.907764,KATHITAD,2,599
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,khad khambhaliya,159221,22.199036,70.147142,KHAD KHAMBHALIYA,2,1267
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,khadba mota,159222,22.18684,70.052744,KHADBA MOTA,2,2192
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,khadba nana,159223,22.114195,70.050418,KHADBA NANA,2,2045
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,khatiya,159224,22.167535,70.133735,KHATIYA,2,1060
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,khatiya beraja,159225,22.332869,69.795865,KHATIYA BERAJA,2,450
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,khengarpar,159226,22.256427,70.092545,KHENGARPAR,2,218
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,khirsara,159227,22.207856,69.928712,KHIRSARA,2,621
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,lakhiya mota,159228,22.294157,69.804008,LAKHIYA MOTA,2,1215
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,lakhiya nana,159229,22.317217,69.797672,LAKHIYA NANA,2,656
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,lalpur,159230,22.191869,69.962905,LALPUR,2,17109
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,machhu beraja,159231,22.271506,69.894213,MACHHU BERAJA,2,1677
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,meghnugam,159232,22.322364,69.940369,MEGHNUGAM,2,318
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,meghpar,159233,22.353904,69.830704,MEGHPAR,2,376
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,memana,159234,22.234202,70.030174,MEMANA,2,1762
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,modpar,159236,22.265492,69.80133,MODPAR,2,2824
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,mulila,159237,22.240421,69.989939,MULILA,2,1460
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,nanduri,159238,22.155263,69.982901,NANDURI,2,2823
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,navagam,159239,22.368715,69.908034,NAVAGAM,2,2098
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,padana,159240,22.330336,69.835877,PADANA,2,4541
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,panchsara mota,159241,22.22037,70.125642,PANCHSARA MOTA,2,312
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,pipar navi,159242,22.186081,69.919807,PIPAR NAVI,2,1589
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,pipartoda,159243,22.278614,70.088174,PIPARTODA,2,2815
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,pipli,159244,22.356214,69.949642,PIPLI,2,1837
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,rafudad moti,159245,22.224974,69.886727,RAFUDAD MOTI,2,1855
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,rafudad nani,159246,22.20959,69.887196,RAFUDAD NANI,2,2057
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,rakka,159247,22.174506,70.114213,RAKKA,2,1161
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,rangpur,159248,22.278412,69.823664,RANGPUR,2,3624
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,rasangpar,159249,22.299285,69.78613,RASANGPAR,2,1208
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,rinzpur,159250,22.130119,69.995077,RINZPUR,2,2443
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,sanosri,159251,22.077922,69.883707,SANOSRI,2,2383
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,sansara,159252,22.067152,69.9322,SANSARA,2,363
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,setalus,159253,22.310674,69.90066,SETALUS,2,892
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,sevak bharudiya,159254,22.254632,69.846035,SEVAK BHARUDIYA,2,593
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,sevak bhatiya,159255,22.268986,69.973741,SEVAK BHATIYA,2,379
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,sevak dhuniya,159256,22.281273,69.960805,SEVAK DHUNIYA,2,1020
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,singach,159257,22.388972,69.743645,SINGACH,2,4681
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,tebhada,159258,22.110334,69.947903,TEBHADA,2,1650
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,vadpanchasara,159259,22.232352,70.117872,VADPANCHASARA,2,822
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,vavdi,159260,22.155858,70.037973,VAVDI,2,764
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,veraval moti,159261,22.297781,70.061208,VERAVAL MOTI,2,1557
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,veraval navi,159262,22.219614,70.012767,VERAVAL NAVI,2,1199
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,vijaypur,159263,22.144277,70.017892,VIJAYPUR,2,601
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,zankhar,159264,22.361798,69.772113,ZANKHAR,2,3872
+GUJARAT                                           ,24,JAMNAGAR,477,OKHAMANDAL,4131,aniari,159265,22.270876,69.12976,Aniari,2,376
+GUJARAT                                           ,24,JAMNAGAR,477,OKHAMANDAL,4131,baradia,159266,22.196856,69.018505,Baradia,2,2087
+GUJARAT                                           ,24,JAMNAGAR,477,OKHAMANDAL,4131,batisa,159267,22.346856,69.026735,Batisa,2,422
+GUJARAT                                           ,24,JAMNAGAR,477,OKHAMANDAL,4131,bhimrana,159269,22.391459,69.001414,Bhimrana,2,4548
+GUJARAT                                           ,24,JAMNAGAR,477,OKHAMANDAL,4131,charakla,159270,22.202091,69.111705,Charakla,2,606
+GUJARAT                                           ,24,JAMNAGAR,477,OKHAMANDAL,4131,dhinaki,159271,22.198658,69.070129,Dhinaki,2,860
+GUJARAT                                           ,24,JAMNAGAR,477,OKHAMANDAL,4131,dhrasan vel,159272,22.28951,69.039636,Dhrasan Vel,2,991
+GUJARAT                                           ,24,JAMNAGAR,477,OKHAMANDAL,4131,gadhechi,159273,22.354624,69.043543,Gadhechi,2,1805
+GUJARAT                                           ,24,JAMNAGAR,477,OKHAMANDAL,4131,gorinja,159274,22.162085,69.060802,Gorinja,2,1231
+GUJARAT                                           ,24,JAMNAGAR,477,OKHAMANDAL,4131,goriyali,159275,22.348214,69.083156,Goriyali,2,1490
+GUJARAT                                           ,24,JAMNAGAR,477,OKHAMANDAL,4131,hamusar,159276,22.383432,69.05441,Hamusar,2,1535
+GUJARAT                                           ,24,JAMNAGAR,477,OKHAMANDAL,4131,juni dhrevad,159277,22.152521,69.081136,Juni Dhrevad,2,367
+GUJARAT                                           ,24,JAMNAGAR,477,OKHAMANDAL,4131,kalyanpur,159278,22.320006,69.039924,Kalyanpur,2,654
+GUJARAT                                           ,24,JAMNAGAR,477,OKHAMANDAL,4131,khatumba,159279,22.288023,69.136236,Khatumba,2,722
+GUJARAT                                           ,24,JAMNAGAR,477,OKHAMANDAL,4131,korada,159280,22.231448,69.049499,Korada,2,594
+GUJARAT                                           ,24,JAMNAGAR,477,OKHAMANDAL,4131,kuranga,159281,22.044703,69.16584,Kuranga,2,1162
+GUJARAT                                           ,24,JAMNAGAR,477,OKHAMANDAL,4131,lovrali,159282,22.177423,69.087914,Lovrali,2,255
+GUJARAT                                           ,24,JAMNAGAR,477,OKHAMANDAL,4131,makanpur,159283,22.338028,68.970953,Makanpur,2,1062
+GUJARAT                                           ,24,JAMNAGAR,477,OKHAMANDAL,4131,maripur,159284,22.14149,69.1056,Maripur,2,133
+GUJARAT                                           ,24,JAMNAGAR,477,OKHAMANDAL,4131,mevasa,159285,22.297688,69.017352,Mevasa,2,1921
+GUJARAT                                           ,24,JAMNAGAR,477,OKHAMANDAL,4131,mojap,159286,22.361821,68.97981,Mojap,2,1884
+GUJARAT                                           ,24,JAMNAGAR,477,OKHAMANDAL,4131,mota bhavda,159287,22.238306,69.066323,Mota Bhavda,2,721
+GUJARAT                                           ,24,JAMNAGAR,477,OKHAMANDAL,4131,mulvasar,159288,22.276163,69.110503,Mulvasar,2,847
+GUJARAT                                           ,24,JAMNAGAR,477,OKHAMANDAL,4131,mulvel,159289,22.336951,69.135088,Mulvel,2,604
+GUJARAT                                           ,24,JAMNAGAR,477,OKHAMANDAL,4131,nageshvar,159290,22.335689,69.086724,Nageshvar,2,322
+GUJARAT                                           ,24,JAMNAGAR,477,OKHAMANDAL,4131,nana bhavda,159291,22.256249,69.073295,Nana Bhavda,2,858
+GUJARAT                                           ,24,JAMNAGAR,477,OKHAMANDAL,4131,navi dhrevad,159292,22.144847,69.070673,Navi Dhrevad,2,492
+GUJARAT                                           ,24,JAMNAGAR,477,OKHAMANDAL,4131,okhamadhi,159293,22.091624,69.10103,Okhamadhi,2,716
+GUJARAT                                           ,24,JAMNAGAR,477,OKHAMANDAL,4131,padli,159294,22.387327,69.036119,Padli,2,551
+GUJARAT                                           ,24,JAMNAGAR,477,OKHAMANDAL,4131,positra,159295,22.393697,69.172378,Positra,2,1719
+GUJARAT                                           ,24,JAMNAGAR,477,OKHAMANDAL,4131,rajpura,159296,22.362247,69.108654,Rajpura,2,1223
+GUJARAT                                           ,24,JAMNAGAR,477,OKHAMANDAL,4131,rangasar,159297,22.324143,69.082134,Rangasar,2,315
+GUJARAT                                           ,24,JAMNAGAR,477,OKHAMANDAL,4131,shamlasar,159298,22.370305,69.106326,Shamlasar,2,1251
+GUJARAT                                           ,24,JAMNAGAR,477,OKHAMANDAL,4131,shivrajpur,159299,22.327815,68.955616,Shivrajpur,2,1245
+GUJARAT                                           ,24,JAMNAGAR,477,OKHAMANDAL,4131,tobar,159300,22.289895,69.002703,Tobar,2,170
+GUJARAT                                           ,24,JAMNAGAR,477,OKHAMANDAL,4131,tupani,159301,22.236762,69.134196,Tupani,2,1603
+GUJARAT                                           ,24,JAMNAGAR,477,OKHAMANDAL,4131,vachhu,159302,22.195792,69.036589,Vachhu,2,1126
+GUJARAT                                           ,24,JAMNAGAR,477,OKHAMANDAL,4131,varavala,159303,22.289782,68.965149,Varavala,2,11955
+GUJARAT                                           ,24,JAMNAGAR,477,OKHAMANDAL,4131,vasai,159304,22.319852,68.998331,Vasai,2,2071
+GUJARAT                                           ,24,JAMNAGAR,477,LALPUR,4130,ishwaria,238349,22.308663,69.958854,ISHWARIA,2,764
+GUJARAT                                           ,24,JAMNAGAR,477,DHROL,4123,sagaliya,244961,22.532133,70.524765,Sagaliya,2,326
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,rampar (padabekar),513681,22.853383,70.496372,Rampar (Parabekar),2,370
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,badanpar (jodiya),513705,22.686128,70.314578,Jodhiya Badanpar,2,1725
+GUJARAT                                           ,24,JAMNAGAR,477,JODIYA,4126,kunnad,513706,22.664752,70.304668,Kunnad,2,1585

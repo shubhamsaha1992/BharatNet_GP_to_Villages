@@ -1,0 +1,23 @@
+118516,chandimal
+118520,h katapali
+118525,loising
+118528,patrapalli
+118531,talpatia
+118532,aroda
+118535,goudapanpali
+118544,parmanpur
+118545,pokhrasaleh
+118553,kulaimura
+118560,atabira
+118562,baghmunda
+118566,bhaunrkhol
+118565,bhikhampali
+118568,dalgaon
+118572,kandhaikela
+118574,kodaloi
+118575,kumbharbandh
+118580,panchgaon
+118581,pandri
+118583,pipilimal
+118591,telenpali
+121824,ghichamura

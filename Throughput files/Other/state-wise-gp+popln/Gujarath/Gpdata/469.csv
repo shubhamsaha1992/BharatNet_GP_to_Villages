@@ -1,0 +1,805 @@
+State Name,State Code,District Name,District_Code,Block_Name,Block_Code,GP Name,GP Code,Latitude,Longitude,Location OF GP,Phase
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,SADAV,88888,24.139187,71.450858,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,ARJANPURA,88888,24.610776,71.472071,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,VAV,88888,24.360514,71.510021,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,MORIKHA,88888,24.301283,71.583781,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,BHABHAR,4080,NESDA,88888,24.099802,71.596556,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,BHABHAR,4080,ABASANA,88888,24.122393,71.602363,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,DHARADHARA,88888,24.275992,71.612968,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,Jamda,88888,24.458458,71.620176,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,BLOCK HEAD QUARTER,88888,24.391427,71.625758,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,BHABHAR,4080,SANESDA,88888,24.220719,71.631569,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,Khorda,88888,24.345665,71.717321,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,Didrada,88888,24.487904,71.740163,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,Depda,88888,24.593348,71.749735,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,Bhuriya,88888,24.513813,71.754107,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,DEODAR BLOCK,88888,24.108309,71.773259,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,PEPRAL,88888,24.34059,71.785082,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,ADHGAM,88888,23.982039,71.790253,ADHGAM,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,Asasan,88888,24.322858,71.798407,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,GANTA,88888,24.37089,71.803338,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,MAIDKOL,88888,23.998359,71.810593,MAIDKOL,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,KHARIYA,88888,23.939776,71.830225,KHARIYA,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,SOHANPURA,88888,23.86098,71.8463,SOHANPURA,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,Detla Dua,88888,24.418918,71.883643,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,KHAPROL,88888,24.669727,71.904984,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,NANUDA,88888,24.581259,71.911441,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,Jorapura (Dhakha),88888,24.508761,71.947635,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,Yavarpura,88888,24.479573,71.948203,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,CHARDA,88888,24.585372,71.969786,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,KOTADA,88888,24.562465,71.97522,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,CHAPLA GOLIA,88888,24.086375,71.988722,CHAPLA GOLIA,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,MALI GOLIA,88888,24.083664,72.00127,MALI GOLIA,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,Saral,88888,24.476206,72.003073,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,DHANERA BLOCK,88888,24.506998,72.019859,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,Ashiya,88888,24.474107,72.023212,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,Samarvada,88888,24.486899,72.051244,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,Sotwada,88888,24.507893,72.060909,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,MOTIDUGDOL,88888,24.649781,72.09132,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,RAMPURA MOTA,88888,24.522139,72.099971,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,VODA,88888,24.516195,72.113377,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,ADAL,88888,24.627067,72.138642,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,NANAMEDA,88888,24.584341,72.149111,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,Janali,88888,24.606532,72.157999,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,MEVADA,88888,24.525128,72.165811,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,BLOCK OFF,88888,24.265403,72.178267,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,NAGELA,88888,24.56849,72.209236,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,VASDA,88888,24.585847,72.22687,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,RAMPURA VA,88888,24.593424,72.237655,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,KUNDI,88888,24.622122,72.239046,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,BAPLA,88888,24.619641,72.262057,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DANTIVADA,4082,KOTADA,88888,24.250715,72.276633,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTIVADA,4082,PANSWAL,88888,24.471671,72.319123,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTIVADA,4082,DANTIWADA,88888,24.326196,72.329389,BLOCK,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,SANGLA,88888,24.266128,72.412136,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,PALANPUR,88888,24.170826,72.432772,BLOCK,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,ALLIGADH,88888,24.197126,72.479989,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,VADGAM,88888,24.081044,72.488548,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,BHAGALPUR,88888,24.172304,72.50688,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,AMIRGADH,4079,Khari,88888,24.455664,72.618322,Khari,2
+GUJARAT                                           ,24,Banaskantha,469,AMIRGADH,4079,Amirgadh,88888,24.41116,72.638964,Amirgadh,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,MORIYA,88888,24.105636,72.670517,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,AMIRGADH,4079,Gadadha,88888,24.454522,72.676833,Gadadha,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,DELVADA,88888,24.16798,72.709811,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,AMIRGADH,4079,Valia,88888,24.293681,72.724949,Valia,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,TALUKA GP OFFICE,88888,24.186349,72.766127,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,AMIRGADH,4079,Amirgadh,156445,24.405267,72.640864,Amirgadh,2
+GUJARAT                                           ,24,Banaskantha,469,AMIRGADH,4079,Awal,156446,24.432342,72.665933,Awal,2
+GUJARAT                                           ,24,Banaskantha,469,AMIRGADH,4079,Balundra,156447,24.376344,72.54663,Balundra,2
+GUJARAT                                           ,24,Banaskantha,469,AMIRGADH,4079,Dabhela,156448,24.43734,72.63578,Dabhela,2
+GUJARAT                                           ,24,Banaskantha,469,AMIRGADH,4079,Deri,156449,24.351814,72.51751,Deri,2
+GUJARAT                                           ,24,Banaskantha,469,AMIRGADH,4079,Dhanpura (Dholiya),156450,24.376262,72.597465,Dhanpura (Dholiya),2
+GUJARAT                                           ,24,Banaskantha,469,AMIRGADH,4079,Dhanpura (VI),156451,24.291719,72.633625,Dhanpura (VI),2
+GUJARAT                                           ,24,Banaskantha,469,AMIRGADH,4079,Dholia,156452,24.35596,72.591423,Dholia,2
+GUJARAT                                           ,24,Banaskantha,469,AMIRGADH,4079,Ganji,156453,24.298016,72.672519,Ganji,2
+GUJARAT                                           ,24,Banaskantha,469,AMIRGADH,4079,Iqbalgadh,156454,24.347201,72.533481,Iqbalgadh,2
+GUJARAT                                           ,24,Banaskantha,469,AMIRGADH,4079,Jethi,156455,24.323607,72.507912,Jethi,2
+GUJARAT                                           ,24,Banaskantha,469,AMIRGADH,4079,Junireh,156456,24.417013,72.649301,Junireh,2
+GUJARAT                                           ,24,Banaskantha,469,AMIRGADH,4079,Kanpura,156457,24.28472,72.692649,Kanpura,2
+GUJARAT                                           ,24,Banaskantha,469,AMIRGADH,4079,kapasiya,156458,24.486466,72.528503,kapasiya,2
+GUJARAT                                           ,24,Banaskantha,469,AMIRGADH,4079,Karza,156459,24.323259,72.490314,Karza,2
+GUJARAT                                           ,24,Banaskantha,469,AMIRGADH,4079,Khapa,156460,24.379451,72.664266,Khapa,2
+GUJARAT                                           ,24,Banaskantha,469,AMIRGADH,4079,Khara,156461,24.37384,72.448453,Khara,2
+GUJARAT                                           ,24,Banaskantha,469,AMIRGADH,4079,Khunia,156463,24.381144,72.629966,Khunia,2
+GUJARAT                                           ,24,Banaskantha,469,AMIRGADH,4079,Kidotor,156464,24.399311,72.608895,Kidotor,2
+GUJARAT                                           ,24,Banaskantha,469,AMIRGADH,4079,Manpuria,156465,24.371593,72.456375,Manpuria,2
+GUJARAT                                           ,24,Banaskantha,469,AMIRGADH,4079,Rampura (vadala),156467,24.265696,72.559981,Rampura (vadala),2
+GUJARAT                                           ,24,Banaskantha,469,AMIRGADH,4079,Sarotra,156468,24.388091,72.581507,Sarotra,2
+GUJARAT                                           ,24,Banaskantha,469,AMIRGADH,4079,Surela,156469,24.307369,72.59584,Surela,2
+GUJARAT                                           ,24,Banaskantha,469,AMIRGADH,4079,Virampur,156470,24.266952,72.664807,Virampur,2
+GUJARAT                                           ,24,Banaskantha,469,AMIRGADH,4079,Zanzarvav,156472,24.339121,72.544679,Zanzarvav,2
+GUJARAT                                           ,24,Banaskantha,469,BHABHAR,4080,ABALA,156473,24.079339,71.550777,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,BHABHAR,4080,ASANA,156475,24.147054,71.658039,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,BHABHAR,4080,BALODHAN,156476,24.152047,71.611092,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,BHABHAR,4080,BEDA,156477,24.039317,71.565771,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,BHABHAR,4080,BHIMBORDI,156478,24.114694,71.612682,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,BHABHAR,4080,BURETHA,156480,24.005442,71.65069,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,BHABHAR,4080,CHACHASANA,156481,24.005901,71.676694,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,BHABHAR,4080,CHALADARA,156482,24.102859,71.498781,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,BHABHAR,4080,CHATARA,156483,24.120295,71.493854,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,BHABHAR,4080,CHEMBUVA,156484,24.106383,71.553165,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,BHABHAR,4080,CHICHODARA,156485,23.98582,71.613872,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,BHABHAR,4080,DEVKAPDI,156486,24.191008,71.604179,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,BHABHAR,4080,GANGUN,156487,24.028212,71.59537,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,BHABHAR,4080,GOSAN,156488,23.964321,71.605933,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,BHABHAR,4080,HARKUDIYA,156489,24.166436,71.58483,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,BHABHAR,4080,INDARVA JUNA,156490,24.010386,71.514443,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,BHABHAR,4080,INDARVA NAVA,156491,24.002265,71.513803,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,BHABHAR,4080,JASANWADA,156492,24.05022,71.663096,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,BHABHAR,4080,JORVADA,156493,24.028908,71.495207,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,BHABHAR,4080,KAPRUPUR,156494,24.045537,71.619932,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,BHABHAR,4080,KARELA,156495,24.092812,71.599392,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,BHABHAR,4080,KHARA,156496,24.08683,71.632145,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,BHABHAR,4080,KHARI PALDI,156497,24.166537,71.639721,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,BHABHAR,4080,KUVALA,156498,24.125544,71.665832,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,BHABHAR,4080,MERA,156499,24.186161,71.640418,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,BHABHAR,4080,MITHA,156500,24.088408,71.668512,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,BHABHAR,4080,RUNI,156502,24.069416,71.510596,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,BHABHAR,4080,SANVA (LA),156504,24.062339,71.53395,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,BHABHAR,4080,SUTHAR NESDI,156505,24.129318,71.555756,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,BHABHAR,4080,TANVAD,156506,24.036043,71.53665,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,BHABHAR,4080,TETARVA,156507,24.118129,71.537882,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,BHABHAR,4080,UJJANWADA,156508,24.009794,71.609929,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,BHABHAR,4080,UNDAI,156509,24.032311,71.634166,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,BHABHAR,4080,VADANA (A),156510,24.085219,71.552173,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,BHABHAR,4080,VADPAG,156511,24.00428,71.588138,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,BHABHAR,4080,VAJAPUR JUNA,156512,24.190287,71.576606,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,BHABHAR,4080,VAJAPUR NAVA,156513,24.19797,71.574982,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,ABHAPURA,156514,24.138008,72.729381,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,ADERAN (T),156515,24.132167,72.746157,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,AMBAJI,156516,24.332891,72.849756,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,BAMANIYA,156517,24.111402,72.68221,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,BAMNOJ,156518,24.249224,72.996047,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,BARVAS,156519,24.184148,72.892864,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,BHANKHRI,156520,24.082607,72.665392,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,BHCHADIYA,156521,24.085238,72.836201,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,DALPURA,156522,24.159575,72.874633,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,DANTA,156523,24.189023,72.764314,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,GANAPIPLI,156524,24.291393,72.948788,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,GANGVA,156525,24.149063,72.732459,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,GHORAD,156526,24.135499,72.851529,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,GODHANI,156527,24.142986,72.762895,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,HADAD,156528,24.264514,72.976971,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,JASVANTGADH,156529,24.115451,72.742856,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,JITPUR,156530,24.071422,72.897259,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,JODHSAR,156531,24.199261,72.925784,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,KANABIYAVAS,156532,24.194439,72.810982,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,KESARPURA,156534,24.289071,72.986822,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,KHERMAL,156536,24.226965,72.911964,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,KUMBHARIYA,156537,24.323669,72.860485,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,KUNDEL,156538,24.15453,72.765422,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,KUNVARSI,156539,24.21205,72.859907,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,LOTOL,156540,24.096413,72.898449,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,MAHUDI,156542,24.114003,72.816766,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,MANDALI,156543,24.207679,72.972615,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,MANKANCHAMPA,156545,24.23297,72.997404,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,MANKDI,156546,24.146863,72.918798,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,MOTASADA,156547,24.146833,72.686075,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,NAGEL,156548,24.100586,72.680086,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,NANASADA,156549,24.139867,72.710838,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,NARGADH,156550,24.149058,72.742341,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,NAVAVAS,156551,24.125057,72.744101,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,NAVAVAS KANTH,156552,24.221345,72.939547,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,PANSA,156553,24.287708,72.837172,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,PETHAPUR,156554,24.187241,72.741252,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,PUNJPUR,156555,24.172392,72.729118,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,RANGPUR,156556,24.084574,72.819994,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,RATANPUR,156557,24.177447,72.742304,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,RUPVAS,156558,24.25961,72.888688,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,SANALI,156559,24.218482,72.956315,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,SANDHOSI,156560,24.164668,72.94918,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,SEMBALIYA,156561,24.084828,72.675215,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,SEMBALPAI,156562,24.341315,72.780732,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,SOLSANDA,156563,24.088764,72.90579,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,THANA,156564,24.151089,72.749615,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,VASI,156565,24.235997,72.773754,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,VIJALASAN,156567,24.063677,72.885715,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTIVADA,4082,AKOLI,156568,24.497245,72.386996,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTIVADA,4082,ARKHI,156569,24.516109,72.322092,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTIVADA,4082,BHADALI (ZAT),156570,24.462815,72.344679,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTIVADA,4082,BHADLI KOTHA,156571,24.377189,72.274044,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTIVADA,4082,BHAKHAR MOTI,156572,24.283277,72.291927,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTIVADA,4082,BHAKHAR NANI,156573,24.285244,72.286976,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTIVADA,4082,BHANDOTRA,156574,24.539262,72.319764,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTIVADA,4082,BHILACHAL,156575,24.442951,72.395076,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTIVADA,4082,BHILADA,156576,24.510916,72.414171,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTIVADA,4082,CHODUNGRI,156577,24.375873,72.316844,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTIVADA,4082,DANGIYA,156578,24.248734,72.33291,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTIVADA,4082,DANTIWADA,156579,24.354647,72.334606,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTIVADA,4082,DHANIYAWADA,156580,24.527301,72.30089,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTIVADA,4082,GUNDARI,156581,24.545285,72.359169,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTIVADA,4082,HARIYAWADA,156582,24.422509,72.395779,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTIVADA,4082,JEGOL,156583,24.412441,72.342606,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTIVADA,4082,MAHUDI MOTI,156584,24.449456,72.286907,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTIVADA,4082,NANDOTRA (BRAHMANVAS),156585,24.326288,72.325737,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTIVADA,4082,NANDOTRA (THAKORVAS),156586,24.32861,72.313601,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTIVADA,4082,ODHAVA,156587,24.418229,72.379962,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTIVADA,4082,PANTHAWADA,156588,24.492376,72.303323,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTIVADA,4082,RAMNAGAR,156589,24.308134,72.353036,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTIVADA,4082,RAMSIDA (CHHAPRA),156590,24.297085,72.36437,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTIVADA,4082,RANOL,156591,24.394985,72.371845,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTIVADA,4082,SATSAN,156592,24.524906,72.360125,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTIVADA,4082,SHERGADH ODHAVA,156593,24.410556,72.386383,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTIVADA,4082,UTTAMPURA (DA),156594,24.251783,72.331575,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTIVADA,4082,VAGHROL,156595,24.28895,72.333105,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTIVADA,4082,VAGOR,156596,24.51223,72.291968,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTIVADA,4082,VELAVAS,156597,24.402295,72.354838,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTIVADA,4082,ZAT,156598,24.486899,72.353101,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,AGDOL,156599,24.401176,72.255057,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,AGTHALA,156600,24.305165,71.882826,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,AKHOL MOTI,156601,24.278764,72.16516,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,ASEDA,156602,24.156904,72.181485,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,BAIWADA,156603,24.351581,72.168954,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,BALODHAR,156604,24.230566,71.993317,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,BHACHALVA,156605,24.41854,72.192732,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,BHADATH,156606,24.329007,72.219123,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,BHADRA,156607,24.424014,72.022146,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,BHADRAMALI,156608,24.105864,72.052795,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,BHAKADIYAL,156609,24.411335,71.928224,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,BHILDI JUNI,156610,24.185257,71.99737,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,BHILDI NAVI,156611,24.189879,72.005359,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,BHOYAN,156612,24.231461,72.213781,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,BODAL,156613,24.137206,72.039664,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,CHANDAJI GOLIA,156616,24.338895,72.247635,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,CHEKRA,156617,24.339725,71.943379,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,CHHATRALA,156618,24.168631,72.044741,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,CHITRODA,156619,24.287167,71.923476,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,CHORA,156620,24.452665,72.069604,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,DAMA,156621,24.291636,72.085393,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,DASANAVAS,156622,24.180845,72.096545,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,DAVAS,156623,24.316206,72.204438,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,DHANAVADA,156624,24.43901,72.139621,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,DHANPURA,156625,24.372724,72.22457,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,DHARISANA,156626,24.092756,72.078675,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,DHARPADA,156627,24.187244,72.190377,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,DHEDHAL,156628,24.262719,72.078577,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,DHROBA,156629,24.411224,71.963965,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,DHUVA,156631,24.202636,72.199245,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,FAGUDRA,156632,24.429316,72.23012,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,GENAJI GOLIA,156633,24.322935,72.212269,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,GHADA,156634,24.380108,72.235613,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,GHANA,156635,24.427095,71.953851,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,GHARNAL MOTI,156636,24.214855,72.012257,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,GHARNAL NANI,156637,24.221597,72.01734,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,GODHA,156638,24.27237,72.01512,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,GUGAL,156640,24.36363,72.077021,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,JADIYALI,156641,24.456229,71.928261,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,JASARA,156642,24.343223,71.855019,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,JAVAL,156643,24.397737,72.194215,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,JHABADIYA,156644,24.126959,72.074011,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,JHERDA,156646,24.37694,72.123621,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,JORAPURA,156648,24.290719,72.12492,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,JUNA DEESA,156649,24.221621,72.154936,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,KAMODA,156650,24.351557,71.97125,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,KAMODI,156651,24.369453,71.988424,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,KANAJHARA,156652,24.113938,72.104911,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,KANSARI,156653,24.328213,72.138632,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,KANT,156654,24.263204,72.230114,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,KATARVA,156655,24.292099,71.937462,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,KHARDOSAN,156656,24.176453,72.165013,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,KHENTVA,156657,24.199484,72.042142,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,KHERALA,156658,24.393885,72.004465,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,KOTDA,156659,24.380196,71.914222,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,KUCHAVADA,156660,24.453514,72.262664,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,KUDA,156661,24.339621,71.898217,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,KUMPAT,156662,24.2417,72.14312,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,LAKHANI,156663,24.311936,71.821384,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,LAXMIPURA,156664,24.310559,72.046693,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,LORVADA,156666,24.223412,72.085609,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,LUNPUR,156667,24.162096,72.089538,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,MAHADEVIYA,156668,24.267814,72.175505,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,MALGADH,156669,24.255012,72.144632,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,MANEKPURA,156670,24.165823,72.126318,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,MOTA KAPRA,156671,24.282669,71.985642,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,MUDETHA,156672,24.148714,71.98414,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,NAGAFANA,156673,24.397476,72.07893,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,NANA KAPRA,156674,24.24893,71.994129,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,NANDLA,156675,24.43067,71.990778,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,NANI,156676,24.32444,72.002707,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,NAVA,156677,24.130611,72.171992,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,NESDA JUNA,156678,24.194816,71.970215,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,NESDA NAVA,156679,24.19428,71.952862,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,ODHAVA,156680,24.25476,72.044125,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,PALDI,156681,24.17593,71.970941,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,PAMARU,156682,24.368961,72.100119,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,PECHHDAL,156683,24.376473,72.047443,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,PEPLU,156684,24.22821,71.94639,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,RAMPURA,156685,24.279593,72.067087,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,RAMSAN,156686,24.441716,72.045245,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,RAMUN,156687,24.437253,72.088668,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,RAMVAS,156688,24.173548,71.943961,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,RANPUR ATHAMNO VAS,156689,24.294181,72.216308,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,RANPUR UGAMNO VAS,156690,24.306203,72.239737,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,RANPUR VACHLOVAS,156691,24.298919,72.234644,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,RASANA MOTA,156692,24.220916,72.246827,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,RASANA NANA,156693,24.221993,72.244721,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,ROBAS MOTI,156694,24.415435,72.221005,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,SADARPUR,156695,24.15257,72.079543,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,SAMAU MOTA,156696,24.090125,72.099442,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,SAMAU NANA,156697,24.085778,72.101352,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,SANATH,156698,24.206807,72.101812,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,SANDIYA,156699,24.210499,72.066784,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,SARAT,156700,24.368557,72.013447,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,SAVIYANA,156701,24.111042,72.130983,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,SHAMSHERPURA,156702,24.285151,72.137426,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,SHERGADH,156703,24.232047,71.919999,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,SHERPURA,156705,24.339561,72.096444,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,SOTAMBLA,156706,24.219182,72.049981,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,TALEPURA,156707,24.37459,72.218397,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,TETODA,156708,24.41232,72.112404,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,THERVADA,156709,24.381446,72.173704,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,VADAVAL,156711,24.223076,72.117985,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,VAHARA,156712,24.179984,72.068844,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,VARAN,156713,24.336048,72.049788,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,VARNODA,156714,24.306106,72.025543,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,VASADA,156715,24.319316,72.266017,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,VASNA (JUNA DEESA),156716,24.202689,72.135006,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,VASNA (KUDA),156717,24.36492,71.878963,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,VASNA (VATAM),156718,24.262908,71.844323,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,VIRUNA,156720,24.433506,72.228873,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,VITHODAR,156721,24.422854,72.184799,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,YAVARPURA,156722,24.316484,72.096269,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEESA,4083,ZENAL,156723,24.332459,72.043277,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,BHADKASAR,156724,24.079242,71.698055,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,BHESANA,156725,24.129461,71.727362,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,CHAGWADA,156726,24.164232,71.799826,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,CHALVA,156727,24.299117,71.73191,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,CHAMANPURA,156728,24.163862,71.772757,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,CHIBHDA,156729,24.250903,71.699851,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,DELWADA,156730,24.141482,71.796522,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,DHANAKWADA,156732,24.154927,71.841371,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,DHRANDAV,156733,24.125017,71.701318,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,DHUNSOL,156734,24.202318,71.675163,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,DUCHAKWADA,156735,24.181266,71.816766,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,FAFARALI,156736,24.250807,71.639574,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,FORNA,156737,24.187736,71.870948,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,GANGOL,156738,24.171904,71.849751,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,GODA,156739,24.064238,71.731063,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,GOLVI,156740,24.220382,71.692026,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,JADA,156741,24.163436,71.76063,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,JALODHA,156742,24.23503,71.87976,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,KHANODAR,156743,24.193501,71.753709,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,KOTARWADA,156744,24.234682,71.654433,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,KOTDA DEODAR,156745,24.129243,71.765123,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,KOTDA FORNA,156746,24.194442,71.846414,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,KUNVATA,156747,24.238158,71.73682,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,KUWANA,156748,24.308897,71.75999,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,LAVANA,156749,24.286227,71.763081,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,LEMBAU,156750,24.313794,71.714232,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,LILADHAR,156751,24.159508,71.815336,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,LUDARA,156752,24.09978,71.736241,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,MAKDALA,156753,24.285936,71.761722,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,MAKHANU,156754,24.26194,71.716237,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,MOJRU JUNA,156755,24.208818,71.785063,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,MOJRU NAVA,156756,24.205146,71.783889,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,MULAKPUR,156757,24.080542,71.839557,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,NOKHA,156758,24.164763,71.679001,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,ODHA,156759,24.171175,71.871013,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,PALDI,156760,24.207936,71.743387,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,RAIYA,156761,24.124185,71.835999,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,RAMPURA,156762,24.19162,71.686611,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,RANTILA,156763,24.255184,71.761577,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,RAVEL,156764,24.163583,71.714932,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,SAMLA VADANA,156765,24.103009,71.709399,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,SANADAR,156766,24.112201,71.798721,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,SANAV,156767,24.283103,71.69323,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,SARDARPURA (JASALI),156768,24.15673,71.895053,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,SARDARPURA (RAVEL),156769,24.184049,71.721142,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,SONI,156770,24.194205,71.915349,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,SURANA,156771,24.08118,71.812183,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,VADIYA,156772,24.143045,71.695989,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,VAJEGADH,156773,24.259996,71.791524,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,VAKHA,156774,24.083176,71.77951,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,VATAM JUNA,156775,24.218987,71.834711,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DEODAR,4084,VATAM NAVA,156776,24.219574,71.84395,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,ALVADA,156777,24.544312,72.218355,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,ANAPUR CHHOTA,156778,24.5839,72.201384,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,BHANJANA,156780,24.595574,71.875474,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,BHATIB,156781,24.6123,72.062612,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,BHATRAM,156782,24.549199,72.259875,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,DEDHA,156783,24.554721,72.142062,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,DHAKHA,156784,24.537497,71.970394,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,GOLA,156785,24.676098,71.996269,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,JADI,156786,24.574769,72.074141,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,JADIYA,156787,24.597995,72.034272,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,JIWANA,156788,24.574626,72.02148,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,KHIMAT,156790,24.490625,72.181908,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,KUMAR,156791,24.478334,72.150723,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,KUNWARLA,156792,24.644546,71.985115,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,LAWARA,156793,24.611323,71.923693,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,MALOTRA,156794,24.543025,72.057337,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,MANDAL,156795,24.601261,72.222765,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,NENAVA,156796,24.646675,71.879556,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,RAJODA,156798,24.534459,72.186511,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,RAVI,156799,24.561586,72.240477,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,RAVIYA,156800,24.569847,72.132711,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,RUNI,156801,24.522602,72.130727,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,SHERGADH (JADIYA),156804,24.651541,72.012147,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,SILASANA,156805,24.459586,72.11471,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,SIYA,156806,24.613096,72.110957,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,THAWAR,156808,24.541778,72.008848,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,VACHHDAL,156809,24.500686,72.245335,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,VACHHOL,156810,24.603825,72.316833,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,VALER,156811,24.49589,72.096683,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,VASAN,156812,24.690956,72.06764,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,VINCHHIVADI,156813,24.5849,71.938395,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,DHANERA,4085,VIROL,156814,24.467843,72.230504,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,AKOLI MAHARAJVAS,156816,24.040728,71.889653,AKOLI MAHARAJVAS,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,AKOLI THAKORVAS,156817,24.045244,71.889784,AKOLI THAKORVAS,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,AMARNESDA,156818,23.940455,71.925432,AMARNESDA,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,AMBLUN,156819,23.946631,71.88327,AMBLUN,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,ANANDPURA,156820,23.916788,71.809825,ANANDPURA,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,ANGANWADA,156821,23.962971,71.927787,ANGANWADA,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,ARADUVAS,156822,24.045956,71.981639,ARADUVAS,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,ARNIWADA,156823,24.11942,72.019871,ARNIWADA,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,BALOCHPURA,156824,23.989332,71.87696,BALOCHPURA,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,BHADREVADI,156825,23.882602,71.811623,BHADREVADI,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,BHALGAM,156826,23.930027,71.788941,BHALGAM,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,BUKOLI,156827,24.101489,72.005413,BUKOLI,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,CHANGA,156828,23.976364,71.771933,CHANGA,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,CHEKHALA,156829,24.081198,71.940096,CHEKHALA,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,CHIMANGADH,156830,24.084625,71.866615,CHIMANGADH,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,DEVPURA,156831,23.903137,71.938262,DEVPURA,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,DHANERA,156832,23.902333,71.9678,DHANERA,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,DUDASAN,156833,24.002558,71.980325,DUDASAN,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,DUNGRASAN,156834,24.016442,71.877407,DUNGRASAN,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,FATEGADH,156835,23.995022,72.0333,FATEGADH,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,INDRAMANA,156836,24.014262,71.828296,INDRAMANA,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,ISARVA,156837,24.042771,71.750688,ISARVA,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,JAKHEL,156838,23.963006,71.740801,JAKHEL,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,JAMANA PADAR,156839,24.074855,72.036939,JAMANA PADAR,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,KAKAR,156840,24.039082,71.846614,KAKAR,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,KAMBOI,156841,24.025457,72.001478,KAMBOI,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,KASALPURA,156842,23.981898,71.920791,KASALPURA,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,KASARA,156843,23.911617,71.913729,KASARA,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,KATEDIYA,156844,24.046792,71.799931,KATEDIYA,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,KHIMANA(PALODAR NA VAS),156846,24.111741,71.934411,KHIMANA(PALODAR NA VAS),2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,KHODA,156847,24.115416,71.898193,KHODA,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,KHODLA,156848,24.131975,71.956526,KHODLA,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,KUNVARAVA,156849,24.047475,71.908054,KUNVARAVA,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,LAXMIPURA,156850,23.999419,72.002522,LAXMIPURA,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,MANDALA,156851,23.94924,71.705362,MANDALA,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,MANGALPURA,156852,23.999945,71.888471,MANGALPURA,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,MANPURA (SHIHORI),156853,24.010379,71.90709,MANPURA (SHIHORI),2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,MANPURA (UN),156854,23.855923,71.760906,MANPURA (UN),2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,MOTA JAMPUR,156855,23.936331,71.889797,MOTA JAMPUR,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,NANA JAMPUR,156856,23.950121,71.845925,NANA JAMPUR,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,NANOTA,156857,24.114774,71.872565,NANOTA,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,NATHPURA,156858,24.024865,71.773131,NATHPURA,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,NEKARIYA,156859,23.942093,71.768469,NEKARIYA,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,NEKOI,156860,24.057823,71.830506,NEKOI,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,ODHA,156861,23.898123,71.824314,ODHA,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,PADAR,156862,23.927971,71.756814,PADAR,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,PADARDI,156863,24.062268,71.865236,PADARDI,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,RAJPUR,156864,24.031432,71.785964,RAJPUR,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,RANAKPUR,156865,23.944169,71.796722,RANAKPUR,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,RANAWADA (JAGIRI),156866,24.067634,71.958292,RANAWADA (JAGIRI),2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,RANAWADA (KHALSA),156867,23.952292,71.918253,RANAWADA (KHALSA),2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,RANER,156868,24.055332,72.062378,RANER,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,RATANGADH,156869,24.073996,71.900149,RATANGADH,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,RATANPURA (SHIHORI),156870,24.053446,71.934877,RATANPURA (SHIHORI),2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,RATANPURA (UN),156871,23.876161,71.73248,RATANPURA (UN),2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,RAVIYANA,156872,24.092126,71.899487,RAVIYANA,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,RUNI,156873,23.935749,71.817192,RUNI,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,RUVEL,156874,23.98749,71.698815,RUVEL,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,SAMANVA,156875,24.100474,71.954475,SAMANVA,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,SHIHORI,156876,24.03918,71.941257,SHIHORI,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,SHIRWADA,156877,23.979138,71.749536,SHIRWADA,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,SHIYA,156878,23.892048,71.810527,SHIYA,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,SUDROSAN,156879,23.860377,71.839813,SUDROSAN,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,TANA,156880,23.964163,71.834361,TANA,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,TATIYANA,156881,23.899817,71.734687,TATIYANA,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,TERVADA,156882,24.026101,71.694714,TERVADA,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,TOTANA,156883,23.892369,71.857493,TOTANA,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,UCHARPI,156884,24.08204,71.967241,UCHARPI,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,UMBRI,156885,24.055788,72.000814,UMBRI,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,UN,156886,23.887667,71.772177,UN,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,VADA,156887,23.989973,71.846813,VADA,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,VALPURA,156888,23.860961,71.783866,VALPURA,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,VARASADA,156889,23.983321,71.66405,VARASADA,2
+GUJARAT                                           ,24,Banaskantha,469,KANKREJ,4086,ZALMOR,156890,24.095008,71.868464,ZALMOR,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,AKEDI,156891,24.274029,72.383651,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,AKESAN,156892,24.173375,72.389637,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,AMBALIYASAR,156893,24.19683,72.529629,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,AMBETHA,156894,24.169105,72.481383,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,ANGOLA,156895,24.213097,72.376414,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,ANTROLI,156896,24.284808,72.436858,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,ASMAPURA (KARJODA),156897,24.218282,72.477807,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,BADARGADH,156898,24.085596,72.462613,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,BADARPURA (BHUTEDI),156899,24.262357,72.390758,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,BADARPURA (KANOTAR),156900,24.09954,72.362039,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,BADARPURA (KHODLA),156901,24.202422,72.348617,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,BHAGAL (JAGANA),156902,24.127454,72.387583,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,BHAGAL (PIPLI),156903,24.168107,72.499519,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,BHATAMAL MOTI,156904,24.27992,72.401909,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,BHAVISANA,156905,24.144141,72.357024,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,BHUTEDI,156906,24.264934,72.384608,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,CHADOTAR,156907,24.192666,72.379349,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,CHANDISAR,156908,24.217095,72.312061,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,CHHAPARA,156909,24.231564,72.620331,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,CHITRASANI,156910,24.265036,72.483958,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,DALWADA,156911,24.091878,72.228356,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,DELWADA,156912,24.235831,72.37709,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,DHABDHA,156913,24.183122,72.557352,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,DHELANA,156914,24.140151,72.553438,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,FATEPUR,156915,24.110623,72.46759,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,GADH,156916,24.128812,72.271271,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,GALWADA,156917,24.120823,72.346545,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,GATHAMAN,156918,24.149114,72.386516,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,GOLA,156919,24.140744,72.529437,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,HASANPUR,156920,24.26551,72.559733,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,HATHIDRA,156921,24.226446,72.600977,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,HEBATPUR,156922,24.261678,72.470968,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,HODA,156923,24.135105,72.329987,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,JAGANA,156924,24.125308,72.418951,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,JASLENI,156925,24.090493,72.435124,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,JASPURIYA,156926,24.255953,72.482943,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,KAMALPUR,156928,24.106325,72.442646,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,KANODAR,156929,24.08868,72.391463,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,KARJODA,156930,24.205618,72.469267,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,KHARODIYA,156931,24.102027,72.473066,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,KHASA,156932,24.117417,72.310976,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,KHEMANA,156933,24.236471,72.455738,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,KHODLA,156934,24.182429,72.335501,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,KOTDA (BHAKHAR),156935,24.250659,72.276292,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,KUMBHALMER,156936,24.184828,72.305496,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,KUMBHASAN,156937,24.158749,72.308726,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,KUSHAKAL,156938,24.217299,72.347848,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,LALAWADA,156939,24.141014,72.457142,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,LAXMANPURA,156940,24.238332,72.477398,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,LAXMIPURA,156941,24.16518,72.424879,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,LUNWA,156942,24.222869,72.423969,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,MADANA (DA),156943,24.235801,72.314785,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,MADANA (GADH),156944,24.112678,72.254424,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,MALAN,156945,24.221434,72.527941,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,MALANA,156946,24.249103,72.435545,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,MANAKA,156947,24.168126,72.553455,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,MANPUR (KARJODA),156948,24.214163,72.486112,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,MERWADA (RATANPUR),156949,24.143905,72.479655,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,MORIYA,156950,24.225049,72.394516,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,MOTA,156951,24.208894,72.282562,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,NALASAR,156952,24.189874,72.507459,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,PAKHANWA,156953,24.240873,72.415738,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,PARPADA,156954,24.208847,72.402231,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,PATOSAN,156955,24.102041,72.303872,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,PEDAGARA,156956,24.229343,72.551582,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,PIPLI,156957,24.16052,72.512104,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,PIROJPURA(TANKANI),156958,24.273794,72.462791,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,RAJPUR (PAKHANVA),156959,24.248134,72.408332,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,RAMPURA (KARAZA),156960,24.306499,72.444432,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,RATANPUR,156962,24.15237,72.474065,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,RUPPURA,156963,24.15315,72.550488,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,SADARPUR,156964,24.187068,72.453921,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,SAGROSANA,156965,24.136189,72.367232,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,SALEMPURA,156966,24.152615,72.317755,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,SALLA,156967,24.095202,72.272267,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,SAMDHI (MOTAVAS),156968,24.169278,72.234869,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,SAMDHI (NADHANIVAS),156969,24.164113,72.234772,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,SAMDHI RANAJIVAS,156970,24.18115,72.239094,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,SANGRA,156971,24.22616,72.489035,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,SARIPADA,156972,24.121216,72.33118,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,SASAM,156973,24.07301,72.284846,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,SEDRASANA,156974,24.099898,72.422833,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,SEJALPURA (V),156975,24.131568,72.471668,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,SEMODRA,156976,24.115189,72.48461,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,SONGADH,156977,24.220011,72.447668,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,SUNDHA,156978,24.183126,72.254018,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,SURAJPURA (KHE),156979,24.231303,72.472357,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,TAKARWADA,156980,24.106165,72.332061,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,TALEPURA (MADANA),156981,24.106179,72.224968,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,TOKARIYA,156982,24.085631,72.368766,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,VADHANA,156983,24.23863,72.3626,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,VAGDA,156984,24.127431,72.459334,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,VASADA (KA),156985,24.203849,72.494704,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,VASANI (DHA),156986,24.140064,72.232045,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,VASANA,156987,24.182046,72.531888,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,VASNA (JAGANA),156988,24.100422,72.387871,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,PALANPUR,4087,VEDANCHA,156989,24.161788,72.340288,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,AJAWADA,156990,24.594892,71.612436,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,ANTROL,156991,24.645555,71.586282,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,ARATVA,156992,24.489877,71.871263,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,ASODAR,156993,24.415046,71.814887,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,BEVATA,156994,24.609554,71.827639,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,BHACHAR,156995,24.454914,71.586317,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,BHALASARA,156996,24.484726,71.779128,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,BHAPI,156997,24.521702,71.640422,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,BHORDU,156998,24.440034,71.745715,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,BHOROL,156999,24.525383,71.543841,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,CHANGADA,157001,24.534736,71.799342,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,CHARDA,157002,24.380373,71.562988,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,CHUDMER,157003,24.417018,71.607708,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,DANTIYA,157004,24.546208,71.718524,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,DEL,157005,24.313362,71.655206,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,DENDUVA,157006,24.550726,71.881701,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,DODGAM,157009,24.319194,71.598651,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,DOLATPURA,157010,24.442604,71.634009,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,DUDHVA,157011,24.478805,71.668911,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,DUVA,157012,24.51595,71.903867,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,GADSISAR,157013,24.556392,71.486138,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,GANESHPURA,157014,24.517506,71.576245,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,GELA,157015,24.347645,71.82364,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,GHESDA,157016,24.425323,71.684117,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,GHODASAR,157017,24.451878,71.85341,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,IDHATA,157018,24.462438,71.567276,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,JAMPUR,157020,24.561436,71.527265,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,JETDA,157021,24.337603,71.761518,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,KAMALI,157022,24.510649,71.775522,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,KARBUN,157023,24.596018,71.656193,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,KASAVI,157024,24.665023,71.533047,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,KESARGAM,157025,24.566018,71.766766,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,KHANPUR,157026,24.371289,71.608153,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,KHARAKHODA,157027,24.626347,71.781265,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,KHENGARPURA,157028,24.462394,71.784534,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,KHODA,157029,24.657357,71.77078,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,KIYAL,157031,24.524591,71.880141,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,LALPUR,157032,24.381164,71.855733,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,LENDAU,157033,24.458135,71.61682,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,LODHNAR,157034,24.496493,71.70463,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,LORWADA,157035,24.496739,71.614419,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,LUNAL,157036,24.475865,71.641534,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,LUVANA,157038,24.342112,71.746553,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,MADAL,157039,24.427196,71.849276,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,MALUPUR,157040,24.384706,71.651747,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,MANGROL,157041,24.519317,71.691663,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,MIYAL,157042,24.618702,71.753003,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,MORILA,157043,24.374167,71.763103,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,MORTHAL,157044,24.569521,71.853478,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,MOTA MESARA,157045,24.588701,71.731267,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,MOTI PAVAD,157046,24.344171,71.689527,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,NAGALA,157047,24.351635,71.614025,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,NANI PAVAD,157048,24.340139,71.663871,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,NANOL,157049,24.401647,71.760695,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,NAROLI,157050,24.627671,71.634995,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,PAVADASAN,157051,24.490103,71.920726,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,PILUDA,157052,24.552023,71.694054,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,RADKA,157053,24.647822,71.619743,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,RAH,157054,24.491091,71.830604,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,RAMPURA,157055,24.576408,71.591882,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,SANAVIA,157056,24.308678,71.684715,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,SAVPURA,157057,24.552474,71.593677,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,SEDLA,157058,24.390778,71.784503,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,SHERAU,157059,24.635941,71.530392,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,TARUWA,157060,24.401779,71.835414,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,THARA,157061,24.510698,71.841492,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,UNDRANA,157062,24.424506,71.78285,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,UNTVELIYA,157063,24.44374,71.893657,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,VADGAMDA,157064,24.407479,71.688721,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,VAGHASAN,157065,24.627612,71.70247,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,VAMI,157067,24.498961,71.638793,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,VANTDAU,157068,24.649852,71.726233,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,VARA,157069,24.644576,71.784254,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,VEDALA,157070,24.473397,71.720948,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,ZENTA,157071,24.406851,71.730671,Panchayat,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,ANDHARIYA,157072,24.147367,72.678564,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,BASU,157073,24.061942,72.329034,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,BAVALCHUDI,157074,24.035748,72.445348,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,BHALGAM,157075,23.99689,72.574496,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,BHARKAWADA,157077,24.047855,72.381886,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,BHAROD,157078,24.133345,72.503446,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,CHANGA,157079,24.069667,72.363511,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,CHANGWADA,157080,24.086283,72.368135,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,CHHANIYANA,157081,24.121463,72.523246,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,CHHAPI,157082,24.031201,72.402511,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,CHITRODA,157083,24.059349,72.595957,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,DALVANA,157084,23.95735,72.499673,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,DHANALI,157085,24.096435,72.635347,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,DHAREWADA,157086,23.975906,72.379448,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,DHORI,157087,24.146294,72.63529,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,DHOTA,157088,24.080634,72.540395,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,EDRANA,157089,24.014741,72.43174,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,FATEGADH,157090,24.001727,72.419553,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,GHODIYAL,157091,24.110102,72.590975,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,GIDASAN MOTI,157092,23.999794,72.490992,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,GIDASAN NANI,157093,24.003156,72.490232,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,HADMATIYA,157094,24.077316,72.587059,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,HARDE VASANA,157095,24.001315,72.63084,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,HASANPUR,157096,24.103751,72.550007,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,IQBALGADH,157097,23.949552,72.534811,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,JALOTRA,157098,24.144208,72.582483,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,JUNI NAGARI,157099,23.990116,72.557541,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,JUNI SENDHANI,157100,24.006894,72.611009,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,KABIRPURA,157101,24.057583,72.60962,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,KALEDA,157102,24.017324,72.637685,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,KARASANPURA,157103,24.0659,72.563045,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,KARNALA,157104,24.118713,72.605681,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,KODARALI,157105,24.018219,72.417228,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,KODARAM,157106,23.958743,72.579998,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,KOTADI,157107,24.005037,72.403257,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,LIMBOI,157108,24.049051,72.496662,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,MAGARWADA,157109,24.060021,72.457593,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,MAHI,157110,24.038406,72.364477,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,MAJADAR,157111,24.048574,72.405891,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,MALOSANA,157112,24.064579,72.422526,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,MANPURA,157113,23.984135,72.396367,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,MEGAL,157114,24.00382,72.529921,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,MEMADPUR,157115,24.054796,72.518955,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,MEPADA,157116,24.010813,72.558629,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,META,157117,24.044433,72.343685,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,MORIYA,157118,24.105696,72.670378,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,MUMANVAS,157119,24.146634,72.654335,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,NAGANA,157120,23.988068,72.517961,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,NALASAR,157121,24.048,72.412787,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,NANDOTRA,157122,23.985243,72.468282,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,NANOSANA,157123,23.978925,72.44192,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,NAVI SENDHANI,157124,23.993567,72.611878,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,NAVISANA,157125,24.031374,72.476184,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,NAVO VAS,157126,24.027268,72.631282,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,NIZAMPURA,157127,24.04162,72.613462,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,PANCHADA,157128,24.042068,72.581935,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,PARKHADI,157129,24.121194,72.513761,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,PASVADAL,157130,23.994378,72.408804,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,PEPOL,157131,24.016645,72.53994,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,PILUCHA,157132,23.977222,72.528309,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,PIROJPURA,157133,24.023444,72.354585,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,RAJOSANA,157134,24.018251,72.374612,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,RUPAL,157135,24.027165,72.500885,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,SAKALANA,157136,24.07675,72.540985,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,SALEMKOT,157137,24.02644,72.582759,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,SHERPURA (MAJADAR),157138,24.06509,72.385754,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,SHERPURA (SEMBHAR),157139,24.0275,72.595288,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,SISRANA,157140,24.071354,72.610702,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,TENIWADA,157141,23.995608,72.379045,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,THALWADA,157142,23.949402,72.499151,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,TIMBACHUDI,157143,24.053625,72.438123,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,UMRECHA,157144,23.965877,72.486839,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,VAGADADI,157146,24.163743,72.681085,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,VANSOL,157147,24.117274,72.569645,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,VARASADA,157148,24.032339,72.456012,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,VARNAWADA,157149,24.08936,72.552472,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,VARVADIYA,157150,24.089218,72.516467,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VADGAM,4089,VESA,157151,24.020114,72.474112,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,ACHHUVA,157152,24.454384,71.429302,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,ASARAGAM,157153,24.334125,71.39106,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,ASARAVAS,157154,24.336041,71.391199,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,BAIYAK,157155,24.271779,71.652814,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,BALUNTRI,157156,24.541485,71.416331,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,BENAP,157157,24.155387,71.415179,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,BHACHALI,157158,24.287459,71.482809,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,BHAKHARI,157159,24.436471,71.484185,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,BHARADAVA,157160,24.228546,71.35641,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,BHATASAN,157161,24.167821,71.487535,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,BHATVAR VAS,157162,24.281194,71.439218,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,BUKNA,157164,24.381137,71.427888,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,CHALA,157165,24.213378,71.446247,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,CHANDARVA,157166,24.317419,71.499422,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,CHOTHAR NESDA,157167,24.493172,71.390143,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,CHOTIL,157168,24.528301,71.473674,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,CHUVA,157169,24.414737,71.538336,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,DAIYAP,157170,24.664455,71.499169,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,DENDAVA,157171,24.262418,71.474526,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,DETHALI,157172,24.261023,71.555467,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,DHANANA,157173,24.217174,71.457794,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,DHIMA,157175,24.458923,71.520932,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,DHRECHANA,157176,24.026809,71.43366,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,DUDOSAN,157178,23.984814,71.345756,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,ETA,157179,24.166185,71.530206,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,FANGADI,157180,24.498414,71.48186,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,GARAMBADI,157181,24.034171,71.465486,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,GOLAP NESDA,157182,24.281388,71.348877,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,GOLGAM,157183,24.411428,71.447615,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,HARSAD,157184,24.060899,71.376892,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,JALOYA,157185,24.150034,71.293615,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,JANAVADA,157186,24.229087,71.580365,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,JELANA,157187,24.279536,71.395543,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,JORAWARGADH,157188,24.095787,71.461522,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,JORDIYALI,157189,24.632274,71.398397,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,KANOTHI,157190,24.267161,71.4067,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,KARELI,157191,24.543153,71.404625,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,KHADOL,157192,24.188378,71.480801,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,KHIMANA PADAR,157193,24.34019,71.441725,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,KHIMANAVAS,157194,24.359528,71.492115,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,KORETI,157195,24.221246,71.392949,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,KUMBHARAKHA,157196,24.149938,71.465928,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,KUNDALIYA,157197,24.550597,71.349115,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,LALPURA,157198,24.165096,71.545044,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,LIMBANA,157199,24.236717,71.435267,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,LIMBUNI,157200,24.115937,71.373867,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,LODRANI,157201,24.429624,71.382625,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,MADHPURA,157202,24.074655,71.340995,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,MADKA,157203,24.294591,71.519007,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,MALSAN,157204,24.353201,71.579618,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,MAMANA,157205,24.223327,71.420974,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,MAVSARI,157206,24.615224,71.366392,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,MORWADA,157208,24.033847,71.420722,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,NALODAR,157209,24.415396,71.42218,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,NAVAPURA,157210,24.082699,71.40428,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,PADAN,157211,24.295469,71.32161,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,PANESDA,157212,24.595752,71.442218,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,PRATAPPURA,157213,24.473582,71.553304,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,RACHHENA,157214,24.452675,71.381602,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,RADKA,157215,24.142916,71.50814,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,RADOSAN,157216,24.259755,71.33642,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,RAMPURA,157217,24.180213,71.520183,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,THARAD,4088,SANVAL,157218,24.604611,71.483916,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,SAPREDA,157219,24.458241,71.459338,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,SONETH,157220,23.978772,71.42674,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,SUIGAM,157221,24.15343,71.357888,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,TADAV,157222,24.496909,71.436094,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,TITHGAM,157223,24.253932,71.516487,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,UCHOSAN,157224,24.098424,71.457478,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,UMEDPURA,157225,24.489229,71.413068,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,VASARDA,157226,24.220467,71.522866,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,VAV,157227,24.360883,71.509697,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,VAV,4090,VAVDI,157228,24.340164,71.550399,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,Chelana,161418,24.069954,72.652992,PANCHAYAT,2
+GUJARAT                                           ,24,Banaskantha,469,DANTA,4081,Vasai,161446,24.054413,72.632429,PANCHAYAT,2

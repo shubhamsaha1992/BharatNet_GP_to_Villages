@@ -1,0 +1,837 @@
+State_Name,State Code,District_Name,District_Code,Block_Name,Block_Code,GP Name,GP Code,Latitude,Longitude,Location_OF_GP,Phase,population
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ALLAGADDA, 5150,ahobilam, 203896, 15.133463, 78.673122, AHOBILAM GP, 2,3732
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ALLAGADDA, 5150,bachepalle, 203897, 15.083469, 78.591541, BACHEPALLE GP, 2,3718
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ALLAGADDA, 5150,bathalur, 203898, 15.21451, 78.502189, SCHOOL BATHLOOR, 2,4088
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ALLAGADDA, 5150,chinta kommadinne, 203899, 15.062221, 78.532773, P.CHINTAKOMMADINNE GP, 2,945
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ALLAGADDA, 5150,g.jambuladinne, 203900, 15.173497, 78.509252, G. JAMBULADINNE GP, 2,9500
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ALLAGADDA, 5150,gopalapuram, 203901, 15.18358, 78.502061, GOPALPURAM GP, 2,631
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ALLAGADDA, 5150,gubagundam, 203902, 15.135159, 78.515546, GUBAGUNDAM GP, 2,753
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ALLAGADDA, 5150,kotha kandukur, 203903, 15.084847, 78.585748, KOTHA KANDUKUR GP, 2,4453
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ALLAGADDA, 5150,marripalle, 203904, 15.121563, 78.5867, MARRIPALLE GP, 2,1114
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ALLAGADDA, 5150,mittapalle, 203905, 15.119499, 78.567745, MITTAPALLI GP, 2,1652
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ALLAGADDA, 5150,nallagatla, 203906, 15.185081, 78.502026, NALLAGATALA TEMPLE, 2,2528
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ALLAGADDA, 5150,obulampalle, 203907, 15.141818, 78.522556, OBUMPALLE, 2,3525
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ALLAGADDA, 5150,patha kandukur, 203908, 15.120855, 78.496288, PATHA KANDUKUR GP, 2,1598
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ALLAGADDA, 5150,peraipalli, 203909, 15.192279, 78.48357, PERRAIPALLI GP, 2,3392
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ALLAGADDA, 5150,r.krishnapuram, 203910, 15.100644, 78.585235, R.KRISHNAPURAM GP, 2,3042
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ALLAGADDA, 5150,s.lingamdinne, 203911, 15.111853, 78.482344, S.LINGAMADINNE, 2,1775
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ALLAGADDA, 5150,yadawada, 203912, 15.136283, 78.551311, YADAWADA GP, 2,890
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ALUR, 5151,alur, 203913, 15.392971, 77.22744, Alur GP, 2,14426
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ALUR, 5151,arikera, 203914, 15.401754, 77.198968, Arikera GP, 2,4869
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ALUR, 5151,hathi belgal, 203915, 15.391187, 77.225058, Hathibelagal GP, 2,4255
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ALUR, 5151,hulebeedu, 203916, 15.442811, 77.231371, Hulebeedu GP, 2,2791
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ALUR, 5151,kammarachedu, 203917, 15.51578, 77.253456, Kummarachedu GP, 2,2530
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ALUR, 5151,kurukunda, 203918, 15.480016, 77.236782, Kurukunda GP, 2,2213
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ALUR, 5151,kuruvalli, 203919, 15.365153, 77.19412, Kuruvalai GP, 2,1219
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ALUR, 5151,manikurthi, 203920, 15.479545, 77.236701, Manikurthy GP, 2,893
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ALUR, 5151,marakattu, 203921, 15.443363, 77.283391, Marakattu GP, 2,1706
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ALUR, 5151,molagavalli, 203922, 15.359664, 77.333389, Molagavalli GP, 2,9475
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ALUR, 5151,muddanagiri, 203923, 15.494489, 77.19228, Muddanagiri GP, 2,414
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ALUR, 5151,musanahalli, 203924, 15.53486, 77.257048, Musanahalli GP, 2,1170
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ALUR, 5151,peddahothur, 203925, 15.441289, 77.284678, Peddahothur GP, 2,4732
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ALUR, 5151,thumbalabeedu, 203926, 15.442811, 77.231371, Thumbalabeedu GP, 2,1490
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ASPAR, 5152,aspari, 203927, 15.477808, 77.387763, ASPARI GP, 2,7263
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ASPAR, 5152,banavanur, 203928, 15.595924, 77.46152, BANAVANUR GP, 2,2302
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ASPAR, 5152,billekallu, 203929, 15.47867, 77.386807, BILLEKALLU GP, 2,4319
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ASPAR, 5152,chigili, 203930, 15.538013, 77.320247, CHIGILI GP, 2,2928
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ASPAR, 5152,chinnahothur, 203931, 15.453482, 77.302734, CHINNAHOTHUR GP, 2,3021
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ASPAR, 5152,chiramandoddi, 203932, 15.499532, 77.368736, CHIRMANDODDI GP, 2,1487
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ASPAR, 5152,d. kotakonda, 203933, 15.601151, 77.454887, D.KOTAKONDA GP, 2,2081
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ASPAR, 5152,haligera, 203934, 15.506426, 77.362989, HALIGERA GP, 2,3296
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ASPAR, 5152,joharapuram, 203935, 15.408546, 77.401006, JOHARAOURAM GP, 2,4501
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ASPAR, 5152,karumanchi, 203936, 15.601168, 77.454773, KARUMANCHI GP, 2,3730
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ASPAR, 5152,khyruppala, 203937, 15.595114, 77.461339, KHYRUPPALA GP, 2,4814
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ASPAR, 5152,mulugundam, 203938, 15.6385, 77.472851, MULUGUNDAM GP, 2,6439
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ASPAR, 5152,muthukur, 203939, 15.493996, 77.457634, MUTHUKUR GP, 2,4174
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ASPAR, 5152,nagarur, 203940, 15.537571, 77.316601, NAGARUR GP, 2,3198
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ASPAR, 5152,putakalamarri, 203941, 15.500804, 77.47989, PUTAKALAMARRI GP, 2,4124
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ASPAR, 5152,sankarabanda, 203942, 15.493226, 77.37397, SANKARABANDA GP, 2,1485
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ASPAR, 5152,tangaradona, 203943, 15.567304, 77.383244, TANGARADONA GP, 2,3516
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ASPAR, 5152,thogalagallu, 203944, 15.534086, 77.438245, THOGALAGALLU GP, 2,2800
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ASPAR, 5152,yatakallu, 203945, 15.477808, 77.387763, YATAKAL GP, 2,1580
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ATMAKUR, 5153,amalapuram, 203946, 15.882886, 78.640032, AMALAPURAM GP, 2,1084
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ATMAKUR, 5153,bapanthapuram, 203947, 15.853533, 78.588374, BAPANTHAPURAM GP, 2,45703
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ATMAKUR, 5153,indireswaram, 203948, 15.896361, 78.624648, INDIRESWARAM GP, 2,1496
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ATMAKUR, 5153,karivena, 203949, 15.878685, 78.580782, KARIVENA GP, 2,4897
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ATMAKUR, 5153,krishnapuram, 203950, 15.882956, 78.63587, KRISHNAPURAM GP, 2,2141
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ATMAKUR, 5153,kurukunda, 203951, 15.890575, 78.57774, KURUKUNDA GP, 2,2213
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ATMAKUR, 5153,mustapally, 203952, 15.878957, 78.588236, MUSTAPALLY GP, 2,3265
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ATMAKUR, 5153,nallakalva, 203953, 15.835883, 78.592725, NALLAKALVA GP, 2,2175
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ATMAKUR, 5153,pinnapuram, 203954, 15.856308, 78.660249, PINNAPURAM GP, 2,1299
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ATMAKUR, 5153,siddapuram, 203955, 15.883141, 78.6544, SIDDAPURAM GP, 2,546
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ATMAKUR, 5153,siddepalle, 203956, 15.538907, 78.603672, SIDDEPALLE GP, 2,3971
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ATMAKUR, 5153,sreepathi rao peta, 203957, 15.896361, 78.624648, SREEPATHI RAO PETA GP, 2,2852
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ATMAKUR, 5153,vadla ramapuram, 203958, 15.438633, 78.433603, VADLA RAMAPURAM GP, 2,3427
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BANAGANAPALLE, 5155,a koduru, 206777, 15.526696, 78.534619, A KODURU GP, 2,3656
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BANAGANAPALLE, 5154,appalapuram, 203959, 15.333138, 78.305305, Applapuram GP, 2,1406
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BANAGANAPALLE, 5155,b koduru, 206778, 15.527553, 78.576786, B KODURU GP, 2,2517
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BANAGANAPALLE, 5155,bandiatmakur, 206779, 15.578786, 78.524558, BANDIATMAKUR GP, 2,7242
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BANAGANAPALLE, 5155,bojanam, 206780, 15.642928, 78.543989, BOJANAM GP, 2,1163
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BANAGANAPALLE, 5154,cheruvupalli, 203961, 15.421721, 78.27415, Cheruvupalli GP, 2,2355
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BANAGANAPALLE, 5155,chinnadevalapuram, 206781, 15.648558, 78.58922, CHINNADEVALAPURAM GP, 2,4825
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BANAGANAPALLE, 5154,enakandla, 203962, 15.320614, 78.222562, Enakondala GP, 2,3928
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BANAGANAPALLE, 5155,ernapadu, 206782, 15.544139, 78.571028, ERNAPADU GP, 2,2362
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BANAGANAPALLE, 5155,g lingapuram, 206784, 15.591882, 78.557733, G LINGAPURAM GP, 2,4265
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BANAGANAPALLE, 5155,gc palem, 206783, 15.617437, 78.564809, GC PALEM GP, 2,6156
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BANAGANAPALLE, 5154,illurukothapeta, 203963, 15.310729, 78.243673, Illurukothapeta, 2,269
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BANAGANAPALLE, 5155,kadamalakalva, 206785, 15.531949, 78.580011, KADAMALAKALVA GP, 2,3587
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BANAGANAPALLE, 5155,kakanur, 206786, 15.578786, 78.524558, KAKANUR GP, 2,1536
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BANAGANAPALLE, 5154,krishnagiri, 203964, 15.329931, 78.093894, Krishnagiri GP, 2,647
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BANAGANAPALLE, 5154,kyapa, 203965, 15.321296, 78.274333, Kaypa GP, 2,1829
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BANAGANAPALLE, 5154,mangampeta, 204511, 15.321222, 78.108271, MANGAMPETA GP, 2,1606
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BANAGANAPALLE, 5154,meerapuram, 203966, 15.331464, 78.169445, Meerapuram GP, 2,2189
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BANAGANAPALLE, 5154,nandavaram, 203967, 15.378304, 78.282717, Nandavaram GP, 2,5283
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BANAGANAPALLE, 5154,nandivargam, 203968, 15.423326, 78.318913, Nandivargam GP, 2,2892
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BANAGANAPALLE, 5155,narayanapuram, 206787, 15.627158, 78.536295, NARAYANAPURAM GP, 2,592
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BANAGANAPALLE, 5154,palukur, 203969, 15.418779, 78.27253, Palakur GP, 2,11674
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BANAGANAPALLE, 5155,paramatur, 206788, 15.642578, 78.525943, PARAMATUR GP, 2,1578
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BANAGANAPALLE, 5155,parnapalli, 206789, 15.559851, 78.534419, PARNAPALLI GP, 2,5260
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BANAGANAPALLE, 5154,pathapadu, 203971, 15.329335, 78.165316, Pathapadu GP, 2,2109
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BANAGANAPALLE, 5155,peddadevalapuram, 206790, 15.642928, 78.543989, PEDDADEVALAPURAM, 2,2243
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BANAGANAPALLE, 5155,ramapuram, 206791, 15.578786, 78.524558, RAMAPURAM GP, 2,6614
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BANAGANAPALLE, 5154,ramatheertham, 203972, 15.423326, 78.318913, Ramatheertham GP, 2,2216
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BANAGANAPALLE, 5155,santhajuturu, 206792, 15.627079, 78.535075, SANTHAJUTURU GP, 2,2415
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BANAGANAPALLE, 5155,singavaram, 206793, 15.572549, 78.575461, SINGAVARAM GP, 2,3352
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BANAGANAPALLE, 5155,somyajulapalli, 206794, 15.544178, 78.571005, SOMYAJULAPALLI GP, 2,4845
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BANAGANAPALLE, 5154,tangutoor, 203973, 15.345416, 78.341482, Tangutoor GP, 2,3579
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BANAGANAPALLE, 5154,thammadapalle, 203974, 15.306953, 78.227271, Thammadapalli GP, 2,160
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BANAGANAPALLE, 5154,thimmapuram, 203975, 15.398258, 78.300075, Thimmapuram GP, 2,947
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BANAGANAPALLE, 5154,venkatapuram, 203976, 15.341751, 78.25513, Venktapuram GP, 2,423
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BANAGANAPALLE, 5154,yerragudi, 203977, 15.357682, 78.211812, Yerragudi GP, 2,1156
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BANAGANAPALLE, 5155,yerraguntla, 206795, 15.565384, 78.519757, YERRAGUNTLA GP, 2,8584
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BETHAMCHERLA, 5156,ambapuram, 203997, 15.406307, 78.074347, AMBAPURAM TMPL, 2,2058
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BETHAMCHERLA, 5156,bethamcherla, 888888, 15.453484, 78.149444, BETHAMCHERLA GP, 2,3609
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BETHAMCHERLA, 5156,bugganipalle, 888888, 15.473767, 78.173462, BUGGPANIPALLE GP, 2,1780
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BETHAMCHERLA, 5156,ceement nagar, 888888, 15.506396, 78.21034, CEEMENT NAGAR GP, 2,6991
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BETHAMCHERLA, 5156,emboy, 204001, 15.530741, 78.121844, EMBOY GP, 2,5206
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BETHAMCHERLA, 5156,gollagutta, 204002, 15.447026, 78.145628, GOLLAGUTA GP, 2,2094
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BETHAMCHERLA, 5156,gorumankonda, 888888, 15.519298, 78.175632, GORUMANKONDA GP, 2,11834
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BETHAMCHERLA, 5156,gutupalle, 204004, 15.405712, 78.40294, GUTUPALLE GP, 2,5155
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BETHAMCHERLA, 5156,h kottala, 888888, 15.453484, 78.149444, H KOTTALA GP, 2,2873
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BETHAMCHERLA, 5156,k k kottala, 888888, 15.447663, 78.145319, K K KOTTALA GP, 2,38994
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BETHAMCHERLA, 5156,kolumulapalle, 204007, 15.453484, 78.149444, KOLUMULAPALLE GP, 2,841
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BETHAMCHERLA, 5156,m.pendakal, 204009, 15.521478, 78.08124, M.PENDAKAL GP, 2,3202
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BETHAMCHERLA, 5156,muddavaram, 204010, 15.479381, 78.128897, MUDDAVARAM GP, 2,3277
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BETHAMCHERLA, 5156,r.bukkapuram, 204013, 15.376504, 78.042976, R.BUKKAPURAM GP, 2,2617
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BETHAMCHERLA, 5156,r.kothapalle, 204011, 15.406307, 78.074347, R.KOTHAPALE GP, 2,4778
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BETHAMCHERLA, 5156,r.s.rangapuram, 204008, 15.442504, 78.117583, R.S.RANGAPURAM GP, 2,8255
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BETHAMCHERLA, 5156,rahimanpuram, 204012, 15.40972, 78.073718, RAHIMANPURAM GP, 2,3196
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BETHAMCHERLA, 5156,seetharamapuram, 204015, 15.499996, 78.096961, SEETHARAMAPURAM GP, 2,6663
+ANDHRA PRADESH                                    , 28, Kurnool, 552, BETHAMCHERLA, 5156,thavisikonda, 204016, 15.425719, 78.044434, THAVISIKONDA GP, 2,3245
+ANDHRA PRADESH                                    , 28, Kurnool, 552, C.BELAGAL, 5157,brahmanadoddi, 204017, 15.82394, 77.738997, Brahmandoddi GP, 2,3458
+ANDHRA PRADESH                                    , 28, Kurnool, 552, C.BELAGAL, 5157,burandoddi, 204018, 15.817726, 77.674906, Burandoddi GP, 2,5542
+ANDHRA PRADESH                                    , 28, Kurnool, 552, C.BELAGAL, 5157,c.belagal, 204019, 15.817726, 77.674906, C.Belagal GP, 2,11164
+ANDHRA PRADESH                                    , 28, Kurnool, 552, C.BELAGAL, 5157,gundrevula, 204020, 15.879096, 77.700642, Gundrevula GP, 2,2044
+ANDHRA PRADESH                                    , 28, Kurnool, 552, C.BELAGAL, 5157,kambadahal, 204021, 15.828533, 77.619595, Kambadahal GP, 2,3420
+ANDHRA PRADESH                                    , 28, Kurnool, 552, C.BELAGAL, 5157,kondapuram, 204022, 15.865026, 77.669605, Kondapuram GP, 2,1305
+ANDHRA PRADESH                                    , 28, Kurnool, 552, C.BELAGAL, 5157,kothakota, 204023, 15.871861, 77.758894, Kothakota GP, 2,2524
+ANDHRA PRADESH                                    , 28, Kurnool, 552, C.BELAGAL, 5157,mudumala, 204024, 15.871861, 77.758894, Mudumala GP, 2,3306
+ANDHRA PRADESH                                    , 28, Kurnool, 552, C.BELAGAL, 5157,palukudoddi, 204025, 15.817726, 77.674906, Palukudoddi GP, 2,4121
+ANDHRA PRADESH                                    , 28, Kurnool, 552, C.BELAGAL, 5157,polakal, 204026, 15.82394, 77.738997, Polakal GP, 2,12208
+ANDHRA PRADESH                                    , 28, Kurnool, 552, C.BELAGAL, 5157,sangala, 204027, 15.865026, 77.669605, Sangala GP, 2,500
+ANDHRA PRADESH                                    , 28, Kurnool, 552, C.BELAGAL, 5157,yanagandla, 234532, 15.871558, 77.705212, Yanagandla GP, 2,5014
+ANDHRA PRADESH                                    , 28, Kurnool, 552, CHAGALAMARRI, 5158,brahmanapalle, 204028, 14.999305, 78.521574, BRAHMANAPALLE, 2,754
+ANDHRA PRADESH                                    , 28, Kurnool, 552, CHAGALAMARRI, 5158,chagalamarri, 204029, 14.965407, 78.590263, CHAGALAMARRI, 2,21289
+ANDHRA PRADESH                                    , 28, Kurnool, 552, CHAGALAMARRI, 5158,chinna bodhanam, 204030, 15.040403, 78.59512, CHINNA BODHANAM, 2,1314
+ANDHRA PRADESH                                    , 28, Kurnool, 552, CHAGALAMARRI, 5158,chinna vangali, 204031, 14.95325, 78.641753, CHINNA VANGALI, 2,2082
+ANDHRA PRADESH                                    , 28, Kurnool, 552, CHAGALAMARRI, 5158,chintala cheruvu, 204032, 14.966216, 78.591336, CHINTALA CHERUVU, 2,2289
+ANDHRA PRADESH                                    , 28, Kurnool, 552, CHAGALAMARRI, 5158,d. vanipenta, 204033, 15.039918, 78.599676, D. VANIPENTA, 2,2491
+ANDHRA PRADESH                                    , 28, Kurnool, 552, CHAGALAMARRI, 5158,godiganuru, 204034, 15.005421, 78.602661, GODIGANURU, 2,2323
+ANDHRA PRADESH                                    , 28, Kurnool, 552, CHAGALAMARRI, 5158,gotlur, 204035, 14.939736, 78.557523, GOTLUR, 2,125
+ANDHRA PRADESH                                    , 28, Kurnool, 552, CHAGALAMARRI, 5158,kalugotlapalle, 204036, 14.968145, 78.520385, KALUGOTLAPALLE, 2,841
+ANDHRA PRADESH                                    , 28, Kurnool, 552, CHAGALAMARRI, 5158,madduru, 204037, 14.986849, 78.544198, MADDURU, 2,1814
+ANDHRA PRADESH                                    , 28, Kurnool, 552, CHAGALAMARRI, 5158,mallavemula, 204038, 14.966216, 78.591336, MALLAVEMULA, 2,1131
+ANDHRA PRADESH                                    , 28, Kurnool, 552, CHAGALAMARRI, 5158,muthyalapadu, 204039, 15.040103, 78.599279, MUTHYALAPADU, 2,4818
+ANDHRA PRADESH                                    , 28, Kurnool, 552, CHAGALAMARRI, 5158,nelampadu, 204040, 14.968145, 78.520385, NELAMPADU, 2,1578
+ANDHRA PRADESH                                    , 28, Kurnool, 552, CHAGALAMARRI, 5158,pedda bodhanam, 204041, 15.043403, 78.548806, PEDDA BODHANAM, 2,1379
+ANDHRA PRADESH                                    , 28, Kurnool, 552, CHAGALAMARRI, 5158,pedda vangali, 204042, 14.971144, 78.634657, PEDDA VANGALI, 2,2024
+ANDHRA PRADESH                                    , 28, Kurnool, 552, CHAGALAMARRI, 5158,rampalle, 204043, 15.008516, 78.522863, RAMPALLE, 2,501
+ANDHRA PRADESH                                    , 28, Kurnool, 552, CHAGALAMARRI, 5158,settiveedu, 204044, 14.980819, 78.596429, SETTIVEEDU, 2,2294
+ANDHRA PRADESH                                    , 28, Kurnool, 552, CHAGALAMARRI, 5158,thodendlapalle, 204045, 15.040403, 78.59512, THODENDLAPALLE, 2,1312
+ANDHRA PRADESH                                    , 28, Kurnool, 552, CHIPPAGIRI, 5159,bantanahal, 204046, 15.178473, 77.297359, Bantanahal GP, 2,1455
+ANDHRA PRADESH                                    , 28, Kurnool, 552, CHIPPAGIRI, 5159,beladona, 204047, 15.260405, 77.28717, Beladona GP, 2,3058
+ANDHRA PRADESH                                    , 28, Kurnool, 552, CHIPPAGIRI, 5159,chippagiri, 204048, 15.22749, 77.316832, Chippagiri GP, 2,4805
+ANDHRA PRADESH                                    , 28, Kurnool, 552, CHIPPAGIRI, 5159,degalahal, 204049, 15.20842, 77.231448, Degalahal GP, 2,1964
+ANDHRA PRADESH                                    , 28, Kurnool, 552, CHIPPAGIRI, 5159,doulathapuram, 204050, 15.228379, 77.319318, Doulathapuram GP, 2,776
+ANDHRA PRADESH                                    , 28, Kurnool, 552, CHIPPAGIRI, 5159,gummanur, 204051, 15.184922, 77.236078, Gummanur GP, 2,1560
+ANDHRA PRADESH                                    , 28, Kurnool, 552, CHIPPAGIRI, 5159,khajipuram, 204052, 15.161206, 77.238614, Khajipuram GP, 2,835
+ANDHRA PRADESH                                    , 28, Kurnool, 552, CHIPPAGIRI, 5159,kundanagurthi, 204053, 15.247011, 77.303228, Kundanakurthy GP, 2,1713
+ANDHRA PRADESH                                    , 28, Kurnool, 552, CHIPPAGIRI, 5159,nagaradona, 204054, 15.301941, 77.267789, Nagaradona GP, 2,2789
+ANDHRA PRADESH                                    , 28, Kurnool, 552, CHIPPAGIRI, 5159,nemakal, 204055, 15.28268, 77.281375, Nemakal GP, 2,4810
+ANDHRA PRADESH                                    , 28, Kurnool, 552, CHIPPAGIRI, 5159,ramadurgam, 204056, 15.30797, 77.2655, Ramadurgam GP, 2,3925
+ANDHRA PRADESH                                    , 28, Kurnool, 552, CHIPPAGIRI, 5159,yerur, 204057, 15.204855, 77.276951, Yerur GP, 2,2476
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DEVANAKONDA, 5160,alarudinne, 204058, 15.540075, 77.546302, Alarudinne GP, 2,1631
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DEVANAKONDA, 5160,chellelichelimala, 204059, 15.477116, 77.651003, Chellelichelimala GP, 2,3942
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DEVANAKONDA, 5160,devanakonda, 204060, 15.540137, 77.546325, Devanakonda GP, 2,10493
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DEVANAKONDA, 5160,gundlakonda, 204061, 15.477094, 77.651006, Gundlakonda GP, 2,6504
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DEVANAKONDA, 5160,iranbanda, 204062, 15.623882, 77.630522, Iranbanda GP, 2,4011
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DEVANAKONDA, 5160,jilledubudakala, 204063, 15.589419, 77.633473, Jilledubakala GP, 2,1907
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DEVANAKONDA, 5160,k.venkatapuram, 204064, 15.543146, 77.589872, K.Venkatapuram GP, 2,6884
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DEVANAKONDA, 5160,kappatralla, 204065, 15.606601, 77.630589, Kappatralla GP, 2,4601
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DEVANAKONDA, 5160,karivemula, 204066, 15.595963, 77.597021, Karivemula GP, 2,3512
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DEVANAKONDA, 5160,kunkanur, 204067, 15.550859, 77.535604, Kunkanur GP, 2,3426
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DEVANAKONDA, 5160,machapuram, 204068, 15.65659, 77.716741, Machapuram GP, 2,3574
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DEVANAKONDA, 5160,nallachelimala, 204069, 15.47696, 77.650917, Nallachelimala GP, 2,4904
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DEVANAKONDA, 5160,nelathalamarri, 204070, 15.495088, 77.59971, Nethalamarri GP, 2,6973
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DEVANAKONDA, 5160,nellibanda, 204071, 15.607506, 77.630696, Nellibanda GP, 2,3995
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DEVANAKONDA, 5160,p.kotakonda, 204072, 15.592272, 77.705769, P.Kotakonda GP, 2,500
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DEVANAKONDA, 5160,palakurthy, 204073, 15.613701, 77.57107, Palakurthy GP, 2,3378
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DEVANAKONDA, 5160,palledoddi, 204074, 15.539656, 77.558995, Palledoddi GP, 2,5356
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DEVANAKONDA, 5160,potlapadu, 204075, 15.571165, 77.521518, Potlapadu GP, 2,2400
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DEVANAKONDA, 5160,ternekal, 204076, 15.638951, 77.53104, Ternekal GP, 2,8743
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DEVANAKONDA, 5160,velamakuru, 204077, 15.50765, 77.537474, Velamakuru, 2,4480
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DHONE, 5161,avuladoddi, 204078, 15.442906, 77.954942, AVULADODDI GP, 2,3287
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DHONE, 5161,chanugondla, 204079, 15.365763, 77.757679, CHANUGONDLA GP, 2,1952
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DHONE, 5161,chinna malkapuram, 204080, 15.368863, 77.963259, CHINNA MALKAPURAM GP, 2,1084
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DHONE, 5161,devarabanda, 204081, 15.314412, 77.800012, DEVARABANDA GP, 2,3399
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DHONE, 5161,dharmavaram, 204082, 15.364143, 77.882177, DHARMAVARAM GP, 2,10971
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DHONE, 5161,dorapalli, 204083, 15.396268, 77.871614, DORAPALLE GP, 2,5260
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DHONE, 5161,eddupenta, 204084, 15.363873, 77.759515, EDDUPENTA GP, 2,4639
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DHONE, 5161,gosanipalli, 204085, 15.375426, 77.875542, GOSANIPALLI GP, 2,1680
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DHONE, 5161,gummakonda, 204086, 15.477593, 77.825763, GUMMAKONDA GP, 2,5917
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DHONE, 5161,jagadurthi, 204087, 15.460397, 77.890916, JALADURTHI GP, 2,1262
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DHONE, 5161,kamaganikuntla, 204088, 15.424328, 77.916016, KAMAGANI GUNDLA GP, 2,4767
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DHONE, 5161,kamalapuram, 204089, 15.351101, 77.93341, KAMALAPURAM GP, 2,7010
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DHONE, 5161,kannepukunta, 204090, 15.346644, 77.903831, KANNEPUKUNTA GP, 2,6118
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DHONE, 5161,kocheruvu, 204091, 15.348333, 77.866061, KOCHERUVU GP, 2,3117
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DHONE, 5161,kotha buruju, 204092, 15.331974, 77.732213, KOTHABURUJU GP, 2,4453
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DHONE, 5161,kothakota, 204093, 15.281343, 77.77558, KOTHAKOTA GP, 2,2524
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DHONE, 5161,kotrai, 204094, 15.362775, 77.7238, KOTRAI GP, 2,2152
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DHONE, 5161,mallempalli, 204095, 15.404009, 77.848322, MALLEMPALLI GP, 2,1043
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DHONE, 5161,u. kothapalli, 204096, 15.428171, 77.882459, UDUMALAPADU GP, 2,4778
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DHONE, 5161,udumulapadu, 204097, 15.38058, 77.839584, U KOTHAPALLI GP, 2,2241
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DHONE, 5161,ungaranigundla, 204098, 15.365248, 77.829108, UNGARANIGUNDLA GP, 2,3995
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DHONE, 5161,venkatanayunipalli, 204099, 15.406108, 77.877444, VENKATANAYUNIPALLI GP, 2,829
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DHONE, 5161,venkatapuram, 204100, 15.400275, 77.854138, VENKATAPURAM GP, 2,423
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DHONE, 5161,yapadinne, 204101, 15.364526, 77.782998, YAPADINNE GP, 2,1604
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DHONE, 5161,yerraguntla, 204102, 15.383424, 77.931468, YERRAGUNTLA GP, 2,8584
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DORNIPADU, 5162,ammireddinagaram, 206904, 15.20629, 78.443089, AMMIREDDINAGR GP, 2,6991
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DORNIPADU, 5162,arjunapuram, 206905, 15.211852, 78.469005, ARJUNAPURAMGP, 2,763
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DORNIPADU, 5162,burrareddipalle, 206906, 15.204827, 78.447954, BURRADIPALLE GP, 2,1745
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DORNIPADU, 5162,chakarajuvemula, 206907, 15.211694, 78.445138, CHAKARAJUVMULA GP, 2,4578
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DORNIPADU, 5162,dornipadu, 206908, 15.20629, 78.443089, DORNIPADU GP, 2,740
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DORNIPADU, 5162,gundupapala, 206909, 15.26162, 78.405488, GUNDUPAPAL GP, 2,2262
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DORNIPADU, 5162,kondapuram, 206910, 15.229473, 78.47542, KONDAPURAM GP, 2,1305
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DORNIPADU, 5162,kristipadu, 206911, 15.213991, 78.382589, KRISTIPADU GP, 2,1929
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DORNIPADU, 5162,ramachandrapuram, 206912, 15.204827, 78.447954, RAMCHANDPURAM GP, 2,1272
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DORNIPADU, 5162,w.govindinne, 206913, 15.269711, 78.430213, W.GOVINDNEE GP, 2,5234
+ANDHRA PRADESH                                    , 28, Kurnool, 552, DORNIPADU, 5162,w.kothapalli, 206914, 15.211602, 78.445206, W.KOTHAPALLI GP, 2,4778
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GADIVEMULA, 5163,bilakala gudur, 204114, 15.679362, 78.422523, BILAKALA GUDUR GP, 2,4906
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GADIVEMULA, 5163,bujanur, 204115, 15.679362, 78.422523, BUJANUR GP, 2,2005
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GADIVEMULA, 5163,chindukuru, 204116, 15.668581, 78.43824, CHINDUKURU GP, 2,4825
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GADIVEMULA, 5163,durvesi, 204117, 15.577877, 78.441511, DURVASI GP, 2,2628
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GADIVEMULA, 5163,gadigarevula, 204118, 15.591899, 78.445037, GADIGAREVULA GP, 2,2044
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GADIVEMULA, 5163,gadivemula, 204119, 15.667931, 78.423018, GADIVEMULA GP, 2,6897
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GADIVEMULA, 5163,gani, 204120, 15.670059, 78.31458, GANI GP, 2,3448
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GADIVEMULA, 5163,k.bollavaram, 204122, 15.679362, 78.422523, K BOLLAVARAM GP, 2,3336
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GADIVEMULA, 5163,karimaddala, 204121, 15.652546, 78.485847, KARIMADDALA GP, 2,3881
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GADIVEMULA, 5163,koratamaddi, 204123, 15.59185, 78.442858, KORATAMADDI GP, 2,1861
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GADIVEMULA, 5163,korrapolur, 204124, 15.679201, 78.42325, KORRAPOLURU GP, 2,1209
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GADIVEMULA, 5163,laxmaiahkunta thanda, 204125, 15.664006, 78.315208, L K THANDA GP, 2,3995
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GADIVEMULA, 5163,manchalakatta, 204126, 15.680332, 78.346974, MANCHALA KATTA GP, 2,3357
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GADIVEMULA, 5163,ondutla, 204127, 15.601206, 78.33448, ONDUTLA GP, 2,2555
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GADIVEMULA, 5163,pesaravayi, 204128, 15.653904, 78.483749, PESARAVAYI GP, 2,3589
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GADIVEMULA, 5163,thirupadu, 204129, 15.616568, 78.443427, THIRPADU GP, 2,1094
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GONEGANDLA, 5164,alwala, 204130, 15.761519, 77.675211, Alwala GP, 2,6092
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GONEGANDLA, 5164,b. agraharam, 204131, 15.639192, 77.474502, B.Agraham GP, 2,2322
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GONEGANDLA, 5164,byluppala, 204132, 15.678221, 77.534476, Byluppala GP, 2,2939
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GONEGANDLA, 5164,chinnamarriveedu, 204133, 15.739268, 77.630685, Chinnamarriveedu GP, 2,4054
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GONEGANDLA, 5164,errabadu, 204134, 15.678594, 77.638753, Errabadu GP, 2,3399
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GONEGANDLA, 5164,gajuladinne, 204135, 15.711066, 77.613895, Gajuladinne GP, 2,599
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GONEGANDLA, 5164,ganjihalli, 204136, 15.711079, 77.594866, Ganjihalli GP, 2,4259
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GONEGANDLA, 5164,gonegandla, 204137, 15.711079, 77.594866, Gonegandla GP, 2,16691
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GONEGANDLA, 5164,handri khairawadi, 204138, 15.706682, 77.643765, Handrikhairavadi GP, 2,5917
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GONEGANDLA, 5164,iranbanda, 204139, 15.710493, 77.588625, Iranbanda GP, 2,4011
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GONEGANDLA, 5164,kulumala, 204140, 15.714356, 77.595373, Kulumala GP, 2,3382
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GONEGANDLA, 5164,kurnur, 204141, 15.658386, 77.720023, Kurnur GP, 2,2217
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GONEGANDLA, 5164,lingamdinne, 204142, 15.686049, 77.697736, Lingamdinne GP, 2,1230
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GONEGANDLA, 5164,neruduppala, 204143, 15.680429, 77.632521, Nerududinne GP, 2,2289
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GONEGANDLA, 5164,ontedudinne, 204144, 15.700003, 77.616599, Onteddudinne GP, 2,3592
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GONEGANDLA, 5164,pedda marriveedu, 204145, 15.766078, 77.622248, Peddamariveedu GP, 2,4054
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GONEGANDLA, 5164,pedda nelatur, 204146, 15.739268, 77.630685, Peddanelatur GP, 2,5832
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GONEGANDLA, 5164,puttapasam, 204147, 15.702629, 77.671052, Puttapasam GP, 2,5480
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GONEGANDLA, 5164,thippanur, 204148, 15.694148, 77.699355, Thippanur GP, 2,3566
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GONEGANDLA, 5164,vemugodu, 204149, 15.694148, 77.699355, Vemugodu GP, 2,23048
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GOSPADU, 5165,deebaguntla, 206951, 15.386762, 78.485298, DEEBAGUNTALA GP, 2,4610
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GOSPADU, 5165,gospadu, 206952, 15.357083, 78.417228, GOSAPADU GP, 2,4496
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GOSPADU, 5165,jillela, 206953, 15.356254, 78.417065, JILELLA GP, 2,5090
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GOSPADU, 5165,julepalle, 206954, 15.385665, 78.433475, JULEPALLE GP, 2,2395
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GOSPADU, 5165,kanalapalle, 206955, 15.38701, 78.501923, KANALAPALE GP, 2,2311
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GOSPADU, 5165,m.chintakunta, 206956, 15.39637, 78.437589, M.CHINTAKUNTALA GP, 2,1371
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GOSPADU, 5165,m.krishnapuram, 206957, 15.305647, 78.455139, M.KRISHNAPURAM GP, 2,1954
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GOSPADU, 5165,nehru nagar, 206958, 15.350933, 78.470187, NEHRU NAGAR GP, 2,2250
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GOSPADU, 5165,pasurapadu, 206959, 15.373613, 78.427751, PASURAPADU GP, 2,2233
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GOSPADU, 5165,rayapadu, 206960, 15.361067, 78.381596, RAYAPADU GP, 2,665
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GOSPADU, 5165,s.nagulavaram, 206961, 15.377409, 78.468102, S.NAGULAVARAM GP, 2,2742
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GOSPADU, 5165,sambavaram, 206962, 15.385995, 78.467689, SAMBAVARAM GP, 2,2813
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GOSPADU, 5165,tellapuri, 206963, 15.375122, 78.428924, TELLAPURI GP, 2,827
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GOSPADU, 5165,vantivelagala, 206964, 15.337663, 78.394624, VANTIVELAGALA GP, 2,992
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GOSPADU, 5165,yalluru, 206965, 15.305677, 78.455301, YALLURI GP, 2,8498
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GUDUR, 5166,budidapadu, 206966, 15.755732, 77.904395, BUDIDAPADU GP, 2,2530
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GUDUR, 5166,chanugondla, 206967, 15.731836, 77.778195, CHANUGONDLA GP, 2,1952
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GUDUR, 5166,gudipadu, 206968, 15.775066, 77.805143, GUDIPADU GP, 2,3255
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GUDUR, 5166,guduru, 888888, 15.776522, 77.805825, GUDURU GP, 2,4963
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GUDUR, 5166,julakallu, 206970, 15.809945, 77.766786, JULAKALLU GP, 2,640
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GUDUR, 5166,k.nagalapuram, 206971, 15.754536, 77.895534, K NAGULAPURAM GP, 2,2885
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GUDUR, 5166,mallapuram, 206972, 15.819051, 77.800766, MALLAPURAM GP, 2,848
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GUDUR, 5166,munagala, 206973, 15.819051, 77.800766, MUNAGALA GP, 2,907
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GUDUR, 5166,penchikalapadu, 206974, 15.755742, 77.904472, PENCHIKALAPADU GP, 2,2362
+ANDHRA PRADESH                                    , 28, Kurnool, 552, GUDUR, 5166,regadi khanapuram, 206975, 15.776522, 77.805825, REGADI KHANAPURAM GP, 2,977
+ANDHRA PRADESH                                    , 28, Kurnool, 552, HALAHARVI, 5167,bapuram, 204174, 15.335857, 77.124285, Bapuram GP, 2,564
+ANDHRA PRADESH                                    , 28, Kurnool, 552, HALAHARVI, 5167,bevinahal, 204175, 15.200037, 77.19098, Bavinahal GP, 2,714
+ANDHRA PRADESH                                    , 28, Kurnool, 552, HALAHARVI, 5167,bilehal, 204176, 15.40989, 77.140859, Bilehal GP, 2,2105
+ANDHRA PRADESH                                    , 28, Kurnool, 552, HALAHARVI, 5167,chinthakunta, 204177, 15.241094, 77.155256, Chintakunta GP, 2,1185
+ANDHRA PRADESH                                    , 28, Kurnool, 552, HALAHARVI, 5167,gulyam, 204178, 15.355462, 77.06874, Gulyam GP, 2,1052
+ANDHRA PRADESH                                    , 28, Kurnool, 552, HALAHARVI, 5167,halaharvi, 204179, 15.332669, 77.159044, Halaharvi GP, 2,723
+ANDHRA PRADESH                                    , 28, Kurnool, 552, HALAHARVI, 5167,hardagiri, 204180, 15.280198, 77.16684, Hardagiri GP, 2,1933
+ANDHRA PRADESH                                    , 28, Kurnool, 552, HALAHARVI, 5167,kaminhal, 204181, 15.269969, 77.165148, Kaminhal GP, 2,1448
+ANDHRA PRADESH                                    , 28, Kurnool, 552, HALAHARVI, 5167,kokkarachedu, 204182, 15.200051, 77.191011, Kokarchedu GP, 2,1756
+ANDHRA PRADESH                                    , 28, Kurnool, 552, HALAHARVI, 5167,mallikarjunapally, 204183, 15.199596, 77.192062, Mallikarjunapalli GP, 2,1043
+ANDHRA PRADESH                                    , 28, Kurnool, 552, HALAHARVI, 5167,medehal, 204184, 15.279381, 77.166692, Medehal GP, 2,1014
+ANDHRA PRADESH                                    , 28, Kurnool, 552, HALAHARVI, 5167,nitravatti, 204185, 15.382185, 77.125197, Nitravati GP, 2,2416
+ANDHRA PRADESH                                    , 28, Kurnool, 552, HALAHARVI, 5167,siddapuram, 204186, 15.394164, 77.049072, Siddapuram GP, 2,546
+ANDHRA PRADESH                                    , 28, Kurnool, 552, HALAHARVI, 5167,tsakibanda, 204187, 15.175976, 77.198641, T.Sakibanda GP, 2,1179
+ANDHRA PRADESH                                    , 28, Kurnool, 552, HALAHARVI, 5167,virupapuram, 204188, 15.382179, 77.125194, Virupapuram GP, 2,1290
+ANDHRA PRADESH                                    , 28, Kurnool, 552, HOLAGUNDA, 5168,chinnahyta, 204189, 15.4917, 77.04943, BJC Chinnahyta GP, 2,658
+ANDHRA PRADESH                                    , 28, Kurnool, 552, HOLAGUNDA, 5168,gajjehalli, 204190, 15.558559, 77.083752, Gajjehalli GP, 2,3909
+ANDHRA PRADESH                                    , 28, Kurnool, 552, HOLAGUNDA, 5168,hebbatam, 204191, 15.553338, 77.158849, Hebbatam GP, 2,3988
+ANDHRA PRADESH                                    , 28, Kurnool, 552, HOLAGUNDA, 5168,holagunda, 204192, 15.491752, 77.049407, Holagunda GP, 2,14593
+ANDHRA PRADESH                                    , 28, Kurnool, 552, HOLAGUNDA, 5168,honnur, 204193, 15.486514, 77.046395, Honnur GP, 2,348
+ANDHRA PRADESH                                    , 28, Kurnool, 552, HOLAGUNDA, 5168,ingaladahal, 204194, 15.592307, 77.145084, Ingadahal GP, 2,1866
+ANDHRA PRADESH                                    , 28, Kurnool, 552, HOLAGUNDA, 5168,kogilathota, 204195, 15.433496, 77.043289, Kogilathota GP, 2,1864
+ANDHRA PRADESH                                    , 28, Kurnool, 552, HOLAGUNDA, 5168,lingadahalli, 204196, 15.545855, 77.149158, Lingadahalli GP, 2,1830
+ANDHRA PRADESH                                    , 28, Kurnool, 552, HOLAGUNDA, 5168,maddi lingadahalli, 204197, 15.584381, 77.14961, Maddilingadahalli GP, 2,1189
+ANDHRA PRADESH                                    , 28, Kurnool, 552, HOLAGUNDA, 5168,marlamadiki, 204198, 15.496552, 76.977655, Marlamadiki GP, 2,1063
+ANDHRA PRADESH                                    , 28, Kurnool, 552, HOLAGUNDA, 5168,neraniki, 204199, 15.479461, 77.125479, Neraniki GP, 2,3995
+ANDHRA PRADESH                                    , 28, Kurnool, 552, HOLAGUNDA, 5168,neraniki thanda, 204200, 15.468047, 77.154351, Neranikithanda GP, 2,3995
+ANDHRA PRADESH                                    , 28, Kurnool, 552, HOLAGUNDA, 5168,pedda gonehal, 204201, 15.576247, 77.149816, Pedddagonehal GP, 2,1358
+ANDHRA PRADESH                                    , 28, Kurnool, 552, HOLAGUNDA, 5168,sammathagiri, 204202, 15.486449, 77.046762, Sammathagiri GP, 2,403
+ANDHRA PRADESH                                    , 28, Kurnool, 552, HOLAGUNDA, 5168,suluvoy, 204203, 15.450194, 77.083788, Suluvoy GP, 2,2620
+ANDHRA PRADESH                                    , 28, Kurnool, 552, HOLAGUNDA, 5168,vandavagali, 204204, 15.528872, 77.107249, Vandanagali GP, 2,3599
+ANDHRA PRADESH                                    , 28, Kurnool, 552, HOLAGUNDA, 5168,yellarthy, 204205, 15.484017, 77.086589, Yellarthy GP, 2,2603
+ANDHRA PRADESH                                    , 28, Kurnool, 552, JUPADU BUNGALOW, 5169,80 bannur, 204206, 15.868595, 78.391801, 80 Bannuru GP, 2,9099
+ANDHRA PRADESH                                    , 28, Kurnool, 552, JUPADU BUNGALOW, 5169,bhaskarapuram, 204207, 15.860136, 78.325939, Bhaskarpuram GP, 2,500
+ANDHRA PRADESH                                    , 28, Kurnool, 552, JUPADU BUNGALOW, 5169,jupadu bungalow, 204208, 15.873441, 78.389676, Jupadubanglow GP, 2,1189
+ANDHRA PRADESH                                    , 28, Kurnool, 552, JUPADU BUNGALOW, 5169,mandiem, 204210, 15.860136, 78.325939, Mandlem GP, 2,5221
+ANDHRA PRADESH                                    , 28, Kurnool, 552, JUPADU BUNGALOW, 5169,p.gangapuram, 204212, 15.868595, 78.391801, P.Ganapuram GP, 2,1332
+ANDHRA PRADESH                                    , 28, Kurnool, 552, JUPADU BUNGALOW, 5169,p.lingapuram, 204211, 15.890575, 78.57774, P.LINGAPURAM, 2,1238
+ANDHRA PRADESH                                    , 28, Kurnool, 552, JUPADU BUNGALOW, 5169,parumanchala, 204209, 15.798228, 78.389597, PARUMANCHALA, 2,5171
+ANDHRA PRADESH                                    , 28, Kurnool, 552, JUPADU BUNGALOW, 5169,tangadancha, 204213, 15.838911, 78.415824, TANGADANCHA, 2,2532
+ANDHRA PRADESH                                    , 28, Kurnool, 552, JUPADU BUNGALOW, 5169,tarigopula, 204214, 15.865298, 78.414286, TARIGOPULA, 2,3394
+ANDHRA PRADESH                                    , 28, Kurnool, 552, JUPADU BUNGALOW, 5169,tartur, 204215, 15.859776, 78.322531, TARTUR, 2,2007
+ANDHRA PRADESH                                    , 28, Kurnool, 552, JUPADU BUNGALOW, 5169,tatipadu, 204216, 15.866492, 78.386071, TATIPADU, 2,4063
+ANDHRA PRADESH                                    , 28, Kurnool, 552, JUPADU BUNGALOW, 5169,thudicherla, 204217, 15.764057, 78.450739, THUDICHERLA, 2,3609
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KALLUR, 5170,a.gokulapadu, 207020, 15.773432, 77.93733, A.GOKULAPADU GP, 2,2468
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KALLUR, 5170,bastipadu, 207021, 15.715561, 77.996817, BASTIPADU GP, 2,3429
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KALLUR, 5170,bollavaram, 207022, 15.712796, 77.969894, BOLLAVARAM GP, 2,2210
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KALLUR, 5170,chetla mallapuram, 207023, 15.710214, 77.995405, CHETLAMALLAPURAM GP, 2,995
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KALLUR, 5170,chinna tekur, 207024, 15.715561, 77.996817, CHINNATEKUR GP, 2,3783
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KALLUR, 5170,k.markapuram, 207025, 15.744136, 77.941185, K.MARKAPURAM GP, 2,1574
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KALLUR, 5170,konganapadu, 207026, 15.666446, 77.94035, KONGANAPADU GP, 2,2663
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KALLUR, 5170,laxmipuram, 207027, 15.755354, 77.997458, LAXMIPURAM GP, 2,4017
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KALLUR, 5170,nayakallu, 207028, 15.67399, 77.973657, NAYAKALLU GP, 2,1580
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KALLUR, 5170,nerawada, 207029, 15.78606, 77.95605, NERAWADA GP, 2,1655
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KALLUR, 5170,pandipadu, 207030, 15.792927, 78.017919, PANDIPADU GP, 2,500
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KALLUR, 5170,parla, 207031, 15.746525, 77.935573, PARLA GP, 2,5587
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KALLUR, 5170,peddakottala, 207032, 15.71391, 77.967776, PEDDAKOTTALA GP, 2,737
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KALLUR, 5170,peddapadu, 207033, 15.793165, 77.967127, PEDDAPADU GP, 2,500
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KALLUR, 5170,peddatekur, 207034, 15.715551, 77.996788, PEDDATEKKUR GP, 2,3984
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KALLUR, 5170,pusulur, 207035, 15.690115, 77.949918, PUSULUR GP, 2,2139
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KALLUR, 5170,remadur, 207036, 15.674153, 77.933345, REMADUR GP, 2,1164
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KALLUR, 5170,salkapuram, 207037, 15.776415, 77.941696, SALAKAPURAM GP, 2,2138
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KALLUR, 5170,thadakanapalle, 207038, 15.717683, 77.999689, THADAKANPALLE GP, 2,3312
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KALLUR, 5170,ulindakonda, 207039, 15.67243, 77.979632, ULINDAKONDA GP, 2,6504
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KALLUR, 5170,yaparlapadu, 207040, 15.646651, 77.97127, YAPARLAPADU GP, 2,720
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KODUMUR, 5171,amadaguntla, 204239, 15.670784, 77.878619, Amadaguntla GP, 2,2953
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KODUMUR, 5171,anugonda, 204240, 15.632021, 77.892095, Anugonda GP, 2,2961
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KODUMUR, 5171,gorantla, 204241, 15.674701, 77.824359, Gorantla GP, 2,5529
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KODUMUR, 5171,kallaparri, 204242, 15.729121, 77.711019, Kallaparri GP, 2,9926
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KODUMUR, 5171,kodumur, 204243, 15.688267, 77.773793, Kodumur GP, 2,4340
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KODUMUR, 5171,krishnapuram, 204244, 15.683457, 77.767535, Krishnapuram GP, 2,2141
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KODUMUR, 5171,laddagiri, 204245, 15.63255, 77.834394, Laddagiri GP, 2,6580
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KODUMUR, 5171,mudumalagurthy, 204246, 15.674701, 77.824359, Mudumalagurthy GP, 2,3306
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KODUMUR, 5171,pulakurthy, 204247, 15.729121, 77.711019, Pulakurthy GP, 2,7176
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KODUMUR, 5171,pyalakurthy, 204248, 15.722949, 77.818428, Pyalakurthy GP, 2,7176
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KODUMUR, 5171,varkur, 204249, 15.689642, 77.741987, Varkur GP, 2,5378
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KODUMUR, 5171,venkatagiri, 204250, 15.714681, 77.813292, Venkatagiri GP, 2,28828
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KODUMUR, 5171,yerradoddi, 204251, 15.671146, 77.902264, Yerradoddi GP, 2,1957
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOILAKUNTLA, 5172,amadala, 207054, 15.23637, 78.299737, AMADALA GP, 2,1668
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOILAKUNTLA, 5172,bheemunipadu, 207055, 15.203819, 78.372159, BHEEMUNIPADU GP, 2,2311
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOILAKUNTLA, 5172,bijinavemula, 207056, 15.251303, 78.294672, BIJINAVEMULA GP, 2,1844
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOILAKUNTLA, 5172,chinna kopperla, 207057, 15.304466, 78.333815, VALLAMPADU GP, 2,994
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOILAKUNTLA, 5172,gulladurthi, 207058, 15.164495, 78.346831, GULLADUR.GP, 2,3528
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOILAKUNTLA, 5172,gunjalapadu, 207059, 15.228198, 78.317287, GUNJALAPADU GP, 2,2154
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOILAKUNTLA, 5172,joladarasi, 207060, 15.252787, 78.336979, JOLADARSI GP, 2,1375
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOILAKUNTLA, 5172,kalugotla, 207061, 15.284152, 78.350524, KALUGOTLA GP, 2,3209
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOILAKUNTLA, 5172,kampamalla, 207062, 15.202568, 78.373333, KAMPAMALLA GP, 2,1563
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOILAKUNTLA, 5172,koilkuntla, 207063, 15.231527, 78.321616, KOILKUNTLA GP, 2,23859
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOILAKUNTLA, 5172,lingala, 207064, 15.323325, 78.383997, LINGALA GP, 2,958
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOILAKUNTLA, 5172,pedda kopperla, 207065, 15.295715, 78.328521, CHINNA.KO.GP, 2,797
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOILAKUNTLA, 5172,pottipadu, 207066, 15.194928, 78.365967, POTTIPADU GP, 2,740
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOILAKUNTLA, 5172,revanur, 207067, 15.303758, 78.368437, REAVANUR GP, 2,249
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOILAKUNTLA, 5172,souderdinne, 207068, 15.231477, 78.32135, SOUDERD.GP, 2,1542
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOILAKUNTLA, 5172,vallampadu, 207069, 15.323545, 78.373924, VALLAMPADU GP, 2,846
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOILAKUNTLA, 5172,velagatur, 207070, 15.256129, 78.298398, VELAGATUR GP, 2,760
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOLIMIGUNDLA, 5173,abdullapuram, 207071, 15.019351, 78.105206, ABDULLAPURAM GP, 2,669
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOLIMIGUNDLA, 5173,ankireddipalli, 207072, 15.025887, 78.047198, ANKIREDDIPALLI GP, 2,5260
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOLIMIGUNDLA, 5173,b. uppalur, 207073, 15.028923, 78.167839, B UPPALUR GP, 2,1437
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOLIMIGUNDLA, 5173,bandarlapalle, 207074, 15.009675, 78.032655, BANDARAPALLI GP, 2,4622
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOLIMIGUNDLA, 5173,belum, 207075, 15.112981, 78.121715, BELUM GP, 2,3614
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOLIMIGUNDLA, 5173,belumsingavaram, 207076, 15.113065, 78.121877, B SINGABARM GP, 2,1295
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOLIMIGUNDLA, 5173,chintalayapalle, 207077, 15.019351, 78.105206, CHINTALAYAPALLI GP, 2,296
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOLIMIGUNDLA, 5173,erragudi, 207078, 15.013283, 78.185337, ERRAGUDI GP, 2,1191
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOLIMIGUNDLA, 5173,gorvimanupalle, 207079, 15.08507, 78.063316, GORVIMANUPALLE GP, 2,829
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOLIMIGUNDLA, 5173,itikala, 207080, 15.052481, 78.09127, ITIKALA, 2,4238
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOLIMIGUNDLA, 5173,kalvatala, 207081, 15.068336, 78.105019, KALVATLA GP, 2,1117
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOLIMIGUNDLA, 5173,kammavaripalli, 207082, 15.05483, 78.198147, KAMMAVARIPALLI GP, 2,5450
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOLIMIGUNDLA, 5173,kanakadri palli, 207083, 15.042269, 78.07261, KANKADRIPALLI GP, 2,1680
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOLIMIGUNDLA, 5173,kolimigundla, 207084, 15.075014, 78.108331, KOLIMIGUNTLA GP, 2,4844
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOLIMIGUNDLA, 5173,kotapadu, 207085, 15.05384, 78.202185, KOTAPADU GP, 2,1558
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOLIMIGUNDLA, 5173,mirjapuram, 207086, 15.078407, 78.110111, MIRJAPURAM GP, 2,849
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOLIMIGUNDLA, 5173,nandipadu, 207087, 15.057948, 78.141082, NANDIPADU GP, 2,1633
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOLIMIGUNDLA, 5173,peddaventhurla, 207088, 15.037765, 78.236258, PEDDAVENTHURLA GP, 2,1918
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOLIMIGUNDLA, 5173,petnikota, 207089, 15.078322, 78.110166, PETNIKOTA GP, 2,6581
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOLIMIGUNDLA, 5173,thimmanayunipeta, 207090, 15.022368, 78.1629, THIMMAYUNIPETA GP, 2,2026
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOLIMIGUNDLA, 5173,thollamadugu, 207091, 15.002063, 78.104923, THOLLAMADUGU GP, 2,1456
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOLIMIGUNDLA, 5173,thummalapenta, 207092, 15.012508, 78.036009, THUMALAPENTA GP, 2,12373
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOSIGI, 5174,agasanur, 204291, 15.948001, 77.20716, Agasanur GP, 2,2023
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOSIGI, 5174,arlabanda, 204292, 15.90284, 77.169412, Arlabanda GP, 2,500
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOSIGI, 5174,chintakunta, 204294, 15.854554, 77.239863, Chintakunta GP, 2,500
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOSIGI, 5174,chirthanakal, 204295, 15.903328, 77.249136, Chirthanakal GP, 2,1349
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOSIGI, 5174,d. belagal, 204293, 15.844713, 77.310036, D.Belagal GP, 2,4417
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOSIGI, 5174,duddi, 204296, 15.87646, 77.206771, Duddi GP, 2,3933
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOSIGI, 5174,irangal, 204297, 15.903792, 77.250557, Irangal GP, 2,1417
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOSIGI, 5174,jampapuram, 204298, 15.887659, 77.247498, Jampapuram GP, 2,3119
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOSIGI, 5174,jumaladinne, 204299, 15.847739, 77.229828, Jumaladinne GP, 2,599
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOSIGI, 5174,kamandoddi, 204300, 15.900837, 77.172951, Kamandoddi GP, 2,1638
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOSIGI, 5174,kandukur, 204301, 15.923102, 77.173649, Kandukur GP, 2,2046
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOSIGI, 5174,kosigi, 204302, 15.854311, 77.239959, Kosigi GP, 2,481
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOSIGI, 5174,pallipadu, 204303, 15.848604, 77.283522, Pallipadu GP, 2,2534
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOSIGI, 5174,pedda bompalle, 204304, 15.869528, 77.303443, Peddabompalle GP, 2,3686
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOSIGI, 5174,sajjalaguddam, 204305, 15.857517, 77.23568, Sajjalagudem GP, 2,500
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOSIGI, 5174,sathanur, 204306, 15.94987, 77.226534, Sathanur GP, 2,551
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOSIGI, 5174,vandagallu, 204307, 15.857517, 77.23568, Vandagallu GP, 2,766
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOTHAPALLE, 5175,dudyala, 204308, 15.901505, 78.563753, Dudyala GP, 2,4178
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOTHAPALLE, 5175,edurupadu, 204309, 15.936965, 78.504318, Edurupadu GP, 2,1779
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOTHAPALLE, 5175,erramatam, 204310, 15.986676, 78.442682, Erramatam GP, 2,1849
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOTHAPALLE, 5175,gokavaram, 204312, 15.946445, 78.545349, Gokavaram GP, 2,255
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOTHAPALLE, 5175,gummadapuram, 204313, 15.976649, 78.462974, Gummadapuram GP, 2,2288
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOTHAPALLE, 5175,guvvalakuntla, 204314, 15.942856, 78.562895, Guvvalakuntla GP, 2,2940
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOTHAPALLE, 5175,kokkerancha, 204315, 15.924677, 78.477621, Kokkerancha GP, 2,2224
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOTHAPALLE, 5175,kothapalle, 204316, 15.946469, 78.545312, Kothapalli GP, 2,3635
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOTHAPALLE, 5175,musalimadugu, 204317, 15.986676, 78.442682, Musalimadugu GP, 2,2052
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOTHAPALLE, 5175,nandikunta, 204318, 15.903058, 78.561944, Nandikunta GP, 2,1713
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOTHAPALLE, 5175,sivapuram, 204319, 15.986696, 78.520937, Sivapuram GP, 2,2395
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOTHAPALLE, 5175,veerapuram, 204311, 15.934145, 78.546368, Veerapuram GP, 2,4157
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOWTHALAM, 5176,badinehal, 204320, 15.71606, 77.154659, Badinehal GP, 2,4986
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOWTHALAM, 5176,bapuram, 204321, 15.789465, 77.083963, Bapuram GP, 2,564
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOWTHALAM, 5176,chirtapalle, 204322, 15.804194, 77.174115, Chirtapalle GP, 2,2307
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOWTHALAM, 5176,chudi, 204323, 15.825224, 77.117763, Chudi GP, 2,1017
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOWTHALAM, 5176,gothuladoddi, 204324, 15.88461, 77.123935, Gothuladoddi GP, 2,1656
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOWTHALAM, 5176,gudikambali, 204325, 15.908674, 77.123662, Gudikambali GP, 2,1782
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOWTHALAM, 5176,halvi, 204326, 15.884706, 77.123493, Halvi GP, 2,5114
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOWTHALAM, 5176,kamavaram, 204327, 15.740017, 77.199802, Kamavaram GP, 2,3862
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOWTHALAM, 5176,katriki, 204328, 15.840022, 77.086088, Katriki GP, 2,2045
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOWTHALAM, 5176,kowthalam, 204329, 15.769857, 77.141235, Kowthalam GP, 2,11670
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOWTHALAM, 5176,kumbalanur, 204330, 15.886697, 77.114933, Kumbalanur GP, 2,1823
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOWTHALAM, 5176,kuntanahal, 204331, 15.702048, 77.116779, Kuntanahal GP, 2,3129
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOWTHALAM, 5176,lingaladinne, 204332, 15.841161, 77.080694, Lingaladinne GP, 2,1397
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOWTHALAM, 5176,mallanahatti, 204333, 15.825823, 77.169605, Mullanahatti GP, 2,1285
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOWTHALAM, 5176,nadichagi, 204334, 15.841176, 77.080663, Nadichagi GP, 2,591
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOWTHALAM, 5176,podalakunta, 204335, 15.844411, 77.114414, Podalakunta GP, 2,729
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOWTHALAM, 5176,rowdur, 204336, 15.779203, 77.093988, Rowdur GP, 2,2407
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOWTHALAM, 5176,sulakeri, 204337, 15.843034, 77.114579, Sulakei GP, 2,1083
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOWTHALAM, 5176,thovi, 204338, 15.732553, 77.203866, Thovi GP, 2,2057
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOWTHALAM, 5176,upparahal, 204339, 15.722399, 77.10972, Upparhal GP, 2,2871
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOWTHALAM, 5176,urukunda, 204340, 15.77166, 77.190384, Urukunda GP, 2,500
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOWTHALAM, 5176,valluru, 204341, 15.884737, 77.123963, Vallur GP, 2,1923
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KOWTHALAM, 5176,yerigiri, 204342, 15.735701, 77.203928, Yerigiri GP, 2,4062
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KRISHNAGIRI, 5177,agaveli, 207145, 15.602107, 77.767169, AGAVELI GP, 2,1380
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KRISHNAGIRI, 5177,alamkonda, 207146, 15.469555, 77.765641, ALAMKONDA GP, 2,3187
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KRISHNAGIRI, 5177,amakathadu, 207147, 15.508037, 77.811479, AMAKATHADU GP, 2,5126
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KRISHNAGIRI, 5177,chityala, 207148, 15.469602, 77.767186, CHITYALA GP, 2,4578
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KRISHNAGIRI, 5177,chunchu yerragudi, 207149, 15.572459, 77.745282, CHU.YERRAGUDI GP, 2,3191
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KRISHNAGIRI, 5177,kambalapadu, 207150, 15.508425, 77.81147, KAMBALAPADU GP, 2,5101
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KRISHNAGIRI, 5177,katarikonda, 207151, 15.439244, 77.736051, KATARIKONDA GP, 2,3245
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KRISHNAGIRI, 5177,koilkonda, 207152, 15.469602, 77.767186, KOILKONDA GP, 2,5269
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KRISHNAGIRI, 5177,krishnagiri, 207153, 15.55362, 77.830144, KRISHNAGIRI GP, 2,647
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KRISHNAGIRI, 5177,lakkasagaram, 207154, 15.505961, 77.747165, LAKKASAGARAM GP, 2,3243
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KRISHNAGIRI, 5177,pothugal, 207155, 15.604954, 77.767771, POTHUGAL GP, 2,2910
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KRISHNAGIRI, 5177,sho. yerragudi, 207156, 15.553208, 77.829651, SHO.YERRAGUDI GP, 2,2060
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KRISHNAGIRI, 5177,tallagokulapadu, 207157, 15.576333, 77.844463, TALLAGOKULAPADU GP, 2,2468
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KRISHNAGIRI, 5177,thogarchedu, 207158, 15.57533, 77.863005, THOGARCHEDU GP, 2,1390
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KRISHNAGIRI, 5177,yerukalacheruvu, 207159, 15.555415, 77.831393, YERUKALACHERVU GP, 2,3117
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KURNOOL, 5178,b.thandrapadu, 888888, 15.774305, 78.059097, B.Thandrapadu GP, 2,500
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KURNOOL, 5178,basavapuram, 204359, 15.83278, 77.919053, Basavapuram GP, 2,1914
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KURNOOL, 5178,devamada, 204360, 15.828058, 78.065814, Devamada GP, 2,1140
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KURNOOL, 5178,diguvapadu, 204361, 15.779244, 78.148108, Diguvapadu GP, 2,1673
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KURNOOL, 5178,dinnedevarapadu, 888888, 15.775925, 78.036279, Dinnedevarapadu GP, 2,500
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KURNOOL, 5178,e.thandrapadu, 204363, 15.864327, 78.019606, E.Thandrapadu GP, 2,6698
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KURNOOL, 5178,edurur, 204364, 15.877799, 77.940493, Edurur GP, 2,1382
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KURNOOL, 5178,g.singavaram, 204365, 15.870442, 77.982754, G.Singavaram GP, 2,3352
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KURNOOL, 5178,gargeyapuram, 204366, 15.792135, 78.100046, Gargeyapuram GP, 2,7561
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KURNOOL, 5178,gondiparla, 204367, 15.846651, 78.056604, Gondiparla GP, 2,4566
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KURNOOL, 5178,mamidalapadu, 204368, 15.856116, 78.006705, Mamidalapadu GP, 2,5101
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KURNOOL, 5178,munagalapadu, 204369, 15.856065, 78.006755, Munagalapadu GP, 2,4818
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KURNOOL, 5178,nandanapalli, 204370, 15.795271, 78.085713, Nandanapalli GP, 2,3237
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KURNOOL, 5178,nidzur, 204371, 15.858852, 78.001141, Nidzur GP, 2,3126
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KURNOOL, 5178,p.rudravaram, 204372, 15.77489, 78.078, P.Rudravaram GP, 2,7150
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KURNOOL, 5178,padidampadu, 204373, 15.796133, 78.084046, Padidampadu GP, 2,9500
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KURNOOL, 5178,panchalingala, 204374, 15.856116, 78.006705, Panchalingala GP, 2,5489
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KURNOOL, 5178,pasupula, 204375, 15.774305, 78.059097, Pasupala GP, 2,3524
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KURNOOL, 5178,pudur, 204376, 15.81081, 78.094106, Pudur GP, 2,1103
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KURNOOL, 5178,r.k.dudyala, 234533, 15.871298, 77.901739, R.K.Dudyala GP, 2,4464
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KURNOOL, 5178,r.konthalapadu, 204377, 15.871456, 77.874309, R.Konthalapadu GP, 2,1071
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KURNOOL, 5178,remata, 204378, 15.832798, 77.923601, Remata GP, 2,4188
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KURNOOL, 5178,sivaramapuram, 204379, 15.779044, 78.147804, Sivarampuram GP, 2,3427
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KURNOOL, 5178,stantanpuram, 204380, 15.840511, 78.01269, Stantanpuram GP, 2,613
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KURNOOL, 5178,sunkesula, 204381, 15.876216, 77.85608, Sunkesula GP, 2,1969
+ANDHRA PRADESH                                    , 28, Kurnool, 552, KURNOOL, 5178,ulchala, 204382, 15.831911, 77.922803, Ulchala GP, 2,6610
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MADDIKERA (EAST), 5179,basinepalli, 204383, 15.287819, 77.501004, BASINEPALLI GP, 2,5260
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MADDIKERA (EAST), 5179,burujula, 204384, 15.334251, 77.445809, BURUJULA GP, 2,1852
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MADDIKERA (EAST), 5179,hampa, 204385, 15.278681, 77.467883, HAMPA GP, 2,5182
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MADDIKERA (EAST), 5179,maddikera agraharam, 204387, 15.265675, 77.43349, M.AGRAHARAM GP, 2,5152
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MADDIKERA (EAST), 5179,maddikera east, 204386, 15.25285, 77.413244, MADDIKERA EAST GP, 2,5152
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MADDIKERA (EAST), 5179,peravali, 204388, 15.28609, 77.498994, PERAVALLI GP, 2,8166
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MADDIKERA (EAST), 5179,yedavali, 204389, 15.261808, 77.436589, YADAVALLI GP, 2,1154
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MAHANANDI, 5180,abbipuram, 204390, 15.491054, 78.571873, ABBIPURAM, 2,5442
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MAHANANDI, 5180,bukkapuram, 204391, 15.478713, 78.564235, BUKKAPURAM, 2,4129
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MAHANANDI, 5180,gajulapalle, 204392, 15.405714, 78.616636, GAJULAPALLE, 2,471
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MAHANANDI, 5180,gopavaram, 204393, 15.429392, 78.572294, GOPAVARAM, 2,4862
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MAHANANDI, 5180,mahanandi, 204394, 15.471268, 78.624154, MAHANANDI, 2,7508
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MAHANANDI, 5180,maseedupuram, 204395, 15.437548, 78.552092, MASEEDUPURAM, 2,2101
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MAHANANDI, 5180,nandipalle, 204396, 15.474797, 78.548507, NANDIPALLE, 2,829
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MAHANANDI, 5180,seetharampuram, 204397, 15.438835, 78.551728, SEETHARAMPURAM, 2,2852
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MAHANANDI, 5180,thammadapalle, 204398, 15.476706, 78.564357, THAMMADAPALLE, 2,160
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MAHANANDI, 5180,thimmapuram, 204399, 15.491968, 78.571563, THIMMAPURAM, 2,947
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MAHANANDI, 5180,u.bollavaram, 204400, 15.473944, 78.553571, U.BOLLAVARAM, 2,3336
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MANTRALAYAM, 5181,basapuram 52, 204401, 15.93567, 77.306197, Basapuram GP, 2,1950
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MANTRALAYAM, 5181,budur, 204402, 15.899874, 77.387099, Budur GP, 2,2805
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MANTRALAYAM, 5181,chetnihalli, 204403, 15.930143, 77.388285, Chetnihalli GP, 2,2904
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MANTRALAYAM, 5181,chilakaladona, 204404, 15.868991, 77.428846, Chilakaladona GP, 2,4061
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MANTRALAYAM, 5181,kachapuram, 204405, 15.948205, 77.301249, Kachapuram GP, 2,3305
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MANTRALAYAM, 5181,kaggallu, 204406, 15.935645, 77.305865, Kaggallu GP, 2,1207
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MANTRALAYAM, 5181,kalludevakunta, 204407, 15.90354, 77.421809, Kalludevakunta GP, 2,1638
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MANTRALAYAM, 5181,madhavaram, 204408, 15.935808, 77.355344, Madhavaram GP, 2,2825
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MANTRALAYAM, 5181,malapalle, 204409, 15.832781, 77.32454, Malapalle GP, 2,2408
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MANTRALAYAM, 5181,manchala (mantralayam), 204410, 15.943506, 77.424979, Mantralayam GP, 2,10613
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MANTRALAYAM, 5181,paramandoddi, 204411, 15.832555, 77.324348, Paramandoddi GP, 2,586
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MANTRALAYAM, 5181,rachumarri, 204412, 15.896882, 77.346562, Rachumarri GP, 2,5405
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MANTRALAYAM, 5181,rampuram, 204413, 15.943921, 77.319254, Rampuram GP, 2,2642
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MANTRALAYAM, 5181,sugur, 204414, 15.896443, 77.347818, Sugur GP, 2,3936
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MANTRALAYAM, 5181,sunkeswari, 204415, 15.854224, 77.333354, Sunkeswari GP, 2,2906
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MANTRALAYAM, 5181,v.thimmapuram, 204416, 15.870278, 77.390211, V.Thimmapuram GP, 2,5769
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MANTRALAYAM, 5181,vagaruru, 204417, 15.846088, 77.38026, Vagaruru GP, 2,4480
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MIDTHUR, 5182,bannur, 204418, 15.72685, 78.260155, BANNUR GP, 2,9099
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MIDTHUR, 5182,byrapuram, 204420, 15.780664, 78.331421, BYRAPURAM GP, 2,976
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MIDTHUR, 5182,cherukucherla, 204421, 15.753563, 78.330158, CHERUKU CHERLA GP, 2,2236
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MIDTHUR, 5182,chintalapalle, 204422, 15.769124, 78.292469, CHINTALA PALLE GP, 2,2344
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MIDTHUR, 5182,chowtakur, 204423, 15.785356, 78.33373, CHOWTUKUR GP, 2,2682
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MIDTHUR, 5182,devanur, 204424, 15.739955, 78.287035, DEVANUR GP, 2,2230
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MIDTHUR, 5182,jalakanur, 204425, 15.746937, 78.341841, JALAKANUR GP, 2,1889
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MIDTHUR, 5182,kadumur, 204426, 15.758802, 78.228095, KADUMUR GP, 2,4340
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MIDTHUR, 5182,masapeta, 204427, 15.755216, 78.202143, MASAPETA GP, 2,2855
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MIDTHUR, 5182,midthur, 204428, 15.769124, 78.292469, MIDTHUR GP, 2,6996
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MIDTHUR, 5182,nagalooty, 204429, 15.786736, 78.227134, NAGALOOTY GP, 2,2570
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MIDTHUR, 5182,paipalem, 204430, 15.75941, 78.228918, PAIPALEM GP, 2,6156
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MIDTHUR, 5182,peersabpeta, 204431, 15.767856, 78.27727, PEERSAB PETAGP, 2,1428
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MIDTHUR, 5182,rollapadu, 204432, 15.746937, 78.341841, ROLLAPADU GP, 2,1190
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MIDTHUR, 5182,sunkesula, 204433, 15.756872, 78.315812, SUNKESULA GP, 2,1969
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MIDTHUR, 5182,talamudipi, 204434, 15.736688, 78.363252, TALAMUDIPI GP, 2,3957
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MIDTHUR, 5182,thalaganur, 204419, 15.736688, 78.363252, ALAGANUR GP, 2,1627
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MIDTHUR, 5182,thimmapuram, 204435, 15.785356, 78.33373, THIMMAPURAM GP, 2,947
+ANDHRA PRADESH                                    , 28, Kurnool, 552, MIDTHUR, 5182,veepanagandla, 204436, 15.772732, 78.290688, VEEPANAGANDLA GP, 2,2466
+ANDHRA PRADESH                                    , 28, Kurnool, 552, NANDAVARAM, 5183,gurujala, 204437, 15.915399, 77.565252, Gurujala GP, 2,971
+ANDHRA PRADESH                                    , 28, Kurnool, 552, NANDAVARAM, 5183,halaharvi, 204438, 15.827816, 77.449045, Halaharvi GP, 2,723
+ANDHRA PRADESH                                    , 28, Kurnool, 552, NANDAVARAM, 5183,ibrahimpuram, 204439, 15.876905, 77.462586, Ibrahimpuram GP, 2,3196
+ANDHRA PRADESH                                    , 28, Kurnool, 552, NANDAVARAM, 5183,kanakaveedu, 204440, 15.857443, 77.513397, Kanakaveedu GP, 2,6531
+ANDHRA PRADESH                                    , 28, Kurnool, 552, NANDAVARAM, 5183,machapuram, 204441, 15.853306, 77.484677, Machapuram GP, 2,3574
+ANDHRA PRADESH                                    , 28, Kurnool, 552, NANDAVARAM, 5183,mittasompuram, 204442, 15.862733, 77.614137, Mittasomapuram GP, 2,1573
+ANDHRA PRADESH                                    , 28, Kurnool, 552, NANDAVARAM, 5183,muguthi, 204443, 15.796981, 77.472999, Mugathi GP, 2,5882
+ANDHRA PRADESH                                    , 28, Kurnool, 552, NANDAVARAM, 5183,nadikhairavadi, 204444, 15.90539, 77.466686, Nadikhairavadi GP, 2,1994
+ANDHRA PRADESH                                    , 28, Kurnool, 552, NANDAVARAM, 5183,nagaladinne, 204445, 15.915399, 77.565252, Nagaladinne GP, 2,6483
+ANDHRA PRADESH                                    , 28, Kurnool, 552, NANDAVARAM, 5183,nandavaram, 204446, 15.852973, 77.484809, Nandavaram GP, 2,5283
+ANDHRA PRADESH                                    , 28, Kurnool, 552, NANDAVARAM, 5183,peddakothiliki, 204447, 15.914147, 77.565727, Peddakothilika GP, 2,737
+ANDHRA PRADESH                                    , 28, Kurnool, 552, NANDAVARAM, 5183,ponakaladinne, 204448, 15.847173, 77.555138, Ponakaladinne GP, 2,1631
+ANDHRA PRADESH                                    , 28, Kurnool, 552, NANDAVARAM, 5183,poolachinta, 204449, 15.882014, 77.528567, Poolachinta GP, 2,1751
+ANDHRA PRADESH                                    , 28, Kurnool, 552, NANDAVARAM, 5183,t.somalaguduru, 204450, 15.839159, 77.601667, T.Somalagudur GP, 2,4963
+ANDHRA PRADESH                                    , 28, Kurnool, 552, NANDIKOTKUR, 5184,10. bollavaram, 204453, 15.858247, 78.263113, BOLLAVARAM GP, 2,2561
+ANDHRA PRADESH                                    , 28, Kurnool, 552, NANDIKOTKUR, 5184,allur, 204451, 15.866967, 78.215115, ALLUR GP, 2,2239
+ANDHRA PRADESH                                    , 28, Kurnool, 552, NANDIKOTKUR, 5184,bijinavemula, 204452, 15.89409, 78.283681, BIJINAVEMULA GP, 2,1844
+ANDHRA PRADESH                                    , 28, Kurnool, 552, NANDIKOTKUR, 5184,brahmanakotkur, 204454, 15.812943, 78.199485, BRAHMANAKOTKUR GP, 2,6893
+ANDHRA PRADESH                                    , 28, Kurnool, 552, NANDIKOTKUR, 5184,damagatla, 204455, 15.830023, 78.23304, DAMAGATLA GP, 2,3266
+ANDHRA PRADESH                                    , 28, Kurnool, 552, NANDIKOTKUR, 5184,kollabavapuram, 204456, 15.817863, 78.200423, KOLLABAVAPURAM GP, 2,3336
+ANDHRA PRADESH                                    , 28, Kurnool, 552, NANDIKOTKUR, 5184,konetammapalli, 204457, 15.853111, 78.209346, KONETAMMAPALLI GP, 2,5450
+ANDHRA PRADESH                                    , 28, Kurnool, 552, NANDIKOTKUR, 5184,konidela, 204458, 15.925693, 78.288307, KONIDELA GP, 2,5472
+ANDHRA PRADESH                                    , 28, Kurnool, 552, NANDIKOTKUR, 5184,malyala, 204459, 15.864066, 78.232487, MALYALA GP, 2,2851
+ANDHRA PRADESH                                    , 28, Kurnool, 552, NANDIKOTKUR, 5184,nagatoor, 204460, 15.924868, 78.283456, NAGATOOR GP, 2,2676
+ANDHRA PRADESH                                    , 28, Kurnool, 552, NANDIKOTKUR, 5184,sathanikota, 204461, 15.866967, 78.215115, SATHANIKOTA GP, 2,2193
+ANDHRA PRADESH                                    , 28, Kurnool, 552, NANDIKOTKUR, 5184,vaddamanu, 204462, 15.850179, 78.20969, VADDAMANU GP, 2,3427
+ANDHRA PRADESH                                    , 28, Kurnool, 552, Nandyal, 5185,ayyalur, 888888, 15.445372, 78.520666, AYYALUR GP, 2,1393
+ANDHRA PRADESH                                    , 28, Kurnool, 552, Nandyal, 5185,bheemavaram, 888888, 15.488597, 78.478878, BHEEMAVARAM GP, 2,2191
+ANDHRA PRADESH                                    , 28, Kurnool, 552, Nandyal, 5185,billalapuram, 888888, 15.489515, 78.495479, BILLALAPURAM GP, 2,2148
+ANDHRA PRADESH                                    , 28, Kurnool, 552, Nandyal, 5185,brahmanapalle, 888888, 15.42517, 78.404811, BRAHMANAPALLE GP, 2,754
+ANDHRA PRADESH                                    , 28, Kurnool, 552, Nandyal, 5185,chabolu, 888888, 15.448432, 78.5111, CHABOLU GP, 2,4892
+ANDHRA PRADESH                                    , 28, Kurnool, 552, Nandyal, 5185,chapirevula, 888888, 15.455629, 78.43511, CHAPIREVULA GP, 2,2044
+ANDHRA PRADESH                                    , 28, Kurnool, 552, Nandyal, 5185,gunthanala, 888888, 15.379597, 78.387005, GUNTHANALA GP, 2,935
+ANDHRA PRADESH                                    , 28, Kurnool, 552, Nandyal, 5185,kanala, 888888, 15.422274, 78.453423, KANALA GP, 2,3371
+ANDHRA PRADESH                                    , 28, Kurnool, 552, Nandyal, 5185,kothapalli, 888888, 15.510209, 78.517283, N.KOTHAPALLI GP, 2,5671
+ANDHRA PRADESH                                    , 28, Kurnool, 552, Nandyal, 5185,mitnala, 888888, 15.390809, 78.391634, MITNALA GP, 2,1873
+ANDHRA PRADESH                                    , 28, Kurnool, 552, Nandyal, 5185,munagala, 888888, 15.537818, 78.437237, MUNAGALA GP, 2,907
+ANDHRA PRADESH                                    , 28, Kurnool, 552, Nandyal, 5185,p.kottala, 888888, 15.448432, 78.5111, P.KOTTALA GP, 2,5120
+ANDHRA PRADESH                                    , 28, Kurnool, 552, Nandyal, 5185,pandurangapuram, 888888, 15.455733, 78.435101, PANDURANGAPURAM GP, 2,5987
+ANDHRA PRADESH                                    , 28, Kurnool, 552, Nandyal, 5185,polur, 888888, 15.537818, 78.437237, POLUR GP, 2,4530
+ANDHRA PRADESH                                    , 28, Kurnool, 552, Nandyal, 5185,ponnapuram, 888888, 15.469092, 78.484727, PONNAPURAM GP, 2,9340
+ANDHRA PRADESH                                    , 28, Kurnool, 552, Nandyal, 5185,pulimaddi, 888888, 15.52907, 78.461205, PULIMADDI GP, 2,1753
+ANDHRA PRADESH                                    , 28, Kurnool, 552, Nandyal, 5185,pusulur, 888888, 15.42488, 78.405656, PUSULUR GP, 2,2139
+ANDHRA PRADESH                                    , 28, Kurnool, 552, Nandyal, 5185,rayamalpuram, 888888, 15.538907, 78.453363, RAYMALPURAM GP, 2,1464
+ANDHRA PRADESH                                    , 28, Kurnool, 552, Nandyal, 5185,ryothunagaram, 888888, 15.451298, 78.475905, RYOTHUNAGARAM GP, 2,6991
+ANDHRA PRADESH                                    , 28, Kurnool, 552, Nandyal, 5185,udumalpuram, 888888, 15.482186, 78.437125, UDUMALPURAM GP, 2,2120
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ORVAKAL, 5186,bodduvanipalle, 204483, 15.68507, 78.066883, BODDUVANIPALLE GP, 2,890
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ORVAKAL, 5186,brahmanapalle, 204484, 15.65053, 78.244559, BRAHMANAPALLE GP, 2,754
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ORVAKAL, 5186,guttapadu, 204485, 15.685955, 78.177772, GUTTAPADU GP, 2,1246
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ORVAKAL, 5186,husainapuram, 204486, 15.625267, 78.197742, HUSAINAPURAM GP, 2,5456
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ORVAKAL, 5186,kalva, 204487, 15.62525, 78.197721, KALVA GP, 2,5123
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ORVAKAL, 5186,kannamadakala, 204488, 15.685955, 78.177772, KANNAMADAKALA GP, 2,2376
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ORVAKAL, 5186,kethavaram, 204489, 15.726304, 78.132437, KETHAVARAM GP, 2,1585
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ORVAKAL, 5186,komarolu, 204490, 15.581694, 78.176084, KOMAROLU GP, 2,1902
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ORVAKAL, 5186,loddipalle, 204491, 15.686387, 78.065518, LODDIPALLE GP, 2,3456
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ORVAKAL, 5186,meedivemula, 204492, 15.664977, 78.073752, MEEDIVEMULA GP, 2,2145
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ORVAKAL, 5186,n.konthalapadu, 204493, 15.665269, 78.163745, N.KONTHALAPADU GP, 2,1071
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ORVAKAL, 5186,nannur, 204494, 15.715762, 78.083574, NANNUR GP, 2,10932
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ORVAKAL, 5186,orvakal, 204495, 15.685938, 78.176625, ORVAKAL GP, 2,4869
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ORVAKAL, 5186,palakolanu, 204496, 15.612017, 78.172847, PALAKOLANU GP, 2,1044
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ORVAKAL, 5186,pudicherla, 204497, 15.715762, 78.083574, PUDICHERLA GP, 2,2576
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ORVAKAL, 5186,sakunala, 204498, 15.650858, 78.244685, SAKUNALA GP, 2,2253
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ORVAKAL, 5186,somayajulapalli, 204499, 15.628292, 78.184758, SOMAYAJULAPALLI GP, 2,4845
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ORVAKAL, 5186,thippayapalle, 204500, 15.652239, 78.242299, THIPPAYAPALLE GP, 2,969
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ORVAKAL, 5186,uppalapadu, 204501, 15.64756, 78.148136, UPPALAPADU GP, 2,2154
+ANDHRA PRADESH                                    , 28, Kurnool, 552, ORVAKAL, 5186,uyyalawada, 204502, 15.632092, 78.075605, UYYALAWADA GP, 2,4199
+ANDHRA PRADESH                                    , 28, Kurnool, 552, OWK, 5187,annavaram, 204503, 15.250242, 78.160179, ANNAVARAM GP, 2,637
+ANDHRA PRADESH                                    , 28, Kurnool, 552, OWK, 5187,chanugondla, 204503, 15.152167, 78.142755, CHANUGONDALA GP, 2,1952
+ANDHRA PRADESH                                    , 28, Kurnool, 552, OWK, 5187,chennampalle, 204504, 15.209776, 78.115696, CHENNAMPALLI GP, 2,2097
+ANDHRA PRADESH                                    , 28, Kurnool, 552, OWK, 5187,cherlopalle, 204505, 15.150423, 78.112618, CHERLOPALLE, 2,2533
+ANDHRA PRADESH                                    , 28, Kurnool, 552, OWK, 5187,gundla singavaram, 204506, 15.249633, 78.157688, G.SINGAVARAM GP, 2,2577
+ANDHRA PRADESH                                    , 28, Kurnool, 552, OWK, 5187,junuthala, 204507, 15.170244, 78.04422, GP JUNTHALA, 2,2672
+ANDHRA PRADESH                                    , 28, Kurnool, 552, OWK, 5187,kondamanayunipalli, 204508, 15.15199, 78.052401, KONDAMANAYUNIPALLI GP, 2,829
+ANDHRA PRADESH                                    , 28, Kurnool, 552, OWK, 5187,kunukuntla, 204509, 15.189491, 78.04147, KUNUTKUNTALA GP, 2,2389
+ANDHRA PRADESH                                    , 28, Kurnool, 552, OWK, 5187,mettupalle, 204511, 15.209894, 78.114884, METUPALLI GP, 2,2386
+ANDHRA PRADESH                                    , 28, Kurnool, 552, OWK, 5187,owk, 204512, 15.209894, 78.114884, OWK GP, 2,11760
+ANDHRA PRADESH                                    , 28, Kurnool, 552, OWK, 5187,ramapuram, 204513, 15.137338, 78.115292, RAMAPURAM GP, 2,6614
+ANDHRA PRADESH                                    , 28, Kurnool, 552, OWK, 5187,ramavaram, 204514, 15.241453, 78.116485, RAMAVARAM GP, 2,3862
+ANDHRA PRADESH                                    , 28, Kurnool, 552, OWK, 5187,sangapatnam, 204516, 15.17705, 78.152571, SINGANAPATNAM GP, 2,2094
+ANDHRA PRADESH                                    , 28, Kurnool, 552, OWK, 5187,singanapalle, 204517, 15.204242, 78.125747, SINGANAPALLI GP, 2,2460
+ANDHRA PRADESH                                    , 28, Kurnool, 552, OWK, 5187,sivavaram, 204518, 15.210265, 78.168045, SIVAVARAM GP, 2,1497
+ANDHRA PRADESH                                    , 28, Kurnool, 552, OWK, 5187,sunkesula, 204519, 15.143298, 78.164378, SENKUSLA GP, 2,1969
+ANDHRA PRADESH                                    , 28, Kurnool, 552, OWK, 5187,uppalapadu, 204520, 15.170037, 78.043864, UPPALPADU GP, 2,2154
+ANDHRA PRADESH                                    , 28, Kurnool, 552, OWK, 5187,vemulapadu, 204521, 15.238811, 78.166606, VEMULAPADU GP, 2,1170
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PAGIDYALA, 5188,kothamuchumarri, 204522, 15.966535, 78.304575, KOTHAMUCHUMARRI GP, 2,500
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PAGIDYALA, 5188,laxmapuram, 204523, 15.907452, 78.338374, LAXMAPURAM GP, 2,8984
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PAGIDYALA, 5188,m.ganapuram, 204524, 15.914363, 78.362193, M.GANAPURAM GP, 2,1641
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PAGIDYALA, 5188,nehru nagar, 204525, 15.933991, 78.287971, NEHRU NAGAR GP, 2,2250
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PAGIDYALA, 5188,pagidyala, 204526, 15.938233, 78.342414, PAGIDALA GP, 2,9579
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PAGIDYALA, 5188,pathamuchumarri, 204527, 15.966535, 78.304575, PATHAMUCHUMARRI GP, 2,6973
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PAGIDYALA, 5188,sankireni palli, 204528, 15.944495, 78.341631, SANKIRENIPALLI GP, 2,1680
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PAMULAPADU, 5189,banakacherla, 204529, 15.832307, 78.523002, BANAKACHARLA GP, 2,5012
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PAMULAPADU, 5189,bhanumukkala, 204530, 15.830493, 78.542032, BANUMKKALA GP, 2,12500
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PAMULAPADU, 5189,chelimilla, 204531, 15.841864, 78.490356, CHELIMILLA GP, 2,4904
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PAMULAPADU, 5189,erragudur, 204532, 15.84095, 78.493688, ERRAGUDURU GP, 2,7328
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PAMULAPADU, 5189,iskala, 204533, 15.865818, 78.497115, ISKALA GP, 2,3031
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PAMULAPADU, 5189,jutur, 204534, 15.850014, 78.467606, JUTURU GP, 2,3471
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PAMULAPADU, 5189,lingala, 204535, 15.840975, 78.492985, LINGALA GP, 2,958
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PAMULAPADU, 5189,maddur, 204536, 15.802727, 78.475016, MADDURU GP, 2,2097
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PAMULAPADU, 5189,mittakandala, 204537, 15.841864, 78.490356, MITTAKANDALA GP, 2,3442
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PAMULAPADU, 5189,pamulapadu, 204538, 15.841864, 78.490356, PAMULAPADU GP, 2,275
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PAMULAPADU, 5189,rudravaram, 204539, 15.841864, 78.490356, RUDRAVARAM GP, 2,8740
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PAMULAPADU, 5189,vanala, 204540, 15.751178, 78.487121, VANALA GP, 2,2521
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PAMULAPADU, 5189,vempenta, 204541, 15.800566, 78.535269, VEMPENTA GP, 2,4692
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PANYAM, 5190,alamur, 204542, 15.45795, 78.322285, ALAMURU GP, 2,3958
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PANYAM, 5190,anupur, 204543, 15.393154, 78.351713, ANUPURU GP, 2,1007
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PANYAM, 5190,balapanur, 204544, 15.499996, 78.394467, BALAPANURU GP, 2,4142
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PANYAM, 5190,bhupanapadu, 204545, 15.493285, 78.391155, BHUPANA PADU GP, 2,2286
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PANYAM, 5190,gaggatur, 204546, 15.393134, 78.351733, GAGGATURU GP, 2,561
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PANYAM, 5190,gonavaram, 204547, 15.436966, 78.326156, GONAVARAM GP, 2,1739
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PANYAM, 5190,gorukallu, 204548, 15.547348, 78.405097, GORUKALLU GP, 2,3195
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PANYAM, 5190,kandikayapalli, 204549, 15.505718, 78.209979, KANDIKAYAPALLI GP, 2,3312
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PANYAM, 5190,kondajutur, 204550, 15.508617, 78.394878, KONDA JUTURU GP, 2,1747
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PANYAM, 5190,konidedu, 204551, 15.48084, 78.328841, KONIDEDU GP, 2,2721
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PANYAM, 5190,kowlur, 204552, 15.499751, 78.395172, KOWLURU  GP, 2,5371
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PANYAM, 5190,maddur, 204553, 15.406638, 78.375768, MADDURU GP, 2,2097
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PANYAM, 5190,nerawada, 204554, 15.483649, 78.386008, NERAWADA GP, 2,1655
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PANYAM, 5190,panyam, 204555, 15.510244, 78.338595, PANYAM GP, 2,14562
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PANYAM, 5190,pinnapuram, 204556, 15.542825, 78.308905, PINNAPURAM GP, 2,1299
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PANYAM, 5190,s.kothuru, 204557, 15.4253, 78.319136, S KOTHURU GP, 2,888
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PANYAM, 5190,thammarajupalle, 204558, 15.510244, 78.338595, THAMMARAJUPALLE GP, 2,2144
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PANYAM, 5190,thogarchedu, 204559, 15.474404, 78.439475, THOGERCHEDU GP, 2,1390
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PATTIKONDA, 5191,chakkaralla, 204560, 15.395658, 77.503597, Chakaralla GP, 2,2177
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PATTIKONDA, 5191,chandoli, 204561, 15.403024, 77.568658, Chandoli GP, 2,1487
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PATTIKONDA, 5191,chinnahulthi, 204562, 15.427477, 77.457766, Chinnahaldi GP, 2,1707
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PATTIKONDA, 5191,devanabanda, 204563, 15.447475, 77.427265, Devanabanda GP, 2,2052
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PATTIKONDA, 5191,dudekonda, 204564, 15.452424, 77.523618, Dudekonda GP, 2,5826
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PATTIKONDA, 5191,hosur, 204565, 15.381075, 77.462258, Hosur GP, 2,7114
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PATTIKONDA, 5191,jutur, 204566, 15.427573, 77.457642, Jutur GP, 2,3471
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PATTIKONDA, 5191,kothiralla, 204567, 15.474106, 77.528014, Kothiralla GP, 2,11670
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PATTIKONDA, 5191,mandagiri, 204568, 15.423182, 77.466916, Mandagiri GP, 2,414
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PATTIKONDA, 5191,nalakadoddi, 204569, 15.447475, 77.427265, Nakaladoddi GP, 2,4219
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PATTIKONDA, 5191,pandikona, 204570, 15.440482, 77.568103, Pandikona GP, 2,9078
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PATTIKONDA, 5191,pattikonda, 204571, 15.395658, 77.503597, Pattikonda GP, 2,29342
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PATTIKONDA, 5191,pedda hulthi, 204572, 15.42749, 77.457776, Peddahaldi GP, 2,1839
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PATTIKONDA, 5191,pulikonda, 204573, 15.424972, 77.512267, Pulikonda GP, 2,6504
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PATTIKONDA, 5191,putchakayalamada, 204574, 15.381075, 77.462258, Puchakayalamada GP, 2,2137
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PEAPULLY, 5192,bavipalli, 204575, 15.253997, 77.834577, Bavipalli GP, 2,5785
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PEAPULLY, 5192,boincheruvupalli, 204576, 15.223203, 77.92382, Boincheruvupalli GP, 2,2355
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PEAPULLY, 5192,burugula, 204577, 15.204391, 77.908337, Burugula GP, 2,1852
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PEAPULLY, 5192,chandrapalle, 204578, 15.214804, 77.818829, Chandrapalle GP, 2,1913
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PEAPULLY, 5192,chinnapodilla, 204579, 15.286256, 77.723659, Chinnapodilla GP, 2,4825
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PEAPULLY, 5192,gudipadu, 204580, 15.181371, 77.775071, Gudipadu GP, 2,3255
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PEAPULLY, 5192,hussainapuram, 204581, 15.235553, 77.827964, Hussainapuram GP, 2,5456
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PEAPULLY, 5192,jakkasanikuntla, 204582, 15.160566, 77.781116, Jakkasanikuntla GP, 2,4767
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PEAPULLY, 5192,jaladurgam, 204583, 15.283142, 77.900945, Jaladurgam GP, 2,3925
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PEAPULLY, 5192,kalachetla, 204584, 15.260299, 77.697625, Kalachetla GP, 2,162
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PEAPULLY, 5192,kommemarri, 204585, 15.198675, 77.865569, Kommemarri GP, 2,9500
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PEAPULLY, 5192,kowlapalle, 204586, 15.136807, 77.946958, Kowlapalle GP, 2,4085
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PEAPULLY, 5192,madhavaram, 204587, 15.309554, 77.944231, Madhavaram GP, 2,2825
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PEAPULLY, 5192,mettupalle, 204588, 15.275263, 77.835262, Mettupalle GP, 2,2386
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PEAPULLY, 5192,munimadugu, 204589, 15.256114, 77.939622, Munimadugu GP, 2,2075
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PEAPULLY, 5192,n. racherla, 204597, 15.239116, 77.944203, N.Racharla GP, 2,5012
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PEAPULLY, 5192,n.rangapuram, 204590, 15.251013, 77.767109, N.Rangapuram GP, 2,8255
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PEAPULLY, 5192,nereducherla, 204591, 15.204391, 77.908337, Nereducherla GP, 2,1924
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PEAPULLY, 5192,p. rangareddipalli, 204592, 15.160682, 77.781041, P.Rangareddipalli GP, 2,5260
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PEAPULLY, 5192,peapully, 204593, 15.231158, 77.736129, Peapully GP, 2,15200
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PEAPULLY, 5192,peddapaya, 204594, 15.189549, 77.804882, Peddapaya GP, 2,15318
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PEAPULLY, 5192,peddapodilla, 204595, 15.237013, 77.730506, Peddapodilla GP, 2,3956
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PEAPULLY, 5192,pothidoddi, 204596, 15.195994, 77.703635, Pothidoddi GP, 2,2625
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PEAPULLY, 5192,utakonda, 204598, 15.264262, 77.814618, Utakonda GP, 2,8322
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PEAPULLY, 5192,vengalampalle, 204599, 15.234625, 77.738286, Vengalampalle GP, 2,2402
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PEAPULLY, 5192,yenugumarri, 204600, 15.291074, 77.808325, Yenugumarri GP, 2,4609
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PEDDAKADABUR, 5193,basaladoddi, 204601, 15.793427, 77.308575, Basaladoddi GP, 2,2688
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PEDDAKADABUR, 5193,chinnatumbalam, 204602, 15.793427, 77.308575, Chinnatumbalam GP, 2,5693
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PEDDAKADABUR, 5193,doddimekala, 204603, 15.762681, 77.390876, Doddimekala GP, 2,3403
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PEDDAKADABUR, 5193,gavigattu, 204604, 15.793398, 77.308562, Gavigattu GP, 2,2105
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PEDDAKADABUR, 5193,h. muravani, 204605, 15.771671, 77.419558, H.Muravani GP, 2,3130
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PEDDAKADABUR, 5193,hanumapuram, 204606, 15.771729, 77.418944, Hanumapuram GP, 2,12500
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PEDDAKADABUR, 5193,jalvadi, 204607, 15.771989, 77.418837, Jalavadi GP, 2,2781
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PEDDAKADABUR, 5193,kallukunta, 204608, 15.793427, 77.308575, Kallukunta GP, 2,4700
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PEDDAKADABUR, 5193,kambadahal, 204609, 15.789256, 77.422228, Kambadahal GP, 2,3420
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PEDDAKADABUR, 5193,kambaladinne, 204610, 15.799043, 77.378375, Kambaladinne GP, 2,4308
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PEDDAKADABUR, 5193,myakadona, 204611, 15.74308, 77.303529, Mykadona GP, 2,1943
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PEDDAKADABUR, 5193,nowlekal, 204612, 15.743039, 77.303486, Nowlekal GP, 2,1374
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PEDDAKADABUR, 5193,pedda kadubur, 204613, 15.742505, 77.352996, Peddakadubur GP, 2,8147
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PEDDAKADABUR, 5193,peekalabetta, 204614, 15.796603, 77.225681, Peekalabetta GP, 2,714
+ANDHRA PRADESH                                    , 28, Kurnool, 552, PEDDAKADABUR, 5193,tarapuram, 204615, 15.68591, 77.317085, Tarapuram GP, 2,1244
+ANDHRA PRADESH                                    , 28, Kurnool, 552, Rudravaram, 5194,alamur, 207420, 15.138732, 78.585869, ALAMUR GP, 2,3958
+ANDHRA PRADESH                                    , 28, Kurnool, 552, Rudravaram, 5194,beeravolu, 207421, 15.343005, 78.605339, BEERAVOLU GP, 2,593
+ANDHRA PRADESH                                    , 28, Kurnool, 552, Rudravaram, 5194,chandalur, 207422, 15.239782, 78.603655, CHANDALUR GP, 2,1239
+ANDHRA PRADESH                                    , 28, Kurnool, 552, Rudravaram, 5194,chilakaloor, 207423, 15.22237, 78.544268, CHILKALOOR GP, 2,773
+ANDHRA PRADESH                                    , 28, Kurnool, 552, Rudravaram, 5194,chinnakambaloor, 207424, 15.297244, 78.586607, CHINNAKAMBLOOR GP, 2,2698
+ANDHRA PRADESH                                    , 28, Kurnool, 552, Rudravaram, 5194,chitrenipalli, 207425, 15.138732, 78.585869, CHITRENIPALLI GP, 2,7575
+ANDHRA PRADESH                                    , 28, Kurnool, 552, Rudravaram, 5194,dakshina kottala, 207426, 15.309674, 78.590549, DAKSHIN KOTALA GP, 2,2873
+ANDHRA PRADESH                                    , 28, Kurnool, 552, Rudravaram, 5194,erragudidinne, 207427, 15.230866, 78.51726, ERRAGUNDINNE GP, 2,1943
+ANDHRA PRADESH                                    , 28, Kurnool, 552, Rudravaram, 5194,komayapalle, 207428, 15.253437, 78.590911, KOMAYAPALLI GP, 2,829
+ANDHRA PRADESH                                    , 28, Kurnool, 552, Rudravaram, 5194,kotakonda, 207429, 15.342861, 78.605376, KOTAKONDA GP, 2,2302
+ANDHRA PRADESH                                    , 28, Kurnool, 552, Rudravaram, 5194,mandaloor, 207430, 15.222133, 78.544195, MANDLOOR GP, 2,2041
+ANDHRA PRADESH                                    , 28, Kurnool, 552, Rudravaram, 5194,muthaloor, 207431, 15.172496, 78.574567, MUTHLOOR GP, 2,3755
+ANDHRA PRADESH                                    , 28, Kurnool, 552, Rudravaram, 5194,narasapuram, 207432, 15.170925, 78.577844, NARSAPURAM GP, 2,3270
+ANDHRA PRADESH                                    , 28, Kurnool, 552, Rudravaram, 5194,pedda kambaloor, 207433, 15.302866, 78.612399, PEDAKAMBLOOR GP, 2,2894
+ANDHRA PRADESH                                    , 28, Kurnool, 552, Rudravaram, 5194,perur, 207434, 15.256972, 78.521842, PERUR GP, 2,2324
+ANDHRA PRADESH                                    , 28, Kurnool, 552, Rudravaram, 5194,r.nagulavaram, 207435, 15.210097, 78.590782, R. NAGULAVARAM GP, 2,1371
+ANDHRA PRADESH                                    , 28, Kurnool, 552, Rudravaram, 5194,rudravaram, 207436, 15.24054, 78.604059, RUDRAVARAM GP, 2,8740
+ANDHRA PRADESH                                    , 28, Kurnool, 552, Rudravaram, 5194,sreerangapuram, 207437, 15.328027, 78.614081, SREERANGAPURAM GP, 2,8255
+ANDHRA PRADESH                                    , 28, Kurnool, 552, Rudravaram, 5194,t.lingamdinne, 207438, 15.1977, 78.586477, T LLINGAMDINNE GP, 2,1354
+ANDHRA PRADESH                                    , 28, Kurnool, 552, Rudravaram, 5194,yellavathula, 207439, 15.340043, 78.617719, YALLAVATHULA GP, 2,2104
+ANDHRA PRADESH                                    , 28, Kurnool, 552, SIRIVEL, 5196,boyalakuntla, 204651, 15.381679, 78.553061, Boyalkuntla GP, 2,2940
+ANDHRA PRADESH                                    , 28, Kurnool, 552, SIRIVEL, 5196,chennur, 204652, 15.352937, 78.522593, Chennur GP, 2,3795
+ANDHRA PRADESH                                    , 28, Kurnool, 552, SIRIVEL, 5196,gangavaram, 204653, 15.396803, 78.57855, Gangavaram GP, 2,1876
+ANDHRA PRADESH                                    , 28, Kurnool, 552, SIRIVEL, 5196,govindpalle, 204654, 15.32181, 78.52603, Govindpalle GP, 2,7250
+ANDHRA PRADESH                                    , 28, Kurnool, 552, SIRIVEL, 5196,gumparamandinne, 204655, 15.283418, 78.510551, Gumparamdinne GP, 2,3130
+ANDHRA PRADESH                                    , 28, Kurnool, 552, SIRIVEL, 5196,gundampadu, 204656, 15.394621, 78.579185, Gundampadu GP, 2,2286
+ANDHRA PRADESH                                    , 28, Kurnool, 552, SIRIVEL, 5196,jeenepalle, 204657, 15.287271, 78.483324, Jeenapalli GP, 2,1289
+ANDHRA PRADESH                                    , 28, Kurnool, 552, SIRIVEL, 5196,kaminenipalle, 204658, 15.320405, 78.484968, Kaminenipalle GP, 2,1478
+ANDHRA PRADESH                                    , 28, Kurnool, 552, SIRIVEL, 5196,kotapadu, 204659, 15.320405, 78.484968, Kotapadu GP, 2,1558
+ANDHRA PRADESH                                    , 28, Kurnool, 552, SIRIVEL, 5196,mahadevapuram, 204660, 15.382139, 78.604027, Mahadevpuram gp, 2,4647
+ANDHRA PRADESH                                    , 28, Kurnool, 552, SIRIVEL, 5196,sirvel, 204661, 15.32181, 78.52603, Sirvel GP, 2,18478
+ANDHRA PRADESH                                    , 28, Kurnool, 552, SIRIVEL, 5196,vanikemdinne, 204662, 15.320152, 78.484534, Vanikamdinne GP, 2,1047
+ANDHRA PRADESH                                    , 28, Kurnool, 552, SIRIVEL, 5196,yerraguntla, 204663, 15.320026, 78.533749, Yerraguntala GP, 2,8584
+ANDHRA PRADESH                                    , 28, Kurnool, 552, SRISAILAM, 5197,sundipenta, 25571, 16.077033, 78.907329, SUNDIPENTA GP, 2,2491
+ANDHRA PRADESH                                    , 28, Kurnool, 552, TUGGALI, 5198,bondimadugula, 204664, 15.393145, 77.658638, Bondimadugula GP, 2,891
+ANDHRA PRADESH                                    , 28, Kurnool, 552, TUGGALI, 5198,chennampalle, 204665, 15.290201, 77.596626, Chennampalle GP, 2,2097
+ANDHRA PRADESH                                    , 28, Kurnool, 552, TUGGALI, 5198,edduladoddi, 204666, 15.375394, 77.62388, Edduladoddi GP, 2,2810
+ANDHRA PRADESH                                    , 28, Kurnool, 552, TUGGALI, 5198,girigetla, 204667, 15.292278, 77.550734, Girigetla GP, 2,6847
+ANDHRA PRADESH                                    , 28, Kurnool, 552, TUGGALI, 5198,gooty erragudi, 204668, 15.228892, 77.569775, Gootyerragudi GP, 2,2060
+ANDHRA PRADESH                                    , 28, Kurnool, 552, TUGGALI, 5198,jonnagiri, 204669, 15.228911, 77.569713, Jonnagiri GP, 2,6397
+ANDHRA PRADESH                                    , 28, Kurnool, 552, TUGGALI, 5198,kandamakuntla, 204670, 15.264504, 77.590638, Kandamakuntla GP, 2,3088
+ANDHRA PRADESH                                    , 28, Kurnool, 552, TUGGALI, 5198,marella, 204671, 15.393159, 77.658615, Marella GP, 2,5260
+ANDHRA PRADESH                                    , 28, Kurnool, 552, TUGGALI, 5198,mukkella, 204672, 15.393159, 77.658615, Mukkella GP, 2,5290
+ANDHRA PRADESH                                    , 28, Kurnool, 552, TUGGALI, 5198,nunusuralla, 204673, 15.423022, 77.680306, Nunusuralla GP, 2,2874
+ANDHRA PRADESH                                    , 28, Kurnool, 552, TUGGALI, 5198,pagidiroy, 204674, 15.26166, 77.588959, Pagidiroy GP, 2,4109
+ANDHRA PRADESH                                    , 28, Kurnool, 552, TUGGALI, 5198,pendekallu, 204675, 15.375365, 77.623807, Pendekallu GP, 2,3403
+ANDHRA PRADESH                                    , 28, Kurnool, 552, TUGGALI, 5198,ramapuram, 204676, 15.228849, 77.569667, RamapuramGP, 2,6614
+ANDHRA PRADESH                                    , 28, Kurnool, 552, TUGGALI, 5198,ramkonda, 204677, 15.374174, 77.650196, Ramkonda GP, 2,3187
+ANDHRA PRADESH                                    , 28, Kurnool, 552, TUGGALI, 5198,rampalli, 204678, 15.350756, 77.651631, Rampalli GP, 2,7215
+ANDHRA PRADESH                                    , 28, Kurnool, 552, TUGGALI, 5198,ratana, 204679, 15.3563, 77.523385, Ratana GP, 2,4739
+ANDHRA PRADESH                                    , 28, Kurnool, 552, TUGGALI, 5198,sabhashpuram, 204680, 15.326745, 77.635041, Sabashpuram GP, 2,613
+ANDHRA PRADESH                                    , 28, Kurnool, 552, TUGGALI, 5198,tuggali, 204681, 15.315004, 77.543839, Tuggali GP, 2,2800
+ANDHRA PRADESH                                    , 28, Kurnool, 552, TUGGALI, 5198,upparlapalli, 204682, 15.223613, 77.579607, Upparpalli GP, 2,6357
+ANDHRA PRADESH                                    , 28, Kurnool, 552, UYYALAWADA, 5199,allur, 207487, 15.128636, 78.347528, ALLUR GP, 2,2239
+ANDHRA PRADESH                                    , 28, Kurnool, 552, UYYALAWADA, 5199,bodemmanur, 207488, 15.08977, 78.419115, BODEMMANUR GP, 2,2088
+ANDHRA PRADESH                                    , 28, Kurnool, 552, UYYALAWADA, 5199,govindapalle, 207489, 15.075059, 78.371505, GOVINDAPALLE GP, 2,468
+ANDHRA PRADESH                                    , 28, Kurnool, 552, UYYALAWADA, 5199,harivaram, 207490, 15.130816, 78.362954, HARIVARAM GP, 2,2634
+ANDHRA PRADESH                                    , 28, Kurnool, 552, UYYALAWADA, 5199,injedu, 207491, 15.089451, 78.419034, INJEDU GP, 2,1433
+ANDHRA PRADESH                                    , 28, Kurnool, 552, UYYALAWADA, 5199,kakarawada, 207492, 15.072075, 78.407657, KAKARAWADA GP, 2,1294
+ANDHRA PRADESH                                    , 28, Kurnool, 552, UYYALAWADA, 5199,kondupalle, 207493, 15.113019, 78.45955, KONDUPALLE GP, 2,1313
+ANDHRA PRADESH                                    , 28, Kurnool, 552, UYYALAWADA, 5199,mayalur, 207494, 15.101944, 78.358851, MAYALUR GP, 2,1393
+ANDHRA PRADESH                                    , 28, Kurnool, 552, UYYALAWADA, 5199,narsepalle, 207495, 15.169863, 78.363802, NARSEPALLE GP, 2,974
+ANDHRA PRADESH                                    , 28, Kurnool, 552, UYYALAWADA, 5199,pedda emmanur, 207496, 15.088436, 78.416651, PEDDA EMMANUR GP, 2,1764
+ANDHRA PRADESH                                    , 28, Kurnool, 552, UYYALAWADA, 5199,r. jambuladinne, 207497, 15.039255, 78.442679, R.JUMBULADINNE, 2,500
+ANDHRA PRADESH                                    , 28, Kurnool, 552, UYYALAWADA, 5199,r.papampalle, 207498, 15.114242, 78.460868, R. PAPAM PALLE, 2,1565
+ANDHRA PRADESH                                    , 28, Kurnool, 552, UYYALAWADA, 5199,rupanagudi, 207499, 15.096575, 78.383549, RUPANAGUDI GP, 2,1193
+ANDHRA PRADESH                                    , 28, Kurnool, 552, UYYALAWADA, 5199,sarvaipalle, 207500, 15.114242, 78.460868, SARVAIPALLE GP, 2,1114
+ANDHRA PRADESH                                    , 28, Kurnool, 552, UYYALAWADA, 5199,suddamalla, 207501, 15.098831, 78.395929, SUDDAMALLA GP, 2,635
+ANDHRA PRADESH                                    , 28, Kurnool, 552, UYYALAWADA, 5199,thudumuladinne, 207502, 15.104932, 78.357378, THUDUMULADINNE GP, 2,1360
+ANDHRA PRADESH                                    , 28, Kurnool, 552, UYYALAWADA, 5199,uyyalawada, 207503, 15.099018, 78.395806, UYYALAWADA GP, 2,4199
+ANDHRA PRADESH                                    , 28, Kurnool, 552, VELDURTHI, 5200,allugundu, 204700, 15.6006, 77.933542, ALLUGUNDU GP, 2,2595
+ANDHRA PRADESH                                    , 28, Kurnool, 552, VELDURTHI, 5200,bhogolu, 204701, 15.48922, 77.926076, BHOGOLU GP, 2,1689
+ANDHRA PRADESH                                    , 28, Kurnool, 552, VELDURTHI, 5200,bingidoddi, 204702, 15.496907, 77.992733, BINGIDODDI GP, 2,5542
+ANDHRA PRADESH                                    , 28, Kurnool, 552, VELDURTHI, 5200,bommireddipalli, 204703, 15.583309, 77.941266, BOMMIREDDIPALLI GP, 2,5260
+ANDHRA PRADESH                                    , 28, Kurnool, 552, VELDURTHI, 5200,bukkapuram, 204704, 15.629773, 78.073848, BUKKAPAURAM GP, 2,4129
+ANDHRA PRADESH                                    , 28, Kurnool, 552, VELDURTHI, 5200,cherukulapadu, 204705, 15.551306, 77.926146, CHERUKULAPADU GP, 2,4121
+ANDHRA PRADESH                                    , 28, Kurnool, 552, VELDURTHI, 5200,govardhanagiri, 204706, 15.482798, 77.959891, GOVARDHANAGIRI GP, 2,6397
+ANDHRA PRADESH                                    , 28, Kurnool, 552, VELDURTHI, 5200,kalugotla, 204707, 15.620807, 78.054544, KALUGOTLA GP, 2,3209
+ANDHRA PRADESH                                    , 28, Kurnool, 552, VELDURTHI, 5200,laxmipuram, 204708, 15.533865, 77.979386, LAXMIPURAM GP, 2,4017
+ANDHRA PRADESH                                    , 28, Kurnool, 552, VELDURTHI, 5200,madar puram, 204709, 15.521604, 77.920943, MADARPURAM GP, 2,4647
+ANDHRA PRADESH                                    , 28, Kurnool, 552, VELDURTHI, 5200,mallepalle, 204710, 15.5922, 77.946314, MALLEPALLE GP, 2,2408
+ANDHRA PRADESH                                    , 28, Kurnool, 552, VELDURTHI, 5200,narasapuram, 204711, 15.545818, 77.99117, NARASAPURAM GP, 2,3270
+ANDHRA PRADESH                                    , 28, Kurnool, 552, VELDURTHI, 5200,narlapuram, 204712, 15.565203, 77.93016, NARLAPURAM GP, 2,2375
+ANDHRA PRADESH                                    , 28, Kurnool, 552, VELDURTHI, 5200,peremula, 204718, 15.507998, 77.946139, PEREMULA GP, 2,404
+ANDHRA PRADESH                                    , 28, Kurnool, 552, VELDURTHI, 5200,pullagummi, 204713, 15.617012, 78.027095, PULLAGUMMI GP, 2,3339
+ANDHRA PRADESH                                    , 28, Kurnool, 552, VELDURTHI, 5200,ramallakota, 204714, 15.568979, 78.000784, RAMALLAKOTA GP, 2,4638
+ANDHRA PRADESH                                    , 28, Kurnool, 552, VELDURTHI, 5200,ratnapalli, 204715, 15.552731, 77.931035, RATNAPALLI GP, 2,17890
+ANDHRA PRADESH                                    , 28, Kurnool, 552, VELDURTHI, 5200,sarparajapuram, 204716, 15.54159, 78.006107, SARPARAJAPURAM GP, 2,1236
+ANDHRA PRADESH                                    , 28, Kurnool, 552, VELDURTHI, 5200,sho.boyanapalle, 204717, 15.546488, 77.978715, SHO.BOYANAPALLE GP, 2,1712
+ANDHRA PRADESH                                    , 28, Kurnool, 552, VELDURTHI, 5200,srirangapuram, 204719, 15.469979, 77.967721, SRIRANGAPURAM GP, 2,8255
+ANDHRA PRADESH                                    , 28, Kurnool, 552, VELDURTHI, 5200,sudepalle, 204720, 15.490887, 77.902738, SUDEPALLE GP, 2,3971
+ANDHRA PRADESH                                    , 28, Kurnool, 552, VELDURTHI, 5200,veldurthi, 204721, 15.5572, 77.930127, VELDURTHI GP, 2,3528
+ANDHRA PRADESH                                    , 28, Kurnool, 552, VELUGODU, 5201,abdullapuram, 204722, 15.708984, 78.54503, ABDULLAPURAM GP, 2,669
+ANDHRA PRADESH                                    , 28, Kurnool, 552, VELUGODU, 5201,boyarevula, 204723, 15.691866, 78.562611, BOYAREVULA GP, 2,3040
+ANDHRA PRADESH                                    , 28, Kurnool, 552, VELUGODU, 5201,gunthakandala, 204724, 15.74737, 78.52455, GUNTHAKANDALA GP, 2,2830
+ANDHRA PRADESH                                    , 28, Kurnool, 552, VELUGODU, 5201,madhavaram, 204725, 15.664821, 78.53439, MADHAVARAM GP, 2,2825
+ANDHRA PRADESH                                    , 28, Kurnool, 552, VELUGODU, 5201,mothukur, 204726, 15.664528, 78.554534, MOTHUKURU GP, 2,4174
+ANDHRA PRADESH                                    , 28, Kurnool, 552, VELUGODU, 5201,regadagudur, 204727, 15.698788, 78.511295, REGADAGUDURU GP, 2,5396
+ANDHRA PRADESH                                    , 28, Kurnool, 552, VELUGODU, 5201,velgodu, 204728, 15.719448, 78.573693, VELUGODU GP, 2,23048
+ANDHRA PRADESH                                    , 28, Kurnool, 552, VELUGODU, 5201,velpanur, 204729, 15.698776, 78.514506, VELPANURU GP, 2,6526
+ANDHRA PRADESH                                    , 28, Kurnool, 552, YEMMIGANUR, 5202,banavasi, 204730, 15.762497, 77.480069, Banavasi GP, 2,4695
+ANDHRA PRADESH                                    , 28, Kurnool, 552, YEMMIGANUR, 5202,devibetta, 204731, 15.685277, 77.390696, Devibetta GP, 2,1652
+ANDHRA PRADESH                                    , 28, Kurnool, 552, YEMMIGANUR, 5202,divamdinne, 204732, 15.822298, 77.587792, Divamdinne GP, 2,4571
+ANDHRA PRADESH                                    , 28, Kurnool, 552, YEMMIGANUR, 5202,enigabala, 204733, 15.805272, 77.609167, Enigabala GP, 2,2574
+ANDHRA PRADESH                                    , 28, Kurnool, 552, YEMMIGANUR, 5202,gudikal, 204734, 15.745004, 77.475385, Gudikal GP, 2,11213
+ANDHRA PRADESH                                    , 28, Kurnool, 552, YEMMIGANUR, 5202,k.thimmapuram, 204735, 15.807978, 77.541153, K.Thimmapuram GP, 2,2939
+ANDHRA PRADESH                                    , 28, Kurnool, 552, YEMMIGANUR, 5202,kadimetla, 204736, 15.749639, 77.541826, Kadimetla GP, 2,1253
+ANDHRA PRADESH                                    , 28, Kurnool, 552, YEMMIGANUR, 5202,kadivella, 204737, 15.700191, 77.474683, Kadivella GP, 2,5248
+ANDHRA PRADESH                                    , 28, Kurnool, 552, YEMMIGANUR, 5202,kalugotla, 204738, 15.781274, 77.507594, Kalugotla GP, 2,3209
+ANDHRA PRADESH                                    , 28, Kurnool, 552, YEMMIGANUR, 5202,kandanathi, 204739, 15.709551, 77.474164, Kandanathi GP, 2,7659
+ANDHRA PRADESH                                    , 28, Kurnool, 552, YEMMIGANUR, 5202,kotekal, 204740, 15.708166, 77.371618, Kotekal GP, 2,6115
+ANDHRA PRADESH                                    , 28, Kurnool, 552, YEMMIGANUR, 5202,malakapuram, 204741, 15.72544, 77.391901, Malkapuram GP, 2,1973
+ANDHRA PRADESH                                    , 28, Kurnool, 552, YEMMIGANUR, 5202,parlapalle, 204742, 15.781274, 77.507594, Parlapalle GP, 2,4648
+ANDHRA PRADESH                                    , 28, Kurnool, 552, YEMMIGANUR, 5202,pesaladinne, 204743, 15.805214, 77.607355, Pesaladinne GP, 2,1268
+ANDHRA PRADESH                                    , 28, Kurnool, 552, YEMMIGANUR, 5202,soganur, 204744, 15.822715, 77.545722, Soganur GP, 2,2227
+ANDHRA PRADESH                                    , 28, Kurnool, 552, YEMMIGANUR, 5202,tsallakullur, 204745, 15.818299, 77.543428, T.Sallakullur GP, 2,1876

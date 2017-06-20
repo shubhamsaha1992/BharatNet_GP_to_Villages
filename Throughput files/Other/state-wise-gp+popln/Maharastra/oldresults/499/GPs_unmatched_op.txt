@@ -1,0 +1,68 @@
+177940,dahivad
+177941,dahivad kh
+177994,lon sim
+178032,sadavn bk
+178226,jamdi pr b.
+178236,kharde
+178229,korajgaon
+178258,pimpalwad
+178474,anjanvihure
+178481,bhavarkhade
+178408,bilkhade
+178411,borkhada
+178414,chavalkhade
+178415,chinchpura bk.
+0,dharangaon panchayat samiti
+178422,ekalgan bk.
+178425,garkhade
+178437,musai bh
+178439,nimkhada
+178469,zzurkheda
+178575,lamanjan pb
+178815,bildi
+178849,lohtar
+0,pachora  panchayat  samiti
+178051,adalse
+178053,ajanvihare
+178059,bamrid p.u.
+178061,bhadgaon
+178072,ghudhe
+178075,kanshi
+178078,khothali
+178080,lon u.p.
+241158,mahalgaon
+178090,pimpardgaonb
+178093,savde
+178098,vade
+178100,vadgaon nal.
+178097,vadji
+178104,anjansale
+0,bhusawal  panchayat samiti
+178141,talvel
+178143,vardsim
+0,bodwad panchayat samiti
+178164,kurhe hardo
+178375,sanpule
+0,erandol ps
+178502,khadke sim
+178501,khedi kd.
+178626,devulgaon
+178645,jalandi bk
+178684,nandra pra
+178686,neri bk1
+178697,pimpalgoan bk
+178715,tahakali bk
+178716,tahakali kh
+178976,shevage bk.
+179006,bakshipur
+179050,nimbhore bk.
+179064,ramjipur
+0,raver  panchayat samiti
+179074,shindkheda
+179095,waghode bk.
+179102,bhlshiv
+179142,naware
+179147,parasade bru.
+179161,thorangavhan
+179169,virawali
+0,yawal  panchayat  samiti

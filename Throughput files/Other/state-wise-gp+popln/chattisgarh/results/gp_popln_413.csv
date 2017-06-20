@@ -1,0 +1,380 @@
+State_Name,State Code,District_Name,District_Code,Block_Name,Block_Code,GP Name,GP Code,Latitude,Longitude,Location_OF_GP,Phase,population
+CHHATTISGARH, 22, KANKER, 413, BHANUPRATAPPUR, 3659,aasulkhar, 126519, 20.183611, 81.116944, AASULKHAR, 21,460
+CHHATTISGARH, 22, KANKER, 413, BHANUPRATAPPUR, 3659,baanskund, 126520, 20.241825, 81.246604, BAANSKUND, 21,268
+CHHATTISGARH, 22, KANKER, 413, BHANUPRATAPPUR, 3659,baarvi, 126521, 20.267222, 81.234444, BAARVI, 21,574
+CHHATTISGARH, 22, KANKER, 413, BHANUPRATAPPUR, 3659,baijanpuri, 126522, 20.355, 81.225556, BAIJANPURI, 21,668
+CHHATTISGARH, 22, KANKER, 413, BHANUPRATAPPUR, 3659,bansla, 126523, 20.262778, 81.040556, BANSLA, 21,274
+CHHATTISGARH, 22, KANKER, 413, BHANUPRATAPPUR, 3659,bhainsakanhar d, 126524, 20.398611, 81.2075, BHAINSAKANHAR D, 21,1076
+CHHATTISGARH, 22, KANKER, 413, BHANUPRATAPPUR, 3659,bhainsakanhar k, 126525, 20.369722, 81.052222, BHAINSAKANHAR K, 21,1022
+CHHATTISGARH, 22, KANKER, 413, BHANUPRATAPPUR, 3659,bhanbeda, 126526, 20.320833, 81.173889, BHANBEDA, 21,598
+CHHATTISGARH, 22, KANKER, 413, BHANUPRATAPPUR, 3659,bheja, 126527, 20.261389, 81.191389, BHEJA, 21,878
+CHHATTISGARH, 22, KANKER, 413, BHANUPRATAPPUR, 3659,bhiragaon, 126528, 20.227222, 81.066111, BHIRAGAON, 21,385
+CHHATTISGARH, 22, KANKER, 413, BHANUPRATAPPUR, 3659,bhodiya, 126529, 20.339444, 81.197222, BHODIYA, 21,547
+CHHATTISGARH, 22, KANKER, 413, BHANUPRATAPPUR, 3659,bogar, 126530, 20.333611, 81.018889, BOGAR, 21,289
+CHHATTISGARH, 22, KANKER, 413, BHANUPRATAPPUR, 3659,chavela, 126531, 20.280833, 81.020556, CHAVELA, 21,639
+CHHATTISGARH, 22, KANKER, 413, BHANUPRATAPPUR, 3659,chichgaon, 126532, 20.32, 81.126667, CHICHGAON, 21,1636
+CHHATTISGARH, 22, KANKER, 413, BHANUPRATAPPUR, 3659,chilhati, 126533, 20.331389, 81.262222, CHILHATI, 21,462
+CHHATTISGARH, 22, KANKER, 413, BHANUPRATAPPUR, 3659,chougel, 126534, 20.331389, 81.059722, CHOUGEL, 21,1513
+CHHATTISGARH, 22, KANKER, 413, BHANUPRATAPPUR, 3659,dhaneli, 126535, 20.206367, 81.230045, DHANELI, 21,412
+CHHATTISGARH, 22, KANKER, 413, BHANUPRATAPPUR, 3659,dongargaon, 126536, 20.303611, 81.266944, DONGARGAON, 21,713
+CHHATTISGARH, 22, KANKER, 413, BHANUPRATAPPUR, 3659,dongarkatta, 126518, 20.363725, 81.174566, DONGARKATTA, 21,713
+CHHATTISGARH, 22, KANKER, 413, BHANUPRATAPPUR, 3659,dumarkot, 126537, 20.376389, 81.223611, DUMARKOT, 21,782
+CHHATTISGARH, 22, KANKER, 413, BHANUPRATAPPUR, 3659,ghota, 126538, 20.266111, 81.108333, GHOTA, 21,944
+CHHATTISGARH, 22, KANKER, 413, BHANUPRATAPPUR, 3659,ghotiya, 126539, 20.23, 81.038611, GHOTIYA, 21,944
+CHHATTISGARH, 22, KANKER, 413, BHANUPRATAPPUR, 3659,haanpatri, 126540, 20.375, 81.26, HAANPATRI, 21,563
+CHHATTISGARH, 22, KANKER, 413, BHANUPRATAPPUR, 3659,hatkarra, 126541, 20.24, 81.260833, HATKARRA, 21,1205
+CHHATTISGARH, 22, KANKER, 413, BHANUPRATAPPUR, 3659,hetarkasa, 126542, 20.257778, 81.274722, HETARKASA, 21,804
+CHHATTISGARH, 22, KANKER, 413, BHANUPRATAPPUR, 3659,iragaon, 126543, 20.381111, 81.116944, IRAGAON, 21,770
+CHHATTISGARH, 22, KANKER, 413, BHANUPRATAPPUR, 3659,jatawada, 126544, 20.237707, 80.999359, JATAWADA, 21,465
+CHHATTISGARH, 22, KANKER, 413, BHANUPRATAPPUR, 3659,kacche, 126545, 20.413056, 81.077778, KACCHE, 21,1190
+CHHATTISGARH, 22, KANKER, 413, BHANUPRATAPPUR, 3659,kanechur, 126546, 20.359444, 81.203889, KANECHUR, 21,868
+CHHATTISGARH, 22, KANKER, 413, BHANUPRATAPPUR, 3659,kanhargaon, 126547, 20.299722, 81.072222, KANHARGAON, 21,424
+CHHATTISGARH, 22, KANKER, 413, BHANUPRATAPPUR, 3659,karathi, 126548, 20.322778, 81.048056, KARATHI, 21,1049
+CHHATTISGARH, 22, KANKER, 413, BHANUPRATAPPUR, 3659,karmoti, 126549, 20.305833, 81.010556, KARMOTI, 21,214
+CHHATTISGARH, 22, KANKER, 413, BHANUPRATAPPUR, 3659,keoti, 126550, 20.226944, 81.0875, KEOTI, 21,320
+CHHATTISGARH, 22, KANKER, 413, BHANUPRATAPPUR, 3659,korar, 126551, 20.321111, 81.272222, KORAR, 21,1517
+CHHATTISGARH, 22, KANKER, 413, BHANUPRATAPPUR, 3659,kulhadkatta, 126552, 20.294444, 81.110556, KULHADKATTA, 21,634
+CHHATTISGARH, 22, KANKER, 413, BHANUPRATAPPUR, 3659,kuri, 126553, 20.323333, 81.221389, KURI, 21,868
+CHHATTISGARH, 22, KANKER, 413, BHANUPRATAPPUR, 3659,mulla, 126554, 20.33, 81.068333, MULLA, 21,1739
+CHHATTISGARH, 22, KANKER, 413, BHANUPRATAPPUR, 3659,mungwal, 126555, 20.291944, 81.192778, MUNGWAL, 21,208
+CHHATTISGARH, 22, KANKER, 413, BHANUPRATAPPUR, 3659,narayanpur, 126556, 20.293611, 81.074722, NARAYANPUR, 21,3260
+CHHATTISGARH, 22, KANKER, 413, BHANUPRATAPPUR, 3659,parvi, 126557, 20.2375, 81.121667, PARVI, 21,304
+CHHATTISGARH, 22, KANKER, 413, BHANUPRATAPPUR, 3659,pevari, 126558, 20.184167, 81.128333, PEVARI, 21,283
+CHHATTISGARH, 22, KANKER, 413, BHANUPRATAPPUR, 3659,pharaskot, 126559, 20.206667, 81.103333, PHARASKOT, 21,573
+CHHATTISGARH, 22, KANKER, 413, BHANUPRATAPPUR, 3659,salhe, 126560, 20.3875, 81.098056, SALHE, 21,208
+CHHATTISGARH, 22, KANKER, 413, BHANUPRATAPPUR, 3659,sambalpur, 126561, 20.304722, 81.034444, SAMBALPUR, 21,548
+CHHATTISGARH, 22, KANKER, 413, BHANUPRATAPPUR, 3659,selegaon, 126562, 20.354722, 81.256389, SELEGAON, 21,510
+CHHATTISGARH, 22, KANKER, 413, BHANUPRATAPPUR, 3659,sonekanhar, 126563, 20.186944, 81.064167, SONEKANHAR, 21,215
+CHHATTISGARH, 22, KANKER, 413, BHANUPRATAPPUR, 3659,tarandul, 126564, 20.153347, 81.162941, TARANDUL, 21,978
+CHHATTISGARH, 22, KANKER, 413, ANTAGARH                                          , 3658,adhanar, 126474, 19.581468, 81.131334, Panchayat Bhawan, 2,341
+CHHATTISGARH, 22, KANKER, 413, ANTAGARH                                          , 3658,amabeda, 126475, 20.041794, 81.193467, Panchayat Bhawan, 2,585
+CHHATTISGARH, 22, KANKER, 413, ANTAGARH                                          , 3658,amagaon, 126476, 20.002184, 81.121399, Panchayat Bhawan, 2,368
+CHHATTISGARH, 22, KANKER, 413, ANTAGARH                                          , 3658,amodhi, 126477, 20.094271, 81.004906, Panchayat Bhawan, 2,428
+CHHATTISGARH, 22, KANKER, 413, ANTAGARH                                          , 3658,badepinjodi, 126480, 20.062997, 81.153099, Panchayat Bhawan, 2,202
+CHHATTISGARH, 22, KANKER, 413, ANTAGARH                                          , 3658,badetevada, 126481, 20.035122, 81.174407, Panchayat Bhawan, 2,935
+CHHATTISGARH, 22, KANKER, 413, ANTAGARH                                          , 3658,badetopal, 126482, 20.080563, 81.102888, Panchayat Bhawan, 2,213
+CHHATTISGARH, 22, KANKER, 413, ANTAGARH                                          , 3658,baihasalebhat, 126483, 19.531097, 81.090279, Panchayat Bhawan, 2,44
+CHHATTISGARH, 22, KANKER, 413, ANTAGARH                                          , 3658,belondee, 126485, 20.065519, 81.20556, Panchayat Bhawan, 2,358
+CHHATTISGARH, 22, KANKER, 413, ANTAGARH                                          , 3658,bhaisasur, 126486, 20.054891, 81.031754, Panchayat Bhawan, 2,1601
+CHHATTISGARH, 22, KANKER, 413, ANTAGARH                                          , 3658,bhaisgao, 126487, 19.523348, 81.131519, Panchayat Bhawan, 2,500
+CHHATTISGARH, 22, KANKER, 413, ANTAGARH                                          , 3658,bondanar, 126488, 20.003171, 81.094847, Panchayat Bhawan, 2,473
+CHHATTISGARH, 22, KANKER, 413, ANTAGARH                                          , 3658,bulawand, 126489, 20.071453, 81.061655, Panchayat Bhawan, 2,418
+CHHATTISGARH, 22, KANKER, 413, ANTAGARH                                          , 3658,fufagaon, 126491, 20.05346, 81.211169, Panchayat Bhawan, 2,187
+CHHATTISGARH, 22, KANKER, 413, ANTAGARH                                          , 3658,godari, 126492, 20.040232, 81.115255, Panchayat Bhawan, 2,550
+CHHATTISGARH, 22, KANKER, 413, ANTAGARH                                          , 3658,gondbinapal, 126493, 20.025269, 81.082421, Panchayat Bhawan, 2,258
+CHHATTISGARH, 22, KANKER, 413, ANTAGARH                                          , 3658,himoda, 126494, 20.063948, 81.103608, Panchayat Bhawan, 2,483
+CHHATTISGARH, 22, KANKER, 413, ANTAGARH                                          , 3658,jethhegaon, 126495, 20.081892, 80.59409, Panchayat Bhawan, 2,510
+CHHATTISGARH, 22, KANKER, 413, ANTAGARH                                          , 3658,kaleparas, 126496, 20.00477, 81.111361, Panchayat Bhawan, 2,534
+CHHATTISGARH, 22, KANKER, 413, ANTAGARH                                          , 3658,kalgaon, 126497, 20.04218, 81.084761, Panchayat Bhawan, 2,1083
+CHHATTISGARH, 22, KANKER, 413, ANTAGARH                                          , 3658,kanagao, 126498, 20.074546, 81.051065, Panchayat Bhawan, 2,360
+CHHATTISGARH, 22, KANKER, 413, ANTAGARH                                          , 3658,kodagaon, 126500, 20.051134, 81.073064, Panchayat Bhawan, 2,278
+CHHATTISGARH, 22, KANKER, 413, ANTAGARH                                          , 3658,kolar, 126501, 19.543338, 81.09054, Panchayat Bhawan, 2,315
+CHHATTISGARH, 22, KANKER, 413, ANTAGARH                                          , 3658,koliyari, 126502, 20.02228, 81.185411, Panchayat Bhawan, 2,415
+CHHATTISGARH, 22, KANKER, 413, ANTAGARH                                          , 3658,kosronda, 126503, 19.565024, 81.074188, Panchayat Bhawan, 2,235
+CHHATTISGARH, 22, KANKER, 413, ANTAGARH                                          , 3658,mandagaon, 126504, 20.074899, 81.022945, Panchayat Bhawan, 2,715
+CHHATTISGARH, 22, KANKER, 413, ANTAGARH                                          , 3658,masbaras, 126505, 20.082704, 81.070139, Panchayat Bhawan, 2,673
+CHHATTISGARH, 22, KANKER, 413, ANTAGARH                                          , 3658,nagarbeda, 126507, 20.051377, 81.223775, Panchayat Bhawan, 2,519
+CHHATTISGARH, 22, KANKER, 413, ANTAGARH                                          , 3658,navagaon, 126508, 20.041298, 81.103019, Panchayat Bhawan, 2,489
+CHHATTISGARH, 22, KANKER, 413, ANTAGARH                                          , 3658,podagaon, 126509, 20.08423, 81.085315, Panchayat Bhawan, 2,278
+CHHATTISGARH, 22, KANKER, 413, ANTAGARH                                          , 3658,sarandi, 126510, 19.590987, 81.115952, Panchayat Bhawan, 2,2280
+CHHATTISGARH, 22, KANKER, 413, ANTAGARH                                          , 3658,surewahi, 126511, 20.042036, 81.010011, Panchayat Bhawan, 2,362
+CHHATTISGARH, 22, KANKER, 413, ANTAGARH                                          , 3658,tadoki, 126512, 19.575682, 81.09372, Panchayat Bhawan, 2,926
+CHHATTISGARH, 22, KANKER, 413, ANTAGARH                                          , 3658,talabeda, 126513, 19.564305, 81.095836, Panchayat Bhawan, 2,315
+CHHATTISGARH, 22, KANKER, 413, ANTAGARH                                          , 3658,temrupani, 126514, 20.05392, 81.050379, Panchayat Bhawan, 2,469
+CHHATTISGARH, 22, KANKER, 413, ANTAGARH                                          , 3658,timnar, 126515, 20.040855, 81.21599, Panchayat Bhawan, 2,786
+CHHATTISGARH, 22, KANKER, 413, ANTAGARH                                          , 3658,tumasnar, 126516, 20.065618, 81.215037, Panchayat Bhawan, 2,673
+CHHATTISGARH, 22, KANKER, 413, ANTAGARH                                          , 3658,useli, 126517, 20.085931, 81.210611, Panchayat Bhawan, 2,46
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,anwari, 126565, 20.501389, 81.344222, ANWARI, 2,1105
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,aroud, 126566, 20.439167, 81.460139, AROUD, 2,1312
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,badegauri, 126567, 20.427972, 81.335306, BADEGAURI, 2,1728
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,bagdongri, 126568, 20.388389, 81.341111, BAGDONGRI, 2,1517
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,bandatola, 126569, 20.439417, 81.460139, BANDATOLA, 2,848
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,basnwahi, 126570, 25.431917, 81.431417, BASNWAHI, 2,604
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,bhanpuri, 126571, 22.42, 81.538889, BHANPURI, 2,706
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,bharitola, 126572, 22.385, 81.109444, BHARITOLA, 2,975
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,bhilai, 126573, 20.487889, 81.367778, BHILAI, 2,656
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,bhiroad, 126574, 20.487889, 81.367778, BHIROAD, 2,1225
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,bhotha, 126575, 20.396639, 81.266556, BHOTHA, 2,831
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,charbhatha, 126576, 20.501389, 81.344222, CHARBHATHA, 2,159
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,chavadi, 126577, 20.487889, 81.367778, CHAVADI, 2,670
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,chinori, 126578, 20.487889, 81.367778, CHINORI, 2,1026
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,dargahan, 126579, 20.487889, 81.367778, DARGAHAN, 2,896
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,dedkohaka, 126580, 20.501389, 81.344222, DEDKOHAKA, 2,200
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,dokla, 126581, 20.487889, 81.367778, DOKLA, 2,1659
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,gandagauri, 126582, 20.388389, 81.341111, GANDAGAURI, 2,193
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,girhola, 126583, 20.487889, 81.367778, GIRHOLA, 2,68
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,gitpahar, 126584, 20.386667, 81.26, GITPAHAR, 2,48
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,golkumhada, 126585, 20.458694, 81.399528, GOLKUMHADA, 2,785
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,gotitola, 126586, 20.361111, 81.407861, GOTITOLA, 2,638
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,halbaa, 126587, 20.481861, 81.508167, HALBAA, 2,1800
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,haradula, 126588, 20.475833, 81.442222, HARADULA, 2,896
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,jaisakarra, 126589, 20.487778, 81.367778, JAISAKARRA, 2,3046
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,jepra, 126590, 20.473583, 81.471778, JEPRA, 2,1933
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,kahadgondi, 126591, 20.433528, 81.260083, KAHADGONDI, 2,434
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,kanapond, 126592, 20.40575, 81.423194, KANAPOND, 2,1151
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,kantagoan, 126593, 20.383972, 81.318861, KANTAGOAN, 2,896
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,kariha, 126594, 20.475917, 81.442389, KARIHA, 2,938
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,kasawahi, 126595, 20.531, 81.348333, KASAWAHI, 2,204
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,khairkheda, 126596, 20.405556, 81.423194, KHAIRKHEDA, 2,514
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,khartha, 126597, 20.481389, 81.418889, KHARTHA, 2,1272
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,kilepar, 126598, 20.473583, 81.471778, KILEPAR, 2,534
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,kishanpuri, 126599, 20.353917, 81.282556, KISHANPURI, 2,2493
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,kotela, 126600, 20.439417, 81.460139, KOTELA, 2,1541
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,kottara, 126601, 20.427778, 81.005306, KOTTARA, 2,358
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,kurrutola, 126602, 20.501639, 81.316889, KURRUTOLA, 2,737
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,kurubhat, 126603, 20.439167, 81.460139, KURUBHAT, 2,908
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,lakhanpuri, 126604, 20.3975, 81.428056, LAKHANPURI, 2,1664
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,lilejhar, 126605, 20.427778, 81.335306, LILEJHAR, 2,1583
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,mainpur, 126607, 20.361333, 81.407917, MAINPUR, 2,946
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,markatola, 126608, 20.301194, 81.349639, MARKATOLA, 2,1459
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,mayana, 126609, 20.433528, 81.260083, MAYANA, 2,1186
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,paleva, 126610, 20.400194, 81.476139, PALEVA, 2,1159
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,pandripani, 126611, 20.498222, 81.402972, PANDRIPANI, 2,753
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,parsoda, 126612, 20.388389, 81.341111, PARSODA, 2,1638
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,pipraod, 126613, 20.3975, 81.428083, PIPRAOD, 2,1178
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,puri, 126614, 20.422944, 81.286667, PURI, 2,868
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,ranidongari, 126615, 20.481861, 81.508167, RANIDONGARI, 2,193
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,salhetola, 126616, 20.501389, 81.344222, SALHETOLA, 2,799
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,saradhunawagoan, 126617, 20.487889, 81.367778, SARADHUNAWAGOAN, 2,896
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,shahwada, 126618, 20.401389, 81.353222, SHAHWADA, 2,896
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,sirsida, 126619, 20.487889, 81.367778, SIRSIDA, 2,2280
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,tanhkapar, 126620, 20.439417, 81.460139, TANHKAPAR, 2,1563
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,tarasgoan, 126621, 20.3975, 81.428083, TARASGOAN, 2,944
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,telgara, 126622, 20.379306, 81.427278, TELGARA, 2,354
+CHHATTISGARH, 22, KANKER, 413, CHARAMA                                           , 3660,udkuda, 126623, 20.394667, 81.427222, UDKUDA, 2,908
+CHHATTISGARH, 22, KANKER, 413, DURGUKONDAL                                       , 3661,bangachar, 126624, 20.08162, 80.550922, BANGACHAR, 2,114
+CHHATTISGARH, 22, KANKER, 413, DURGUKONDAL                                       , 3661,barheli, 126625, 20.193358, 80.560787, BARHELI, 2,326
+CHHATTISGARH, 22, KANKER, 413, DURGUKONDAL                                       , 3661,bhandardigi, 126626, 20.143102, 80.572873, BHANDARDIGI, 2,722
+CHHATTISGARH, 22, KANKER, 413, DURGUKONDAL                                       , 3661,bhirawahi, 126627, 20.225052, 81.021641, BHIRAWAHI, 2,1078
+CHHATTISGARH, 22, KANKER, 413, DURGUKONDAL                                       , 3661,chaurgaon, 126628, 20.154597, 80.455688, CHAURGAON, 2,910
+CHHATTISGARH, 22, KANKER, 413, DURGUKONDAL                                       , 3661,chihro, 126629, 20.175679, 80.570096, CHIHRO, 2,247
+CHHATTISGARH, 22, KANKER, 413, DURGUKONDAL                                       , 3661,damkasa, 126630, 20.191085, 80.583473, DAMKASA, 2,132
+CHHATTISGARH, 22, KANKER, 413, DURGUKONDAL                                       , 3661,durgukondal, 126631, 20.131071, 80.564456, DURGUKONDAL, 2,714
+CHHATTISGARH, 22, KANKER, 413, DURGUKONDAL                                       , 3661,godpal, 126632, 20.151061, 80.461539, GODPAL, 2,507
+CHHATTISGARH, 22, KANKER, 413, DURGUKONDAL                                       , 3661,gudum, 126633, 20.151674, 80.500441, GUDUM, 2,453
+CHHATTISGARH, 22, KANKER, 413, DURGUKONDAL                                       , 3661,hamatwahi, 126634, 20.093944, 80.453941, HAMATWAHI, 2,184
+CHHATTISGARH, 22, KANKER, 413, DURGUKONDAL                                       , 3661,hanpatri, 126635, 20.163498, 80.552978, HANPATRI, 2,162
+CHHATTISGARH, 22, KANKER, 413, DURGUKONDAL                                       , 3661,hatkondal, 126636, 20.223291, 81.010105, HATKONDAL, 2,1268
+CHHATTISGARH, 22, KANKER, 413, DURGUKONDAL                                       , 3661,jadekhurse, 126637, 20.20251, 80.560803, JADEKHURSE, 2,675
+CHHATTISGARH, 22, KANKER, 413, DURGUKONDAL                                       , 3661,jhitkatola, 126638, 20.200075, 81.010732, JHITKATOLA, 2,584
+CHHATTISGARH, 22, KANKER, 413, DURGUKONDAL                                       , 3661,kalangpuri, 126639, 20.235075, 80.582216, KALANGPURI, 2,574
+CHHATTISGARH, 22, KANKER, 413, DURGUKONDAL                                       , 3661,karaki, 126640, 20.15313, 80.46517, KARAKI, 2,619
+CHHATTISGARH, 22, KANKER, 413, DURGUKONDAL                                       , 3661,karramad, 126641, 20.130994, 80.574507, KARRAMAD, 2,367
+CHHATTISGARH, 22, KANKER, 413, DURGUKONDAL                                       , 3661,khutgaon, 126642, 20.132741, 80.563665, KHUTGAON, 2,855
+CHHATTISGARH, 22, KANKER, 413, DURGUKONDAL                                       , 3661,kodapakha, 126643, 20.082586, 80.561207, KODAPAKHA, 2,514
+CHHATTISGARH, 22, KANKER, 413, DURGUKONDAL                                       , 3661,kodekhurse, 126644, 20.132758, 80.473074, KODEKHURSE, 2,472
+CHHATTISGARH, 22, KANKER, 413, DURGUKONDAL                                       , 3661,konde, 126645, 20.100285, 80.491244, KONDE, 2,438
+CHHATTISGARH, 22, KANKER, 413, DURGUKONDAL                                       , 3661,lohattar, 126646, 20.213346, 80.520023, LOHATTAR, 2,249
+CHHATTISGARH, 22, KANKER, 413, DURGUKONDAL                                       , 3661,mangahoor, 126647, 20.11073, 80.432902, MANGAHOOR, 2,568
+CHHATTISGARH, 22, KANKER, 413, DURGUKONDAL                                       , 3661,medo, 126648, 20.100855, 80.554536, MEDO, 2,771
+CHHATTISGARH, 22, KANKER, 413, DURGUKONDAL                                       , 3661,pachangi, 126649, 20.082538, 80.424125, PACHANGI, 2,819
+CHHATTISGARH, 22, KANKER, 413, DURGUKONDAL                                       , 3661,pedavari, 126650, 20.184041, 81.001905, PEDAVARI, 2,404
+CHHATTISGARH, 22, KANKER, 413, DURGUKONDAL                                       , 3661,perrekodo, 126651, 20.245244, 81.025515, PERREKODO, 2,385
+CHHATTISGARH, 22, KANKER, 413, DURGUKONDAL                                       , 3661,raurwahi, 126652, 20.223291, 81.010105, RAURWAHI, 2,1044
+CHHATTISGARH, 22, KANKER, 413, DURGUKONDAL                                       , 3661,sadhumichagaon, 126653, 20.125841, 80.500983, SADHUMICHAGAON, 2,204
+CHHATTISGARH, 22, KANKER, 413, DURGUKONDAL                                       , 3661,saradhudhamre, 126654, 20.084953, 80.495998, SARADHUDHAMRE, 2,55
+CHHATTISGARH, 22, KANKER, 413, DURGUKONDAL                                       , 3661,shivni, 126655, 20.181721, 81.020424, SHIVNI, 2,441
+CHHATTISGARH, 22, KANKER, 413, DURGUKONDAL                                       , 3661,sinhari, 126656, 20.131203, 81.564263, SINHARI, 2,567
+CHHATTISGARH, 22, KANKER, 413, DURGUKONDAL                                       , 3661,surungdoh, 126657, 20.13443, 80.481311, SURUNGDOH, 2,835
+CHHATTISGARH, 22, KANKER, 413, DURGUKONDAL                                       , 3661,taraighotiya, 126658, 20.231757, 80.56101, TARAIGHOTIYA, 2,472
+CHHATTISGARH, 22, KANKER, 413, DURGUKONDAL                                       , 3661,tarhul, 126659, 20.191085, 80.583473, TARHUL, 2,489
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,aandi, 126660, 20.346417, 81.345056, AANDI, 2,1291
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,albeda, 126661, 20.276139, 81.343389, ALBEDA, 2,561
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,anjani, 126662, 20.286889, 81.592639, ANJANI, 2,1271
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,arjuni, 126663, 20.29325, 81.47775, ARJUNI, 2,673
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,aturgaon, 126664, 20.212861, 81.509667, ATURGAON, 2,910
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,babudabena, 126665, 20.346417, 81.345056, BABUDABENA, 2,1602
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,bagodar, 126666, 20.348028, 81.468583, BAGODAR, 2,1540
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,bardevari, 126667, 20.294944, 81.384111, BARDEVARI, 2,1915
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,bewarati, 126668, 20.279333, 81.544306, BEWARATI, 2,2076
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,bhairadih, 126669, 20.272167, 81.293111, BHAIRADIH, 2,737
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,bhirawahi, 126670, 20.29325, 81.47775, BHIRAWAHI, 2,1078
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,byaskongera, 126671, 20.232556, 81.525917, BYASKONGERA, 2,1517
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,daspur, 126672, 20.279167, 81.512361, DASPUR, 2,1756
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,dhanelikanhar, 126673, 20.301194, 81.349917, DHANELIKANHAR, 2,1563
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,domaharra, 126674, 20.284917, 81.319722, DOMAHARRA, 2,46
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,dumali, 126675, 20.289778, 81.514111, DUMALI, 2,1132
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,gadpichhwadi, 126676, 20.232028, 81.469167, GADPICHHWADI, 2,2327
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,gotpur, 126677, 20.321472, 81.509028, GOTPUR, 2,906
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,govindpur, 126678, 20.287639, 81.475417, GOVINDPUR, 2,500
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,hatkongera, 126679, 20.321472, 81.509028, HATKONGERA, 2,1508
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,ichchhapur, 126680, 20.232028, 81.469167, ICHCHHAPUR, 2,290
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,kanharpuri, 126681, 20.301194, 81.349917, KANHARPURI, 2,434
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,kapsi, 126682, 20.302278, 81.325194, KAPSI, 2,1140
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,kewantintola, 126683, 20.322333, 81.301083, KEWANTINTOLA, 2,972
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,kirgoli, 126684, 20.315722, 81.456111, KIRGOLI, 2,552
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,kodabhat, 126685, 20.260278, 81.328333, KODABHAT, 2,500
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,kodagaon, 126686, 20.301194, 81.349917, KODAGAON, 2,278
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,kodejunga, 126687, 20.27725, 81.469917, KODEJUNGA, 2,891
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,kokanpur, 126688, 20.301194, 81.349917, KOKANPUR, 2,1424
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,kokdi, 126689, 20.331, 81.457361, KOKDI, 2,880
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,kokpur, 126690, 20.287028, 81.455306, KOKPUR, 2,443
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,kulgaon, 126691, 20.201861, 81.500833, KULGAON, 2,303
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,kuristikur, 126692, 20.292972, 81.442417, KURISTIKUR, 2,1208
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,makdikhuna, 126693, 20.210278, 81.364167, MAKDIKHUNA, 2,975
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,malgaon, 126694, 20.27725, 81.469917, MALGAON, 2,1089
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,mandari, 126695, 20.2795, 81.397778, MANDARI, 2,542
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,mankesari, 126696, 20.270639, 81.486833, MANKESARI, 2,1077
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,mardapoti, 126697, 20.225694, 81.465083, MARDAPOTI, 2,86
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,markatola, 126698, 20.301194, 81.349639, MARKATOLA, 2,1459
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,matwada, 126699, 20.2755, 81.496417, MATWADA, 2,500
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,matwada lal, 126700, 20.292972, 81.442417, MATWADA LAL, 2,1066
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,mode, 126701, 20.276139, 81.343389, MODE, 2,1874
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,mohpur, 126702, 20.232556, 81.525917, MOHPUR, 2,1103
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,muragaon, 126703, 20.2875, 81.475278, MURAGAON, 2,134
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,nara, 126704, 20.319111, 81.495778, NARA, 2,858
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,nathiya nawagaon, 126705, 20.331, 81.457361, NATHIYA NAWAGAON, 2,968
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,nawagaon bhavgir, 126706, 20.257611, 81.482139, NAWAGAON BHAVGIR, 2,576
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,pandarwahi, 126707, 20.352333, 81.448306, PANDARWAHI, 2,415
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,patod, 126708, 20.279333, 81.512361, PATOD, 2,1701
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,petoli, 126709, 20.317944, 81.474917, PETOLI, 2,993
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,pidapal, 126710, 20.2515, 81.384639, PIDAPAL, 2,1202
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,potgaon, 126711, 20.326333, 81.333917, POTGAON, 2,2361
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,puswada, 126712, 20.281389, 81.5585, PUSWADA, 2,2109
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,sarangpal, 126713, 20.289778, 81.514111, SARANGPAL, 2,1639
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,sidesar, 126714, 20.319111, 81.495778, SIDESAR, 2,894
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,singarbhat, 126715, 20.255056, 81.509389, SINGARBHAT, 2,208
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,sureli, 126716, 20.272167, 81.293111, SURELI, 2,480
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,talakurra, 126717, 20.312889, 81.296833, TALAKURRA, 2,1730
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,telawat, 126718, 20.300917, 81.346528, TELAWAT, 2,1366
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,thelkabode, 126719, 20.277556, 81.478583, THELKABODE, 2,2154
+CHHATTISGARH, 22, KANKER, 413, KANKER                                            , 3662,tultuli, 126720, 20.214889, 81.369306, TULTULI, 2,123
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,aakmeta, 126722, 19.49244, 80.384448, AAKMETA, 2,170
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,aalor, 126723, 20.064204, 80.400495, AALOR, 2,790
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,aalparas, 126724, 19.524336, 80.585531, AALPARAS, 2,441
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,asebeda, 126725, 20.013302, 80.403763, ASEBEDA, 2,267
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,bade kapsi, 126726, 20.051719, 80.405361, BADE KAPSI, 2,1129
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,badejhadkaha, 126727, 20.042145, 80.461848, BADEJHADKAHA, 2,100
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,badgaon, 126728, 20.082061, 80.461656, BADGAON, 2,469
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,badrangi, 126729, 19.592126, 81.04064, BADRANGI, 2,799
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,baikunthpur, 126730, 20.033873, 80.333047, BAIKUNTHPUR, 2,1969
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,bande, 126731, 19.552487, 80.323176, BANDE, 2,3308
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,barda, 126732, 20.015035, 80.432107, BARDA, 2,1271
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,belgal, 126733, 19.54333, 80.361316, BELGAL, 2,448
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,bhingidar, 126734, 19.595427, 80.425329, BHINGIDAR, 2,862
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,chanakyapuri, 126735, 20.042907, 80.383108, CHANAKYAPURI, 2,1026
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,chanpur, 126736, 19.582805, 80.430579, CHANPUR, 2,990
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,charghav, 126737, 20.034193, 80.58269, CHARGHAV, 2,141
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,chindpal, 126738, 20.085448, 80.470808, CHINDPAL, 2,1089
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,chote kapshi, 126739, 20.052345, 80.404133, CHOTE KAPSHI, 2,726
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,devpur, 126740, 20.081038, 80.391601, DEVPUR, 2,692
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,dharampur, 126741, 19.505817, 80.382766, DHARAMPUR, 2,542
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,dhorkatta, 126742, 20.095992, 80.354268, DHORKATTA, 2,172
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,durgapur, 126743, 20.013448, 80.332028, DURGAPUR, 2,1055
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,dwarika puri, 126744, 20.040989, 80.414597, DWARIKA PURI, 2,419
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,ghodagao, 126745, 19.585375, 80.39211, GHODAGAO, 2,1268
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,gondahoor, 126746, 20.075922, 80.351032, GONDAHOOR, 2,189
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,gudabeda, 126747, 19.560713, 81.003494, GUDABEDA, 2,333
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,hanker, 126748, 20.054961, 80.353811, HANKER, 2,273
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,harangarh, 126749, 20.034941, 80.394704, HARANGARH, 2,662
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,hariharpur, 126750, 20.033616, 80.375049, HARIHARPUR, 2,1008
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,indraprasth, 126751, 19.595962, 80.370207, INDRAPRASTH, 2,2095
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,irakbutta, 126752, 20.103786, 80.404152, IRAKBUTTA, 2,154
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,irpanar, 126753, 19.481503, 80.263315, IRPANAR, 2,423
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,jaipur, 126754, 20.09012, 80.354696, JAIPUR, 2,1428
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,janakpur, 126755, 19.570321, 80.342071, JANAKPUR, 2,246
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,jayshree nagar, 126756, 19.593599, 80.405185, JAYSHREE NAGAR, 2,1289
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,kadme, 126757, 20.021789, 80.562573, KADME, 2,255
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,kalyanpur, 126758, 20.05244, 80.341284, KALYANPUR, 2,849
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,kamteda, 126759, 19.581895, 80.525517, KAMTEDA, 2,148
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,kandadi, 126760, 19.56128, 81.023298, KANDADI, 2,194
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,karekatta, 126761, 19.574786, 80.422379, KAREKATTA, 2,1423
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,kaudo salebhat, 126762, 20.001095, 80.563558, KAUDO SALEBHAT, 2,908
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,kesekodi, 126763, 19.545184, 81.001726, KESEKODI, 2,46
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,koilibeda, 126764, 19.57443, 80.593436, KOILIBEDA, 2,2730
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,koygaw, 126765, 20.065317, 80.393206, KOYGAW, 2,247
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,krishna nagar, 126766, 20.030905, 80.400133, KRISHNA NAGAR, 2,789
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,kurenar, 126767, 19.51248, 80.300285, KURENAR, 2,267
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,lakhanpur, 126768, 20.013938, 80.341944, LAKHANPUR, 2,1664
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,laxmipur, 126721, 19.575416, 80.371638, LAXMIPUR, 2,313
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,machpalli, 126769, 19.535707, 80.401397, MACHPALLI, 2,132
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,mandaghav, 126770, 20.054269, 80.462253, MANDAGHAV, 2,107
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,maroda, 126771, 19.581118, 80.343153, MARODA, 2,695
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,matoli, 126772, 20.033803, 80.372156, MATOLI, 2,459
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,mayapur, 126773, 20.035016, 80.333055, MAYAPUR, 2,2168
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,nagaldand, 126774, 19.530864, 80.35534, NAGALDAND, 2,372
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,padenga, 126775, 19.56106, 80.313956, PADENGA, 2,98
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,panawasr, 126777, 19.495229, 80.330518, PANAWASR, 2,530
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,panidobir, 126778, 19.512417, 80.592285, PANIDOBIR, 2,173
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,partapur, 126779, 19.594587, 80.442971, PARTAPUR, 2,63
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,penkodo, 126780, 20.000728, 80.335203, PENKODO, 2,1720
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,perondi, 126781, 20.05534, 80.583357, PERONDI, 2,1081
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,pittebhodia, 126782, 20.060587, 80.391222, PITTEBHODIA, 2,547
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,prem nagar, 126783, 20.061854, 80.423001, PREM NAGAR, 2,1778
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,purshotam nagar, 126784, 20.004826, 80.375225, PURSHOTAM NAGAR, 2,1967
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,ramkrishanpur, 126785, 20.0314, 80.352507, RAMKRISHANPUR, 2,2493
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,rengavahi, 126786, 19.451789, 80.370717, RENGAVAHI, 2,218
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,satya nagar, 126787, 20.023306, 80.411508, SATYA NAGAR, 2,459
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,saver, 126788, 19.544211, 80.314083, SAVER, 2,589
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,shankernagar, 126789, 19.552327, 80.2858, SHANKERNAGAR, 2,225
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,shyam nagar, 126790, 20.015886, 80.395934, SHYAM NAGAR, 2,484
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,siksod, 126791, 20.021787, 81.040814, SIKSOD, 2,119
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,sulangi, 126792, 19.585587, 81.011942, SULANGI, 2,311
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,udanpur, 126793, 19.5823, 80.555015, UDANPUR, 2,337
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,udaypur, 126794, 20.01028, 80.370507, UDAYPUR, 2,535
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,uliya, 126795, 19.481914, 80.341044, ULIYA, 2,680
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,vikaspalli, 126796, 19.483446, 80.27324, VIKASPALLI, 2,492
+CHHATTISGARH, 22, KANKER, 413, KOILEBEDA                                         , 3663,vishnupur, 126797, 19.513492, 80.332271, VISHNUPUR, 2,743
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,aakheeharra, 126798, 20.442028, 81.621306, AAKHEEHARRA PANCHAYAT, 2,845
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,abhanpur, 126799, 20.304694, 81.69125, ABHANPUR PANCHAYAT, 2,760
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,amoda, 126800, 20.384, 81.581778, AMODA PANCHAYAT, 2,467
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,babusalhetola, 126801, 20.332389, 81.543722, BABUSALHETOLA, 2,880
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,badal, 126802, 20.479528, 81.653972, BADAL PANCHAYAT, 2,1463
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,bagdongri, 126803, 20.485472, 81.565417, BAGDONGRI PANCHAYAT, 2,1517
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,bangabari, 126804, 20.225111, 81.75125, BANGABARI PANCHAYAT, 2,114
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,bansagar, 126805, 20.39025, 81.522056, BANSAGAR PANCHAYAT, 2,612
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,basanwahi, 126806, 20.244694, 81.769194, BASANWAHI PANCHAYAT, 2,604
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,baspattar, 126807, 20.204472, 81.660778, BASPATTAR PANCHAYAT, 2,217
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,bhaisamundi(gagru), 126808, 20.313944, 81.659556, BHAISAMUNDI PANCHAYAT, 2,598
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,bhansuli, 126809, 20.479528, 81.653972, BHANSULI PANCHYAT, 2,598
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,bhiraud, 126810, 20.307444, 81.673472, BHIRAUD PANCHAYAT, 2,589
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,bihawapara, 126811, 20.286444, 81.752333, BIHAWAPARA PANCHAYAT, 2,372
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,biranpur, 126812, 20.463528, 81.580972, BIRANPUR PANCHAYAT, 2,668
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,budeli, 126813, 20.287333, 81.595417, BUBELI PANCHAYAT, 2,963
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,chanar, 126814, 20.376333, 81.575694, CHANAR PANCHAYAT, 2,142
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,charbhatti, 126815, 20.442028, 81.621306, CHARBHATTI PANCHAYAT, 2,1292
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,chawad, 126816, 20.346806, 81.534, CHAWAD PANCHAYAT, 2,670
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,choriya, 126817, 20.275306, 81.673222, CHORIYA PANCHYAT, 2,2629
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,dabena, 126818, 20.397222, 81.645833, DABENA PANCHAYAT, 2,1024
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,dawarkhar, 126819, 20.287333, 81.595417, DAWARKHAR, 2,593
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,devinavagaon, 126820, 20.498528, 81.563333, DEVINAVAGAON PANCHAYAT, 2,978
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,dewaribalajee, 126821, 20.307028, 81.622361, DEWARIBALAJI , 2,102
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,dewdongar, 126822, 20.318194, 81.733528, DEWDONGAR, 2,76
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,dewgoan, 126823, 20.395472, 81.644694, DEWGAON , 2,519
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,dhanesara, 126824, 20.314861, 81.654444, DHANESARA  , 2,1551
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,dhanora, 126825, 20.297694, 81.73575, DHANORA PANCHAYAT, 2,1551
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,dhawarabhata, 126826, 20.479528, 81.653972, DHAWARABHATA , 2,159
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,dhekuna, 126827, 20.386278, 81.519972, DHEKUNA , 2,977
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,dudhawa, 126829, 20.293667, 81.720611, DUDHAWA , 2,1650
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,dumarpani, 126830, 20.470361, 81.554583, DUMARPANI , 2,1629
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,ghotiyawahi, 126831, 20.382111, 81.742, GHOTIYAWHI , 2,1078
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,jamgoan, 126832, 20.392889, 81.675556, JAMGAON PANCHAYAT, 2,2090
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,junwani, 126833, 20.342083, 81.5395, JUNWANI , 2,525
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,kanhanpuri, 126834, 20.307833, 81.60325, KANHANPURI PANCHAYAT, 2,1322
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,karap, 126835, 20.286889, 81.592639, KARAP PANCHAYAT, 2,1089
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,kisanpuri, 126836, 20.442028, 81.621306, KISANPURI PANCHAYAT, 2,2493
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,kunhankhar, 126837, 20.250139, 81.581528, KUNHANKHAR PANCHAYAT, 2,214
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,kuralthemali, 126838, 20.44575, 81.727944, KURALTHEMALI , 2,908
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,kurna, 126839, 20.386278, 81.519972, KURNA PANCHAYAT, 2,801
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,largoan(m), 126840, 20.332389, 81.543722, LARGAON MARKATOLA , 2,896
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,lendara, 126841, 20.237222, 81.610278, LENDARA PANCHAYAT, 2,1182
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,malgoan, 126842, 20.294972, 81.69025, MALGAON , 2,3267
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,mandabharri, 126843, 20.238917, 81.756556, MANDABHARRI , 2,208
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,mandaradaraha, 126844, 20.382194, 81.740306, MANDARADARAHA, 2,208
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,manikpur, 126845, 20.307833, 81.60325, MANIKPUR PANCHAYAT, 2,837
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,marampani, 126846, 20.4515, 81.593556, MARAMPANI PANCHAYAT, 2,660
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,marwadi, 126847, 20.479528, 81.653972, MARWADI PANCHAYAT, 2,156
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,masulpani, 126848, 20.397222, 81.645833, MASULPANI , 2,317
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,mawalipara, 126849, 20.242444, 81.756222, MAWALIPARA , 2,882
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,mudapar, 126850, 20.284306, 81.642444, MUDAPAR PANCHYAT, 2,1570
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,musuraputta, 126851, 20.258028, 81.766722, MUSURAPUTTA , 2,154
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,risewada, 126853, 20.442028, 81.621306, RISEWADA PANCHAYAT, 2,695
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,salhebhat, 126854, 20.283444, 81.651556, SALHEBHAT , 2,340
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,saraimunda, 126855, 20.244694, 81.769194, SARAIMUNDA , 2,1140
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,sarona, 126856, 20.280778, 81.651583, SARONA PANCHAYAT, 2,3097
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,sarwandi, 126857, 20.293667, 81.720611, SARWANDI , 2,156
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,shamtara, 126858, 20.298667, 81.736111, SHAMTARA , 2,1241
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,shriguhan, 126859, 20.387806, 81.531778, SHRIGUHAN , 2,571
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,surhi, 126860, 20.442028, 81.621306, SURHI , 2,1843
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,thanabodi, 126861, 20.470361, 81.554583, THANABODI , 2,1077
+CHHATTISGARH, 22, KANKER, 413, NARHARPUR                                         , 3664,umradah, 126862, 20.442028, 81.621306, UMRADAH , 2,785

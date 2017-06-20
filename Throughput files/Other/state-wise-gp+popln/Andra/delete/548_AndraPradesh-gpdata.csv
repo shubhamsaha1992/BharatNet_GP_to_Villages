@@ -1,0 +1,987 @@
+State_Name,State Code,District_Name,District_Code,Block_Name,Block_Code,GP Name,GP Code,Latitude,Longitude,Location_OF_GP,Phase
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, AMARAVATHI, 4923, AMARAVATHI, 199941, 16.575552, 80.358659, AMARAVATHI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, AMARAVATHI, 4923, ATTALURU, 199942, 16.564173, 80.255094, ATTALURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, AMARAVATHI, 4923, DHARANIKOTA, 199943, 16.577373, 80.358714, DHARANIKOTA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, AMARAVATHI, 4923, DIDUGU, 199944, 16.581201, 80.322469, DIDUGU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, AMARAVATHI, 4923, ENDROY, 199945, 16.530248, 80.366781, ENDROY GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, AMARAVATHI, 4923, ENIKAPADU, 199946, 16.531652, 80.366239, ENIKAPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, AMARAVATHI, 4923, JUPUDI, 199947, 16.565929, 80.255098, JUPUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, AMARAVATHI, 4923, KARLAPUDI, 199948, 16.48526, 80.39383, KARLAPUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, AMARAVATHI, 4923, LEMALLE, 199949, 16.513867, 80.376532, LEMALLE GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, AMARAVATHI, 4923, LINGAPURAM, 199950, 16.575552, 80.358659, LINGAPURAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, AMARAVATHI, 4923, MALLADI, 199951, 16.535197, 80.3273, MALLADI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, AMARAVATHI, 4923, MANDEPUDI, 199952, 16.475203, 80.356029, MANDEPUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, AMARAVATHI, 4923, MUNAGODU, 199953, 16.57347, 80.278397, MUNAGODU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, AMARAVATHI, 4923, MUTHYAPALEM, 199954, 16.577978, 80.348009, MUTHYAPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, AMARAVATHI, 4923, NEMALIKALLU, 199955, 16.494362, 80.36356, NEMALIKALLU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, AMARAVATHI, 4923, NURUKULLAPADU, 199956, 16.570643, 80.358286, NURUKULLAPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, AMARAVATHI, 4923, PEDAMADDURU, 199957, 16.545412, 80.397055, PEDAMADDURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, AMARAVATHI, 4923, UNGUTURU, 199958, 16.492185, 80.390516, UNGUTURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, AMARAVATHI, 4923, VYKUNTAPURAM, 199959, 16.558447, 80.411593, VYKUNTAPURAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, AMRUTHALUR, 4924, AMRUTHALUR, 199960, 16.11319, 80.659447, AMRUTHALUR GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, AMRUTHALUR, 4924, BODAPADU, 199961, 16.107409, 80.620087, BODAPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, AMRUTHALUR, 4924, GOVADA, 199962, 16.11319, 80.659447, GOVADA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, AMRUTHALUR, 4924, INTURU, 199963, 16.089292, 80.643879, INTURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, AMRUTHALUR, 4924, KORUTADIPARRU, 199964, 16.124843, 80.625659, KORUTADIPARRU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, AMRUTHALUR, 4924, KUCHIPUDI, 199965, 16.14661, 80.66481, KUCHIPUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, AMRUTHALUR, 4924, MOPARRU, 199966, 16.113206, 80.639679, MOPARRU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, AMRUTHALUR, 4924, MULPUR, 199967, 16.175269, 80.665512, MULPUR GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, AMRUTHALUR, 4924, PANCHALAVARAM, 199968, 16.11319, 80.659447, PANCHALAVARAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, AMRUTHALUR, 4924, PEDAPUDI, 199969, 16.118109, 80.659258, PEDAPUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, AMRUTHALUR, 4924, PYAPARRU, 199970, 16.089474, 80.600543, PYAPARRU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, AMRUTHALUR, 4924, THURUMELLA, 199971, 16.11319, 80.659447, THURUMELLA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, AMRUTHALUR, 4924, VAMANAGUNTA PALEM, 199972, 16.113206, 80.639679, VAMANAGUNTA PALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, AMRUTHALUR, 4924, YADAVURU, 199973, 16.17962, 80.661992, YADAVURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, AMRUTHALUR, 4924, YALAVARRU, 199974, 16.087486, 80.666354, YALAVARRU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, ATCHEMPET, 4925, Ambadipudi, 202733, 16.62321, 80.17022, Ambadipudi, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, ATCHEMPET, 4925, Atchampet, 202734, 16.62845, 80.11894, Atchampet, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, ATCHEMPET, 4925, Bangaru Tanda (Taduvai), 202735, 16.74547, 80.137, Bangaru Tanda (Taduvai), 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, ATCHEMPET, 4925, Challagariga, 202736, 16.78098, 80.12658, Challagariga, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, ATCHEMPET, 4925, Cherukupalem, 202754, 16.6863, 80.11949, Cherukupalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, ATCHEMPET, 4925, Chigurupadu, 202737, 16.62623, 80.12691, Chigurupadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, ATCHEMPET, 4925, Chintapalli, 202738, 16.69044, 80.13941, Chintapalli, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, ATCHEMPET, 4925, Grandhasiri, 202739, 16.57433, 80.15233, Grandhasiri, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, ATCHEMPET, 4925, Kastala, 202740, 16.59162, 80.21887, Kastala, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, ATCHEMPET, 4925, Kogantivaripalem, 202741, 16.62316, 80.15229, Kogantivaripalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, ATCHEMPET, 4925, Konduru, 202742, 16.57367, 80.06812, Konduru, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, ATCHEMPET, 4925, Konuru, 202743, 16.60431, 80.19363, Konuru, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, ATCHEMPET, 4925, Kothapalli, 202752, 16.66786, 80.11681, Kothapalli, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, ATCHEMPET, 4925, Madipadu, 202744, 16.81364, 80.07607, Madipadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, ATCHEMPET, 4925, Mittapalem, 202745, 16.58045, 80.10134, Mittapalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, ATCHEMPET, 4925, Neeleswara Palem, 202746, 16.6279, 80.09563, Neeleswara Palem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, ATCHEMPET, 4925, Orvakallu, 202747, 16.59479, 80.16395, Orvakallu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, ATCHEMPET, 4925, Pedapalem, 202748, 16.58995, 80.1011, Pedapalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, ATCHEMPET, 4925, Putlagudem, 202753, 16.70672, 80.13607, Putlagudem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, ATCHEMPET, 4925, Rudravaram, 202749, 16.6031, 80.16428, Rudravaram, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, ATCHEMPET, 4925, Thallachreruvu, 202750, 16.64715, 80.09498, Thallachreruvu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, ATCHEMPET, 4925, Velpuru, 202751, 16.57501, 80.12673, Velpuru, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, Bapatla, 4926, ADAVI, 200011, 15.877467, 80.460511, ADAVI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, Bapatla, 4926, APPIKATLA, 199994, 15.976069, 80.512768, APPIKATLA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, Bapatla, 4926, ASODIVARIPALEM, 199995, 15.8963, 80.447781, ASODIVARIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, Bapatla, 4926, BETHAPUDI, 199996, 15.876938, 80.421512, BETHAPUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, Bapatla, 4926, CHERUVU JAMMULAPALEM, 200002, 15.967428, 80.429749, CHERUVU JAMMULAPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, Bapatla, 4926, EAST BAPATLA, 199998, 15.903369, 80.512492, EAST BAPATLA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, Bapatla, 4926, ETHERU, 199999, 15.992468, 80.516187, ETHERU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, Bapatla, 4926, GOPAPURAM, 200000, 15.991524, 80.491948, GOPAPURAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, Bapatla, 4926, JILLELLAMUDI, 200003, 15.986291, 80.439631, JILLELLAMUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, Bapatla, 4926, KANKATAPALEM, 200004, 15.954518, 80.394181, KANKATAPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, Bapatla, 4926, KONDABOTLAVARIPALEM, 245314, 15.923965, 80.502267, KONDABOTLAVARIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, Bapatla, 4926, MARRIPUDI, 200005, 15.976069, 80.512768, MARRIPUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, Bapatla, 4926, MARUPROLUVARIPALEM, 200006, 15.878295, 80.461653, MARUPROLUVARIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, Bapatla, 4926, MULAPALEM, 200007, 15.980134, 80.430937, MULAPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, Bapatla, 4926, MURUKONDAPADU, 200008, 15.922945, 80.417645, MURUKONDAPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, Bapatla, 4926, MUTHAYAPALEM, 200009, 15.881955, 80.484842, MUTHAYAPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, Bapatla, 4926, NARSAYAPALEM, 200010, 15.955467, 80.394553, NARSAYAPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, Bapatla, 4926, PINNUBOINAVARIPALEM, 200012, 15.903973, 80.468233, PINNUBOINAVARIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, Bapatla, 4926, POONDLA, 200013, 15.988292, 80.502719, POONDLA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, Bapatla, 4926, STUVARTPURAM, 245315, 15.867131, 80.407723, STUVARTPURAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, Bapatla, 4926, TSUNDURUPALLI, 200014, 16.008607, 80.522477, TSUNDURUPALLI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, Bapatla, 4926, VEDULLAPALLI, 200015, 15.918186, 80.41222, VEDULLAPALLI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, Bapatla, 4926, WEST BAPATLA, 255434, 15.8963, 80.447781, WEST BAPATLA, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BELLAMKONDA, 4927, Bellamkonda, 202774, 16.49233, 80.00751, Bellamkonda, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BELLAMKONDA, 4927, Bodanam, 202775, 16.63025, 79.95251, Bodanam, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BELLAMKONDA, 4927, Chandrajupalem, 202776, 16.52559, 80.00607, Chandrajupalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BELLAMKONDA, 4927, Chityala, 202777, 16.67779, 79.99505, Chityala, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BELLAMKONDA, 4927, Emmajigudem, 202778, 16.58258, 79.95077, Emmajigudem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BELLAMKONDA, 4927, Gangireddypalem, 202779, 16.4648, 80.01618, Gangireddypalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BELLAMKONDA, 4927, Kandipadu, 202780, 16.53319, 80.01039, Kandipadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BELLAMKONDA, 4927, Kollur, 202781, 16.70603, 80.01621, Kollur, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BELLAMKONDA, 4927, Machayapalem, 202782, 16.50327, 79.9896, Machayapalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BELLAMKONDA, 4927, Mannesultanpalem, 202783, 16.57725, 79.96966, Mannesultanpalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BELLAMKONDA, 4927, Nagireddypalem, 202784, 16.48522, 80.00739, Nagireddypalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BELLAMKONDA, 4927, Nandirajupalem, 202785, 16.4856, 79.98867, Nandirajupalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BELLAMKONDA, 4927, Papayapalem, 202786, 16.54709, 79.96643, Papayapalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BELLAMKONDA, 4927, Vannayapalem, 202787, 16.50545, 80.04313, Vannayapalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BELLAMKONDA, 4927, Venkatayapalem, 202788, 16.63889, 80.0394, Venkatayapalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BHATTIPROLU, 4928, ALLAMUDI, 200032, 16.06226, 80.802659, ALLAMUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BHATTIPROLU, 4928, BHATTIPROLU, 200033, 16.103325, 80.783969, BHATTIPROLU T/E, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BHATTIPROLU, 4928, CHINTAMOTU, 200034, 16.116665, 80.811208, CHINTAMOTU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BHATTIPROLU, 4928, GORIGAPUDI, 200035, 16.066658, 80.855054, GORIGAPUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BHATTIPROLU, 4928, ILAVARAM, 200036, 16.09792, 80.78219, ILAVARAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BHATTIPROLU, 4928, KANNEGANTIVARIPALEM, 200037, 16.066658, 80.855054, KANNEGANTIVARIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BHATTIPROLU, 4928, KONETIPURAM, 200038, 16.06226, 80.802659, KONETIPURAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BHATTIPROLU, 4928, OLERU, 200039, 16.066123, 80.844081, OLERU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BHATTIPROLU, 4928, PALLIKONA, 200040, 16.049247, 80.79769, PALLIKONA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BHATTIPROLU, 4928, PEDALANKA, 200041, 16.09647, 80.850781, PEDALANKA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BHATTIPROLU, 4928, PEDAPULIVARRU, 200042, 16.087072, 80.827833, PEDAPULIVARRU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BHATTIPROLU, 4928, PESARALANKA, 200043, 16.101375, 80.844792, PESARALANKA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BHATTIPROLU, 4928, RACHURU, 200044, 16.058119, 80.801278, RACHURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BHATTIPROLU, 4928, SUREEPALLE, 200031, 16.09792, 80.78219, SUREEPALLE GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BHATTIPROLU, 4928, VELLATURU, 200045, 16.103325, 80.783969, VELLATURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BOLLAPALLE, 4929, Ayyannapalem, 202805, 16.34529, 79.63744, Ayyannapalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BOLLAPALLE, 4929, Bandlamotu, 202806, 16.20362, 79.65345, Bandlamotu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BOLLAPALLE, 4929, Bollapalli, 202807, 16.18705, 79.68809, Bollapalli, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BOLLAPALLE, 4929, Domalgundam, 202808, 16.2969, 79.58758, Domalgundam, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BOLLAPALLE, 4929, Gandiganumala, 202809, 16.29392, 79.57256, Gandiganumala, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BOLLAPALLE, 4929, Garikapadu, 202810, 16.32312, 79.69562, Garikapadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BOLLAPALLE, 4929, Gummanampadu, 202812, 16.30952, 79.67023, Gummanampadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BOLLAPALLE, 4929, Gutlapalli, 202813, 16.16154, 79.5396, Gutlapalli, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BOLLAPALLE, 4929, Jayanthiramapuram, 202814, 16.34034, 79.75518, Jayanthiramapuram, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BOLLAPALLE, 4929, Kanumalacheruvu, 202815, 16.11915, 79.60422, Kanumalacheruvu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BOLLAPALLE, 4929, Lalipuram, 202816, 16.35556, 79.73761, Lalipuram, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BOLLAPALLE, 4929, Mellavagu, 202817, 16.34447, 79.73677, Mellavagu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BOLLAPALLE, 4929, Mugachintalapalem, 202818, 16.15914, 79.69559, Mugachintalapalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BOLLAPALLE, 4929, Naidupalem, 202819, 16.14885, 79.66624, Naidupalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BOLLAPALLE, 4929, Palukuru, 202820, 16.12897, 79.54146, Palukuru, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BOLLAPALLE, 4929, Pamidipadu, 202821, 16.33163, 79.71469, Pamidipadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BOLLAPALLE, 4929, Perurupadu, 202822, 16.0946, 79.65241, Perurupadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BOLLAPALLE, 4929, Ravulapuram, 202823, 16.25895, 79.58191, Ravulapuram, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BOLLAPALLE, 4929, Remidicherla, 202824, 16.28152, 79.64907, Remidicherla, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BOLLAPALLE, 4929, Sarikondayapalem, 202825, 16.11733, 79.68777, Sarikondayapalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BOLLAPALLE, 4929, Vaddemgunta, 202826, 16.13051, 79.69566, Vaddemgunta, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, BOLLAPALLE, 4929, Vellatur, 202827, 16.12143, 79.65139, Vellatur, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, CHEBROLE, 4930, CHEBROLU, 200067, 16.202998, 80.524218, CHEBROLU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, CHEBROLE, 4930, GODAVARRU, 200068, 16.217407, 80.504874, GODAVARRU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, CHEBROLE, 4930, GUNDAVARAM, 200069, 16.22546, 80.514534, GUNDAVARAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, CHEBROLE, 4930, MANCHALA, 200070, 16.167811, 80.536114, MANCHALA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, CHEBROLE, 4930, NARAKODURU, 200071, 16.226162, 80.514471, NARAKODURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, CHEBROLE, 4930, SALAPADU, 200072, 16.245849, 80.536481, SALAPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, CHEBROLE, 4930, SEKURU, 200073, 16.274457, 80.573255, SEKURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, CHEBROLE, 4930, SRIRANGAPURAM, 200074, 16.180943, 80.558496, SRIRANGAPURAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, CHEBROLE, 4930, SUDDA PALLI, 200075, 16.245849, 80.536481, SUDDA PALLI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, CHEBROLE, 4930, THOTLAPALEM, 200076, 16.167811, 80.536114, THOTLAPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, CHEBROLE, 4930, V.N.PALEM, 200077, 16.274457, 80.573255, V.N.PALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, CHEBROLE, 4930, VADLAMUDI, 200078, 16.226188, 80.555884, VADLAMUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, CHEBROLE, 4930, VEJENDLA, 200079, 16.233419, 80.527449, VEJENDLA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, CHILAKALURIPET, 4932, BOPPUDI, 200096, 16.073677, 80.107541, BOPPUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, CHILAKALURIPET, 4932, DANDAMUDI, 200097, 16.093071, 80.200987, DANDAMUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, CHILAKALURIPET, 4932, EDAVALLI, 200098, 16.093954, 80.09443, EDAVALLI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, CHILAKALURIPET, 4932, GANGANNAPALEM, 200099, 16.159182, 80.116032, GANGANNAPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, CHILAKALURIPET, 4932, GOPALAMVARIPALEM, 200100, 16.093954, 80.09443, GOPALAMVARIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, CHILAKALURIPET, 4932, GOTTIPADU, 200101, 16.083241, 80.207456, GOTTIPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, CHILAKALURIPET, 4932, GOVINDAPURAM, 200102, 16.159182, 80.116032, GOVINDAPURAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, CHILAKALURIPET, 4932, KAMMAVARIPALEM, 200103, 16.1545, 80.105069, KAMMAVARIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, CHILAKALURIPET, 4932, KATTUBADIVARIPALEM, 200104, 16.131065, 80.095994, KATTUBADIVARIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, CHILAKALURIPET, 4932, KAVURU, 200105, 16.136853, 80.126773, KAVURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, CHILAKALURIPET, 4932, LINGAMGUNTLA, 200107, 16.137344, 80.130875, LINGAMGUNTLA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, CHILAKALURIPET, 4932, MADDIRALA, 200108, 16.0945, 80.114999, MADDIRALA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, CHILAKALURIPET, 4932, MANUKONDAVARIPALEM, 200109, 16.090383, 80.166036, MANUKONDAVARIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, CHILAKALURIPET, 4932, MURIKIPUDI, 200110, 16.073677, 80.107541, MURIKIPUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, CHILAKALURIPET, 4932, PASUMARRU, 200111, 16.086249, 80.167677, PASUMARRU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, CHILAKALURIPET, 4932, POTHAVARAM, 200112, 16.090383, 80.166036, POTHAVARAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, CHILAKALURIPET, 4932, RAJAPETA, 200113, 16.0945, 80.114999, RAJAPETA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, CHILAKALURIPET, 4932, RAMACHANDRAPURAM, 200114, 16.039806, 80.102748, RAMACHANDRAPURAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, CHILAKALURIPET, 4932, TATAPUDI, 200115, 16.039806, 80.102748, TATAPUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, CHILAKALURIPET, 4932, VELURU, 200116, 16.095667, 80.194396, VELURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, DACHEPALLE, 4933, Bhatrupalem, 202879, 16.67935, 79.73061, Bhatrupalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, DACHEPALLE, 4933, Dachepally, 202880, 16.59656, 79.73907, Dachepally, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, DACHEPALLE, 4933, Gamalapadu, 202881, 16.61096, 79.71593, Gamalapadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, DACHEPALLE, 4933, Katrapadu, 202882, 16.71401, 79.7553, Katrapadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, DACHEPALLE, 4933, Kesanapalli, 202883, 16.58456, 79.74021, Kesanapalli, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, DACHEPALLE, 4933, Kothuru, 202884, 16.69471, 79.77675, Kothuru, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, DACHEPALLE, 4933, Madinapadu, 202885, 16.63734, 79.75282, Madinapadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, DACHEPALLE, 4933, Mutyalampadu, 202886, 16.61396, 79.79981, Mutyalampadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, DACHEPALLE, 4933, Nadikudi, 202887, 16.59291, 79.7187, Nadikudi, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, DACHEPALLE, 4933, Pedagarlapadu, 202889, 16.59291, 79.7187, Pedagarlapadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, DACHEPALLE, 4933, Pondugula, 202890, 16.67811, 79.66341, Pondugula, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, DACHEPALLE, 4933, Ramapuram, 202891, 16.68432, 79.69275, Ramapuram, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, DACHEPALLE, 4933, Sarangapalli, 202892, 16.66705, 79.78311, Sarangapalli, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, DACHEPALLE, 4933, Srinagar, 202893, 16.65108, 79.68935, Srinagar, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, DACHEPALLE, 4933, Takkellapadu, 202894, 16.57119, 79.73731, Takkellapadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, DACHEPALLE, 4933, Tangeda, 202895, 16.668, 79.8164, Tangeda, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, Duggirala, 4934, CHILUVURU, 200133, 16.32765, 80.62466, CHILUVURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, Duggirala, 4934, CHINAPALEM, 200134, 16.373572, 80.655542, CHINAPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, Duggirala, 4934, CHINTALA PUDI, 200135, 16.298559, 80.636577, CHINTALA PUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, Duggirala, 4934, CHUKKAPALLIVARI PALEM, 200136, 16.351446, 80.650431, CHUKKAPALLIVARI PALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, Duggirala, 4934, DUGGIRALA, 245319, 16.327487, 80.625935, DUGGIRALA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, Duggirala, 4934, EMANI, 200137, 16.327487, 80.625935, EMANI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, Duggirala, 4934, GODAVARRU, 200138, 16.386823, 80.667904, GODAVARRU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, Duggirala, 4934, K.R.KONDURU, 200139, 16.334655, 80.605206, K.R.KONDURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, Duggirala, 4934, MANCHIKALAPUDI, 200140, 16.347737, 80.605182, MANCHIKALAPUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, Duggirala, 4934, MORAMPUDI, 200141, 16.352515, 80.625904, MORAMPUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, Duggirala, 4934, PEDAKONDURU, 200142, 16.382852, 80.659817, PEDAKONDURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, Duggirala, 4934, PEDAPALEM, 200143, 16.382947, 80.659241, PEDAPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, Duggirala, 4934, PENUMULI, 200144, 16.327487, 80.625935, PENUMULI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, Duggirala, 4934, PERUKALAPUDI, 245320, 16.362641, 80.649186, PERUKALAPUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, Duggirala, 4934, REVENDRAPADU, 200145, 16.400344, 80.62256, REVENDRAPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, Duggirala, 4934, SRUNGARAPURAM, 200146, 16.382844, 80.659248, SRUNGARAPURAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, Duggirala, 4934, TUMMAPUDI, 200147, 16.385634, 80.626702, TUMMAPUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, Duggirala, 4934, VEERLAPALEM, 245321, 16.382844, 80.659248, VEERLAPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, DURGI, 4935, Adigoppula, 202915, 16.4402, 79.61992, Adigoppula, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, DURGI, 4935, Atmakur, 202916, 16.42769, 79.50049, Atmakur, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, DURGI, 4935, Dharivemula, 202917, 16.43614, 79.55236, Dharivemula, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, DURGI, 4935, Dharmavaram, 202918, 16.43614, 79.55236, Dharmavaram, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, DURGI, 4935, Durgi, 202919, 16.42673, 79.54102, Durgi, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, DURGI, 4935, JM Padu, 202920, 16.38704, 79.53508, JM Padu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, DURGI, 4935, Kakirala, 202921, 16.34625, 79.55, Kakirala, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, DURGI, 4935, Kancharagunta, 202922, 16.39652, 79.48343, Kancharagunta, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, DURGI, 4935, Kolagutla, 202923, 16.40141, 79.50709, Kolagutla, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, DURGI, 4935, Mutukur, 202924, 16.38352, 79.46417, Mutukur, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, DURGI, 4935, Nidanampadu, 202926, 16.40272, 79.58459, Nidanampadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, DURGI, 4935, Obulesunipalli, 202927, 16.42226, 79.5567, Obulesunipalli, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, DURGI, 4935, Polepalli, 202928, 16.42643, 79.48302, Polepalli, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, DURGI, 4935, Shyamrajupuram, 202930, 16.48298, 79.56626, Shyamrajupuram, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, DURGI, 4935, Terala, 202929, 16.4168, 79.4393, Terala, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, EDLAPADU, 4936, CHENGHEESKHANPET, 200162, 16.238291, 80.24044, CHENGHEESKHANPET GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, EDLAPADU, 4936, DINTENAPADU, 200163, 16.145007, 80.208261, DINTENAPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, EDLAPADU, 4936, EDLAPADU, 200164, 16.167896, 80.224456, EDLAPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, EDLAPADU, 4936, GUTHAVARIPALEM, 200165, 16.151653, 80.261198, GUTHAVARIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, EDLAPADU, 4936, JAGGAPURAM, 200166, 16.167896, 80.224456, JAGGAPURAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, EDLAPADU, 4936, JALADI, 200167, 16.147962, 80.230768, JALADI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, EDLAPADU, 4936, KARUCHOLA, 200168, 16.147962, 80.230768, KARUCHOLA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, EDLAPADU, 4936, KONDAVEEDU, 200169, 16.254619, 80.253732, KONDAVEEDU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, EDLAPADU, 4936, KOTA, 200170, 16.246101, 80.24699, KOTA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, EDLAPADU, 4936, KOTHAPALEM, 200171, 16.262563, 80.261872, KOTHAPALEMGP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, EDLAPADU, 4936, LINGARAOPALEM, 200172, 16.199299, 80.215434, LINGARAOPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, EDLAPADU, 4936, MYDAVOLU, 200173, 16.180992, 80.223547, MYDAVOLU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, EDLAPADU, 4936, SANDEPUDI, 200174, 16.130834, 80.246334, SANDEPUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, EDLAPADU, 4936, SOLASA, 200175, 16.22881, 80.221278, SOLASA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, EDLAPADU, 4936, THIMMAPURAM, 200176, 16.169554, 80.224808, THIMMAPURAM  GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, EDLAPADU, 4936, TURLAPADU, 200177, 16.094816, 80.246512, TURLAPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, EDLAPADU, 4936, UNNAVA, 200178, 16.151653, 80.261198, UNNAVA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, EDLAPADU, 4936, VANKAYALAPADU, 200179, 16.151838, 80.260484, VANKAYALAPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, GUNTUR, 4937, ADAVITAKKELLAPADU, 200180, 16.316028, 80.411056, ADAVITAKKELLAPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, GUNTUR, 4937, ANKIREDDYPALEM, 200181, 16.30055, 80.387848, ANKIREDDYPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, GUNTUR, 4937, CHALLAVARIPALEM, 200183, 16.300998, 80.387464, CHALLAVARIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, GUNTUR, 4937, CHINAPALAKALURU, 200184, 16.33302, 80.377362, CHINAPALAKALURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, GUNTUR, 4937, DASUPALEM, 200186, 16.329946, 80.36149, DASUPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, GUNTUR, 4937, GORANTLA, 200188, 16.33754, 80.420981, GORANTLA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, GUNTUR, 4937, GORLAVARIPALEM, 200189, 16.33754, 80.420981, GORLAVARIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, GUNTUR, 4937, MALLAVARAM, 200193, 16.33302, 80.377362, MALLAVARAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, GUNTUR, 4937, NALLAPADU, 200194, 16.294778, 80.4295, NALLAPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, GUNTUR, 4937, OBULUNAIDUPALEM, 200195, 16.285912, 80.370644, OBULUNAIDUPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, GUNTUR, 4937, PEDAPALAKALURU, 200196, 16.337482, 80.417196, PEDAPALAKALURU  GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, GUNTUR, 4937, REDDYPALEM, 200198, 16.333754, 80.445292, REDDYPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, GUNTUR, 4937, THOKAVARIPALEM, 200199, 16.343328, 80.377663, THOKAVARIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, GUNTUR, 4937, THURAKAPALEM, 200200, 16.33251, 80.381598, THURAKAPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, GUNTUR, 4937, VENGALAYAPALEM, 200192, 16.287808, 80.391743, VENGALAYAPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, GURAZALA, 4938, Ambapuram, 202970, 16.56104, 79.68519, Ambapuram, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, GURAZALA, 4938, Bodawada, 202971, 16.55688, 79.72132, Bodawada, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, GURAZALA, 4938, Cherlagudipadu, 202972, 16.50588, 79.64477, Cherlagudipadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, GURAZALA, 4938, Daida, 202973, 16.63748, 79.60328, Daida, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, GURAZALA, 4938, Gangavaram, 202974, 16.57463, 79.64415, Gangavaram, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, GURAZALA, 4938, Gogulapadu, 202975, 16.57463, 79.64415, Gogulapadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, GURAZALA, 4938, Gottimukkala, 202976, 16.63787, 79.56647, Gottimukkala, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, GURAZALA, 4938, Gurazala, 202977, 16.55645, 79.6368, Gurazala, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, GURAZALA, 4938, Kothaambapuram, 202978, 16.57134, 79.67529, Kothaambapuram, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, GURAZALA, 4938, Modugula, 202979, 16.50116, 79.57528, Modugula, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, GURAZALA, 4938, Palligunta, 202980, 16.54284, 79.6517, Palligunta, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, GURAZALA, 4938, Pulipadu, 202981, 16.60683, 79.65251, Pulipadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, GURAZALA, 4938, Telukutla, 202982, 16.6345, 79.60235, Telukutla, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, IPUR, 4939, Agnigundala, 202983, 16.18257, 79.74154, Agnigundala, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, IPUR, 4939, Angalur, 202984, 16.18571, 79.7808, Angalur, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, IPUR, 4939, Bodupudivaripalem, 202985, 16.11254, 79.764, Bodupudivaripalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, IPUR, 4939, Boggaram, 202986, 16.18894, 79.82695, Boggaram, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, IPUR, 4939, Bommarajupalli, 202987, 16.27404, 79.78552, Bommarajupalli, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, IPUR, 4939, Chittapuram, 202988, 16.20589, 79.81972, Chittapuram, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, IPUR, 4939, Gopuvaripalem, 202989, 16.20993, 79.80609, Gopuvaripalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, IPUR, 4939, Inumella, 202990, 16.28824, 79.83319, Inumella, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, IPUR, 4939, Ipur, 2029991, 16.23476, 79.77928, Ipur, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, IPUR, 4939, Kondayapalem, 202992, 16.1996, 79.80139, Kondayapalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, IPUR, 4939, Kondramutla, 202993, 16.11653, 79.75352, Kondramutla, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, IPUR, 4939, Kotcherla, 202994, 16.14765, 79.76008, Kotcherla, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, IPUR, 4939, Mupplla, 202995, 16.24226, 79.84067, Mupplla, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, IPUR, 4939, Upparapalem, 202996, 16.13874, 79.78568, Upparapalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, IPUR, 4939, Vanikunta, 202997, 16.20352, 79.79033, Vanikunta, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KAKUMANU, 4940, APPAPURAM, 200229, 16.02856, 80.420891, APPAPURAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KAKUMANU, 4940, BHALLU KANUDU PALEM, 200230, 16.079951, 80.429568, BHALLU KANUDU PALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KAKUMANU, 4940, BODIPALEM, 200231, 16.023167, 80.483539, BODIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KAKUMANU, 4940, CHINALINGAYAPALEM, 200232, 16.079951, 80.429568, CHINALINGAYAPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KAKUMANU, 4940, GARIKAPADU, 200233, 16.052972, 80.468996, GARIKAPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KAKUMANU, 4940, GARLAPADU, 200234, 16.044566, 80.355374, GARLAPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KAKUMANU, 4940, KAKUMANU, 200235, 16.053812, 80.39925, KAKUMANU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KAKUMANU, 4940, KOLLIMERLA, 200236, 16.108275, 80.442468, KOLLIMERLA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KAKUMANU, 4940, KOMMURU, 200237, 16.062291, 80.368796, KOMMURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KAKUMANU, 4940, KONDABALAVARIPALEM, 245325, 16.108228, 80.44264, KONDABALAVARIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KAKUMANU, 4940, KONDAPATURU, 200238, 16.044566, 80.355374, KONDAPATURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KAKUMANU, 4940, KOTIVANIPALEM, 200239, 16.036941, 80.481376, KOTIVANIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KAKUMANU, 4940, LINGAMGUNTAPALEM, 200240, 16.115683, 80.420976, LINGAMGUNTAPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KAKUMANU, 4940, PANDRAPADU, 200241, 16.092978, 80.458736, PANDRAPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KAKUMANU, 4940, PEDDIVARIPALEM, 200242, 16.063183, 80.359763, PEDDIVARIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KAKUMANU, 4940, RETURU, 200243, 16.014722, 80.430147, RETURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KAKUMANU, 4940, TELAGAYAPALEM, 200244, 16.036941, 80.481376, TELAGAYAPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KAKUMANU, 4940, VALLURU, 200245, 16.108228, 80.44264, VALLURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KAREMPUDI, 4941, China Garlapadu, 203015, 16.49284, 79.76325, China Garlapadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KAREMPUDI, 4941, China Kodamagundla, 203016, 16.49433, 79.71477, China Kodamagundla, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KAREMPUDI, 4941, Chintapalli, 203017, 16.45454, 79.74814, Chintapalli, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KAREMPUDI, 4941, Gadevaripalli, 203018, 16.51058, 79.71358, Gadevaripalli, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KAREMPUDI, 4941, Inaparajupalli, 203019, 16.52423, 79.71465, Inaparajupalli, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KAREMPUDI, 4941, Karempudi, 203021, 16.42743, 79.72357, Karempudi, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KAREMPUDI, 4941, Laxmipuram, 203022, 16.47864, 79.671, Laxmipuram, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KAREMPUDI, 4941, Miriyala, 203023, 16.47404, 79.64574, Miriyala, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KAREMPUDI, 4941, Naramalapadu, 203024, 16.43964, 79.64464, Naramalapadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KAREMPUDI, 4941, Oppicherla, 203025, 16.44452, 79.69394, Oppicherla, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KAREMPUDI, 4941, Peda Kodmagundla, 203026, 16.4918, 79.70971, Peda Kodmagundla, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KAREMPUDI, 4941, Petasannigandla, 203027, 16.41949, 79.75013, Petasannigandla, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KAREMPUDI, 4941, Sankarapuram, 203028, 16.50604, 79.704, Sankarapuram, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KAREMPUDI, 4941, Vyapakampalli, 203029, 16.47198, 79.72742, Vyapakampalli, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KARLAPALEM, 4942, BOLAYAPALEM, 200261, 15.979571, 80.571364, BOLAYAPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KARLAPALEM, 4942, BUDDAM, 200262, 15.945765, 80.549131, BUDDAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KARLAPALEM, 4942, CHINTAYAPALEM, 200263, 15.935671, 80.55045, CHINTAYAPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KARLAPALEM, 4942, DHAMANAVARIPALEM, 200264, 15.967643, 80.572978, DHAMANAVARIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KARLAPALEM, 4942, DUNDIPALEM, 200265, 15.978387, 80.570291, DUNDIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KARLAPALEM, 4942, ETRIVARIPALEM, 200266, 15.945429, 80.547215, ETRIVARIPALEM, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KARLAPALEM, 4942, GANAPAVARAM, 200267, 15.923752, 80.554553, GANAPAVARAM, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KARLAPALEM, 4942, KARLAPALEM, 200268, 15.935671, 80.55045, KARLAPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KARLAPALEM, 4942, KOTHANANDAYAPALEM, 200269, 15.947816, 80.540461, KOTHANANDAYAPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KARLAPALEM, 4942, NAGARAJUPALEM, 200270, 15.978387, 80.570291, NAGARAJUPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KARLAPALEM, 4942, NALLAMOTHUVARIPALEM, 200271, 15.947429, 80.534176, NALLAMOTHUVARIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KARLAPALEM, 4942, NARRAVARIPALEM, 200272, 15.885418, 80.587032, NARRAVARIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KARLAPALEM, 4942, PATHANANDAYAPALEM, 200273, 15.945429, 80.547215, PATHANANDAYAPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KARLAPALEM, 4942, PEDAGOLLAPALEM, 200274, 15.907698, 80.551838, PEDAGOLLAPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KARLAPALEM, 4942, PEDAPULUGUVARIPALEM, 200275, 15.899076, 80.593665, PEDAPULUGUVARIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KARLAPALEM, 4942, PERALI, 200276, 15.907698, 80.551838, PERALI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KARLAPALEM, 4942, PERLIPADU, 200277, 15.909383, 80.564914, PERLIPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KARLAPALEM, 4942, SAMMETAVARIPALEM, 200278, 15.885952, 80.546742, SAMMETAVARIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KARLAPALEM, 4942, THUMMALAPALLI, 200279, 15.897819, 80.569898, THUMMALAPALLI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KARLAPALEM, 4942, YAZALI, 200280, 15.970421, 80.572528, YAZALI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KOLLIPARA, 4943, ANNAVARAM, 200281, 16.267444, 80.780786, ANNAVARAM CROSS (NOFN) JOINT, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KOLLIPARA, 4943, ATHALURIVARI PALEM, 200283, 16.352323, 80.721955, ATHALURIVARI PALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KOLLIPARA, 4943, ATHOTA, 200284, 16.28867, 80.695902, ATHOTA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KOLLIPARA, 4943, BOMMUVANI PALEM, 200285, 16.263287, 80.744355, BOMMUVANI PALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KOLLIPARA, 4943, CHAKRAYAPALEM, 200286, 16.263528, 80.742599, CHAKRAYAPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KOLLIPARA, 4943, CHEMUDUPADU, 200287, 16.263287, 80.744355, CHEMUDUPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KOLLIPARA, 4943, CHIVALURU, 200288, 16.285551, 80.710219, CHIVALURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KOLLIPARA, 4943, DANTHALURU, 200289, 16.328538, 80.721374, DANTHALURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KOLLIPARA, 4943, DAVALURIPALEM, 200290, 16.268663, 80.769265, DAVALURIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KOLLIPARA, 4943, DAVALURU, 200291, 16.263287, 80.744355, DAVALURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KOLLIPARA, 4943, HANUMAN PALEM, 200292, 16.263287, 80.744355, HANUMAN PALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KOLLIPARA, 4943, KOLLIPARA, 200293, 16.285267, 80.748483, KOLLIPARA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KOLLIPARA, 4943, KUNCHAVARAM, 200294, 16.29122, 80.680867, KUNCHAVARAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KOLLIPARA, 4943, MUNNANGI, 200295, 16.316488, 80.730189, MUNNANGI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KOLLIPARA, 4943, PIDAPARRU, 200296, 16.315819, 80.743501, PIDAPARRU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KOLLIPARA, 4943, PIDAPRTHIPALEM, 200297, 16.285267, 80.748483, PIDAPRTHIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KOLLIPARA, 4943, SIRIPURAM, 245326, 16.29122, 80.680867, SIRIPURAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KOLLIPARA, 4943, THUMULURU, 200298, 16.285551, 80.710219, THUMULURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KOLLIPARA, 4943, VALLABHAPURAM, 200299, 16.329414, 80.721098, VALLABHAPURAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KOLLUR, 4944, ANANTHAVARAM, 200300, 16.233235, 80.769291, ANANTHAVARAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KOLLUR, 4944, ANNAVARAPULANKA, 200282, 16.23229, 80.807553, ANNAVARAPULANKA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KOLLUR, 4944, AVULAVARI PALEM, 200301, 16.188395, 80.812021, AVULAVARI PALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KOLLUR, 4944, BODDULURUPADU, 200302, 16.16962, 80.777642, BODDULURUPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KOLLUR, 4944, CHILUMURU, 200303, 16.230544, 80.784453, CHILUMURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KOLLUR, 4944, CHINAPULIVARRU, 200304, 16.128344, 80.79776, CHINAPULIVARRU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KOLLUR, 4944, CHINTALLANKA, 200305, 16.211336, 80.817592, CHINTALLANKA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KOLLUR, 4944, DONEPUDI, 200306, 16.149616, 80.817859, DONEPUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KOLLUR, 4944, GAZULLANKA, 200307, 16.183423, 80.828703, GAZULLANKA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KOLLUR, 4944, IPURU, 200308, 16.221689, 80.787342, IPURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KOLLUR, 4944, IPURU LANKA, 200309, 16.222107, 80.805346, IPURU LANKA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KOLLUR, 4944, KISHKINDAPALEM, 200310, 16.119354, 80.832759, KISHKINDAPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KOLLUR, 4944, KOLLURU, 200311, 16.184097, 80.80048, KOLLURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KOLLUR, 4944, KRAPA, 200312, 16.176951, 80.763564, KRAPA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KOLLUR, 4944, MOSALIPADU, 200313, 16.176951, 80.763564, MOSALIPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KOLLUR, 4944, PEDALANKA, 200314, 16.207392, 80.812747, PEDALANKA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KOLLUR, 4944, PESARLANKA, 200315, 16.183872, 80.800274, PESARLANKA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KOLLUR, 4944, POTHARLANKA, 200316, 16.157252, 80.831874, POTHARLANKA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KOLLUR, 4944, RAVIKAMPADU, 200317, 16.164827, 80.763424, RAVIKAMPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KOLLUR, 4944, SUGGUNALANKA, 200318, 16.234038, 80.81317, SUGGUNALANKA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KOLLUR, 4944, TADIGIRIPADU, 200319, 16.142632, 80.77476, TADIGIRIPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KOLLUR, 4944, TADIKALAPUDI, 200320, 16.129262, 80.840198, TADIKALAPUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KOLLUR, 4944, TIPPALAKATTA, 200321, 16.141362, 80.829589, TIPPALAKATTA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KOLLUR, 4944, TOKALAVANIPALEM, 200322, 16.109656, 80.83802, TOKALAVANIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KOLLUR, 4944, ZOOLAPALEM, 200323, 16.107363, 80.853865, ZOOLAPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KROSURU, 4945, Ananathavaram, 203095, 16.54394, 80.09652, Ananathavaram, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KROSURU, 4945, Andukuru, 203096, 16.52841, 80.17353, Andukuru, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KROSURU, 4945, Avulavaripalem, 203097, 16.54021, 80.03962, Avulavaripalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KROSURU, 4945, Balemarru, 203098, 16.5477, 80.195, Balemarru, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KROSURU, 4945, Bayyaram, 203099, 16.55418, 80.20799, Bayyaram, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KROSURU, 4945, Dodleru, 203100, 16.54695, 80.06368, Dodleru, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KROSURU, 4945, Gadevaripalem, 203101, 16.49988, 80.07439, Gadevaripalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KROSURU, 4945, Garikapadu, 203102, 16.50658, 80.07726, Garikapadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KROSURU, 4945, Gudipadu, 203103, 16.50235, 80.08435, Gudipadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KROSURU, 4945, Hassanabad, 203104, 16.51183, 80.05581, Hassanabad, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KROSURU, 4945, Krosur, 203105, 16.54003, 80.138, Krosur, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KROSURU, 4945, Nagavaram, 203106, 16.47989, 80.05549, Nagavaram, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KROSURU, 4945, Peesapadu, 203107, 16.51373, 80.1134, Peesapadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KROSURU, 4945, Perikapadu, 203108, 16.54595, 80.03742, Perikapadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KROSURU, 4945, Uyyandana, 203109, 16.51924, 80.10768, Uyyandana, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KROSURU, 4945, Vipparla, 203110, 16.55408, 80.17592, Vipparla, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, KROSURU, 4945, Vutukuru, 203111, 16.56621, 80.20193, Vutukuru, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MACHAVARAM, 4946, Akurajupalli, 203112, 16.57774, 79.87697, Akurajupalli, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MACHAVARAM, 4946, Chennayapalem, 203113, 16.65183, 79.8555, Chennayapalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MACHAVARAM, 4946, Gangireddypalem, 203114, 16.56318, 79.86007, Gangireddypalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MACHAVARAM, 4946, Govindapuram, 203115, 16.62767, 79.90929, Govindapuram, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MACHAVARAM, 4946, Kothaganesunipadu, 203116, 16.51794, 79.90838, Kothaganesunipadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MACHAVARAM, 4946, Machavaram, 203117, 16.56879, 79.86542, Machavaram, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MACHAVARAM, 4946, Mallavolu, 203118, 16.53914, 79.90089, Mallavolu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MACHAVARAM, 4946, Morjampadu, 203119, 16.59277, 79.90811, Morjampadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MACHAVARAM, 4946, Pillutla, 203120, 16.53924, 79.90395, Pillutla, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MACHAVARAM, 4946, Pinnelli, 203121, 16.56879, 79.83337, Pinnelli, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MACHAVARAM, 4946, Regulagadda, 203122, 16.70186, 79.85487, Regulagadda, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MACHAVARAM, 4946, Srirukminipuram, 203123, 16.56737, 79.93237, Srirukminipuram, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MACHAVARAM, 4946, Turakapalem, 203124, 16.59205, 79.86791, Turakapalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MACHAVARAM, 4946, Vellampalli, 203125, 16.66823, 79.88585, Vellampalli, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MACHAVARAM, 4946, Vemavaram, 203126, 16.63088, 79.86211, Vemavaram, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MACHERLA, 4947, Bhiravunipadu, 203127, 16.50238, 79.38919, Bhiravunipadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MACHERLA, 4947, Chintala Thanda, 203128, 16.52651, 79.28782, Chintala Thanda, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MACHERLA, 4947, Ekonampet, 203129, 16.57664, 79.388, Ekonampet, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MACHERLA, 4947, Gannavaram, 203130, 16.5257, 79.472, Gannavaram, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MACHERLA, 4947, Jammalamadaka, 203131, 16.51148, 79.4368, Jammalamadaka, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MACHERLA, 4947, Kambampadu, 203132, 16.50307, 79.49014, Kambampadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MACHERLA, 4947, Koppunuru, 203133, 16.48742, 79.33201, Koppunuru, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MACHERLA, 4947, Kothapalli, 203134, 16.48221, 79.40225, Kothapalli, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MACHERLA, 4947, Kothur, 203135, 16.54281, 79.36032, Kothur, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MACHERLA, 4947, Lakshminarsimhapuram, 203136, 16.43718, 79.30847, Lakshminarsimhapuram, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MACHERLA, 4947, Macherla, 888888, 16.474, 79.44088, Macherla, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MACHERLA, 4947, Nagulavaram, 203137, 16.5104, 79.30624, Nagulavaram, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MACHERLA, 4947, Pasuvemula, 203138, 16.52079, 79.3616, Pasuvemula, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MACHERLA, 4947, Rayavaram, 203139, 16.45814, 79.46766, Rayavaram, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MACHERLA, 4947, Tallapalli, 203140, 16.51435, 79.397, Tallapalli, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MANGALAGIRI, 4948, ATMAKUR, 888888, 16.419875, 80.587845, ATMAKUR GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MANGALAGIRI, 4948, BETHAPUDI, 888888, 16.430418, 80.566033, BETHAPUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MANGALAGIRI, 4948, CHINAKAKANI, 200373, 16.419875, 80.587845, CHINAKAKANI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MANGALAGIRI, 4948, CHINAVADLAPUDI, 200374, 16.412448, 80.606634, CHINAVADLAPUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MANGALAGIRI, 4948, KAZA, 200375, 16.403703, 80.5596, KAZA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MANGALAGIRI, 4948, KRISHANAYAPALAM, 200376, 16.460548, 80.56716, KRISHANAYAPALAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MANGALAGIRI, 4948, KURAGALLU, 200377, 16.43172, 80.526464, KURAGALLU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MANGALAGIRI, 4948, NEERUKONDA, 200378, 16.454059, 80.525033, NEERUKONDA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MANGALAGIRI, 4948, NIDAMARRU, 200379, 16.430837, 80.542757, NIDAMARRU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MANGALAGIRI, 4948, NOWLURU, 200381, 16.431614, 80.555314, NOWLURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MANGALAGIRI, 4948, NUTHAKKI, 200382, 16.406039, 80.621085, NUTHAKKI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MANGALAGIRI, 4948, PEDAVADLAPUDI, 200383, 16.412448, 80.606634, PEDAVADLAPUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MANGALAGIRI, 4948, RAMCHANDRAPURAM, 888888, 16.415125, 80.65202, RAMCHANDRAPURAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MANGALAGIRI, 4948, YARRABALEM, 888888, 16.443818, 80.557837, YARRABALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MEDIKONDURU, 4949, DOKIPARRU, 200385, 16.323038, 80.311808, DOKIPARRU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MEDIKONDURU, 4949, GUNDLAPALEM, 200386, 16.347125, 80.298097, GUNDLAPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MEDIKONDURU, 4949, JAGAMGUNTLAPALEM, 200387, 16.347125, 80.298097, JAGAMGUNTLAPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MEDIKONDURU, 4949, KORRAPADU, 200388, 16.367242, 80.250259, KORRAPADUGP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MEDIKONDURU, 4949, MANGALAGIRIPADU, 200390, 16.338632, 80.320243, MANGALAGIRIPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MEDIKONDURU, 4949, MEDIKONDURU, 200391, 16.347125, 80.298097, MEDIKONDURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MEDIKONDURU, 4949, PALADUGU, 200392, 16.367242, 80.250259, PALADUGU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MEDIKONDURU, 4949, PERACHERLA, 200393, 16.338632, 80.320243, PERACHERLA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MEDIKONDURU, 4949, SIRIPURAM, 200394, 16.367391, 80.303046, SIRIPURAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MEDIKONDURU, 4949, VISADALA, 200396, 16.342515, 80.311164, VISADALA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MEDIKONDURU, 4949, YELAVARTHIPADU, 200397, 16.347125, 80.298097, YELAVARTHIPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MUPPALLA, 4950, Bollavaram, 203170, 16.35354, 80.08585, Bollavaram, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MUPPALLA, 4950, Chagantivaripalem, 203171, 16.32313, 80.10163, Chagantivaripalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MUPPALLA, 4950, Dammalapadu, 203172, 16.35777, 80.06145, Dammalapadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MUPPALLA, 4950, Gollapadu, 203173, 16.30435, 80.08264, Gollapadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MUPPALLA, 4950, Irukupalem, 203174, 16.37546, 80.135, Irukupalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MUPPALLA, 4950, Kunduruvaripalem, 203183, 16.30284, 80.08987, Kunduruvaripalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MUPPALLA, 4950, L.Kurapadu, 203175, 16.31125, 80.11276, L.Kurapadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MUPPALLA, 4950, Madala, 203176, 16.36994, 80.12084, Madala, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MUPPALLA, 4950, Mupplla, 203177, 16.31988, 80.09255, Mupplla, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MUPPALLA, 4950, Narnepadu, 203178, 16.31559, 80.14132, Narnepadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MUPPALLA, 4950, Paludevarlapadu, 203179, 16.32895, 80.12586, Paludevarlapadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MUPPALLA, 4950, Ramakrihsnapuram, 203182, 16.34999, 80.13342, Ramakrihsnapuram, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MUPPALLA, 4950, Rudravaram, 203180, 16.37499, 80.09015, Rudravaram, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, MUPPALLA, 4950, Thondapi, 203181, 16.39167, 80.06087, Thondapi, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NADENDLA, 4951, AMEENSAHEBPALEM, 200411, 16.182751, 80.111461, AMEENSAHEBPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NADENDLA, 4951, APPAPURAM, 200412, 16.17654, 80.183805, APPAPURAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NADENDLA, 4951, BUKKAPURAM, 200413, 16.196482, 80.133692, BUKKAPURAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NADENDLA, 4951, CHANDAVARAM, 200414, 16.211821, 80.167843, CHANDAVARAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NADENDLA, 4951, CHIRUMAMILLA, 200415, 16.226596, 80.170019, CHIRUMAMILLA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NADENDLA, 4951, ENDUGUMPALEM, 200416, 16.174496, 80.146736, ENDUGUMPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NADENDLA, 4951, GANAPAVARAM, 200417, 16.172155, 80.185634, GANAPAVARAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NADENDLA, 4951, GORIJAVOLU, 200418, 16.249541, 80.208429, GORIJAVOLU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NADENDLA, 4951, IRLAPADU, 200419, 16.196481, 80.133692, IRLAPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NADENDLA, 4951, JANGALAPALLI, 200420, 16.216961, 80.192895, JANGALAPALLI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NADENDLA, 4951, KANAPARRU, 200421, 16.196482, 80.133692, KANAPARRU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NADENDLA, 4951, NADENDLA, 200422, 16.17445, 80.188278, NADENDLA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NADENDLA, 4951, SANKURATRIPADU, 200423, 16.217246, 80.190826, SANKURATRIPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NADENDLA, 4951, SATULURU, 200424, 16.243813, 80.142593, SATULURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NADENDLA, 4951, TUBADU, 200425, 16.17445, 80.188278, TUBADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NAGARAM, 4952, ADDANKIVARIPALEM, 200426, 16.03564, 80.76751, ADDANKIVARIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NAGARAM, 4952, ALLAPARRU, 200427, 15.993386, 80.791331, ALLAPARRU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NAGARAM, 4952, BELLAMVARIPALEM, 200428, 16.037646, 80.76485, BELLAMVARIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NAGARAM, 4952, BORAMADIGAPALLI, 200429, 16.003982, 80.724866, BORAMADIGAPALLI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NAGARAM, 4952, CHINAMATLAPUDI, 200430, 15.966037, 80.680605, CHINAMATLAPUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NAGARAM, 4952, CHIRAKALAVARIPALEM, 200431, 16.007995, 80.766199, CHIRAKALAVARIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NAGARAM, 4952, DHULIPUDI, 200432, 16.022261, 80.76142, DHULIPUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NAGARAM, 4952, EDUPALLI, 200433, 15.992008, 80.714628, EDUPALLI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NAGARAM, 4952, ELETIPALEM, 200434, 16.008162, 80.766185, ELETIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NAGARAM, 4952, KOLAGANIVARIPALEM, 200436, 16.025462, 80.785003, KOLAGANIVARIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NAGARAM, 4952, MANTRIPALEM, 200437, 15.999954, 80.793976, MANTRIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NAGARAM, 4952, NAGARAM, 200438, 16.003982, 80.724866, NAGARAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NAGARAM, 4952, PAMIDIMARRU, 200439, 16.037646, 80.76485, PAMIDIMARRU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NAGARAM, 4952, PEDAMATLAPUDI, 200440, 15.992444, 80.694399, PEDAMATLAPUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NAGARAM, 4952, PEDAPALLI, 200441, 15.966037, 80.680605, PEDAPALLI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NAGARAM, 4952, PEDDAVARAM, 200442, 16.052856, 80.76079, PEDDAVARAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NAGARAM, 4952, PUDIWADA, 200443, 16.003982, 80.724866, PUDIWADA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NAGARAM, 4952, SAJJAVARIPALEM, 200444, 16.01278, 80.790434, SAJJAVARIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NAGARAM, 4952, SIRIPUDI, 200445, 15.992444, 80.694399, SIRIPUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NAGARAM, 4952, TADIVAKAVARIPALEM, 200446, 16.002688, 80.710959, TADIVAKAVARIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NAGARAM, 4952, THOTAPALLI, 200447, 16.036867, 80.738651, THOTAPALLI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NAGARAM, 4952, ULLIPALEM, 200448, 16.004503, 80.79389, ULLIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NAGARAM, 4952, VENIGALLAVARIPALEM, 200449, 16.014248, 80.754332, VENIGALLAVARIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NAGARAM, 4952, ZILLEPALLI, 200450, 16.050774, 80.745444, ZILLEPALLI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NARASARAOPETA, 4953, Alluruvaripalem, 203223, 16.22178, 80.00447, Alluruvaripalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NARASARAOPETA, 4953, Aravapalli, 203224, 16.18205, 79.99172, Aravapalli, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NARASARAOPETA, 4953, Chinatalapalem, 203225, 16.17975, 80.05614, Chinatalapalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NARASARAOPETA, 4953, Chinathurakapalem, 203226, 16.18212, 80.05457, Chinathurakapalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NARASARAOPETA, 4953, Dondapadu, 203227, 16.25343, 80.11971, Dondapadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NARASARAOPETA, 4953, Gonepadu, 203228, 16.16206, 80.07486, Gonepadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NARASARAOPETA, 4953, Guruvaipalem, 203229, 16.16617, 80.04601, Guruvaipalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NARASARAOPETA, 4953, Ikkuru, 203231, 16.22178, 80.00447, Ikkuru, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NARASARAOPETA, 4953, Issapalem, 203232, 16.26178, 80.06432, Issapalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NARASARAOPETA, 4953, K.M.Agraharam, 203234, 16.28692, 80.04513, K.M.Agraharam, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NARASARAOPETA, 4953, Kakani, 203235, 16.16393, 79.98363, Kakani, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NARASARAOPETA, 4953, Kesanupalli, 203236, 16.21356, 80.08005, Kesanupalli, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NARASARAOPETA, 4953, Kondakavuru, 203237, 16.13087, 80.02586, Kondakavuru, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NARASARAOPETA, 4953, Kothapalem, 203238, 16.17944, 80.09924, Kothapalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NARASARAOPETA, 4953, Lingamguntla, 203239, 16.22035, 80.03191, Lingamguntla, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NARASARAOPETA, 4953, Mulakalur, 203241, 16.27841, 80.06543, Mulakalur, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NARASARAOPETA, 4953, Palapadu, 203242, 16.24571, 79.97867, Palapadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NARASARAOPETA, 4953, Pamidimarru, 203243, 16.30886, 80.0438, Pamidimarru, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NARASARAOPETA, 4953, Pamidipadu, 203244, 16.12563, 80.01973, Pamidipadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NARASARAOPETA, 4953, Pedaturakapalem, 203245, 16.1982, 80.07804, Pedaturakapalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NARASARAOPETA, 4953, Petluvaripalem, 203246, 16.16831, 80.00055, Petluvaripalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NARASARAOPETA, 4953, Ravipadu, 203247, 16.2596, 80.01101, Ravipadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NARASARAOPETA, 4953, Uppalapadu, 203248, 16.19295, 80.03247, Uppalapadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NARASARAOPETA, 4953, Yellamanda, 203249, 16.18596, 80.05419, Yellamanda, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NEKARIKALLU, 4954, Chagallu, 203250, 16.37138, 80.02736, Chagallu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NEKARIKALLU, 4954, Challgundla, 203251, 16.35095, 79.96121, Challgundla, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NEKARIKALLU, 4954, Cheemalamarri, 203252, 16.35209, 79.99559, Cheemalamarri, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NEKARIKALLU, 4954, Cherjerla, 203253, 16.3135, 79.85099, Cherjerla, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NEKARIKALLU, 4954, Dechavaram, 203254, 16.31414, 79.98717, Dechavaram, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NEKARIKALLU, 4954, Gundlapalli, 203255, 16.4089, 79.88049, Gundlapalli, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NEKARIKALLU, 4954, Kandlagunta, 203256, 16.3412, 80.02218, Kandlagunta, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NEKARIKALLU, 4954, Kunkalagunta, 203257, 16.29694, 79.88705, Kunkalagunta, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NEKARIKALLU, 4954, Nakirekallu, 203259, 16.37094, 79.94174, Nakirekallu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NEKARIKALLU, 4954, Narsingpadu, 203258, 16.39276, 79.91625, Narsingpadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NEKARIKALLU, 4954, Rupenaguntla, 203260, 16.30582, 79.99782, Rupenaguntla, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NEKARIKALLU, 4954, Thurakapalem, 203261, 16.28834, 80.01716, Thurakapalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NEKARIKALLU, 4954, Tripurapuram, 203262, 16.40258, 79.92753, Tripurapuram, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NIZAMPATNAM, 4955, ADAVULADEEVI, 200490, 15.957107, 80.753364, ADAVULADEEVI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NIZAMPATNAM, 4955, AMUDALAPALLI, 200491, 15.935323, 80.687436, AMUDALAPALLI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NIZAMPATNAM, 4955, BAVAJIPALEM, 245329, 15.926474, 80.679789, BAVAJIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NIZAMPATNAM, 4955, BORRAVARIPALEM, 200492, 15.968286, 80.73179, BORRAVARIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NIZAMPATNAM, 4955, DINDI, 200493, 15.915469, 80.77229, DINDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NIZAMPATNAM, 4955, GARUVUPALEM, 200494, 15.962526, 80.749609, GARUVUPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NIZAMPATNAM, 4955, GURUNADHANAGAR, 200495, 15.946843, 80.789443, GURUNADHANAGAR GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NIZAMPATNAM, 4955, HORISPETA, 200496, 15.94551, 80.789708, HORISPETA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NIZAMPATNAM, 4955, KALLIPALEM, 200497, 15.934906, 80.72429, KALLIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NIZAMPATNAM, 4955, KOTHAPALEM, 200498, 15.901233, 80.770842, KOTHAPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NIZAMPATNAM, 4955, KUCHINAPUDI, 200499, 15.956646, 80.744947, KUCHINAPUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NIZAMPATNAM, 4955, MUTTUPALLI, 200500, 15.935323, 80.687436, MUTTUPALLI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NIZAMPATNAM, 4955, NIZAMPATNAM, 200501, 15.903573, 80.664251, NIZAMPATNAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NIZAMPATNAM, 4955, PALLAPATLA, 200502, 15.968288, 80.731789, PALLAPATLA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NIZAMPATNAM, 4955, PRAGNAM, 200503, 15.954657, 80.743132, PRAGNAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NUZENDLA, 4956, Chintalacheruvu, 203277, 15.95779, 79.61714, Chintalacheruvu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NUZENDLA, 4956, Gurapunayunipalem, 203278, 15.96181, 79.7378, Gurapunayunipalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NUZENDLA, 4956, Inavolu, 203280, 15.9929, 79.67321, Inavolu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NUZENDLA, 4956, Jangalapalli, 203279, 16.0108, 79.77615, Jangalapalli, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NUZENDLA, 4956, K Jaddavaripalem, 203281, 15.9466, 79.65656, K Jaddavaripalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NUZENDLA, 4956, Kammavaripalem, 203283, 15.94764, 79.76051, Kammavaripalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NUZENDLA, 4956, Khambampadu, 203284, 15.97504, 79.71402, Khambampadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NUZENDLA, 4956, Mukkelapadu, 203285, 15.95309, 79.62934, Mukkelapadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NUZENDLA, 4956, Mupparajuvaripalem, 203287, 15.82786, 79.74034, Mupparajuvaripalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NUZENDLA, 4956, Murthuza Puram, 203288, 15.97047, 79.57995, Murthuza Puram, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NUZENDLA, 4956, Mutharasipalem, 203289, 15.91492, 79.70016, Mutharasipalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NUZENDLA, 4956, Nuzendla, 203290, 15.92481, 79.74084, Nuzendla, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NUZENDLA, 4956, P Cherkupalem, 203291, 15.95954, 79.6607, P Cherkupalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NUZENDLA, 4956, P Tripurapuram, 203292, 15.98498, 79.79001, P Tripurapuram, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NUZENDLA, 4956, Pamidipadu, 203293, 15.9365, 79.70233, Pamidipadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NUZENDLA, 4956, Prakashnagar colony, 203294, 15.99591, 79.64868, Prakashnagar colony, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NUZENDLA, 4956, Puchanthala, 203295, 15.88518, 79.72883, Puchanthala, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NUZENDLA, 4956, Puvvada, 203296, 15.94991, 79.85839, Puvvada, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NUZENDLA, 4956, Taralapalli, 203297, 15.9711, 79.7764, Taralapalli, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NUZENDLA, 4956, Tellapadu, 203298, 16.00848, 79.72397, Tellapadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NUZENDLA, 4956, Timmapuram, 203299, 15.87286, 79.74621, Timmapuram, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NUZENDLA, 4956, Uppalapadu, 203300, 16.00653, 79.74306, Uppalapadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, NUZENDLA, 4956, V appapuram, 203301, 15.91982, 79.76923, V appapuram, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PEDAKAKANI, 4957, AGATAVARAPPADU, 200528, 16.301351, 80.542032, AGATAVARAPPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PEDAKAKANI, 4957, ANUMARLAPUDI, 200529, 16.286678, 80.585618, ANUMARLAPUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PEDAKAKANI, 4957, GOLLAMUDI, 200530, 16.339, 80.489436, GOLLAMUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PEDAKAKANI, 4957, KOPPURAVURU, 200531, 16.350713, 80.483076, KOPPURAVURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PEDAKAKANI, 4957, NAMBURU, 200532, 16.329567, 80.523961, NAMBURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PEDAKAKANI, 4957, PEDAKAKANI, 200533, 16.336734, 80.488172, PEDAKAKANI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PEDAKAKANI, 4957, RAMACHANDRAPALEM, 200534, 16.30089, 80.49123, RAMACHANDRAPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PEDAKAKANI, 4957, TAKKELLAPADU, 200535, 16.304184, 80.515424, TAKKELLAPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PEDAKAKANI, 4957, TANGELLAMUDI, 200536, 16.301351, 80.542032, TANGELLAMUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PEDAKAKANI, 4957, UPPALAPADU, 200537, 16.304247, 80.514007, UPPALAPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PEDAKAKANI, 4957, VENIGANDLA, 200538, 16.336734, 80.488172, VENIGANDLA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PEDAKAKANI, 4957, VENKATAKRISHNAPURAM, 200539, 16.304298, 80.517137, VENKATAKRISHNAPURAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PEDAKURAPADU, 4958, 75-TYALLUR, 200540, 16.495256, 80.277374, 75-TYALLUR GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PEDAKURAPADU, 4958, ABBARAJU PALEM, 200541, 16.471481, 80.25673, ABBARAJU PALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PEDAKURAPADU, 4958, BALUSUPADU, 200542, 16.527272, 80.307707, BALUSUPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PEDAKURAPADU, 4958, BUCHAIAH PALEM, 200543, 16.511234, 80.285843, BUCHAIAH PALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PEDAKURAPADU, 4958, GARAPADU, 200545, 16.481537, 80.227334, GARAPADU PO, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PEDAKURAPADU, 4958, HUSSAIN NAGARAM, 200546, 16.518439, 80.234182, HUSSAIN NAGARAM PO, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PEDAKURAPADU, 4958, JALALAPURAM, 200547, 16.461102, 80.301377, JALALAPURAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PEDAKURAPADU, 4958, KANNEGANDLA, 200548, 16.481537, 80.227334, KANNEGANDLA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PEDAKURAPADU, 4958, KASIPADU, 200549, 16.527272, 80.307707, KASIPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PEDAKURAPADU, 4958, KHAMBAMPADU, 200550, 16.487158, 80.303156, KHAMBAMPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PEDAKURAPADU, 4958, LAGADAPADU, 200551, 16.470046, 80.256433, LAGADAPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PEDAKURAPADU, 4958, LINGAMGUNTLA, 200552, 16.468941, 80.257834, LINGAMGUNTLA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PEDAKURAPADU, 4958, MUSSAPURAM, 200553, 16.439748, 80.294535, MUSSAPURAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PEDAKURAPADU, 4958, PARASA, 200554, 16.511234, 80.285843, PARASA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PEDAKURAPADU, 4958, PATIBANDLA, 200555, 16.451944, 80.297295, PATIBANDLA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PEDAKURAPADU, 4958, PEDAKURAPADU, 200556, 16.468941, 80.257834, PEDAKURAPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PEDAKURAPADU, 4958, PODAPADU, 200557, 16.441574, 80.279189, PODAPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PEDAKURAPADU, 4958, RAMAPURAM, 200558, 16.508173, 80.253791, RAMAPURAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PEDAKURAPADU, 4958, TAMMAVARAM, 200559, 16.529105, 80.293857, TAMMAVARAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PEDANANDIPADU, 4959, ABBINENIGUNTAPALEM, 200560, 16.140763, 80.336992, ABBINENIGUNTAPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PEDANANDIPADU, 4959, ANNAPARRU, 200561, 16.084901, 80.328674, ANNAPARRU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PEDANANDIPADU, 4959, ANNAVARAM, 200562, 16.069176, 80.261235, ANNAVARAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PEDANANDIPADU, 4959, GOGULAMUDI, 200563, 16.087234, 80.366108, GOGULAMUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PEDANANDIPADU, 4959, GORIJAVOLUGUNTAPALEM, 200564, 16.134414, 80.352202, GORIJAVOLUGUNTAPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PEDANANDIPADU, 4959, KATRAPADU, 200565, 16.084901, 80.328674, KATRAPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PEDANANDIPADU, 4959, KOPPARRU, 200566, 16.092418, 80.306436, KOPPARRU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PEDANANDIPADU, 4959, NAGULAPADU, 200567, 16.070416, 80.333901, NAGULAPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PEDANANDIPADU, 4959, PALAPARRU, 200568, 16.070304, 80.32874, PALAPARRU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PEDANANDIPADU, 4959, PAMIDIVARIPALEM, 200569, 16.08719, 80.39801, PAMIDIVARIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PEDANANDIPADU, 4959, PEDANANDIPADU, 235896, 16.070568, 80.330037, PEDANANDIPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PEDANANDIPADU, 4959, PUSULURU, 200570, 16.087234, 80.366108, PUSULURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PEDANANDIPADU, 4959, RAJUPALEM, 200571, 16.063355, 80.285314, RAJUPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PEDANANDIPADU, 4959, RAVIPADU, 200572, 16.108581, 80.361739, RAVIPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PEDANANDIPADU, 4959, UPPALAPADU, 200573, 16.063355, 80.285314, UPPALAPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PEDANANDIPADU, 4959, VARAGANI, 200574, 16.084527, 80.329907, VARAGANI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PHIRANGIPURAM, 4960, 113 TYLLUR, 200575, 16.291583, 80.263561, 113 TYLLUR GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PHIRANGIPURAM, 4960, AMMENABAD, 200576, 16.289786, 80.2636, AMMENABAD GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PHIRANGIPURAM, 4960, BETHAPAUDI, 200577, 16.337051, 80.190588, BETHAPAUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PHIRANGIPURAM, 4960, ERRAGUNTLAPADU, 200578, 16.317985, 80.231928, ERRAGUNTLAPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PHIRANGIPURAM, 4960, GOLLAPALEM, 200579, 16.292247, 80.267321, GOLLAPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PHIRANGIPURAM, 4960, GUNDALAPADU, 200580, 16.293873, 80.177258, GUNDALAPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PHIRANGIPURAM, 4960, HOUSE GANESH, 200581, 16.289786, 80.2636, HOUSE GANESH GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PHIRANGIPURAM, 4960, KANDRIKA, 200582, 16.296803, 80.227889, KANDRIKA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PHIRANGIPURAM, 4960, MERIKAPUDI, 200583, 16.271386, 80.177236, MERIKAPUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PHIRANGIPURAM, 4960, MUNAGAPADU, 200584, 16.267248, 80.166127, MUNAGAPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PHIRANGIPURAM, 4960, NUDURUPADU, 200585, 16.2806, 80.21443, NUDURUPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PHIRANGIPURAM, 4960, PHIRANGIPURAM, 200586, 16.289786, 80.2636, PHIRANGIPURAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PHIRANGIPURAM, 4960, PONUGUPADU, 200587, 16.267893, 80.172551, PONUGUPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PHIRANGIPURAM, 4960, REPUDI, 200588, 16.287559, 80.255196, REPUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PHIRANGIPURAM, 4960, SIRANGIPALEM, 200589, 16.317985, 80.231928, SIRANGIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PHIRANGIPURAM, 4960, TAKKELLAPADU, 200590, 16.335228, 80.232143, TAKKELLAPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PHIRANGIPURAM, 4960, VEMAVARAM, 200591, 16.317985, 80.231928, VEMAVARAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PIDUGURALLA, 4961, Brahmanapalli, 203367, 16.51628, 79.83143, Brahmanapalli, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PIDUGURALLA, 4961, Chennayapalem, 203368, 16.50703, 79.82579, Chennayapalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PIDUGURALLA, 4961, China Agraharam, 203369, 16.48477, 79.81543, China Agraharam, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PIDUGURALLA, 4961, Guthikonda, 203370, 16.43099, 79.83142, Guthikonda, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PIDUGURALLA, 4961, Janapadu, 203371, 16.4596, 79.86686, Janapadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PIDUGURALLA, 4961, Julakallu, 203372, 16.44472, 79.78997, Julakallu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PIDUGURALLA, 4961, Kamepalli, 203373, 16.51867, 79.83271, Kamepalli, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PIDUGURALLA, 4961, Karalapadu, 203374, 16.50458, 79.80235, Karalapadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PIDUGURALLA, 4961, Konanki, 203375, 16.50674, 79.92387, Konanki, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PIDUGURALLA, 4961, Panditavaripalem, 203376, 16.45969, 79.81796, Panditavaripalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PIDUGURALLA, 4961, Pathaganesunipadu, 203377, 16.51273, 79.90792, Pathaganesunipadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PIDUGURALLA, 4961, Peda Agraharam, 203378, 16.49383, 79.82919, Peda Agraharam, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PIDUGURALLA, 4961, Piduguralla, 203379, 16.47902, 79.88281, Piduguralla, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PIDUGURALLA, 4961, Thummalacheruvu, 203380, 16.52858, 79.79839, Thummalacheruvu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PIDUGURALLA, 4961, Veerapuram, 203381, 16.55687, 79.78451, Veerapuram, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PITTALAVANIPALEM, 4962, ALAKAPURAM, 200606, 15.966975, 80.605175, ALAKAPURAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PITTALAVANIPALEM, 4962, ALLURU, 200607, 15.944744, 80.623256, ALLURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PITTALAVANIPALEM, 4962, BHAVANAMVARIPALEM, 200608, 16.016668, 80.571885, BHAVANAMVARIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PITTALAVANIPALEM, 4962, CHANDOLU, 200609, 15.999961, 80.630063, CHANDOLU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PITTALAVANIPALEM, 4962, G.N.PALEM, 200610, 15.981079, 80.635169, G.N.PALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PITTALAVANIPALEM, 4962, KHAJIPALEM, 200611, 15.974258, 80.61789, KHAJIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PITTALAVANIPALEM, 4962, KOMALI, 200612, 16.031377, 80.595, KOMALI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PITTALAVANIPALEM, 4962, KOTHAPALEM, 200613, 15.98578, 80.63839, KOTHAPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PITTALAVANIPALEM, 4962, M.V.PALEM, 200614, 15.977427, 80.605827, M.V.PALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PITTALAVANIPALEM, 4962, P.V.PALEM, 200616, 15.977427, 80.605827, PITTALAVANIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PITTALAVANIPALEM, 4962, PITTUVARIPALEM, 200617, 15.968927, 80.604523, PITTUVARIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PITTALAVANIPALEM, 4962, POTHANAKATTAVARIPALEM, 200615, 15.966975, 80.605175, POTHANAKATTAVARIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PITTALAVANIPALEM, 4962, S.KODURU, 200619, 16.030131, 80.596063, S.KODURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PITTALAVANIPALEM, 4962, SANGUPALEM, 200618, 16.006821, 80.611142, SANGUPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PONNUR, 4963, ALURU, 200620, 16.08577, 80.556984, ALURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PONNUR, 4963, AREMANDA, 200621, 16.115345, 80.571569, AREMANDA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PONNUR, 4963, BRAHMANAKODURU, 200622, 16.146725, 80.515487, BRAHMANAKODURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PONNUR, 4963, CHINTALAPUDI, 200623, 16.043506, 80.542309, CHINTALAPUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PONNUR, 4963, DANDAMUDI, 200624, 16.112682, 80.556652, DANDAMUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PONNUR, 4963, DOPPALAPUDI, 200625, 16.099348, 80.520571, DOPPALAPUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PONNUR, 4963, GAYAMVARIPALEM, 200626, 16.118203, 80.56541, GAYAMVARIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PONNUR, 4963, GOLLAMUDIPADU, 200627, 16.129148, 80.516654, GOLLAMUDIPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PONNUR, 4963, ITIKEMPADU, 200628, 16.071338, 80.526686, ITIKEMPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PONNUR, 4963, JEDAVALLI, 200629, 16.031707, 80.575438, JEDAVALLI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PONNUR, 4963, JUPUDI, 200630, 16.123771, 80.489235, JUPUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PONNUR, 4963, KASUKARRU, 200631, 16.084471, 80.580162, KASUKARRU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PONNUR, 4963, KATTEMPUDI, 200632, 16.09453, 80.555188, KATTEMPUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PONNUR, 4963, KONDAMUDI, 200633, 16.023019, 80.541988, KONDAMUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PONNUR, 4963, MACHAVARAM, 235899, 16.136265, 80.562105, MACHAVARAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PONNUR, 4963, MAMILLAPALLI, 200634, 16.103896, 80.499251, MAMILLAPALLI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PONNUR, 4963, MANNAVA, 200635, 16.018704, 80.52837, MANNAVA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PONNUR, 4963, MULUKUDURU, 235898, 16.12482, 80.540109, MULUKUDURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PONNUR, 4963, MUNIPALLI, 200636, 16.024563, 80.508084, MUNIPALLI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PONNUR, 4963, NANDURU, 200637, 16.111503, 80.534543, NANDURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PONNUR, 4963, PATCHALATADIPARRU, 200638, 16.005459, 80.499181, PATCHALATADIPARRU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PONNUR, 4963, PEDA ITIKAMPADU, 235897, 16.049066, 80.470539, PEDA ITIKAMPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PONNUR, 4963, PEDAPALEM, 200639, 16.069864, 80.507248, PEDAPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PONNUR, 4963, SEETHARAMAPURAM, 200640, 16.069864, 80.507248, SEETHARAMAPURAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PONNUR, 4963, THALLAPALEM, 200641, 16.095602, 80.55752, THALLAPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PONNUR, 4963, UPPARAPALEM, 200642, 16.079661, 80.501639, UPPARAPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PONNUR, 4963, VADDIMUKKALA, 200643, 16.038767, 80.556509, VADDIMUKKALA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PONNUR, 4963, VALLABHARAOPALEM, 200644, 16.055469, 80.524008, VALLABHARAOPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PONNUR, 4963, VELLALURU, 200645, 16.153307, 80.543426, VELLALURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PRATHIPADU, 4964, CHAWADAVARAM, 200185, 16.238687, 80.323866, CHAWADAVARAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PRATHIPADU, 4964, EDULAPALEM, 200647, 16.228499, 80.329947, EDULAPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PRATHIPADU, 4964, GANIKAPUDI, 200648, 16.163428, 80.300786, GANIKAPUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PRATHIPADU, 4964, GOTTIPADU, 200649, 16.18392, 80.332922, GOTTIPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PRATHIPADU, 4964, KONDEPADU, 200650, 16.210679, 80.365784, KONDEPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PRATHIPADU, 4964, KOTHAMALLAYAPALEM, 200651, 16.15875, 80.35927, KOTHAMALLAYAPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PRATHIPADU, 4964, KOYAVARIPALEM, 200652, 16.200351, 80.356432, KOYAVARIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PRATHIPADU, 4964, MEDAVARIPALEM, 200653, 16.131748, 80.386256, MEDAVARIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PRATHIPADU, 4964, NADIMPALEM, 200646, 16.18392, 80.332922, NADIMPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PRATHIPADU, 4964, NIMMAGADDAVARIPALEM, 200654, 16.185106, 80.339896, NIMMAGADDAVARIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PRATHIPADU, 4964, PATHAMALLAYAPALEM, 200655, 16.183673, 80.338138, PATHAMALLAYAPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PRATHIPADU, 4964, POTHUR, 200197, 16.243642, 80.341842, POTHUR GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PRATHIPADU, 4964, PRATHIPADU, 200656, 16.18392, 80.332922, PRATHIPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PRATHIPADU, 4964, THUMMALAPALEM, 200657, 16.207264, 80.314287, THUMMALAPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PRATHIPADU, 4964, TIKKIREDDYPALEM, 200658, 16.183673, 80.338138, TIKKIREDDYPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PRATHIPADU, 4964, VANGIPURAM, 200659, 16.157877, 80.36452, VANGIPURAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, PRATHIPADU, 4964, YANAMADALA, 200660, 16.207264, 80.314287, YANAMADALA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, RAJUPALEM, 4965, Anchulavaripalem, 203437, 16.45447, 79.93177, Anchulavaripalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, RAJUPALEM, 4965, Anupalem, 203438, 16.46612, 79.95446, Anupalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, RAJUPALEM, 4965, Beeravallipaya, 203440, 16.43033, 79.99518, Beeravallipaya, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, RAJUPALEM, 4965, Brahmanapalli, 203441, 16.45552, 80.0443, Brahmanapalli, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, RAJUPALEM, 4965, Choutapapayapalem, 203442, 16.47721, 79.99343, Choutapapayapalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, RAJUPALEM, 4965, Devarampadu, 203447, 16.44013, 79.90912, Devarampadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, RAJUPALEM, 4965, Ganapavaram, 203443, 16.41582, 80.03417, Ganapavaram, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, RAJUPALEM, 4965, Inemetla, 203444, 16.38483, 79.99425, Inemetla, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, RAJUPALEM, 4965, Kotanemalipuri, 203445, 16.515, 80.265833, Kotanemalipuri, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, RAJUPALEM, 4965, Kothapalem, 203446, 16.40842, 80.0036, Kothapalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, RAJUPALEM, 4965, Mokkapadu, 203448, 16.459, 80.05313, Mokkapadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, RAJUPALEM, 4965, Nemalipuri, 203449, 16.566667, 80.170833, Nemalipuri, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, RAJUPALEM, 4965, Rajupalem, 203450, 16.46409, 80.01706, Rajupalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, RAJUPALEM, 4965, Reddygudem, 203451, 16.43784, 80.0511, Reddygudem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, RAJUPALEM, 4965, Upplapadu, 203452, 16.38648, 79.99782, Upplapadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, RENTACHINTALA, 4966, Goli, 203453, 16.58892, 79.52372, Goli, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, RENTACHINTALA, 4966, Jettipalem, 203454, 16.60083, 79.4989, Jettipalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, RENTACHINTALA, 4966, Mallavaram, 203455, 16.60172, 79.47341, Mallavaram, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, RENTACHINTALA, 4966, Manchikallu, 203456, 16.50129, 79.53003, Manchikallu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, RENTACHINTALA, 4966, Mittagudipadu, 203457, 16.57042, 79.54062, Mittagudipadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, RENTACHINTALA, 4966, Paluvoi, 203458, 16.54428, 79.4978, Paluvoi, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, RENTACHINTALA, 4966, Paluvoi Gate, 203459, 16.52229, 79.50598, Paluvoi Gate, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, RENTACHINTALA, 4966, Pasarlapadu, 203460, 16.57159, 79.51597, Pasarlapadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, RENTACHINTALA, 4966, Rentachintala, 203461, 16.55431, 79.55756, Rentachintala, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, RENTACHINTALA, 4966, Rentalla, 203462, 16.52908, 79.56343, Rentalla, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, RENTACHINTALA, 4966, Thumrukota, 203463, 16.55833, 79.46003, Thumrukota, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, REPALLE, 4967, ARAVAPALLI, 200687, 16.023357, 80.838528, ARAVAPALLI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, REPALLE, 4967, BETHAPUDI, 200688, 16.019586, 80.83011, BETHAPUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, REPALLE, 4967, BONDALAGARUVU, 200689, 15.926143, 80.870765, BONDALAGARUVU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, REPALLE, 4967, CHATRAGADDA, 200690, 16.006189, 80.870266, CHATRAGADDA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, REPALLE, 4967, CHENNUPALLIVARIPALEM, 200691, 15.915086, 80.887541, CHENNUPALLIVARIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, REPALLE, 4967, GANGADIPALEM, 200692, 15.900608, 80.889071, GANGADIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, REPALLE, 4967, GUDDIKAYALANKA, 200693, 16.014132, 80.815767, GUDDIKAYALANKA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, REPALLE, 4967, KAITHEPALLI, 200694, 15.933194, 80.850994, KAITHEPALLI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, REPALLE, 4967, KAMARAJUGADDA, 200695, 15.971205, 80.885588, KAMARAJUGADDA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, REPALLE, 4967, KAMARAJUGADDA SOUTH, 235901, 15.956737, 80.870487, KAMARAJUGADDA SOUTH GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, REPALLE, 4967, KARUMURU, 200696, 16.03779, 80.840133, KARUMURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, REPALLE, 4967, LANKEVANIDIBBA, 200697, 15.844108, 80.867002, LANKEVANIDIBBA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, REPALLE, 4967, MOLLAGUNTA, 200698, 15.908086, 80.841108, MOLLAGUNTA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, REPALLE, 4967, MORLAVARIPALEM, 200699, 16.023357, 80.838528, MORLAVARIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, REPALLE, 4967, NALLURIPALEM, 200700, 16.004775, 80.842928, NALLURIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, REPALLE, 4967, NALLURU NORTH, 235902, 16.008966, 80.854593, NALLURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, REPALLE, 4967, PENUMUDI, 200701, 16.024132, 80.869383, PENUMUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, REPALLE, 4967, PETERU, 200702, 16.023357, 80.838528, PETERU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, REPALLE, 4967, PIRATLANKA, 200703, 15.92582, 80.884771, PIRATLANKA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, REPALLE, 4967, POTHUMERAKA, 200704, 15.925936, 80.86187, POTHUMERAKA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, REPALLE, 4967, RAJUKALAVA, 200705, 15.883724, 80.887189, RAJUKALAVA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, REPALLE, 4967, SINGUPALEM, 200706, 15.981893, 80.838725, SINGUPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, REPALLE, 4967, THUMMALA, 200707, 15.918412, 80.859657, THUMMALA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, REPALLE, 4967, TSODAYAPALEM, 200708, 15.953184, 80.88701, TSODAYAPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, REPALLE, 4967, UPPUDI, 200709, 16.008966, 80.854593, UPPUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, REPALLE, 4967, VADDIVARIPALEM, 200710, 15.92582, 80.884771, VADDIVARIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, REPALLE, 4967, VISWESWARAM, 200711, 15.957707, 80.870653, VISWESWARAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, ROMPICHERLA, 4968, Alawala, 203491, 16.17453, 79.89483, Alawala, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, ROMPICHERLA, 4968, Annavaram, 203492, 16.22312, 79.97046, Annavaram, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, ROMPICHERLA, 4968, Annavarappadu, 203493, 16.14124, 79.92806, Annavarappadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, ROMPICHERLA, 4968, Arepalli, 203494, 16.24787, 79.84186, Arepalli, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, ROMPICHERLA, 4968, Atchiahpalem, 203495, 16.16933, 79.89545, Atchiahpalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, ROMPICHERLA, 4968, Butchibapanapalem, 203497, 16.23506, 79.86793, Butchibapanapalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, ROMPICHERLA, 4968, Edwardpeta, 203498, 16.33365, 79.92562, Edwardpeta, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, ROMPICHERLA, 4968, Gogulapadu, 203499, 16.20201, 79.86987, Gogulapadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, ROMPICHERLA, 4968, Karlakunta, 203500, 16.25216, 79.88936, Karlakunta, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, ROMPICHERLA, 4968, Konakanchivaripalem, 203501, 16.19359, 79.89104, Konakanchivaripalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, ROMPICHERLA, 4968, Kothapalli, 203502, 16.31636, 79.9134, Kothapalli, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, ROMPICHERLA, 4968, Machavaram, 203503, 16.28079, 79.96336, Machavaram, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, ROMPICHERLA, 4968, Munumaka, 203504, 16.2026, 79.9803, Munumaka, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, ROMPICHERLA, 4968, Muthanapalli, 203505, 16.17946, 79.97563, Muthanapalli, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, ROMPICHERLA, 4968, Nalagarlapadu, 203506, 16.26943, 79.97909, Nalagarlapadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, ROMPICHERLA, 4968, Paragaticherla, 203507, 16.25022, 79.96913, Paragaticherla, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, ROMPICHERLA, 4968, Ramireddipalem, 203508, 16.22601, 79.88985, Ramireddipalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, ROMPICHERLA, 4968, Rompicherla, 203509, 16.20956, 79.91209, Rompicherla, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, ROMPICHERLA, 4968, Santhaguidipadu, 203510, 16.25559, 79.91327, Santhaguidipadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, ROMPICHERLA, 4968, Subbaiahpalem, 203511, 16.16833, 79.91914, Subbaiahpalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, ROMPICHERLA, 4968, Thungapadu, 203512, 16.22727, 79.93857, Thungapadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, ROMPICHERLA, 4968, Thurumella, 203513, 16.16057, 79.91831, Thurumella, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, ROMPICHERLA, 4968, Vadlamudivaripalem, 203514, 16.19725, 79.94286, Vadlamudivaripalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, ROMPICHERLA, 4968, Veeravatnam, 203515, 16.15077, 79.93408, Veeravatnam, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, ROMPICHERLA, 4968, Vipperapalli, 203517, 16.19318, 79.96635, Vipperapalli, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, ROMPICHERLA, 4968, Vipperla, 203516, 16.30243, 79.93661, Vipperla, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, SATTENAPALLE, 4969, Abburu, 203518, 16.44684, 80.16589, Abburu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, SATTENAPALLE, 4969, Bhatluru, 203519, 16.4807, 80.19323, Bhatluru, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, SATTENAPALLE, 4969, Bhimavaram, 203520, 16.4214, 80.16971, Bhimavaram, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, SATTENAPALLE, 4969, Burugubanda, 203521, 16.45089, 80.09333, Burugubanda, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, SATTENAPALLE, 4969, D.D.Palem, 203522, 16.46753, 80.16349, D.D.Palem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, SATTENAPALLE, 4969, Dhulipalla, 203523, 16.41406, 80.08694, Dhulipalla, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, SATTENAPALLE, 4969, Gandluru, 203524, 16.43778, 80.14542, Gandluru, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, SATTENAPALLE, 4969, Garnepadu, 203525, 16.41547, 80.26771, Garnepadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, SATTENAPALLE, 4969, Gogulapadu, 203526, 16.46684, 80.11579, Gogulapadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, SATTENAPALLE, 4969, Gudipudi, 203528, 16.41925, 80.21659, Gudipudi, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, SATTENAPALLE, 4969, Gujjarlapudi, 203529, 16.493, 80.20362, Gujjarlapudi, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, SATTENAPALLE, 4969, Kanakanalapalli, 203531, 16.41436, 80.13071, Kanakanalapalli, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, SATTENAPALLE, 4969, Kandulavaripalem, 203530, 16.46992, 80.10268, Kandulavaripalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, SATTENAPALLE, 4969, Kantepudi, 203532, 16.37715, 80.21921, Kantepudi, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, SATTENAPALLE, 4969, Kattamuru, 203533, 16.48503, 80.16571, Kattamuru, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, SATTENAPALLE, 4969, Kattavaripalem, 203534, 16.38283, 80.2248, Kattavaripalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, SATTENAPALLE, 4969, Komerapudi, 203535, 16.35594, 80.21208, Komerapudi, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, SATTENAPALLE, 4969, L.Garlapadu, 203536, 16.34193, 80.16738, L.Garlapadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, SATTENAPALLE, 4969, Nandigama, 203537, 16.40113, 80.19828, Nandigama, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, SATTENAPALLE, 4969, Pakalapadu, 203538, 16.44395, 80.13439, Pakalapadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, SATTENAPALLE, 4969, Peddamakkena, 203539, 16.4326, 80.24206, Peddamakkena, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, SATTENAPALLE, 4969, Phanidam, 203540, 16.46135, 80.18689, Phanidam, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, SATTENAPALLE, 4969, Rentapalla, 203541, 16.47209, 80.13476, Rentapalla, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, SAVALYAPURAM, 4970, Bondilipalem, 203542, 16.09043, 79.84378, Bondilipalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, SAVALYAPURAM, 4970, Chinakancherla, 203543, 16.06087, 79.83278, Chinakancherla, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, SAVALYAPURAM, 4970, Guntupalem, 203544, 16.04587, 79.86749, Guntupalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, SAVALYAPURAM, 4970, Irlapadu, 203545, 16.16756, 79.8266, Irlapadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, SAVALYAPURAM, 4970, Kanamarlapudi, 203546, 16.09656, 79.79885, Kanamarlapudi, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, SAVALYAPURAM, 4970, Karumanchi, 203547, 16.0576, 79.89362, Karumanchi, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, SAVALYAPURAM, 4970, Kothaluru, 203548, 16.1308, 79.80581, Kothaluru, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, SAVALYAPURAM, 4970, Mathkumalli, 203549, 16.07616, 79.85956, Mathkumalli, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, SAVALYAPURAM, 4970, Mundruvaripalem, 203550, 16.06607, 79.83119, Mundruvaripalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, SAVALYAPURAM, 4970, Pitchikalapalem, 203551, 16.07046, 79.81736, Pitchikalapalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, SAVALYAPURAM, 4970, Potlur, 203552, 16.13526, 79.82102, Potlur, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, SAVALYAPURAM, 4970, Sanampudi, 203553, 16.08559, 79.83465, Sanampudi, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, SAVALYAPURAM, 4970, Savalyapuram, 203554, 16.10181, 79.8127, Savalyapuram, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, SAVALYAPURAM, 4970, Velpur, 203555, 16.14981, 79.86461, Velpur, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, SAVALYAPURAM, 4970, Vyakallu, 203556, 16.04324, 79.8771, Vyakallu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TADEPALLE, 4971, CHIRRAVUR, 200778, 16.445202, 80.634316, CHIRRAVUR GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TADEPALLE, 4971, GUNDIMEDA, 200779, 16.462864, 80.618326, GUNDIMEDA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TADEPALLE, 4971, IPPATAM, 200780, 16.447224, 80.611631, IPPATAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TADEPALLE, 4971, KOLANUKONDA, 200781, 16.447224, 80.611631, KOLANUKONDA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TADEPALLE, 4971, KUNCHANAPALLI, 200782, 16.484834, 80.605642, KUNCHANAPALLI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TADEPALLE, 4971, MELLAMPUDI, 200783, 16.448591, 80.617032, MELLAMPUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TADEPALLE, 4971, PENUMAKA, 200784, 16.49609, 80.58618, PENUMAKA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TADEPALLE, 4971, PRATHURU, 200785, 16.445202, 80.634316, PRATHURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TADEPALLE, 4971, TADEPALLE, 888888, 16.491629, 80.599677, TADEPALLE GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TADEPALLE, 4971, UNDAVALLI, 888888, 16.491629, 80.599677, UNDAVALLI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TADEPALLE, 4971, VADDESWARAM, 200787, 16.447224, 80.611631, VADDESWARAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TADIKONDA, 4972, BANDARUPALLI, 200788, 16.38247, 80.375759, BANDARUPALLI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TADIKONDA, 4972, BEJATHPURAM, 200789, 16.419158, 80.384369, BEJATHPURAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TADIKONDA, 4972, DAMARAPALLI, 200790, 16.406456, 80.402958, DAMARAPALLI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TADIKONDA, 4972, GARIKAPADU, 200791, 16.386341, 80.394719, GARIKAPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TADIKONDA, 4972, JONNALAGADDA, 200190, 16.38207, 80.434246, JONNALAGADDA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TADIKONDA, 4972, KANTHERU, 200792, 16.415916, 80.454093, KANTHERU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TADIKONDA, 4972, LAM, 200793, 16.379263, 80.394091, LAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TADIKONDA, 4972, LATCHANAGUDIPUDI, 200794, 16.437778, 80.397061, LATCHANAGUDIPUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TADIKONDA, 4972, MANDAPADU, 200389, 16.392804, 80.319861, MANDAPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TADIKONDA, 4972, MOTHADAKA, 200795, 16.454319, 80.390132, MOTHADAKA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TADIKONDA, 4972, MUKKAMALA, 200796, 16.454319, 80.390132, MUKKAMALA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TADIKONDA, 4972, NIDUMUKKALA, 200797, 16.415916, 80.454093, NIDUMUKKALA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TADIKONDA, 4972, PAMULAPADU, 200798, 16.433205, 80.361816, PAMULAPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TADIKONDA, 4972, PHANIDARAM, 200799, 16.376105, 80.39356, PHANIDARAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TADIKONDA, 4972, PONNEKALLU, 200800, 16.437778, 80.397061, PONNEKALLU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TADIKONDA, 4972, RAVELA, 200801, 16.433205, 80.361816, RAVELA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TADIKONDA, 4972, TADIKONDA, 200802, 16.4173, 80.44716, TADIKONDA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TADIKONDA, 4972, VARAGANI, 200395, 16.418736, 80.348631, VARAGANI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TENALI, 4973, ANGALAKUDURU, 200803, 16.233799, 80.649032, ANGALAKUDURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TENALI, 4973, BURRIPALEM, 200804, 16.239427, 80.653959, BURRIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TENALI, 4973, CHAVAVARI PALEM, 200805, 16.227004, 80.611945, CHAVAVARI PALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TENALI, 4973, ERUKALAPUDI, 200803, 16.298559, 80.636577, ERUKALAPUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TENALI, 4973, GUDIWADA, 200804, 16.263744, 80.612192, GUDIWADA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TENALI, 4973, HAFFPET, 200805, 16.303959, 80.617313, HAFFPET GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TENALI, 4973, JAGADDIGUNTAPALEM, 200806, 16.233799, 80.649032, JAGADDIGUNTAPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TENALI, 4973, KANCHARLAPALEM, 200807, 16.276906, 80.638203, KANCHARLAPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TENALI, 4973, KATTEVARAM, 200808, 16.263927, 80.639088, KATTEVARAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TENALI, 4973, KOLAKALOUR, 200809, 16.299153, 80.62343, KOLAKALOUR GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TENALI, 4973, KOPALLE, 200810, 16.239053, 80.606595, KOPALLE GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TENALI, 4973, MALLEPADU, 200811, 16.210384, 80.655273, MALLEPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TENALI, 4973, NANDIVELUGU, 200812, 16.298559, 80.636577, NANDIVELUGU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TENALI, 4973, NELAPADU, 200813, 16.265634, 80.682861, NELAPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TENALI, 4973, PEDARAVURU, 200814, 16.216561, 80.656196, PEDARAVURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TENALI, 4973, SANGAM JAGARLAMUDI, 200815, 16.24062, 80.60703, SANGAM JAGARLAMUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TENALI, 4973, SOMASUNDARA PALEM, 200816, 16.263927, 80.639088, SOMASUNDARA PALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TENALI, 4973, TELAPROLU, 200817, 16.265634, 80.682861, TELAPROLU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, THULLUR, 4974, ABBARAJUPALEM, 200821, 16.555876, 80.466258, ABBARAJUPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, THULLUR, 4974, ANANTHAVARAM, 200822, 16.490815, 80.440305, ANANTHAVARAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, THULLUR, 4974, BORUPALEM, 200823, 16.547646, 80.480364, BORUPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, THULLUR, 4974, DONDAPADU, 200824, 16.529188, 80.469168, DONDAPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, THULLUR, 4974, HARICHANDRAPURAM, 200825, 16.562845, 80.456257, HARICHANDRAPURAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, THULLUR, 4974, INAVOLU, 200826, 16.491747, 80.477981, INAVOLU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, THULLUR, 4974, LINGAYAPALEM, 200827, 16.547646, 80.480364, LINGAYAPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, THULLUR, 4974, MALKAPURAM, 200828, 16.526887, 80.510263, MALKAPURAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, THULLUR, 4974, MANDADAM, 200829, 16.524132, 80.518736, MANDADAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, THULLUR, 4974, NEKKALLU, 200830, 16.512384, 80.432488, NEKKALLU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, THULLUR, 4974, NELAPADU, 200831, 16.527226, 80.469304, NELAPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, THULLUR, 4974, PEDAPARIMI, 200832, 16.490815, 80.440305, PEDAPARIMI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, THULLUR, 4974, RAYAPUDI, 200833, 16.529188, 80.469168, RAYAPUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, THULLUR, 4974, SAKHAMURU, 200834, 16.510042, 80.479247, SAKHAMURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, THULLUR, 4974, THULLUR, 200835, 16.529188, 80.467441, THULLUR GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, THULLUR, 4974, UDDANDARAYUNIPALEM, 200836, 16.531372, 80.508286, UDDANDARAYUNIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, THULLUR, 4974, VADDAMANU, 200837, 16.534389, 80.453778, VADDAMANU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, THULLUR, 4974, VELAGAPUDI, 200838, 16.539428, 80.494469, VELAGAPUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, THULLUR, 4974, VENKATAPALEM, 200839, 16.521028, 80.524655, VENKATAPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TSUNDUR, 4975, ALAPADU, 200840, 16.160987, 80.585363, ALAPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TSUNDUR, 4975, AMBEDKARNAGAR, 200841, 16.170538, 80.628982, AMBEDKARNAGAR GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TSUNDUR, 4975, CHENNAGADELAVARU, 200842, 16.153292, 80.582279, CHENNAGADELAVARU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TSUNDUR, 4975, CHINNAPAREMI, 200843, 16.17987, 80.623698, CHINNAPAREMI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TSUNDUR, 4975, DUNDIPALEM, 200844, 16.212159, 80.597947, DUNDIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TSUNDUR, 4975, EDLAPALLI, 200845, 16.199476, 80.591929, EDLAPALLI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TSUNDUR, 4975, KARMURIVARIPALEM, 200846, 16.165408, 80.637993, KARMURIVARIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TSUNDUR, 4975, KOTHAPALLINARKALLAPALLI, 200847, 16.159226, 80.580152, KOTHAPALLINARKALLAPALLI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TSUNDUR, 4975, MANDURU, 200848, 16.163431, 80.627978, MANDURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TSUNDUR, 4975, MODUKURU, 200849, 16.153193, 80.582974, MODUKURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TSUNDUR, 4975, MUNNANGIVARIPALEM, 200850, 16.158911, 80.581492, MUNNANGIVARIPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TSUNDUR, 4975, NADIGADDAPALEM, 200851, 16.160022, 80.584073, NADIGADDAPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TSUNDUR, 4975, PEDAGADELAVARU, 200852, 16.163431, 80.627978, PEDAGADELAVARU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TSUNDUR, 4975, PENUGUDURUPADU, 200853, 16.184052, 80.563202, PENUGUDURUPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TSUNDUR, 4975, THOTTEMPUDI, 200854, 16.131809, 80.582811, THOTTEMPUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TSUNDUR, 4975, TSUNDUR, 200855, 16.160022, 80.584073, TSUNDUR GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TSUNDUR, 4975, VALIVERU, 200856, 16.199773, 80.592208, VALIVERU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, TSUNDUR, 4975, VETAPALEM, 200857, 16.169148, 80.562393, VETAPALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VATTICHERUKURU, 4976, ANANTHAVARAPADU, 200858, 16.240213, 80.428094, ANANTHAVARAPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VATTICHERUKURU, 4976, BUDAMPADU, 200182, 16.235223, 80.453767, BUDAMPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VATTICHERUKURU, 4976, CHAMALLAMUDI, 200859, 16.194751, 80.426498, CHAMALLAMUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VATTICHERUKURU, 4976, CHINTAPALLIPADU, 888888, 16.202753, 80.391686, CHINTAPALLIPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VATTICHERUKURU, 4976, ETUKURU, 200187, 16.244062, 80.426476, ETUKURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VATTICHERUKURU, 4976, GARAPADU, 200860, 16.184815, 80.391129, GARAPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VATTICHERUKURU, 4976, KAREMPUDIPADU, 200861, 16.160011, 80.46382, KAREMPUDIPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VATTICHERUKURU, 4976, KATRAPADU, 200862, 16.180847, 80.423662, KATRAPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VATTICHERUKURU, 4976, KORNEPADU, 200863, 16.242463, 80.405893, KORNEPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VATTICHERUKURU, 4976, KOVELAMUDI, 200864, 16.15771, 80.483602, KOVELAMUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VATTICHERUKURU, 4976, KURNOOTHALA, 200865, 16.215059, 80.394052, KURNOOTHALA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VATTICHERUKURU, 4976, LALPURAM, 200191, 16.264175, 80.424637, LALPURAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VATTICHERUKURU, 4976, LEMALLEPADU, 200866, 16.185235, 80.44871, LEMALLEPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VATTICHERUKURU, 4976, MUTLURU, 200867, 16.156683, 80.482492, MUTLURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VATTICHERUKURU, 4976, PALLAPADU, 200868, 16.175121, 80.401561, PALLAPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VATTICHERUKURU, 4976, PULLADIGUNTA, 200869, 16.239243, 80.427526, PULLADIGUNTA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VATTICHERUKURU, 4976, SOWPADU, 200870, 16.16875, 80.41723, SOWPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VATTICHERUKURU, 4976, VATTICHERUKURU, 200871, 16.185235, 80.44871, VATTICHERUKURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VATTICHERUKURU, 4976, VINJANAMPADU, 200872, 16.239243, 80.427526, VINJANAMPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VATTICHERUKURU, 4976, YAMARRU, 200873, 16.175121, 80.401561, YAMARRU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VELDURTHY, 4977, Bodilaveedu, 203655, 16.38054, 79.35388, Bodilaveedu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VELDURTHY, 4977, Gangalakunta, 203656, 16.3144, 79.28764, Gangalakunta, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VELDURTHY, 4977, Gottipalla, 203657, 16.33251, 79.29634, Gottipalla, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VELDURTHY, 4977, Gundlapadu, 203658, 16.36306, 79.34162, Gundlapadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VELDURTHY, 4977, K.P.Gudem, 203659, 16.39883, 79.25656, K.P.Gudem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VELDURTHY, 4977, Kandlakunta, 203660, 16.38811, 79.29314, Kandlakunta, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VELDURTHY, 4977, Loyapalli, 203661, 16.30276, 79.36788, Loyapalli, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VELDURTHY, 4977, Mandadi, 203662, 16.41081, 79.40289, Mandadi, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VELDURTHY, 4977, Mittmeedipalli, 203663, 16.30305, 79.32885, Mittmeedipalli, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VELDURTHY, 4977, Potlaveedu, 203664, 16.39011, 79.44432, Potlaveedu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VELDURTHY, 4977, Ratchamallipadu, 203665, 16.42158, 79.37761, Ratchamallipadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VELDURTHY, 4977, Sirigiripadu, 203666, 16.30791, 79.32821, Sirigiripadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VELDURTHY, 4977, SRP Thanda, 203667, 16.40347, 79.35028, SRP Thanda, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VELDURTHY, 4977, Uppalapadu, 203668, 16.35707, 79.40172, Uppalapadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VELDURTHY, 4977, Vazralapadu Thanda, 203669, 16.28591, 79.28506, Vazralapadu Thanda, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VELDURTHY, 4977, Veldurthi, 203670, 16.34885, 79.36601, Veldurthi, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VEMURU, 4978, ABBANAGUDAVALLI, 200890, 16.179182, 80.744454, ABBANAGUDAVALLI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VEMURU, 4978, BAALIJEPALLI, 200891, 16.177874, 80.7398, BALIJEPALLI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VEMURU, 4978, BUTHUMALLI, 200892, 16.189379, 80.719523, BUTHUMALLI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VEMURU, 4978, CHADALAWADA, 200893, 16.229063, 80.736106, CHADALAWADA GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VEMURU, 4978, CHAMPADU, 200894, 16.178652, 80.696396, CHAMPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VEMURU, 4978, CHAVALI, 200895, 16.179306, 80.739929, CHAVALI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VEMURU, 4978, JAMPANI, 235905, 16.189451, 80.719314, JAMPANI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VEMURU, 4978, KAKARLAMUDI, 200896, 16.218234, 80.751001, KAKARLAMUDI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VEMURU, 4978, KODIPARRU, 200897, 16.139426, 80.735015, KODIPARRU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VEMURU, 4978, KUCHELLAPADU, 200898, 16.195272, 80.742838, KUCHELLAPADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VEMURU, 4978, PENUMARRU, 200899, 16.128555, 80.766103, PENUMARRU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VEMURU, 4978, PERAVALI, 200900, 16.139426, 80.735015, PERAVALI GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VEMURU, 4978, PERAVALI PALEM, 200901, 16.139202, 80.716419, PERAVALI PALEM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VEMURU, 4978, POTHUMARRU, 200902, 16.18021, 80.71622, POTHUMARRU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VEMURU, 4978, VARAHAPURAM, 200903, 16.179182, 80.744454, VARAHAPURAM GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VEMURU, 4978, VELLABADU, 200904, 16.218234, 80.751001, VELLABADU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VEMURU, 4978, VEMURU, 200905, 16.177874, 80.7398, VEMURU GP, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VINUKONDA, 4979, Andugulapadu, 203687, 16.01069, 79.60924, Andugulapadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VINUKONDA, 4979, Brahmanapalli, 203689, 16.08419, 79.75471, Brahmanapalli, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VINUKONDA, 4979, Chatragaddapadu, 203690, 16.0217, 79.74668, Chatragaddapadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VINUKONDA, 4979, Cheekateegalapalem, 203691, 16.0062, 79.6902, Cheekateegalapalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VINUKONDA, 4979, Dondapadu, 203692, 16.06355, 79.65504, Dondapadu, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VINUKONDA, 4979, Enugupalem, 203693, 16.02644, 79.82373, Enugupalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VINUKONDA, 4979, Gokanakonda, 203694, 15.95885, 79.87559, Gokanakonda, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VINUKONDA, 4979, Gonuguntlavaripalem, 203695, 16.02744, 79.79292, Gonuguntlavaripalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VINUKONDA, 4979, Hassanayudupalem, 203696, 16.03545, 79.77332, Hassanayudupalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VINUKONDA, 4979, Jalalpalem, 203697, 16.08893, 79.72727, Jalalpalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VINUKONDA, 4979, Koppukonda, 203698, 16.06729, 79.58458, Koppukonda, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VINUKONDA, 4979, Nadigadda, 203701, 16.0456, 79.64491, Nadigadda, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VINUKONDA, 4979, Nagulavaram, 203702, 15.97618, 79.88975, Nagulavaram, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VINUKONDA, 4979, Naragayapalem, 203703, 16.0915, 79.74043, Naragayapalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VINUKONDA, 4979, Neelagangavaram, 203704, 16.04027, 79.56266, Neelagangavaram, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VINUKONDA, 4979, Pedakancherla, 203705, 16.03909, 79.80735, Pedakancherla, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VINUKONDA, 4979, Perumallapalli, 203706, 15.99674, 79.81813, Perumallapalli, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VINUKONDA, 4979, Pittambanda, 203707, 15.99412, 79.86014, Pittambanda, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VINUKONDA, 4979, Sivapuram, 203708, 16.01228, 79.65258, Sivapuram, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VINUKONDA, 4979, Thimmayapalem, 203709, 16.03935, 79.70152, Thimmayapalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VINUKONDA, 4979, Ummadivaram, 203710, 15.9885, 79.86741, Ummadivaram, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VINUKONDA, 4979, Upparapalem, 203711, 16.05457, 79.69368, Upparapalem, 2
+ANDHRA PRADESH                                    , 28, GUNTUR, 548, VINUKONDA, 4979, Venkupalem, 203712, 16.08419, 79.75471, Venkupalem, 2

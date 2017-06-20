@@ -1,0 +1,370 @@
+State Name,State Code,District Name,District_Code,Block_Name,Block_Code,GP Name,GP Code,Latitude,Longitude,Location OF GP,Phas
+JAMMU AND KASHMIR,1,BARAMULLA,8,Rohama,29,Reban-B,248017,34.29746,74.41413,Reban-B,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,Rohama,29,Reban A,248016,34.29746,74.41413,Reban A,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,Rohama,29,Parraypora,248013,34.29396,74.39995,Parraypora,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,Rohama,29,Hadipora B,248012,34.29395,74.39273,Hadipora B,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,Rohama,29,Hadipora A,248011,34.29171,74.38786,Hadipora A,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,Rohama,29,Chijama,248014,34.28638,74.37763,Chijama,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,Rohama,29,Achabal-B,248030,34.28254,74.40741,Achabal-B,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,Rohama,29,Tragpora,248015,34.27891,74.3795,Tragpora,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,Rohama,29,Patoosa,248010,34.27468,74.31316,Patoosa,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,Rohama,29,Ferozpora,248019,34.27422,74.39594,Ferozpora,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,Rohama,29,Wanpora,248028,34.2742,74.33428,Wanpora,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,Rohama,29,Panzalla,248009,34.27382,74.29128,Panzalla,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,Rohama,29,Achabal-A,248029,34.27312,74.40356,Achabal-A,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,BARAMULLA,22,Sadipora,247297,34.2728,74.38515,Sadipora,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,Rohama,29,Rohama B,248027,34.27166,74.38916,Rohama B,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,Rohama,29,Rohama A,248026,34.27083,74.35151,Rohama A,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,Rohama,29,BDO,88888,34.27083,74.35151,BDO,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,Rohama,29,Balhama,248024,34.26979,74.25805,Balhama,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,Rohama,29,Doabgah A,248031,34.26622,74.41065,Doabgah A,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,Rohama,29,Doabgah B,248032,34.26537,74.41175,Doabgah B,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,BARAMULLA,22,Vohlutra,247278,34.26247,74.29362,Vohlutra,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,BARAMULLA,22,Nadihal-A,247291,34.25958,74.37101,Nadihal-A,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,BARAMULLA,22,Shutloo,247277,34.25808,74.31671,Shutloo,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,BARAMULLA,22,Nadihal B,247292,34.25801,74.37174,Nadihal B,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,Rohama,29,Kutroo-Naribal,248025,34.25707,74.251,Kutroo-Naribal,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,Rohama,29,Sailikote,248020,34.25646,74.26753,Sailikote,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,Rohama,29,Ladoora,248018,34.25245,74.38924,Ladoora,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,BARAMULLA,22,Johama,247267,34.24958,74.39446,Johama,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,Rohama,29,Brandub,248023,34.24897,74.28832,Brandub,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,BARAMULLA,22,Delina C,247295,34.2466,74.41134,Delina C,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,Rohama,29,Khahmoo,248022,34.24644,74.28606,Khahmoo,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,Rohama,29,Braman,248021,34.24457,74.26077,Braman,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,BARAMULLA,22,Chakla,247298,34.24052,74.38192,Chakla,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,BARAMULLA,22,Delina A,247293,34.23898,74.41965,Delina A,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,BARAMULLA,22,Delina D,247296,34.238,74.41954,Delina D,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,BARAMULLA,22,Vevkari,247284,34.23709,74.33301,Vevkari,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,BARAMULLA,22,Binner B,247283,34.23706,74.35247,Binner B,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,PATTAN,27,Sultanpora A,247996,34.2334,74.55795,Sultanpora A,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,BARAMULLA,22,Binner A,247282,34.23321,74.35282,Binner A,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,BARAMULLA,22,Delina B,247294,34.23236,74.42736,Delina B,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,PATTAN,27,Sultanpora B,247997,34.2292,74.57762,Sultanpora B,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,BARAMULLA,22,Kanispora,247266,34.2244,74.40446,Kanispora,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,PATTAN,27,Gohal Tangpora,247995,34.22371,74.55787,Gohal Tangpora,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,PATTAN,27,Goshbugh,247994,34.21838,74.54907,Goshbugh,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,PATTAN,27,Lolipora,247999,34.21539,74.53499,Lolipora,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,PATTAN,27,Buchoo,247989,34.21377,74.49833,Buchoo,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,BARAMULLA,22,Takyasultan / Drangabal,247270,34.21182,74.31779,Takyasultan / Drangabal,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,BARAMULLA,22,Singhpora,247301,34.20944,74.41709,Singhpora,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,BARAMULLA,22,Fatehpora,247288,34.20902,74.37803,Fatehpora,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,PATTAN,27,Takiya Tapper,247990,34.20676,74.5084,Takiya Tapper,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,PATTAN,27,Wussan,247998,34.20558,74.55247,Wussan,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,BARAMULLA,22,BDO Office,88888,34.20555,74.34118,BDO Office,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,PATTAN,27,Indergam,248001,34.20523,74.52494,Indergam,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,BARAMULLA,22,Gutiyar,247289,34.20513,74.37423,Gutiyar,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,BARAMULLA,22,Fresthar,247290,34.20208,74.3812,Fresthar,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,BARAMULLA,22,Jalsheeri,247269,34.20101,74.2984,Jalsheeri,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,PATTAN,27,Tapper Waripora,247988,34.19581,74.50846,Tapper Waripora,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,BARAMULLA,22,Khadniyar,247268,34.19452,74.29548,Khadniyar,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,PATTAN,27,Palhalan-F,248007,34.19189,74.57034,Palhalan-F,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,PATTAN,27,Palhalan-D,248005,34.18786,74.53035,Palhalan-D,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,PATTAN,27,Palhalan-A,248002,34.18679,74.55571,Palhalan-A,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,BARAMULLA,22,Sheeri,247265,34.18347,74.30747,Sheeri,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,PATTAN,27,Palhalan-C,248004,34.1818,74.55133,Palhalan-C,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,PATTAN,27,Nillah Palpora,247980,34.17881,74.53082,Nillah Palpora,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,PATTAN,27,Palhalan-B,248003,34.17813,74.54101,Palhalan-B,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,BARAMULLA,22,Fategarah,247264,34.17764,74.32856,Fategarah,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,PATTAN,27,Palhalan-E,248006,34.17758,74.54366,Palhalan-E,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,BARAMULLA,22,Gantamulla payeen,247276,34.17712,74.26112,Gantamulla payeen,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,BARAMULLA,22,Gantamulla Bala,247275,34.17672,74.25198,Gantamulla Bala,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,BARAMULLA,22,Zogiyar,247299,34.17644,74.30688,Zogiyar,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,BARAMULLA,22,Kitchama,247274,34.17358,74.28461,Kitchama,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,PATTAN,27,Wanigam Payeen,247979,34.17282,74.51109,Wanigam Payeen,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,BARAMULLA,22,Heevan B,247272,34.17047,74.33271,Heevan B,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,BARAMULLA,22,Budmulla,247300,34.17016,74.31534,Budmulla,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,PATTAN,27,Wanigam Bala,247977,34.16905,74.50104,Wanigam Bala,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,BARAMULLA,22,Kaliban,247273,34.16751,74.35111,Kaliban,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,BARAMULLA,22,Heevan A,247271,34.16554,74.32923,Heevan A,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,PATTAN,27,BDO 0FFICE,88888,34.1606,74.55415,BDO 0FFICE,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,PATTAN,27,Buran Zangam A,247975,34.15686,74.57748,Buran Zangam A,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,PATTAN,27,Tilgam-B,247973,34.15416,74.48165,Tilgam-B,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,PATTAN,27,Dargam,247978,34.15282,74.49834,Dargam,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,BARAMULLA,22,Audoora,247280,34.15277,74.32138,Audoora,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,PATTAN,27,Tilgam-A,247972,34.15079,74.47781,Tilgam-A,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,PATTAN,27,Nihalpora-B,247982,34.14861,74.52765,Nihalpora-B,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,PATTAN,27,Nihalpora-A,247981,34.14861,74.52765,Nihalpora-A,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,BARAMULLA,22,Malpora,247279,34.14797,74.33097,Malpora,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,BARAMULLA,22,Kawahar,247285,34.1466,74.35072,Kawahar,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,PATTAN,27,Buran Zangam B,247976,34.14438,74.56396,Buran Zangam B,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,BARAMULLA,22,Namblan,247281,34.1421,74.30843,Namblan,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,PATTAN,27,Dangerpora HQ,247992,34.14127,74.50459,Dangerpora HQ,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,BARAMULLA,22,Laridora,247286,34.13997,74.35138,Laridora,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,PATTAN,27,Sariwarpora,247993,34.13777,74.53235,Sariwarpora,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,BARAMULLA,22,Dangerpora,247287,34.13552,74.3443,Dangerpora,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,PATTAN,27,Souch Palpora,247991,34.13527,74.49691,Souch Palpora,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,PATTAN,27,Chandeerseer,247974,34.13497,74.47092,Chandeerseer,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,PATTAN,27,Sherpora-A,247984,34.1336,74.56227,Sherpora-A,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,PATTAN,27,Sherpora-B,247985,34.13312,74.55932,Sherpora-B,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,PATTAN,27,Mamoosa B,247987,34.1208,74.54015,Mamoosa B,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,PATTAN,27,Pakipora,247983,34.11651,74.52384,Pakipora,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,PATTAN,27,Mamoosa A,247986,34.11261,74.53971,Mamoosa A,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,BONIYAR                                           ,23,Banali,247933,34.9434,74.19684,Banali,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,BONIYAR                                           ,23,Uranbowa,247928,34.41371,74.14166,Uranbowa,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,ZAINGEER                                          ,36,Sagipora,248146,34.41077,74.35827,Sagipora pop,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,ZAINGEER                                          ,36,Zaloora A,248165,34.40846,74.39375,Zaloora (A) addah,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,ZAINGEER                                          ,36,Zaloora B,248166,34.40817,74.37134,Zaloora (B),2
+JAMMU AND KASHMIR,1,BARAMULLA,8,ZAINGEER                                          ,36,Yamberzalwari,248148,34.40486,74.41565,Yamberzalwar,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,ZAINGEER                                          ,36,Harwan,248147,34.39752,74.38436,Harwan ,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,RAFIABAD                                          ,28,Saripara,248553,34.38506,74.35018,Saripora,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,ZAINGEER                                          ,36,Nowpora,248149,34.38096,74.39701,Nowpora,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,ZAINGEER                                          ,36,Tujar A,248182,34.37758,74.40142,Tujar sharif ,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,ZAINGEER                                          ,36,Muqam Shaeed Mir,248151,34.37662,74.49746,Mukaamshahd mir,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,ZAINGEER                                          ,36,Tujar B,248183,34.37637,74.40038,Tujar addah,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,ZAINGEER                                          ,36,Shiva B,248173,34.37276,74.45224,Uper  shiva,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,ZAINGEER                                          ,36,Botingoo B,248176,34.36973,74.50131,Kahrmohalla,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,ZAINGEER                                          ,36,Edipora,248168,34.36755,74.42393,Edipora ,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,ZAINGEER                                          ,36,Edipora B,248169,34.36654,74.4208,Edipora ,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,ZAINGEER                                          ,36,Mundji,248150,34.3655,74.47435,Mundji pop,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,ZAINGEER                                          ,36,Logripora,248179,34.3655,74.47435,Loripora,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,ZAINGEER                                          ,36,Shiva A,248172,34.36454,74.45889,Lowershiva,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,ZAINGEER                                          ,36,Nathipora,248170,34.3629,74.38952,Nathi pora,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,ZAINGEER                                          ,36,Watlab,248161,34.36241,74.52282,Watleb  (P),2
+JAMMU AND KASHMIR,1,BARAMULLA,8,ZAINGEER                                          ,36,Botingoo A,248175,34.36139,74.49865,Botingoo idgah,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,ZAINGEER                                          ,36,Bomai,248167,34.3604,74.41803,Bomai ,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,ZAINGEER                                          ,36,Goripiora,248171,34.3584,74.43453,Goripora pop ,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,ZAINGEER                                          ,36,Rashidabad Machipora,248174,34.35507,74.44352,Machi pora  pop,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,ZAINGEER                                          ,36,Duroo A,248180,34.3515,74.46675,Duroo-pop,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,ZAINGEER                                          ,36,Duroo B,248181,34.35017,74.45838,Duroo GHS,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,ZAINGEER                                          ,36,Malmapanpora,248153,34.34662,74.49046,Malmapanpora,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,ZAINGEER                                          ,36,Wadoora,248178,34.34567,74.39819,Wadoora payeen,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,ZAINGEER                                          ,36,Hathlangoo,248162,34.3432,74.50976,Hatlangoo,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,RAFIABAD                                          ,28,Malganipora,248562,34.33927,74.4044,Malganipora,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,ZAINGEER                                          ,36,Gund Brath,248158,34.33923,74.44068,Gund brath,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,ZAINGEER                                          ,36,Warpora B,248164,34.3356,74.48595,Bani pora ,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,ZAINGEER                                          ,36,Dangerpora A,248155,34.33387,74.46328,Dangar pora ,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,ZAINGEER                                          ,36,Janwari,248152,34.33365,74.50426,Janwari,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,ZAINGEER                                          ,36,Warpora A,248163,34.33247,74.48523,warpora ,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,ZAINGEER                                          ,36,Dangerpora C,248157,34.33225,74.46659,Dangar pora ,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,RAFIABAD                                          ,28,Behrampora-B,248560,34.33147,74.40114,Behrampora,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,ZAINGEER                                          ,36,Seeloo,248159,34.32914,74.42309,Seeloo Hangipora,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,RAFIABAD                                          ,28,Marazigund,248558,34.32912,74.38481,Marazigund,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,RAFIABAD                                          ,28,Behrampora-A,248559,34.32692,74.39684,Behrampora,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,ZAINGEER                                          ,36,Dangerpora B,248156,34.32585,74.46659,Dangar pora ,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,ZAINGEER                                          ,36,BDO OFFICE      ,88888,34.3239,74.46321,Seelepora ,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,RAFIABAD                                          ,28,Hib Dangerpora,248561,34.32181,74.40607,Hibdangarpora,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,ZAINGEER                                          ,36,Sadipora,248154,34.32039,74.4577,Sadipora   pop,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,ZAINGEER                                          ,36,Shangergund Bohripora,248160,34.3152,74.4225,Bhori pora ,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,RAFIABAD                                          ,28,Dangiwacha,248557,34.3148,74.34277,Dangiwacha,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,RAFIABAD                                          ,28,Dandoosa,248556,34.31261,74.36113,Dandoosa,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,RAFIABAD                                          ,28,BDO OFFICE      ,88888,34.31237,74.34606,Dangiwachi,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,RAFIABAD                                          ,28,Rawoocha,248550,34.3103,74.33522,Rawoocha-PG,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,SOPORE                                            ,31,Aadipora,248061,34.3102,74.49531,Aadipora ,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,RAFIABAD                                          ,28,Chatloora,248555,34.30743,74.39817,Hibdangarpora,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,RAFIABAD                                          ,28,Zethan,248543,34.30722,74.25741,Zeethan PG,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,RAFIABAD                                          ,28,Chanum,248546,34.30629,74.30167,Chanum,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,RAFIABAD                                          ,28,Kangroosa,248544,34.30159,74.25232,Kangroosa,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,RAFIABAD                                          ,28,Bakhipora,248548,34.30044,74.30192,Bakipora,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,RAFIABAD                                          ,28,Yarbug,248554,34.30023,74.34207,Yarbok PG,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,SOPORE                                            ,31,Nowpora -B,248078,34.29928,74.4339,nowpora -B,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,RAFIABAD                                          ,28,Hachipora,248547,34.29833,74.27955,Chanum,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,RAFIABAD                                          ,28,Pukwara,248545,34.29766,74.24458,Pokwara -PG,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,RAFIABAD                                          ,28,Sheikhpora,248549,34.29714,74.28603,Sheikhpora,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,RAFIABAD                                          ,28,Soyan Sadnar,248551,34.29696,74.312094,Soyan Sdnar,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,RAFIABAD                                          ,28,Fiderpora,248552,34.29654,74.32508,Fiderpora,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,SOPORE                                            ,31,Nowpora- A,248077,34.29342,74.43819,Nowpora -A,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,RAFIABAD                                          ,28,Pazalpora,248542,34.29155,74.23902,Pazalpora,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,RAFIABAD                                          ,28,Chatoosa,248541,34.29084,74.25901,Chatoosa PG,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,SOPORE                                            ,31,BDO OFFICE      ,88888,34.28955,74.46002,Wagub,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,SOPORE                                            ,31,Tarzoo C,248065,34.28417,74.5123,Tarzoo B,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,SOPORE                                            ,31,Mazbugh,248067,34.27712,74.42387,Mazbugh,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,SOPORE                                            ,31,Tarzoo A,248063,34.26949,74.43827,Tarzoo,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,SOPORE                                            ,31,Darnambal,248066,34.26898,74.49573,Darnambal,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,SOPORE                                            ,31,Manzseer,248080,34.26738,74.45261,Manzseer,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,SOPORE                                            ,31,Tarzoo B,248064,34.26316,74.50372,Tarzoo A,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,SOPORE                                            ,31,Gurseer,248071,34.26006,74.4304,Gurseer,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,SOPORE                                            ,31,Rakh Hygam,248070,34.25903,74.52623,Rakh Hygam,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,SOPORE                                            ,31,Krankshivan,248076,34.25769,74.48832,Krankshivan,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,SOPORE                                            ,31,Pethseer,248079,34.25742,74.44368,Pethseer,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,SOPORE                                            ,31,Amergadh,248069,34.2555,74.46132,Amergadh,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,SOPORE                                            ,31,Lalad,248068,34.2514,74.45335,Lalad,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,SOPORE                                            ,31,Hygam,248081,34.24792,74.50819,Hygam .A,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,SOPORE                                            ,31,Wagub,248072,34.24481,74.47657,Tarzoo C,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,SOPORE                                            ,31,Sangrama,248062,34.24375,74.44378,Sangrama,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,SOPORE                                            ,31,Hygam- B,248082,34.23913,74.49788,hygam .B,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,SOPORE                                            ,31,Putkha Muqam,248073,34.23503,74.46548,Putkha  Muka,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,SOPORE                                            ,31,Bulgam,248074,34.22912,74.48602,Bulgam,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,WAGOORA                                           ,35,Bangdara,248589,34.22732,74.46507,Bangdara Chandoosa A,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,SOPORE                                            ,31,Rangi,248075,34.21987,74.50944,Rangi,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,WAGOORA                                           ,35,Nowpora-B,248597,34.21616,74.4448,Tangpora pop,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,WAGOORA                                           ,35,Authoora,248588,34.21458,74.46991,Authrooa po ,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,WAGOORA                                           ,35,Nowpora-A (Presently Miran Gund),248596,34.20717,74.44453,PG nowpora A,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,WAGOORA                                           ,35,Sharkwara,248594,34.19841,74.44553,Sharkwara new colony,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,WAGOORA                                           ,35,Saloosa,248585,34.19439,74.45707,Mir mohalla,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,BONIYAR                                           ,23,Pahlipora B,247922,34.19127,74.21896,Pehilipora B,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,BONIYAR                                           ,23,Limber B,247918,34.18967,74.17213,Limber B,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,WAGOORA                                           ,35,Naji Bhat,248595,34.18793,74.42214,G/ school Najibhat,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,WAGOORA                                           ,35,Hail Jagir,248586,34.18589,74.46278,Hailjagir,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,BONIYAR                                           ,23,Pehilipora,247921,34.18584,74.22082,Pehilipora ,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,BONIYAR                                           ,23,Naganari,247924,34.18527,74.23629,Naganari,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,BONIYAR                                           ,23,Zehanpora,247923,34.18419,74.26179,Zehanpora,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,WAGOORA                                           ,35,Khaitangan,248571,34.18384,74.39989,Khaitangan,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,WAGOORA                                           ,35,Vizer,248590,34.1831,74.44462,Vizer.M.School,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,BONIYAR                                           ,23,Lachipora A,247908,34.18209,74.08403,Lachipora A,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,WAGOORA                                           ,35,Katyanwali,248572,34.18028,74.37751,Katyanwali school,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,BONIYAR                                           ,23,Muqamprina,247910,34.1771,74.0543,Muqamprina,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,BONIYAR                                           ,23,Lachipora B,247909,34.17419,74.08301,Lachipora B,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,BONIYAR                                           ,23,Ijara,247920,34.17344,74.23711,ljara,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,WAGOORA                                           ,35,Hudpora,248574,34.17257,74.41032,Hudipora,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,BONIYAR                                           ,23,Limber A,247917,34.17195,74.17126,Limber A,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,SINGHPORA                                         ,30,Harinara,248047,34.17189,74.61411,harinara,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,WAGOORA                                           ,35,Wagoora A,248592,34.17105,74.43578,Wagroo BDO,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,WAGOORA                                           ,35,Kreeri-B,248584,34.17103,74.47383,Kreeeri near BTS,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,WAGOORA                                           ,35,Kreeri-A,248583,34.17053,74.47685,Kreeri A pop BTS,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,WAGOORA                                           ,35,Wagoora B,248593,34.1705,74.42947,Wagroo  ,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,SINGHPORA                                         ,30,Duslipora Khargund,248048,34.17048,74.61212,duslipora u/c,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,WAGOORA                                           ,35,Watergam,248591,34.16898,74.44192,Watergam,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,BONIYAR                                           ,23,Salamabad A,247912,34.16887,74.13173,Salamabad  A,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,SINGHPORA                                         ,30,Gundi Ibhraim,248049,34.1682,74.59084,GMS,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,WAGOORA                                           ,35,Walraman,248573,34.16786,74.39322,Walmar H/S,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,BONIYAR                                           ,23,Salamabad B,247913,34.16657,74.13361,Salamabad  B,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,BONIYAR                                           ,23,Bijhama,247911,34.16433,74.09213,Bijhama,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,WAGOORA                                           ,35,Chandoosa-B,248569,34.15871,74.37486,Chandoosa B,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,WAGOORA                                           ,35,Dolipora,248582,34.15819,74.45863,Dolipora pop,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,SINGHPORA                                         ,30,Khanapeth,248044,34.15794,74.62436,khanpeth,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,SINGHPORA                                         ,30,Omburn,248060,34.15714,74.57154,GMS OMBURN,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,BONIYAR                                           ,23,Nowshera B,247926,34.15696,74.2215,Nowshera B,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,WAGOORA                                           ,35,Waripora Bala,248581,34.15629,74.46627,Wanipora Bala,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,SINGHPORA                                         ,30,Diver Yakmanpora,248046,34.15587,74.6398,diveryahmapora,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,WAGOORA                                           ,35,Darwa,248576,34.15558,74.41373,Pry.school MR,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,BONIYAR                                           ,23,Bimayar,247919,34.15505,74.20227,Bimayar,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,BONIYAR                                           ,23,Niloosa,247915,34.15438,74.10489,Niloosa,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,WAGOORA                                           ,35,Mungam,248579,34.15426,74.41953,Mungam,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,BONIYAR                                           ,23,Nowshera A,247925,34.15375,74.22871,Nowshera A,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,URI                                               ,34,Zamboor pattan,248125,34.15291,74.05594,Zamboor  GP UC,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,SINGHPORA                                         ,30,BDO OFFICE      ,88888,34.15196,74.62159,SINGPORA,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,SINGHPORA                                         ,30,KP Sari,248043,34.15158,74.61016,k.p.sari,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,BONIYAR                                           ,23,Atishampora,247916,34.15132,74.1637,Atisham pora,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,WAGOORA                                           ,35,Chandoosa-A,248568,34.15119,74.38915,Chandoosa A,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,BONIYAR                                           ,23,Bagna Noorkhah,247914,34.15111,74.12086,Bagna,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,WAGOORA                                           ,35,Kachwa Muqam,248575,34.15074,74.40945,Kashwa muqam,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,SINGHPORA                                         ,30,Singhpora,248045,34.15008,74.61509,GHS SINGPORA,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,SINGHPORA                                         ,30,KP Payeen,248059,34.1496,74.5951,k.p.payeen,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,TANGMARAG,33,Harnow Kawcheck,248098,34.14602,74.44416,Harnow kawchek-GP,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,SINGHPORA                                         ,30,Hanjiwara Payeen,248057,34.14389,74.59272,hanjiwara poyen,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,URI                                               ,34,DaraGutlian,248136,34.14248,74.07967,GMS,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,WAGOORA                                           ,35,Sheikhpora,248580,34.14207,74.43598,Bhat on M.Shool,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,SINGHPORA                                         ,30,Hanjiwara Bala,248056,34.14071,74.53975,hanjiwara bala,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,URI                                               ,34,Choolan,248124,34.14035,74.05665,Choolan uc,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,BONIYAR                                           ,23,BDO OFFICE      ,88888,34.14015,74.11875,,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,SINGHPORA                                         ,30,Chanabal,248050,34.13878,74.64474,Chanabal,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,SINGHPORA                                         ,30,Matipora,248042,34.13875,74.6231,matipora U/C,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,URI                                               ,34,Dhanisydan,248135,34.1367,74.07131,GHS,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,KUNZER                                            ,26,Kralpora,247959,34.13526,74.48404,Kralpora GP,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,URI                                               ,34,Kamalkote,248122,34.13449,73.97391,panchyat,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,WAGOORA                                           ,35,Shirpora,248570,34.13387,74.3695,Shirpora Murran,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,URI                                               ,34,Sarai-Bandey,248123,34.13379,74.97391,GPHealth center,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,SINGHPORA                                         ,30,Khore,248058,34.13296,74.57568,PHC,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,URI                                               ,34,Gingle,248126,34.1328,74.10255,Panchyat,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,SINGHPORA                                         ,30,Merchimar,248051,34.13275,74.66856,merchima NH road,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,WAGOORA                                           ,35,Kalantara,248577,34.13273,74.40975,Kalantara pop ,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,SINGHPORA                                         ,30,Bonichakul,248054,34.13163,74.62562,GMS,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,BONIYAR                                           ,23,Boniyar,247927,34.13071,74.18096,Boniyar,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,TANGMARAG,33,Mughalpora,248097,34.13067,74.44677,Mughalpora-GP,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,WAGOORA                                           ,35,Kakawthal,248578,34.12981,74.41904,Sheikpora,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,SINGHPORA                                         ,30,Miragund,248052,34.12957,74.66288,mirgund U/C,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,SINGHPORA                                         ,30,Habaktangoo,248053,34.12814,74.61605,habaktangoo,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,URI                                               ,34,Mohurra,248143,34.12788,74.10372,G Health center SSA,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,URI                                               ,34,Dawaran,248127,34.1269,74.07784,GMS,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,URI                                               ,34,Kundibarjal,248121,34.12679,73.97389,GMS,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,SINGHPORA                                         ,30,GK Qasim,248037,34.1262,74.60502,g.k.qasim U/C,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,BONIYAR                                           ,23,Barnate,247930,34.12609,74.20545,Barnate,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,KUNZER                                            ,26,Chukar-B,247962,34.12561,74.50619,Govt Middle School Chukar B,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,SINGHPORA                                         ,30,Nowlari,248040,34.12496,74.57857,nowlari,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,WAGOORA                                           ,35,Dandmooh,248563,34.12482,74.38872,pop Kholen,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,BONIYAR                                           ,23,Bela Salamabad,247929,34.12418,74.18757,Bela,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,WAGOORA                                           ,35,Bandui payeen,248565,34.12403,74.39788,Bandui payeen,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,KUNZER                                            ,26,Wailoo,247958,34.124,74.47654,Govt High School Wailoo,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,KUNZER                                            ,26,Sonium,247954,34.12309,74.52849,Govt Middle School Sonium,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,SINGHPORA                                         ,30,Budibugh,248038,34.12209,74.59804,GMS,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,KUNZER                                            ,26,Chukar-A,247961,34.12146,74.49548,Chukar-A GP,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,KUNZER                                            ,26,Yall,247953,34.12067,74.51569,Yall GP,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,TANGMARAG,33,Khaipora,248096,34.12036,74.43036,Khaipora-Bala-GP,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,WAGOORA                                           ,35,Sultanpora,248566,34.11934,74.360775,Sultanpora,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,KUNZER                                            ,26,Thakibatpora,247965,34.1183,74.46144,Primary Health Centre,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,SINGHPORA                                         ,30,Kungamdara,248055,34.11797,74.58709,kungamdara,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,URI                                               ,34,Sultan daki,248134,34.11746,73.99151,GPS,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,SINGHPORA                                         ,30,Archanderhama,248039,34.11401,74.60901,GHS,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,WAGOORA                                           ,35,Dodbugh,248567,34.11352,74.37351,d.bugh GMS,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,KUNZER                                            ,26,Hard Shoora,247951,34.11235,74.46951,Hard Shoora GP,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,TANGMARAG,33,Darveshpora,248100,34.11113,74.4482,Darveshpora(zaspora)-GBMS,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,URI                                               ,34,Shahdara,248120,34.11076,73.96524,GHS,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,BONIYAR                                           ,23,Lari,247932,34.11065,74.18998,Lari,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,SINGHPORA                                         ,30,Goom Ahmedpora,248041,34.10891,74.58249,GMS,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,SINGHPORA                                         ,30,Malmooh,248034,34.10676,74.59475,malmoh  pop,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,KUNZER                                            ,26,Mughama,247955,34.10623,74.51025,Mughama GP,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,TANGMARAG,33,Hardichloo,248099,34.10528,74.43858,Hardichloo-GP,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,URI                                               ,34,Uroosa,248112,34.10514,73.93594,GMS,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,URI                                               ,34,Paranpeela,248132,34.10512,74.04405,GHS,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,KUNZER                                            ,26,Lalpora B,247969,34.10478,74.54856,LalporaB GP,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,URI                                               ,34,Dachi,248133,34.10387,74.02387,GMS,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,BONIYAR                                           ,23,Trinakajan,247931,34.10299,74.19314,Trinakajan,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,KUNZER                                            ,26,Katibugh,247950,34.10298,74.50008,Katibugh GP,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,URI                                               ,34,Ishem,248114,34.10139,73.9566,G panchyat UC,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,WAGOORA                                           ,35,Bandi Bala,248564,34.101222,74.37325,Bandi bala nea tourist caft.,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,KUNZER                                            ,26,Kralweth,247967,34.10095,74.48149,Kralweth GP,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,TANGMARAG,33,Hajibal,248083,34.10012,74.41248,Hijibal-GP,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,URI                                               ,34,Manchikrund,248144,34.09985,74.05662,GMS,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,TANGMARAG,33,Bichipora,248095,34.09962,74.44648,Bichipora-GBMS,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,SINGHPORA                                         ,30,Agri Kalan,248035,34.09928,74.60211,GMS,21
+JAMMU AND KASHMIR,1,BARAMULLA,8,URI                                               ,34,Ramgai,248117,34.09916,74.00605,GP -UC,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,KUNZER                                            ,26,Warapora Bangil,247940,34.09792,74.55726,Warapora Bangil GP,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,KUNZER                                            ,26,Chichilora,247937,34.09667,74.5725,Chichilora GP,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,TANGMARAG,33,Hayatpora,248094,34.09666,74.47162,Hayatpora-GMS,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,TANGMARAG,33,Hard Madam,248085,34.09628,74.4482,Haradimadam_GP,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,KUNZER                                            ,26,Devbugh,247963,34.09413,74.49974,Devbugh GP,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,TANGMARAG,33,Heer,248106,34.09249,74.45656,Heer-GP,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,URI                                               ,34,Gawalta,248113,34.09176,73.92838,GMS,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,KUNZER                                            ,26,Mulgam,247966,34.09109,74.48405,Mulgam GP,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,TANGMARAG,33,Warapora,248086,34.09079,74.41709,Warapora-GP,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,URI                                               ,34,Salambad,248118,34.08988,74.0277,GHS,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,KUNZER                                            ,26,Lalpora A,247968,34.08882,74.55089,Lalpora A GP,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,KUNZER                                            ,26,Takiya Batpora,247952,34.08736,74.51729,Takiya Batapora GP,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,TANGMARAG,33,Pandithpora,248105,34.08652,74.46459,Pandithpora-GBMS,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,URI                                               ,34,Dardkote,248116,34.08569,73.9776,GHS,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,TANGMARAG,33,Baba Reshi Chintipathri,248084,34.08552,74.39266,Chintipora Baba reshi-GBHS,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,URI                                               ,34,Garkote-B,248129,34.08532,74.0813,GHS,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,TANGMARAG,33,Hariwatnoo,248104,34.08351,74.45431,Hariwatnoo-GP,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,KUNZER                                            ,26,Gonipora,247964,34.08077,74.50175,Gonipora GP,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,KUNZER                                            ,26,Wussan Bangil,247944,34.07983,74.53218,Govt Primary School Wussan Bangil,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,KUNZER                                            ,26,Utikoo,247942,34.0795,74.5392,Utikoo GP,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,KUNZER                                            ,26,Goigam,247938,34.07947,74.56801,Govt Middle School Goigam,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,KUNZER                                            ,26,Gokhama,247957,34.07805,74.49166,Govt Middle School Gokhama,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,URI                                               ,34,Garkote-A,248128,34.07769,74.077,GMS,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,URI                                               ,34,BDO OFFICE      ,88888,34.07741,74.05622,BDO URI,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,BONIYAR                                           ,23,Baidan,247935,34.07523,74.19701,Baidan,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,KUNZER                                            ,26,Reram,247956,34.07484,74.478,Reram GP,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,URI                                               ,34,Nava-Runda,248115,34.07399,73.97096,GMS,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,KUNZER                                            ,26,Tarahama,247941,34.0727,74.54223,Govt Middle School Tarahama,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,URI                                               ,34,Jablla,248119,34.07266,74.03183,GMS,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,KUNZER                                            ,26,Pinjoora,247939,34.07237,74.55874,Pinjoora GP,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,URI                                               ,34,Nambla C,248141,34.07219,74.11849,GMS,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,TANGMARAG,33,Druroo,248103,34.07213,74.47031,Druroo-GP,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,URI                                               ,34,Nambla B,248140,34.07208,74.10612,Gpanchayat,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,BONIYAR                                           ,23,Madianan,247934,34.06899,74.1942,Madianan,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,URI                                               ,34,Nambla A,248139,34.06877,74.10317,G Health center SSA,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,TANGMARAG,33,Chandiloora,248088,34.06851,74.44754,Chandiloora-GP,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,KUNZER                                            ,26,Heingh,247945,34.0665,74.53433,Govt Middle School Heingh.,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,TANGMARAG,33,Qazipora,248087,34.06601,74.42841,Qazipora-GP,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,TANGMARAG,33,Trairan,248089,34.06524,74.4426,Trairan-GP,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,TANGMARAG,33,Shrai,248101,34.06477,74.46439,Shrai-GMS,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,KUNZER                                            ,26,Ogmuna,247946,34.06287,74.50826,Ogmuna GP,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,KUNZER                                            ,26,Pariswani,247947,34.06202,74.48604,Pariswani GP,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,KUNZER                                            ,26,Karahama,247943,34.06198,74.51863,Karahama GP,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,KUNZER                                            ,26,Hard Aboora A,247948,34.05929,74.53377,Hardiaboora A GP,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,TANGMARAG,33,Kulhama,248102,34.05832,74.47317,kulhama-GP,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,KUNZER                                            ,26,Hard Aboora-B,247949,34.05665,74.5354,Hardiaboora B GP,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,TANGMARAG,33,Ferozpora -A,248090,34.05663,74.42871,Feroozpora-A-GP,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,TANGMARAG,33,Ferozpora -B,248091,34.05578,74.445,Feroozpora-B-GPS,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,URI                                               ,34,Gohallan,248142,34.05527,74.02228,GPS,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,TANGMARAG,33,Devpora,248107,34.05519,74.505,Devpora-GPS,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,TANGMARAG,33,Dardpora,248108,34.05477,74.49571,Dardpora-GP,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,URI                                               ,34,Balkote,248137,34.05395,74.07702,GHS,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,URI                                               ,34,Thajal,248130,34.05323,74.07209,GMS,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,TANGMARAG,33,Mohiyen,248092,34.05196,74.42244,Mohiyen-GMS,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,TANGMARAG,33,Chandil Wanigam,248110,34.05077,74.48227,Chandil-GGMS,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,URI                                               ,34,Churranda,248131,34.04879,74.05858,GPS,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,TANGMARAG,33,Drung,248093,34.04449,74.41878,Drung-GMS,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,TANGMARAG,33,Buderkote,248111,34.04219,74.45813,Buderkote-GMS,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,URI                                               ,34,Silikote,248138,34.03874,74.07898,GPS,2
+JAMMU AND KASHMIR,1,BARAMULLA,8,TANGMARAG,33,Gogaldara,248109,34.02005,74.47999,Gogaldar-GMS,2

@@ -1,0 +1,919 @@
+State_Name,State Code,District_Name,District_Code,Block_Name,Block_Code,GP Name,GP Code,Latitude,Longitude,Location_OF_GP,Phase,population
+ANDHRA PRADESH, 28, VIZIANAGARAM, 543, MENTADA, 5644,rampalle, 214726, 18.287217, 83.221917, Rampalle, 2,3628
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BADANGI, 5623,akulakatta, 212331, 18.477321, 83.430508, Akulakatta Gp, 2,384
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BADANGI, 5623,anavaram, 212332, 18.536785, 83.42778, Anavaram Gp, 2,1327
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BADANGI, 5623,badangi, 212333, 18.49554, 83.367105, Badangi Gp, 2,4388
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BADANGI, 5623,beemavaram, 212334, 18.520193, 83.371901, Bheemavaram Gp, 2,1635
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BADANGI, 5623,botchavanivalasa, 212335, 18.520766, 83.421603, Bothasavanivalasa Gp, 2,3225
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BADANGI, 5623,donkinivalasa, 212336, 18.484404, 83.352212, Donkinavalasa GP, 2,952
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BADANGI, 5623,gajarayunivalasa, 212337, 18.483613, 83.328618, Gajarayunivalasa Gp, 2,2124
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BADANGI, 5623,golladhi, 212338, 18.507745, 83.339235, Golladhi Gp, 2,486
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BADANGI, 5623,gudepuvalasa, 212339, 18.500468, 83.419433, Gudepuvalasa Gp, 2,2001
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BADANGI, 5623,koduru, 212340, 18.468998, 83.392986, Koduru Gp, 2,500
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BADANGI, 5623,kotipalli, 212341, 18.502193, 83.440053, Kotipalli Gp, 2,1580
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BADANGI, 5623,kunyavalasa, 216199, 18.469412, 83.457287, Kunyavalasa Gp, 2,2288
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BADANGI, 5623,kusumuru, 216200, 18.54329, 83.469243, Kusumuru Gp, 2,2068
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BADANGI, 5623,lakshmipuram, 212342, 18.484275, 83.347186, Lakshmipuram Gp, 2,1325
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BADANGI, 5623,mallampeta, 212343, 18.508031, 83.40089, Mallampeta Gp, 2,1012
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BADANGI, 5623,mugada, 212344, 18.505023, 83.380308, Mugada Gp, 2,3932
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BADANGI, 5623,nandabalage, 216205, 18.531301, 83.456802, Nandabalage Gp, 2,3756
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BADANGI, 5623,p.venkampeta, 212345, 18.51971, 83.450586, P.venkampeta Gp Site, 2,857
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BADANGI, 5623,paltheru, 212346, 18.529108, 83.397695, Palteru Gp, 2,4759
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BADANGI, 5623,pedapalli, 212347, 18.469903, 83.341998, Prdapalli Gp, 2,688
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BADANGI, 5623,pinapenki, 212348, 18.532061, 83.454786, Pinapenki Gp, 2,1614
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BADANGI, 5623,pindrangivalasa, 212349, 18.452648, 83.348771, Pindrangivalasa Gp, 2,834
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BADANGI, 5623,pinnavalasa, 212350, 18.480418, 83.37726, Pinnavalasa Gp, 2,5846
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BADANGI, 5623,pudivalasa, 212351, 18.491468, 83.393163, Pudivalasa Gp, 2,723
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BADANGI, 5623,rejeru, 212352, 18.519475, 83.471343, Rejeru Gp, 2,2255
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BADANGI, 5623,thentuvalasa, 212353, 18.47159, 83.344391, Thentuvalasa Gp, 2,1190
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BADANGI, 5623,vadada, 212354, 18.505721, 83.455731, Vadada Gp, 2,3259
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BADANGI, 5623,veerasagaram, 212355, 18.460858, 83.365293, Veerasagaram Gp, 2,1552
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BADANGI, 5623,vuzarirampuram, 215516, 18.455041, 83.391101, Vuzarirampuram Gp, 2,20
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BALIJIPETA, 5624,ampavalli, 212357, 18.549396, 83.51568, Ampavalli Gp, 2,2141
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BALIJIPETA, 5624,arasada, 212358, 18.659715, 83.49973, Arasada Gp, 2,3019
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BALIJIPETA, 5624,balijipeta, 212359, 18.612876, 83.526216, Balijipeta Gp, 2,323
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BALIJIPETA, 5624,barli, 212360, 18.620601, 83.473928, Barli Gp, 2,2241
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BALIJIPETA, 5624,chilakalapalli, 212362, 18.595796, 83.530641, Chilakalapalli Gp, 2,500
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BALIJIPETA, 5624,chinakalam, 216134, 18.661686, 83.454036, Chinkalam Gp, 2,478
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BALIJIPETA, 5624,galavalli, 212363, 18.535376, 83.616633, Galavilli Gp, 2,4787
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BALIJIPETA, 5624,gangada, 212364, 18.544725, 83.571725, Gangada Gp, 2,3183
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BALIJIPETA, 5624,mirthivalasa, 212365, 18.621235, 83.491281, Mirthivalasa Gp, 2,6079
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BALIJIPETA, 5624,narannaiduvalasa, 212366, 18.551193, 83.592395, Narannaiduvalasa Gp, 2,277
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BALIJIPETA, 5624,narayanapuram, 212367, 18.636978, 83.545513, Narayanapuram Gp, 2,4647
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BALIJIPETA, 5624,nookalawada, 212368, 18.58676, 83.557291, Nookalada Gp, 2,500
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BALIJIPETA, 5624,padamayavalasa, 212369, 18.655491, 83.517018, Padamayavalasa Gp, 2,883
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BALIJIPETA, 5624,palagara, 212370, 18.609306, 83.534606, Palagara Gp, 2,6926
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BALIJIPETA, 5624,panukuvalasa, 212371, 18.661446, 83.467221, Panukuvalasa Gp, 2,1832
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BALIJIPETA, 5624,pedapenki, 212372, 18.586823, 83.50684, Pedapenki Gp, 2,416
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BALIJIPETA, 5624,sivaramapuram, 212374, 18.645626, 83.469585, Sivaramapuram Gp, 2,2309
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BALIJIPETA, 5624,subhadra, 212375, 18.639866, 83.460733, Subhadra Gp, 2,219
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BALIJIPETA, 5624,tumarada, 212376, 18.613408, 83.515073, Tumarada Gp, 2,2072
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BALIJIPETA, 5624,uddavolu, 216217, 18.52458, 83.60692, Uddalovu Gp, 2,3149
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BALIJIPETA, 5624,vantaram, 212377, 18.540345, 83.52917, Vontharam Gp, 2,2033
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BALIJIPETA, 5624,vengalarayapuram, 212378, 18.558465, 83.524798, Vengalarayapuram Gp, 2,828
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BALIJIPETA, 5624,vengapuram, 212379, 18.614975, 83.520078, Vengapuram Gp, 2,2486
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BHOGHAPURAM, 5625,a.ravivalasa, 212380, 17.99634, 83.482761, A Ravivalasa Gp, 2,1805
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BHOGHAPURAM, 5625,akkivaram, 215518, 18.0171, 83.465971, Akkivaram Gp, 2,3792
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BHOGHAPURAM, 5625,amakam, 215520, 18.045168, 83.431993, Amakam Gp, 2,535
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BHOGHAPURAM, 5625,bangarrajupeta, 215521, 17.983903, 83.4352, Bangarraju Peta Gp, 2,744
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BHOGHAPURAM, 5625,bantupalli, 215522, 18.042646, 83.47871, Bantupalli Gp, 2,1315
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BHOGHAPURAM, 5625,basavapalem(thudem), 212381, 17.954565, 83.49637, Thudem Gp, 2,1636
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BHOGHAPURAM, 5625,bhogapuram, 212382, 18.032003, 83.495555, Bogapuram Gp, 2,9341
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BHOGHAPURAM, 5625,byreddipalem, 212383, 17.980511, 83.525315, Byreddipalam Gp, 2,2633
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BHOGHAPURAM, 5625,chakivalasa, 212384, 18.008785, 83.499393, Chakivalasa Gp, 2,1172
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BHOGHAPURAM, 5625,chepala kancheru, 212385, 17.973618, 83.539443, Chepala Kancheru Gp, 2,33
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BHOGHAPURAM, 5625,cherukupalli, 212386, 17.951773, 83.42931, Cherukupalli Gp, 2,1568
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BHOGHAPURAM, 5625,dallipeta, 212387, 17.985745, 83.521068, Dalli Peta Gp, 2,2184
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BHOGHAPURAM, 5625,gantlam, 215529, 18.023433, 83.446846, Gantlam  Gp, 2,1009
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BHOGHAPURAM, 5625,golagam, 215530, 18.004936, 83.44877, Golagam Gp, 2,774
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BHOGHAPURAM, 5625,gudepuvalasa, 212388, 17.990463, 83.503935, Gudupuvalasa Gp, 2,2001
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BHOGHAPURAM, 5625,gudivada, 212389, 17.938008, 83.432475, Gudivada Gp, 2,3852
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BHOGHAPURAM, 5625,kancheru, 212390, 17.981446, 83.537165, Kancheru Gp, 2,33
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BHOGHAPURAM, 5625,kavulavada, 212391, 17.966355, 83.493086, Kavulavada Gp, 2,2118
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BHOGHAPURAM, 5625,kondarajupeta, 215534, 17.988841, 83.424975, Kondaraju Peta Gp, 2,3132
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BHOGHAPURAM, 5625,kondrajupalem, 212392, 18.001223, 83.557728, Kondrajupalam Gp, 2,6872
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BHOGHAPURAM, 5625,lingalavalasa, 212393, 17.959185, 83.434825, Lingalavalasa Gp, 2,1393
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BHOGHAPURAM, 5625,modavalasa, 215535, 17.968515, 83.416176, Modavalasa Gp, 2,2584
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BHOGHAPURAM, 5625,mukkam, 212394, 17.988088, 83.557796, Mukkam Gp, 2,950
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BHOGHAPURAM, 5625,munjeru, 212395, 18.01441, 83.518275, Munjeru Gp, 2,863
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BHOGHAPURAM, 5625,nandigam, 212396, 18.024575, 83.548698, Nandigam Gp, 2,168
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BHOGHAPURAM, 5625,pedada, 215538, 18.043765, 83.46629, Pedada Gp, 2,305
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BHOGHAPURAM, 5625,polipilli, 212397, 17.966608, 83.439178, Polipilli Gp, 2,4494
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BHOGHAPURAM, 5625,raghumanda, 215541, 18.054038, 83.430805, Raghumanda Gp, 2,1647
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BHOGHAPURAM, 5625,rajapulova, 212398, 17.95637, 83.419093, Rajapulova Gp, 2,2580
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BHOGHAPURAM, 5625,ramachandrapeta, 212399, 18.005276, 83.551375, Ramachandrapeta Gp, 2,84
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BHOGHAPURAM, 5625,ravada, 212400, 17.970506, 83.460223, Ravada Gp, 2,2934
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BHOGHAPURAM, 5625,savaravilli, 212401, 17.98751, 83.460345, Savaravilli Gp, 2,3477
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BHOGHAPURAM, 5625,vedullavalasa, 215543, 18.050348, 83.442256, Vedullavalasa Gp, 2,1525
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BOBBILI, 5626,alajangi, 212402, 18.54095, 83.40346, Alajangi  Gp, 2,475
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BOBBILI, 5626,ch.boddavalasa, 212403, 18.61187, 83.3086, Ch.boddavalasa Gp, 2,1369
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BOBBILI, 5626,chintada, 212404, 18.608285, 83.450401, CHINTADA GP, 2,1225
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BOBBILI, 5626,dibbagudivalasa, 212405, 18.59672, 83.34675, Dibbagudavalasa Gp, 2,1800
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BOBBILI, 5626,gollapeta, 216080, 18.54299, 83.28529, Gollalapeta GP, 2,2625
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BOBBILI, 5626,gongada valasa, 212406, 18.62752, 83.45129, Gongadavalasa Gp, 2,4523
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BOBBILI, 5626,gopalarayudupeta, 212407, 18.60878, 83.32549, Gopalarayudupeta Gp, 2,564
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BOBBILI, 5626,gorlasitarama puram, 212408, 18.53939, 83.31767, Gorlasithatampuram Gp, 2,957
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BOBBILI, 5626,j.rangarayapuram@kvpeta, 212409, 18.53252, 83.37513, J.rangarayapuram Gp, 2,20
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BOBBILI, 5626,jagannadhapuram, 212410, 18.5814, 83.37682, JAGANNADHAPURAM, 2,1352
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BOBBILI, 5626,kalavari, 212411, 18.60732, 83.4113, Kalavarai Gp, 2,211
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BOBBILI, 5626,kammavalasa, 212412, 18.57908, 83.446132, kammavalasa GP, 2,707
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BOBBILI, 5626,karada, 212413, 18.54928, 83.42696, Karada Gp, 2,2590
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BOBBILI, 5626,kasimdora valasa, 212414, 18.54597, 83.3016, Kisimdoravalasa Gp, 2,500
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BOBBILI, 5626,komatipalli, 212416, 18.60042, 83.39477, Komatipalli Gp, 2,1060
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BOBBILI, 5626,kondadevupalli, 212417, 18.57996, 83.43933, Kondadevipalligp, 2,1364
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BOBBILI, 5626,kotha penta, 212418, 18.52007, 83.33652, Kothapenta Gp, 2,4651
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BOBBILI, 5626,krishnapuram, 212419, 18.5766, 83.38798, Krisnapuram Gp, 2,1282
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BOBBILI, 5626,m.boorjavalasa, 212420, 18.54172, 83.35125, M.boorjavalasa Gp, 2,913
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BOBBILI, 5626,mettavalasa, 212421, 18.54231, 83.32796, Mettavalasa Gp, 2,500
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BOBBILI, 5626,narayanappa valasa, 212422, 18.54387, 83.30361, Narayanappavalasa Gp, 2,732
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BOBBILI, 5626,pakki, 212423, 18.59672, 83.48217, Pakki Gp, 2,5233
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BOBBILI, 5626,paradhi, 212424, 18.52414, 83.30606, Paradhi GP, 2,370
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BOBBILI, 5626,penta, 212425, 18.5237, 83.36102, Penta Gp, 2,3525
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BOBBILI, 5626,piridi, 212426, 18.57363, 83.41756, Piridi Gp, 2,500
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BOBBILI, 5626,ramuduvalasa, 212427, 18.597043, 83.447729, ramuduvalasa GP, 2,988
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BOBBILI, 5626,rangaraya puram, 212428, 18.54636, 83.36893, Rangarayapuram Gp, 2,2162
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BOBBILI, 5626,rompilli, 216095, 18.54119, 83.26835, ROMPALLI GP, 2,4494
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BOBBILI, 5626,seethayyapeta, 212429, 18.60793, 83.34727, Sithayyapeta Gp, 2,500
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BOBBILI, 5626,sivadavalasa, 212430, 18.57678, 83.467, Sivadavalasa Gp, 2,1708
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BOBBILI, 5626,velagalavalasa, 212431, 18.617508, 83.298992, Velagavalasa Gp, 2,697
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BONDAPALLE, 5627,ambativalasa, 212432, 18.188615, 83.368216, Ambativalasa Gp, 2,720
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BONDAPALLE, 5627,billalavalasa, 212433, 18.219043, 83.3732, Billalavalasa Gp, 2,1328
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BONDAPALLE, 5627,bondapalli, 212434, 18.243766, 83.344868, Bondapalli Gp, 2,6657
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BONDAPALLE, 5627,budatanapalli rajeru, 212435, 18.223191, 83.289976, B Rajeru Gp, 2,1738
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BONDAPALLE, 5627,chinatamarapalli, 212436, 18.233853, 83.289315, Chinatamarapalli Gp, 2,1031
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BONDAPALLE, 5627,devupalli, 212437, 18.25232, 83.289691, Devupalli Gp, 2,1364
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BONDAPALLE, 5627,garudabilli, 212438, 18.206616, 83.352435, Garudabillu Gp, 2,2662
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BONDAPALLE, 5627,gittupalli, 212439, 18.264501, 83.319231, Gittupalli Gp, 2,1023
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BONDAPALLE, 5627,gollupalem, 212440, 18.268266, 83.284343, Gollipalem Gp, 2,7708
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BONDAPALLE, 5627,gotlam, 212441, 18.16872, 83.37146, Gotlam Gp, 2,641
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BONDAPALLE, 5627,grahapathi agraharam, 212442, 18.235575, 83.282275, Gp Agrahar Gp, 2,858
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BONDAPALLE, 5627,kanimeraka, 212444, 18.25198, 83.327275, Kanimeraka Gp, 2,2666
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BONDAPALLE, 5627,keratam, 212445, 18.214035, 83.388098, Keratam Gp, 2,1140
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BONDAPALLE, 5627,kindam agraharam, 212446, 18.216261, 83.327503, Kindam Agraharam Gp, 2,964
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BONDAPALLE, 5627,kondakindam, 212447, 18.20059, 83.32824, Kondakindam Gp, 2,1044
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BONDAPALLE, 5627,mudduru, 212451, 18.245003, 83.384741, Mudduru Gp, 2,1229
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BONDAPALLE, 5627,neliwada, 212452, 18.207075, 83.37548, Neliwada Gp, 2,1758
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BONDAPALLE, 5627,rachakindam, 212454, 18.220296, 83.323671, Rachakindam Gp, 2,1439
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, BONDAPALLE, 5627,raindram, 212455, 18.236668, 83.317728, Raindhram Gp, 2,508
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, CHEEPURUPALLE, 5628,alajangi, 212458, 18.300106, 83.609791, Alajangi Gp, 2,475
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, CHEEPURUPALLE, 5628,cheepurupalli, 212459, 18.310707, 83.568055, CHEEPURUPALLI GP, 2,14847
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, CHEEPURUPALLE, 5628,devarapodilam, 212460, 18.304623, 83.685558, Devarapodilam Gp, 2,1384
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, CHEEPURUPALLE, 5628,g.mulagam, 212461, 18.234288, 83.613363, G Mulagam Gp, 2,2089
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, CHEEPURUPALLE, 5628,gollalapalem, 212462, 18.216203, 83.626795, Gollalapalem Gp, 2,6310
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, CHEEPURUPALLE, 5628,itakarlapalli, 212463, 18.248161, 83.606061, Itakarlapalli Gp, 2,1130
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, CHEEPURUPALLE, 5628,karakam, 212464, 18.27485, 83.623465, Karakam Gp, 2,487
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, CHEEPURUPALLE, 5628,karlam, 212465, 18.303096, 83.647481, Karlam Gp, 2,4583
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, CHEEPURUPALLE, 5628,mettapalli, 212466, 18.299178, 83.627045, Mettapalli Gp, 2,3474
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, CHEEPURUPALLE, 5628,nimmavalasa, 212467, 18.300716, 83.670708, Nimmalavalasa Gp, 2,805
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, CHEEPURUPALLE, 5628,p.k palavalasa, 212468, 18.254276, 83.649768, P K Palavalasa Gp, 2,1835
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, CHEEPURUPALLE, 5628,parla, 212469, 18.248438, 83.582171, Parla Gp, 2,1824
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, CHEEPURUPALLE, 5628,pathikayavalasa, 212470, 18.266586, 83.64555, Pattikayavalasa Gp, 2,1730
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, CHEEPURUPALLE, 5628,pedanadipalli, 212471, 18.249773, 83.631993, Pedanadipalli Gp, 2,1839
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, CHEEPURUPALLE, 5628,peripi, 212472, 18.265155, 83.610998, Peripi Gp, 2,2385
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, CHEEPURUPALLE, 5628,ramalingapuram, 212473, 18.312853, 83.606791, Ramalingapuram Gp, 2,1621
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, CHEEPURUPALLE, 5628,ravivalasa, 212474, 18.302011, 83.57831, Ravivalasa Gp, 2,872
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, DATTIRAJERU, 5529,bhoopalarajapuram, 212475, 18.377988, 83.406883, Boopalarajupuram Gp, 2,392
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, DATTIRAJERU, 5529,chinachamalapalli, 212476, 18.362685, 83.307241, Chinachamalapalli Gp, 2,577
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, DATTIRAJERU, 5529,chinakada, 212477, 18.325185, 83.396898, Chinakadha Gp, 2,56
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, DATTIRAJERU, 5529,chowdantivalasa, 212478, 18.455383, 83.333635, Chowdhanthivalasa Gp, 2,1468
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, DATTIRAJERU, 5529,chukkapeta, 212479, 18.384923, 83.377356, Chukkapeta Gp, 2,1803
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, DATTIRAJERU, 5529,dasupeta, 212480, 18.349661, 83.398341, Dasupeta Gp, 2,794
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, DATTIRAJERU, 5529,datti, 212481, 18.400006, 83.3892, Dathi Gp, 2,307
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, DATTIRAJERU, 5529,datti rajeru, 212482, 18.376128, 83.393168, Dhathirajeru Gp, 2,500
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, DATTIRAJERU, 5529,gadasam, 212483, 18.342406, 83.41656, Gadasam Gp, 2,500
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, DATTIRAJERU, 5529,gobhyam, 212484, 18.35859, 83.385486, Gobyam Gp, 2,1701
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, DATTIRAJERU, 5529,gutchimi, 212485, 18.386023, 83.370776, Gutchmi Gp, 2,694
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, DATTIRAJERU, 5529,ingilapalli, 212486, 18.377026, 83.318293, Ingulapalli Gp, 2,2484
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, DATTIRAJERU, 5529,k.kothavalasa, 212487, 18.428453, 83.34714, K.kothavalasa Gp, 2,1966
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, DATTIRAJERU, 5529,k.krishnapuram, 212488, 18.441178, 83.348648, K.krishnapuram Gp, 2,1024
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, DATTIRAJERU, 5529,kannam, 212489, 18.339975, 83.389733, Kannam Gp, 2,729
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, DATTIRAJERU, 5529,komatipalli, 212490, 18.383363, 83.335121, Kamutapalli Gp, 2,1060
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, DATTIRAJERU, 5529,kuntinivalasa, 215934, 18.410005, 83.303671, Kuntivalasa Gp, 2,268
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, DATTIRAJERU, 5529,m.lingalavalasa, 212491, 18.338003, 83.432833, M.lingalavalasa Gp, 2,1520
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, DATTIRAJERU, 5529,maradam, 212492, 18.402218, 83.342135, Maradam Gp, 2,2414
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, DATTIRAJERU, 5529,p.lingalavalasa, 212493, 18.442273, 83.369268, P.lingalavalasa Gp, 2,2272
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, DATTIRAJERU, 5529,patchalavalasa, 212494, 18.4099, 83.35466, Pachilavalasa G, 2,1685
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, DATTIRAJERU, 5529,pedamanapuram, 212496, 18.362905, 83.340206, Pedamanapuram Gp, 2,3885
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, DATTIRAJERU, 5529,pedhachamalpalli, 215938, 18.37391, 83.304375, Pedhachamalapalli Gp, 2,817
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, DATTIRAJERU, 5529,pedhamedapalli, 215939, 18.388641, 83.298091, Pedhamedapalli Gp, 2,4150
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, DATTIRAJERU, 5529,porali, 212497, 18.3638, 83.411605, Porali Gp, 2,1447
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, DATTIRAJERU, 5529,ramachandrapuram, 212498, 18.426243, 83.38622, Ramachandrapuram Gp, 2,42
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, DATTIRAJERU, 5529,s.boorjavalasa, 212499, 18.435, 83.3327, S Boorjavalasa Gp, 2,729
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, DATTIRAJERU, 5529,s.chintalavalasa, 212500, 18.411246, 83.375236, Chinthalavalasa Gp, 2,1166
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, DATTIRAJERU, 5529,saraivalasa, 212501, 18.359441, 83.419583, Sarevalasa Gp, 2,971
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, DATTIRAJERU, 5529,shikaruganji, 212502, 18.433468, 83.393178, Shikaruganji Gp, 2,230
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, DATTIRAJERU, 5529,t.boorjavalasa, 212503, 18.389506, 83.419225, T.bhoorjavalasa Gp, 2,312
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, DATTIRAJERU, 5529,tadendoravalasa, 212504, 18.398118, 83.321793, Tadendravalasa Gp, 2,736
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, DATTIRAJERU, 5529,v.krishnapuram, 212505, 18.387078, 83.35025, V.krishnapuran GP, 2,1079
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, DATTIRAJERU, 5529,vangara, 212506, 18.360361, 83.36078, Vangara Gp, 2,2250
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, DATTIRAJERU, 5529,vindhyavasi, 212507, 18.381851, 83.354095, Vindyavasi Gp, 2,640
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, DENKADA, 5630,chollangipeta palem, 212517, 18.109355, 83.488723, CHOLLANGIPETA PALAM GP, 2,750
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, DENKADA, 5630,d.kollam, 212518, 18.124201, 83.479855, D.KOLLAM GP, 2,1428
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, DENKADA, 5630,denkada, 212520, 18.07502, 83.473833, DENKADA GP, 2,4774
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, DENKADA, 5630,gunupuru, 212523, 18.078173, 83.472153, GUNUPURU GP, 2,1788
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, DENKADA, 5630,gunupurupeta, 212524, 18.093616, 83.462271, GUNUPURU PETA GP, 2,564
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, DENKADA, 5630,natavalasa, 212529, 18.0637, 83.523588, NATAVALASA GP, 2,1299
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, DENKADA, 5630,pedatadivada, 212531, 18.084686, 83.440428, PEDA TADIVADA GP, 2,5200
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, DENKADA, 5630,pinatadivada, 212532, 18.074205, 83.45615, PINA TADIVADA GP, 2,2314
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, DENKADA, 5630,singavaram, 212534, 18.065721, 83.520038, SINGAVARAM GP, 2,1810
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GAJAPATHINAGARAM, 5631,bangarampeta, 212536, 18.329803, 83.311515, Bangram Peta Gp, 2,912
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GAJAPATHINAGARAM, 5631,bhudevipeta, 212537, 18.327453, 83.321186, Bhudevipeta Gp, 2,526
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GAJAPATHINAGARAM, 5631,challapeta, 215919, 18.344806, 83.28268, Challapeta Gp, 2,1789
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GAJAPATHINAGARAM, 5631,davalapeta, 212538, 18.273093, 83.326901, Devalapeta Gp, 2,998
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GAJAPATHINAGARAM, 5631,gajapatinagaram, 212539, 18.278406, 83.340118, Gajapathinagaram Go, 2,5687
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GAJAPATHINAGARAM, 5631,gangacholapenta, 212540, 18.293488, 83.308858, Gangacharlapenta Gp, 2,394
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GAJAPATHINAGARAM, 5631,gudivada, 212541, 18.348086, 83.343101, Gudiwada Gp, 2,3852
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GAJAPATHINAGARAM, 5631,iddanavalasa, 215924, 18.340325, 83.292726, Iddanavalasa Gp, 2,1000
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GAJAPATHINAGARAM, 5631,kalamrajupeta, 212542, 18.270885, 83.36176, Kalmarajupeta Gp, 2,1042
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GAJAPATHINAGARAM, 5631,kenguva, 212543, 18.26673, 83.418946, Kenguva Gp, 2,2243
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GAJAPATHINAGARAM, 5631,kompangi, 215931, 18.346428, 83.302155, Kompangi Gp, 2,1339
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GAJAPATHINAGARAM, 5631,konisa, 212544, 18.29044, 83.294913, Konisa Gp, 2,1974
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GAJAPATHINAGARAM, 5631,kothabaggam, 212545, 18.29813, 83.293435, Kothabaggam Gp, 2,421
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GAJAPATHINAGARAM, 5631,lingalavalasa, 212546, 18.291303, 83.373225, Lingalavalasa Gp, 2,1393
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GAJAPATHINAGARAM, 5631,logisa, 212547, 18.269551, 83.39615, Logisa Gp, 2,1775
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GAJAPATHINAGARAM, 5631,m.gumadam, 212548, 18.313901, 83.364055, M Gumdam Gp, 2,1921
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GAJAPATHINAGARAM, 5631,m.kothavalasa, 212549, 18.291905, 83.43538, M.kothavalasa Gp, 2,810
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GAJAPATHINAGARAM, 5631,madhupada, 212550, 18.305511, 83.339953, Madhupada Gp, 2,427
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GAJAPATHINAGARAM, 5631,marupally, 212552, 18.31993, 83.34333, Marupalli Gp, 2,4607
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GAJAPATHINAGARAM, 5631,meesalapeta, 215936, 18.346026, 83.314931, Meesalapeta Gp, 2,727
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GAJAPATHINAGARAM, 5631,mutcherla, 212553, 18.29121, 83.412085, Mutcherla Gp, 2,2252
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GAJAPATHINAGARAM, 5631,pathabaggam, 212554, 18.317218, 83.309111, P.baggam Gp, 2,1857
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GAJAPATHINAGARAM, 5631,pedakada, 215503, 18.337168, 83.369365, Pedakada Gp, 2,2455
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GAJAPATHINAGARAM, 5631,pidiseela, 212555, 18.265581, 83.374031, Pidishila Gp, 2,733
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GAJAPATHINAGARAM, 5631,puritipenta, 212556, 18.280955, 83.333849, Puritipenta Gp, 2,8039
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GAJAPATHINAGARAM, 5631,rabanda, 215942, 18.337866, 83.323845, Rabanda Gp, 2,598
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GAJAPATHINAGARAM, 5631,ramannapeta, 212557, 18.313143, 83.40168, Ramannapeta Gp, 2,1172
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GAJAPATHINAGARAM, 5631,seetharampuram, 212559, 18.258628, 83.389528, Sitharampura Gp, 2,1197
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GAJAPATHINAGARAM, 5631,srirangarajupuram, 212560, 18.276345, 83.363143, Srirangarajapuram Gp, 2,1957
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GAJAPATHINAGARAM, 5631,thummikapalli, 212561, 18.279071, 83.383588, Thumkapalli Gp, 2,1828
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GAJAPATHINAGARAM, 5631,vemali, 212562, 18.31356, 83.421486, Vemali Gp, 2,1025
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GAJAPATHINAGARAM, 5631,viziarampuram@dasaripeta, 215517, 18.348523, 83.325823, Dasaripeta Gp, 2,20
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GAJAPATHINAGARAM, 5631,zinnam, 212563, 18.300711, 83.388325, Zinnam Gp, 2,2178
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GANTYADA, 5632,bonangi, 212564, 18.145225, 83.22156, Bonangi Gp, 2,3961
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GANTYADA, 5632,budatanapalli, 212565, 18.20464, 83.299898, Budathanapalli Gp, 2,3440
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GANTYADA, 5632,buradapadu, 212566, 18.148078, 83.255641, Buradapadu Gp, 2,824
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GANTYADA, 5632,chandrampeta, 212567, 18.110443, 83.29307, Chandrampeta Gp, 2,316
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GANTYADA, 5632,chnamanapuram, 212568, 18.191736, 83.297006, Chinamanapuram Gp, 2,783
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GANTYADA, 5632,gantyada, 212570, 18.142733, 83.295515, Gantyada Gp, 2,3294
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GANTYADA, 5632,ginjeru, 212571, 18.170688, 83.267233, Ginjeru Gp, 2,1571
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GANTYADA, 5632,godiyada, 212572, 18.170946, 83.288728, Godiyada Gp, 2,1451
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GANTYADA, 5632,gunkalam, 216256, 18.155183, 83.349088, Gunkalam Gp, 2,3877
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GANTYADA, 5632,j.gumadam, 215451, 18.201465, 83.256296, J Gumadam Gp, 2,1921
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GANTYADA, 5632,jaggapuram, 212573, 18.167365, 83.332788, Jaggapuram Gp, 2,1095
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GANTYADA, 5632,kirthubarthi, 212574, 18.181705, 83.29034, Kirthubirthi Gp, 2,1031
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GANTYADA, 5632,kondatamarapalli, 212575, 18.171771, 83.250401, Kindatamarapalli Gp, 2,1711
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GANTYADA, 5632,korlam, 212576, 18.14662, 83.274326, Korl Gp, 2,2726
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GANTYADA, 5632,korukonda, 216261, 18.063823, 83.334255, Korukonda Gp, 2,5012
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GANTYADA, 5632,korukondapalem, 216262, 18.069908, 83.320855, Korukondapalem Gp, 2,6872
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GANTYADA, 5632,kotaribilli, 212577, 18.143736, 83.31109, Kotarubilli  Gp, 2,1250
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GANTYADA, 5632,kottapalem, 215456, 18.213656, 83.262485, Kothapalem Gp, 2,1021
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GANTYADA, 5632,kottavelagada, 212578, 18.161396, 83.237465, Kothavelagada Gp, 2,1229
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GANTYADA, 5632,lakkidam, 212579, 18.124495, 83.292345, Lakkidam Gp, 2,3791
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GANTYADA, 5632,madanapuram, 212580, 18.160265, 83.211016, Madanapuram Gp, 2,2000
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GANTYADA, 5632,madupada, 212581, 18.148267, 83.185101, madhupadu gp, 2,2733
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GANTYADA, 5632,maruwada, 215457, 18.209721, 83.274615, Maruwada Gp, 2,816
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GANTYADA, 5632,maruwada kothavalasa, 215458, 18.202436, 83.272011, M Kothavalasa Gp, 2,1744
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GANTYADA, 5632,mokalapadu, 212582, 18.136478, 83.232961, Mokalapadu Gp, 2,542
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GANTYADA, 5632,murapaka, 212583, 18.098986, 83.306685, Murapaka Gp, 2,857
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GANTYADA, 5632,musidipalli, 216173, 18.163345, 83.182371, Musidepalli Gp, 2,8
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GANTYADA, 5632,narava, 212584, 18.138956, 83.326671, Narava Gp, 2,2854
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GANTYADA, 5632,neelawathi, 212585, 18.164208, 83.317526, Neelavathi Gp, 2,2007
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GANTYADA, 5632,ompalli, 215461, 18.17993, 83.337878, Ompalli Gp, 2,1601
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GANTYADA, 5632,pedamajipalem, 212586, 18.185926, 83.260355, Pedamajipalem GP, 2,1945
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GANTYADA, 5632,pedavemali, 212587, 18.088161, 83.302865, Pedavemali Gp, 2,3300
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GANTYADA, 5632,penasam, 212588, 18.180678, 83.309721, Penasam Gp, 2,1800
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GANTYADA, 5632,pentasriramapuram, 212589, 18.119251, 83.252116, Penta Sriramapuram Gp, 2,2620
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GANTYADA, 5632,pollanki, 212590, 18.128626, 83.261078, Pollanki Gp, 2,768
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GANTYADA, 5632,r.vasantha, 212591, 18.09875, 83.261286, Vasantha Gp, 2,2397
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GANTYADA, 5632,ramabhadrapuram, 212592, 18.141913, 83.231553, Ramabhadrapuram GP, 2,252
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GANTYADA, 5632,ramavaram, 212593, 18.128823, 83.346225, Ramavaram Gp, 2,1413
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GANTYADA, 5632,ravivalasa, 212594, 18.121221, 83.317096, Ravivalasa Gp, 2,872
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GANTYADA, 5632,regubelli, 212595, 18.140178, 83.248325, Regubilli Gp, 2,1200
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GANTYADA, 5632,siripuram, 212596, 18.110958, 83.308436, Siripuram Gp, 2,1431
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GANTYADA, 5632,tatipudi, 212597, 18.168491, 83.196981, Tatipudi Gp, 2,664
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GANTYADA, 5632,vasadi, 212598, 18.153291, 83.243755, Vasadi Gp, 2,1338
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GANTYADA, 5632,veduruwada, 215464, 18.19074, 83.25035, Veduruwada Gp, 2,1485
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GANTYADA, 5632,vendram, 215465, 18.189203, 83.351813, Vendram Gp, 2,1076
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARIVIDI, 5633,arthamuru, 212599, 18.20737, 83.596746, Arthamuru Gp, 2,2009
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARIVIDI, 5633,atchutapuram, 215691, 18.262075, 83.513013, ATCHUTAPURAM Gp, 2,1860
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARIVIDI, 5633,bondapalli, 212600, 18.37597, 83.589963, Bondapalli Gp, 2,6657
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARIVIDI, 5633,chintapallipeta, 215694, 18.274015, 83.525902, CHINTAPALLIPETA Gp, 2,932
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARIVIDI, 5633,chukkavalasa, 212601, 18.321955, 83.614701, Chukkavalasa Gp, 2,1611
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARIVIDI, 5633,devada, 212602, 18.255123, 83.55844, Devada Gp, 2,1751
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARIVIDI, 5633,devunikanapaka, 215697, 18.294081, 83.477801, DEVUNIKANAPAKA Gp, 2,1124
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARIVIDI, 5633,dummeda, 212603, 18.241318, 83.55791, Dummeda Gp, 2,1481
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARIVIDI, 5633,duvvam, 215612, 18.263845, 83.535506, Duvam Gp, 2,3094
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARIVIDI, 5633,gadabavalasa, 212605, 18.365888, 83.578015, Gadabavalasa Gp, 2,471
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARIVIDI, 5633,garugubilli, 215952, 18.388661, 83.554148, GARUGUBILLI Gp, 2,2296
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARIVIDI, 5633,geddapuvalsa, 212606, 18.291991, 83.516945, Geddapuvalasa Gp, 2,2077
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARIVIDI, 5633,gollalavalasa, 215953, 18.403895, 83.592478, GOLLALAVALASA Gp, 2,1026
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARIVIDI, 5633,gotnandi, 212607, 18.390093, 83.590946, Gotnandi Gp, 2,1214
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARIVIDI, 5633,k..l.puram, 212608, 18.305066, 83.549001, Kl Puram Gp, 2,1777
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARIVIDI, 5633,k.palavalasa, 212609, 18.325998, 83.523216, K Pakavalasa Gp, 2,1431
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARIVIDI, 5633,kapusambham, 212610, 18.334495, 83.588871, Kapusamdham Gp, 2,1947
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARIVIDI, 5633,koduru, 212611, 18.27749, 83.547838, Koduru Gp, 2,500
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARIVIDI, 5633,kondagandredu, 215708, 18.284438, 83.453058, KONDAGANDREDU Gp, 2,2982
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARIVIDI, 5633,kondapalem, 212613, 18.281054, 83.529926, Kondapalem Gp, 2,2490
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARIVIDI, 5633,kondasambham, 212614, 18.327866, 83.59364, Kondasambham Gp, 2,768
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARIVIDI, 5633,konuru, 212615, 18.229305, 83.58648, Konuru Gp, 2,743
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARIVIDI, 5633,kumaram, 212616, 18.322705, 83.536443, Kumaram Gp, 2,3157
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARIVIDI, 5633,lavidam, 215710, 18.312831, 83.50244, LAVIDAM Gp, 2,973
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARIVIDI, 5633,m.duggivalasa, 212617, 18.35194, 83.580198, M Duggivalasa Gp, 2,1284
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARIVIDI, 5633,mandiravalasa, 212618, 18.339408, 83.565621, Mandira Valasa Gp, 2,1099
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARIVIDI, 5633,pakeerukittali, 215714, 18.282925, 83.46899, PAKEERUKITTALI Gp, 2,1386
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARIVIDI, 5633,palligandredu, 215716, 18.262431, 83.453983, PALLIGANDREDU Gp, 2,1132
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARIVIDI, 5633,pedabantupalli, 215717, 18.319498, 83.4986, PEDABANTUPALLI Gp, 2,2543
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARIVIDI, 5633,penubarti, 215718, 18.275678, 83.512583, PENUBARTI Gp, 2,2739
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARIVIDI, 5633,polayavalasa, 215719, 18.260193, 83.487773, POLAYAVALASA Gp, 2,1201
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARIVIDI, 5633,ragolu, 215721, 18.214505, 83.565501, RAGOLU Gp, 2,1491
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARIVIDI, 5633,regati, 212619, 18.327156, 83.498045, Regati Gp, 2,1353
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARIVIDI, 5633,seripeta, 212620, 18.258718, 83.520273, Seri Peta Gp, 2,1626
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARIVIDI, 5633,sivaram, 212621, 18.273826, 83.581908, Sivaram Gp, 2,3093
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARIVIDI, 5633,tatavarikittali, 215723, 18.28002, 83.487225, TATAVARIKITTALI Gp, 2,665
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARIVIDI, 5633,tatigudaa, 212622, 18.294116, 83.52399, Tatiguda Gp, 2,1499
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARIVIDI, 5633,tettangi, 215725, 18.260953, 83.485975, TETTANGI Gp, 2,2042
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARIVIDI, 5633,thondrangi, 212623, 18.248426, 83.58214, THONDRANGI GP, 2,2552
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARIVIDI, 5633,v.p.rega, 212624, 18.315283, 83.504113, V P Rega Gp, 2,477
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARIVIDI, 5633,yadika, 215967, 18.368745, 83.561363, YADIKA Gp, 2,1282
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARIVIDI, 5633,yenuguvalasa, 212626, 18.319063, 83.55201, Yenuguvalasa Gp, 2,1700
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARUGUBILLI, 5634,addapuseela, 215381, 18.76487, 83.4525, ADDAPUSEELA   GP, 2,3411
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARUGUBILLI, 5634,b.v.puram, 212627, 18.695, 83.472673, B.V.PURAM GP, 2,1271
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARUGUBILLI, 5634,chilakam, 212628, 18.722036, 83.53078, CHILAKAM GP, 2,1984
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARUGUBILLI, 5634,chinagudaba, 212629, 18.718635, 83.458271, CHINAGUDABA GP, 2,1927
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARUGUBILLI, 5634,dalaivalasa, 212630, 18.73684, 83.475163, DALAIVALASA GP, 2,983
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARUGUBILLI, 5634,garugubilli, 212631, 18.712218, 83.49556, GARUGUBILLI GP, 2,2296
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARUGUBILLI, 5634,gijaba, 212632, 18.806653, 83.507455, GIJABA GP, 2,1450
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARUGUBILLI, 5634,gottivalasa, 212633, 18.72989, 83.499841, GOTTIVALASA GP, 2,29
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARUGUBILLI, 5634,konkadavaram, 212634, 18.74669, 83.458108, KONKADAVARAM  GP, 2,1090
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARUGUBILLI, 5634,kothapalli, 212636, 18.67797, 83.533433, KOTHAPALLI GP, 2,1782
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARUGUBILLI, 5634,kothuru, 212637, 18.699498, 83.537173, KOTHURU GP, 2,1172
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARUGUBILLI, 5634,markondaputti, 212639, 18.80219, 83.485898, MARKONDAPUTTI  GP, 2,209
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARUGUBILLI, 5634,marupenta, 212640, 18.749161, 83.503321, MARUPENTA GP, 2,729
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARUGUBILLI, 5634,naguru, 212641, 18.747853, 83.521665, NAGURU GP, 2,1806
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARUGUBILLI, 5634,pedagadaba, 212643, 18.719165, 83.430186, PEDAGADABA GP, 2,1649
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARUGUBILLI, 5634,pedduru, 212644, 18.704585, 83.497178, PEDDURU GP, 2,6
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARUGUBILLI, 5634,peedimpeta, 215381, 18.674335, 83.542675, PEEDIMPETA  GP, 2,4490
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARUGUBILLI, 5634,rainderavalasa, 212645, 18.717586, 83.429771, RAINDERAVALASA  GP, 2,554
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARUGUBILLI, 5634,raopalli, 212646, 18.69156, 83.520835, RAOPALLI  GP, 2,2978
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARUGUBILLI, 5634,santoshapuram, 212648, 18.771351, 83.50617, SANTOSHAPURAM  GP, 2,1772
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARUGUBILLI, 5634,sivvam, 212649, 18.720003, 83.52673, SIVVAM  GP, 2,500
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARUGUBILLI, 5634,sunki, 212650, 18.769831, 83.497345, SUNKI GP, 2,1303
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARUGUBILLI, 5634,thotapalli, 212651, 18.786333, 83.510803, THOTAPALLI  GP, 2,500
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARUGUBILLI, 5634,uddavolu, 212652, 18.721228, 83.475573, UDDAVOLU  GP, 2,3149
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARUGUBILLI, 5634,ullibadra, 212653, 18.756278, 83.478171, ULLIBADRA  GP, 2,1774
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARUGUBILLI, 5634,vallarigudaba, 212654, 18.700346, 83.449595, VALLARIGUDABA   GP, 2,1481
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GARUGUBILLI, 5634,vr peta, 216048, 18.73315, 83.42211, VR PETA  GP, 2,3040
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GUMMALAKSHMIPURAM, 5635,chemuduguda, 215666, 19.011201, 83.714885, Chemuduguda Gp, 2,607
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GUMMALAKSHMIPURAM, 5635,dummangi, 215669, 19.062225, 83.657718, Dummangi Gp, 2,477
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GUMMALAKSHMIPURAM, 5635,elwinpeta, 215670, 18.976785, 83.661125, Elvinpeta Gp, 2,4391
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GUMMALAKSHMIPURAM, 5635,g civada, 215840, 18.899868, 83.750961, G Civada Gp, 2,1050
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GUMMALAKSHMIPURAM, 5635,g.l.puram, 215671, 18.972381, 83.656078, G L Puram Gp, 2,2783
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GUMMALAKSHMIPURAM, 5635,gujjawai, 215842, 18.92, 83.721133, Gujjawai Gp, 2,660
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GUMMALAKSHMIPURAM, 5635,gumma, 215843, 18.959686, 83.64337, Gumma Gp, 2,751
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GUMMALAKSHMIPURAM, 5635,iridi, 215673, 19.036755, 83.648161, Iridi Gp, 2,191
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GUMMALAKSHMIPURAM, 5635,jarada, 215845, 18.838218, 83.759463, Jarada Gp, 2,754
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GUMMALAKSHMIPURAM, 5635,kedaripuram, 215675, 19.127058, 83.646133, Kedharapuram Gp, 2,1656
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GUMMALAKSHMIPURAM, 5635,kondawada, 215676, 19.006991, 83.635256, Kondawada Gp, 2,545
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GUMMALAKSHMIPURAM, 5635,kukkidi, 215677, 19.050668, 83.658793, Kukkidi Gp, 2,370
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GUMMALAKSHMIPURAM, 5635,lakkaguda, 215678, 18.977101, 83.642546, Lakkaguda Gp, 2,124
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GUMMALAKSHMIPURAM, 5635,lumbesu, 215679, 19.025893, 83.613395, Lumbesu Gp, 2,232
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GUMMALAKSHMIPURAM, 5635,manda, 215680, 18.94163, 83.611515, Mamda Gp, 2,609
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GUMMALAKSHMIPURAM, 5635,marripalli, 215848, 18.906475, 83.681915, Marripalli Gp, 2,427
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GUMMALAKSHMIPURAM, 5635,mondamnkhallu, 215849, 18.921118, 83.692475, Mondamnkhallu Gp, 2,336
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GUMMALAKSHMIPURAM, 5635,neelakantapuram, 215850, 18.830738, 83.708538, Neelakantapuram Gp, 2,158
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GUMMALAKSHMIPURAM, 5635,nondrukona, 215682, 19.092715, 83.63797, Nundrukona Gp, 2,196
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GUMMALAKSHMIPURAM, 5635,p levidi, 215851, 18.96498, 83.66012, P Levidi Gp, 2,1914
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GUMMALAKSHMIPURAM, 5635,p.amity, 215683, 18.978443, 83.611473, P Amiti Gp, 2,464
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GUMMALAKSHMIPURAM, 5635,pedagottilli, 215852, 18.884655, 83.721596, Pedagottili Gp, 2,136
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GUMMALAKSHMIPURAM, 5635,pedakarja, 215684, 19.052748, 83.644108, Pedalharja Gp, 2,184
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GUMMALAKSHMIPURAM, 5635,rella, 215686, 19.077758, 83.641268, Rella Gp, 2,978
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GUMMALAKSHMIPURAM, 5635,tadikonda, 215687, 19.045728, 83.613455, Tadikonda Gp, 2,421
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GUMMALAKSHMIPURAM, 5635,tittiri, 215855, 18.837365, 83.802201, Tittiri Gp, 2,120
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GUMMALAKSHMIPURAM, 5635,udayapuram, 215856, 18.956349, 83.69884, UDAYAPURAM GP, 2,433
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GUMMALAKSHMIPURAM, 5635,uridi, 215857, 18.937196, 83.670926, Uridi Gp, 2,1161
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GUMMALAKSHMIPURAM, 5635,valasaballeru, 215858, 18.87275, 83.74171, Valasaballeru Gp, 2,920
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GUMMALAKSHMIPURAM, 5635,vangara, 212681, 19.129031, 83.619648, Vangara Gp, 2,2250
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GUMMALAKSHMIPURAM, 5635,vobbangi, 215859, 18.790445, 83.745216, Vobbangi Gp, 2,143
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GUMMALAKSHMIPURAM, 5635,voosakonda, 215860, 18.82534, 83.685645, Voosakonda Gp, 2,359
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GUMMALAKSHMIPURAM, 5635,yegulawada, 215861, 18.942916, 83.64265, Yegulawada Gp, 2,306
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GURLA, 5636,anandapuram, 215690, 18.235263, 83.429233, Anandpuram GP, 2,2082
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GURLA, 5636,bhupalapuram, 215692, 18.247558, 83.410283, Bhopalapuram GP, 2,784
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GURLA, 5636,chintalapeta, 215693, 18.210878, 83.437136, Chintalapeta GP, 2,2680
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GURLA, 5636,chodavaram, 215695, 18.237928, 83.509251, Chodavaram GP, 2,1090
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GURLA, 5636,damarasingi, 215696, 18.184223, 83.513531, Damara Singi GP, 2,1805
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GURLA, 5636,garida, 215698, 18.221623, 83.505025, Garida GP, 2,1116
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GURLA, 5636,garikivalasa, 215699, 18.25423, 83.429391, Garikavalasa GP, 2,2680
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GURLA, 5636,goshada, 215700, 18.219105, 83.465648, Goshada GP, 2,1058
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GURLA, 5636,gudem, 215701, 18.241663, 83.471601, Gudam GP, 2,3129
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GURLA, 5636,gujjangivalasa, 215702, 18.233898, 83.488933, Gujingavalasa GP, 2,1079
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GURLA, 5636,gurla, 215703, 18.212941, 83.465516, Gurla GP, 2,2962
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GURLA, 5636,jammu, 215704, 18.230518, 83.525543, Jammu GP, 2,2563
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GURLA, 5636,jammupeta, 215705, 18.219998, 83.512133, Jammupeta GP, 2,3235
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GURLA, 5636,kalavachrla, 215706, 18.218838, 83.449636, Kalavacherla GP, 2,2148
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GURLA, 5636,kella, 215707, 18.208433, 83.488788, Kella GP, 2,37
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GURLA, 5636,kotagandredu, 215709, 18.224111, 83.448241, Kotagandradu GP, 2,2114
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GURLA, 5636,manyapuripeta, 215711, 18.198221, 83.486236, Manyapuripeta GP, 2,631
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GURLA, 5636,nadupuru, 215712, 18.230386, 83.417065, Nadupuru GP, 2,2595
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GURLA, 5636,nagallavalasa, 215713, 18.23066, 83.537425, Naguluvalasa GP, 2,646
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GURLA, 5636,palavalasa, 215715, 18.244675, 83.451255, Palavalasa GP, 2,71
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GURLA, 5636,punnapureddipeta, 215720, 18.233438, 83.46167, Punapureddypeta GP, 2,631
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GURLA, 5636,s.s.r.peta, 215722, 18.193155, 83.464526, Ssr Peta GP, 2,1725
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GURLA, 5636,tatipudi, 215724, 18.212596, 83.541033, Tatipudi GP, 2,664
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, GURLA, 5636,vallapuram, 215726, 18.200808, 83.51777, Vallapuram GP, 2,2505
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JAMI, 5637,alamanda, 212719, 17.995396, 83.240923, ALAMANDA GP, 2,5948
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JAMI, 5637,annamrajupeta, 212720, 18.018916, 83.301478, ANNAMRAJUPETA  GP, 2,3868
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JAMI, 5637,attada, 212721, 18.067786, 83.310003, ATTADA  GP, 2,1616
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JAMI, 5637,bheemasingi, 212722, 18.047325, 83.293373, BHEEMASINGI  GP, 2,4592
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JAMI, 5637,godukommu, 212724, 18.011688, 83.256713, GODUKOMMU  GP, 2,267
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JAMI, 5637,jaddetivalasa, 212725, 18.026841, 83.239443, JADDETIVALASA  GP, 2,1450
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JAMI, 5637,jagaram, 212726, 18.064773, 83.211868, JAGARAM  GP, 2,2128
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JAMI, 5637,jami, 212727, 18.05252, 83.262131, JAMI  GP, 2,500
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JAMI, 5637,jannivalasa, 212728, 18.074621, 83.264611, JANNIVALASA  GP, 2,627
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JAMI, 5637,kumaram, 212730, 18.044653, 83.32633, KUMARAM  GP, 2,3157
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JAMI, 5637,lakshmipuram, 212731, 18.043158, 83.230485, LAKSHMIPURAM  GP, 2,1325
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JAMI, 5637,lotlapalli, 212732, 18.012661, 83.267228, LOTLAPALLI  GP, 2,1609
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JAMI, 5637,mokhasa kothavalasa, 212733, 18.03255, 83.317885, MOKHASA KOTHAVALASA  GP, 2,2912
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JAMI, 5637,ramabhadrapuram, 212735, 18.025941, 83.222871, RAMABHADRAPURAM GP, 2,252
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JAMI, 5637,ramayyapalem, 212736, 18.030655, 83.26558, RAMAYYAPALEM, 2,1732
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JAMI, 5637,sasanapalli, 212737, 18.081225, 83.289138, SASANAPALLI  GP, 2,322
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JAMI, 5637,sirikipalem, 212738, 17.992845, 83.231611, SIRIKIPALEM  GP, 2,1263
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JAMI, 5637,thanavaram, 212739, 18.074383, 83.228798, THANAVARAM  GP, 2,1272
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JAMI, 5637,v.r.palem, 212741, 18.071606, 83.275821, V.R.PALEM  GP, 2,1704
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JAMI, 5637,venne, 212742, 18.08907, 83.276601, VENNE  GP, 2,1148
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JAMI, 5637,vizinigiri, 212743, 18.071186, 83.232495, VIZINIGIRI  GP, 2,1885
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JIYYAMMAVALASA, 5638,alamanda, 212744, 18.812346, 83.60409, ALAMANDA  GP, 2,5948
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JIYYAMMAVALASA, 5638,ankavaram, 212745, 18.773203, 83.581468, ANKAVARAM  GP, 2,772
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JIYYAMMAVALASA, 5638,arnada, 212746, 18.78434, 83.616576, ARNADA  GP, 2,1418
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JIYYAMMAVALASA, 5638,b.j.puram, 212747, 18.799988, 83.583153, B.J.PURAM  GP, 2,1185
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JIYYAMMAVALASA, 5638,bommika, 212750, 18.7945, 83.588083, BOMMIKA GP, 2,1087
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JIYYAMMAVALASA, 5638,chinamerangi, 212751, 18.835845, 83.548306, CHINAMERANGI  GP, 2,4073
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JIYYAMMAVALASA, 5638,chintalabelagam, 212752, 18.816176, 83.522528, CHINTALABELAGAM GP, 2,863
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JIYYAMMAVALASA, 5638,dangabadra, 212753, 18.776398, 83.602731, DANGABADRA GP, 2,964
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JIYYAMMAVALASA, 5638,gedasingipuram, 212755, 18.754798, 83.604955, GEDASINGIPURAM GP, 2,856
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JIYYAMMAVALASA, 5638,geddatiruvada, 212756, 18.780383, 83.575075, GEDDATIRUVADA GP, 2,1342
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JIYYAMMAVALASA, 5638,itika, 212757, 18.773018, 83.566353, ITIKA GP, 2,1229
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JIYYAMMAVALASA, 5638,jiyyammavalasa, 212758, 18.785176, 83.601806, JIYYAMMAVALASA GP, 2,3655
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JIYYAMMAVALASA, 5638,joguladumma, 212759, 18.812336, 83.574423, JOGULADUMMA GP, 2,751
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JIYYAMMAVALASA, 5638,kondachilakam, 212761, 18.857548, 83.628911, KONDACHILAKAM GP, 2,276
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JIYYAMMAVALASA, 5638,kudama, 212762, 18.789335, 83.53342, KUDAMA GP, 2,70
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JIYYAMMAVALASA, 5638,kundaratiruvada, 212763, 18.780741, 83.551431, KUNDARATIRUVADA GP, 2,1155
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JIYYAMMAVALASA, 5638,lakanapuram, 215646, 18.752671, 83.555121, LAKANAPURAM GP, 2,158
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JIYYAMMAVALASA, 5638,m.alluvada, 212764, 18.832183, 83.553326, M.ALLUVADA GP, 2,1380
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JIYYAMMAVALASA, 5638,p.t.manda, 212765, 18.829946, 83.658158, P.T.MANDA GP, 2,979
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JIYYAMMAVALASA, 5638,parajapadu, 212766, 18.801936, 83.538436, PARAJAPADU GP, 2,1473
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JIYYAMMAVALASA, 5638,pedabuddidi, 212767, 18.746903, 83.57736, PEDABUDDIDI GP, 2,1914
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JIYYAMMAVALASA, 5638,pippalabadra, 212769, 18.799944, 83.560318, PIPPALABADRA GP, 2,1121
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JIYYAMMAVALASA, 5638,ravivalasa, 215655, 18.736511, 83.549878, RAVIVALASA GP, 2,872
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JIYYAMMAVALASA, 5638,sikhabedi, 212770, 18.809116, 83.592448, SIKHABEDI GP, 2,1535
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JIYYAMMAVALASA, 5638,t.k.jammu, 212771, 18.819138, 83.647203, T.K.JAMMU GP, 2,105
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JIYYAMMAVALASA, 5638,t.n.valasa, 212772, 18.760068, 83.53975, T.N.VALASA GP, 2,1493
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JIYYAMMAVALASA, 5638,talladumma, 212773, 18.840466, 83.551363, TALLADUMMA GP, 2,315
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, JIYYAMMAVALASA, 5638,tumbali, 212774, 18.831158, 83.567936, TUMBALI GP, 2,2039
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KOMARADA, 5639,artham, 215783, 18.824681, 83.454302, Artham Gp, 2,873
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KOMARADA, 5639,chinakerjala, 215784, 18.890355, 83.425151, Chinakerjala Gp, 2,416
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KOMARADA, 5639,cholapadam, 215785, 18.947428, 83.452915, Chollapadam Gp, 2,78
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KOMARADA, 5639,devukona, 215787, 18.922601, 83.445778, Devukona Gp, 2,182
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KOMARADA, 5639,duggi, 215788, 18.83601, 83.467683, Duggi Gp, 2,945
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KOMARADA, 5639,gangireguvalasa, 215789, 18.852956, 83.457361, Gangareguvalasa Gp, 2,713
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KOMARADA, 5639,gumada, 215790, 18.884321, 83.467925, Gumada Gp, 2,482
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KOMARADA, 5639,gunanupuram, 215792, 18.825599, 83.47176, Gunanapuram Gp, 2,1788
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KOMARADA, 5639,kallikota, 215793, 18.851301, 83.476311, Kallikota Gp, 2,1966
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KOMARADA, 5639,kambavalasa, 215794, 18.852123, 83.428416, Kambavalasa Gp, 2,141
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KOMARADA, 5639,komarada, 215796, 18.899211, 83.459978, Komarada Gp, 2,5551
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KOMARADA, 5639,kotipam, 215797, 18.862353, 83.455205, Kotipam Gp, 2,193
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KOMARADA, 5639,kummarighunta, 215799, 18.84484, 83.438988, Kummarigumta Gp, 2,500
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KOMARADA, 5639,kuntesu, 215800, 18.957475, 83.345636, Kuntesu Gp, 2,80
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KOMARADA, 5639,masimanda, 215802, 18.98677, 83.402465, Masimanda Gp, 2,30
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KOMARADA, 5639,naya, 215803, 18.929558, 83.396248, Naya Gp, 2,216
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KOMARADA, 5639,parusarampuram, 215806, 18.807876, 83.462521, Parasuramapuram Gp, 2,1648
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KOMARADA, 5639,pedasekha, 215807, 18.983245, 83.40389, Pedhashaka Gp, 2,5
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KOMARADA, 5639,pudesu, 215808, 19.000798, 83.35406, Pudesu Gp, 2,81
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KOMARADA, 5639,sivini, 215809, 18.80309, 83.435558, Sivini Gp, 2,1470
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KOMARADA, 5639,ulipiri, 215811, 18.939256, 83.440541, Ulipiri Gp, 2,259
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KOMARADA, 5639,vikrampuram, 215813, 18.812001, 83.445093, Vikrampuram Gp, 2,3033
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KOTHAVALASA, 5640,appannapalem, 212807, 17.901343, 83.224978, Appannapalem Gp, 2,1170
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KOTHAVALASA, 5640,cheedivalasa, 212808, 17.902075, 83.140311, Chidivalasagp, 2,494
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KOTHAVALASA, 5640,chinaraopalli, 212809, 17.966633, 83.227158, Chinnaraopalli, 2,835
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KOTHAVALASA, 5640,chintalapalem, 212811, 17.85452, 83.202146, Chintalapalemgp, 2,577
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KOTHAVALASA, 5640,denderu, 212812, 17.862305, 83.161616, Denderu Gp, 2,1290
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KOTHAVALASA, 5640,desapatrunipalem, 212813, 17.86662, 83.197231, Desapatrunipalem Gp, 2,6522
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KOTHAVALASA, 5640,devada, 212814, 17.925201, 83.143898, Devada Gp, 2,1751
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KOTHAVALASA, 5640,ganisettypalem, 212815, 17.870993, 83.164168, Ganisettypalem GP, 2,1142
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KOTHAVALASA, 5640,gollalapalem, 212816, 17.90653, 83.15473, Gollalapalem gp, 2,6310
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KOTHAVALASA, 5640,gulivindala, 212817, 17.871248, 83.159203, Gulivindhada, 2,1243
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KOTHAVALASA, 5640,kantakapalli, 212818, 17.947061, 83.213803, Kantakapalli Gp, 2,2773
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KOTHAVALASA, 5640,katakapalli, 212819, 17.95514, 83.231241, Katakapalli Gp, 2,1837
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KOTHAVALASA, 5640,konamasivanipalem, 215874, 17.93712, 83.137788, Konamasivanipallem Gp, 2,2633
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KOTHAVALASA, 5640,kottavalasa, 212820, 17.897005, 83.185561, Kothavalasa Gp, 2,14321
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KOTHAVALASA, 5640,mangalapalem, 212821, 17.874211, 83.18499, Mangalapalem Gp, 2,1192
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KOTHAVALASA, 5640,musiram, 212822, 17.930073, 83.122403, Musiramgp, 2,1507
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KOTHAVALASA, 5640,ramalingapuram, 212824, 17.91907, 83.1295, Ramalingapuram Gp, 2,1621
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KOTHAVALASA, 5640,relli, 212825, 17.891473, 83.225795, Relli Gp, 2,2418
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KOTHAVALASA, 5640,santapalem, 212826, 17.852036, 83.172195, Santapalem Gp, 2,1555
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KOTHAVALASA, 5640,tummikapalli, 212827, 17.912075, 83.180376, Tumikapalli Gp, 2,4911
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KOTHAVALASA, 5640,veerabhadrapuram, 212829, 17.928178, 83.162566, Veerabadrapuram Gp, 2,257
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KOTHAVALASA, 5640,viyyampeta, 212830, 17.920993, 83.152128, Viyyampeta Gp, 2,2380
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KURUPAM, 5641,balesu, 215663, 18.963361, 83.558791, BALESU GP, 2,583
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KURUPAM, 5641,basangi, 215756, 18.820348, 83.494908, BASANGI GP, 2,942
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KURUPAM, 5641,beerupadu, 215664, 19.060891, 83.472641, BEERUPADU GP, 2,392
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KURUPAM, 5641,bithrapadu, 215757, 18.844528, 83.488816, BITHRAPADU GP, 2,497
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KURUPAM, 5641,biyyalavalasa, 215839, 18.885028, 83.55112, BIYYALAVALASA, 2,251
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KURUPAM, 5641,charaibimnidi, 215665, 19.039305, 83.56979, CHARAIBIMNIDI GP, 2,739
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KURUPAM, 5641,chinnageesada, 215667, 18.987297, 83.511132, CHINNAGEESADA GP, 2,368
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KURUPAM, 5641,dalaipeta, 215786, 18.861455, 83.486488, DALAIPETA GP, 2,468
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KURUPAM, 5641,duddukhallu, 215668, 18.943095, 83.554351, DUDDUKHALLU GP, 2,752
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KURUPAM, 5641,gopika, 215672, 19.022615, 83.497411, GOPIKA GP, 2,214
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KURUPAM, 5641,gotivada, 215841, 18.883653, 83.60583, GOTIVADA GP, 2,80
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KURUPAM, 5641,gowrammapeta, 215762, 18.832168, 83.520186, GOWRAMMAPETA GP, 2,1205
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KURUPAM, 5641,gummidiguda, 215844, 18.916366, 83.552725, GUMMIDIGUDA GP, 2,778
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KURUPAM, 5641,gunadateiesu, 215791, 18.954041, 83.501495, GUNADATEIESU GP, 2,258
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KURUPAM, 5641,jarna, 215674, 18.976516, 83.482501, JARNA GP, 2,367
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KURUPAM, 5641,kannapudoravalasa, 215768, 18.845581, 83.524965, KANNAPUDORAVALASA GP, 2,1929
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KURUPAM, 5641,kemiseela, 215795, 18.935846, 83.489775, KEMISEELA GP, 2,1510
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KURUPAM, 5641,kitchada, 215846, 18.863745, 83.501215, KITCHADA GP, 2,1275
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KURUPAM, 5641,kottu, 215798, 18.901578, 83.471586, KOTTU GP, 2,500
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KURUPAM, 5641,kurupam, 215847, 18.866515, 83.54978, KURUPAM GP, 2,42
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KURUPAM, 5641,madalingi, 215801, 18.897428, 83.494675, MADALINGI GP, 2,1417
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KURUPAM, 5641,nellikikkuva, 215681, 18.942543, 83.539773, NELLIKIKKUVA GP, 2,188
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KURUPAM, 5641,nimmalapadu, 215804, 18.838408, 83.491113, NIMMALAPADU GP, 2,376
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KURUPAM, 5641,palem, 215805, 18.898568, 83.516278, PALEM GP, 2,567
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KURUPAM, 5641,pedamerangi, 215776, 18.83599, 83.52773, PEDAMERANGI GP, 2,2412
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KURUPAM, 5641,podi, 215853, 18.882126, 83.646601, PODI GP, 2,471
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KURUPAM, 5641,rastakuntubai, 215854, 18.926026, 83.612473, RASTAKUNTUBAI GP, 2,500
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KURUPAM, 5641,rayagadajammu, 215685, 19.014828, 83.57849, RAYAGADAJAMMU GP, 2,221
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KURUPAM, 5641,thoduma, 215810, 18.89115, 83.478945, THODUMA GP, 2,660
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KURUPAM, 5641,vanakabadi, 215688, 18.967021, 83.529261, VANAKABADI GP, 2,93
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, KURUPAM, 5641,vannam, 215812, 18.875198, 83.49961, VANNAM GP, 2,431
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, LAKKAVARAPUKOTA, 5642,appannadorapalem, 215814, 17.942296, 83.183365, Appannadorapalem Gp, 2,1170
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, LAKKAVARAPUKOTA, 5642,arigipalem, 216221, 18.035855, 83.13228, Arigepalem Gp, 2,1007
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, LAKKAVARAPUKOTA, 5642,bheemail, 215862, 17.978818, 83.22335, Bhimaligp, 2,1909
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, LAKKAVARAPUKOTA, 5642,boddam, 216225, 18.05982, 83.142288, Bodam Gp, 2,3094
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, LAKKAVARAPUKOTA, 5642,chanduluru, 215863, 17.99396, 83.1303, Chandulurugp, 2,3298
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, LAKKAVARAPUKOTA, 5642,chinnipalem, 215818, 17.963195, 83.193893, Chinnipalem Gp, 2,799
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, LAKKAVARAPUKOTA, 5642,dasullapalem, 215864, 17.996178, 83.19049, Dasulapalem Gp, 2,931
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, LAKKAVARAPUKOTA, 5642,gangubudi, 215865, 17.956403, 83.170078, Gangubudi Gp, 2,1396
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, LAKKAVARAPUKOTA, 5642,ganivada, 215866, 17.97587, 83.19198, Ganivada Gp, 2,1050
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, LAKKAVARAPUKOTA, 5642,gedelavanipalem, 215867, 17.985273, 83.206208, Gedelavanipalem Gp, 2,2633
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, LAKKAVARAPUKOTA, 5642,golzam, 215868, 18.046357, 83.164631, Goljam Gp, 2,3004
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, LAKKAVARAPUKOTA, 5642,jammadevipeta, 215869, 17.9861, 83.168153, Jammadevipeta Gp, 2,3094
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, LAKKAVARAPUKOTA, 5642,k.g.pudi, 216232, 18.072893, 83.08814, Kg Pudigp, 2,1121
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, LAKKAVARAPUKOTA, 5642,kalagada, 215737, 18.00294, 83.208613, Kalagada Gp, 2,418
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, LAKKAVARAPUKOTA, 5642,kallempudi, 215870, 18.05378, 83.175781, Kallempude Gp, 2,1111
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, LAKKAVARAPUKOTA, 5642,kallepalli, 215871, 17.951463, 83.12393, Kallepalli Gp, 2,2928
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, LAKKAVARAPUKOTA, 5642,khasapeta, 215872, 18.02153, 83.183331, Kasapeta, 2,2211
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, LAKKAVARAPUKOTA, 5642,kittannapeta, 215873, 18.008351, 83.136281, Kithampeta Gp, 2,1702
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, LAKKAVARAPUKOTA, 5642,kotyada, 215875, 18.020086, 83.204481, Kotyadagp, 2,2551
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, LAKKAVARAPUKOTA, 5642,kummapalli, 216235, 17.948958, 83.09077, Kumpalli Gp, 2,1967
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, LAKKAVARAPUKOTA, 5642,l.k.s.puram, 215876, 18.042945, 83.14621, Lkotasitarampuram gp, 2,650
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, LAKKAVARAPUKOTA, 5642,lakkavarapu.kota, 215877, 17.983161, 83.16029, Lkotagp, 2,4759
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, LAKKAVARAPUKOTA, 5642,latchampeta, 215878, 18.024946, 83.115556, Lachampeta Gp, 2,1527
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, LAKKAVARAPUKOTA, 5642,lingampeta, 215879, 17.966103, 83.139086, Lingampeta Gp, 2,1232
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, LAKKAVARAPUKOTA, 5642,malliveedu, 215880, 17.96778, 83.176241, Malliveedu Gp, 2,3128
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, LAKKAVARAPUKOTA, 5642,marlapalli, 215881, 17.99655, 83.145255, Marlapalli gp, 2,3628
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, LAKKAVARAPUKOTA, 5642,mukundapuram, 216236, 18.058811, 83.164955, Mukundapuram Gp, 2,950
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, LAKKAVARAPUKOTA, 5642,narasampeta, 215882, 17.9624, 83.096441, Narasannapeta Gp, 2,1317
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, LAKKAVARAPUKOTA, 5642,nimmalapalem, 215831, 17.93042, 83.179015, Nimmalapalemgp, 2,1192
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, LAKKAVARAPUKOTA, 5642,obulayyapalem, 216239, 18.057525, 83.158913, Obulayyapalem Gp, 2,866
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, LAKKAVARAPUKOTA, 5642,paturu, 216240, 18.050223, 83.146631, Paturu Gp, 2,1831
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, LAKKAVARAPUKOTA, 5642,pkr puram, 216241, 18.073425, 83.112813, Pkr Puram Gp, 2,699
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, LAKKAVARAPUKOTA, 5642,pothampeta, 215883, 17.97753, 83.097365, Potampeta Gp, 2,839
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, LAKKAVARAPUKOTA, 5642,ramaswamipeta, 216242, 18.062147, 83.12708, Ramaswami  PetaGp, 2,887
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, LAKKAVARAPUKOTA, 5642,rangapuram, 215884, 17.99099, 83.174651, Rangapuram GP, 2,307
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, LAKKAVARAPUKOTA, 5642,rangarayapuram, 215885, 18.01079, 83.158876, Rangarayapuram Gp, 2,10
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, LAKKAVARAPUKOTA, 5642,rega, 215886, 17.951538, 83.120478, Rega Gp, 2,1781
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, LAKKAVARAPUKOTA, 5642,relligavarampeta, 215887, 17.974856, 83.157443, Relligavarampeta Gp, 2,1232
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, LAKKAVARAPUKOTA, 5642,santapeta, 215888, 18.01319, 83.151815, Santhapeta Gp, 2,2380
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, LAKKAVARAPUKOTA, 5642,sompuram, 216244, 18.036986, 83.133995, Sompuram Gp, 2,2477
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, LAKKAVARAPUKOTA, 5642,srirampuram, 215889, 17.963533, 83.155348, Srirampuram Gp, 2,766
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, LAKKAVARAPUKOTA, 5642,talari, 215890, 18.017736, 83.197761, Talarigp, 2,1143
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, LAKKAVARAPUKOTA, 5642,tamarapalli, 215891, 17.951626, 83.147138, Tamarapalli Gp, 2,1885
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, LAKKAVARAPUKOTA, 5642,uttaravalli, 215836, 17.961135, 83.185133, Uttarapalli Gp, 2,4947
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, LAKKAVARAPUKOTA, 5642,veerabhadrapeta, 215892, 18.043608, 83.199093, Verabadrapeta Gp, 2,1520
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, LAKKAVARAPUKOTA, 5642,veeranarayanam, 216184, 18.064925, 83.127508, Veeranarayanam gp, 2,1658
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MAKKUVA, 5643,addumanda venkampeta, 215893, 18.63981, 83.29102, ADDUMANDA VENKAMPETA, 2,1547
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MAKKUVA, 5643,bangaruvalasa, 215894, 18.69168, 83.26261, BANGARUVALASA, 2,809
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MAKKUVA, 5643,chemudu, 215896, 18.64136, 83.22862, CHEMUDU, 2,1755
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MAKKUVA, 5643,dabbagadda, 215898, 18.69994, 83.27372, DABBAGADDA, 2,947
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MAKKUVA, 5643,kannampeta, 215899, 18.63303, 83.30798, KANNAMPETA, 2,1328
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MAKKUVA, 5643,kassipatnam, 215900, 18.65371, 83.29526, KASSIPATNAM, 2,1689
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MAKKUVA, 5643,kaviripalli, 215901, 18.66907, 83.23532, KAVIRIPALLI, 2,1658
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MAKKUVA, 5643,kodama, 216107, 18.717028, 83.098031, KODAMA, 2,301
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MAKKUVA, 5643,kona, 215902, 18.69533, 83.27561, KONA, 2,1241
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MAKKUVA, 5643,koyyannapeta, 215903, 18.6769, 83.30064, KOYYANNAPETA, 2,1393
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MAKKUVA, 5643,makkuva, 215904, 18.66246, 83.26627, MAKKUVA, 2,8272
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MAKKUVA, 5643,markondaputti, 215905, 18.69013, 83.22782, MARKONDAPUTTI, 2,209
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MAKKUVA, 5643,mavudi, 216114, 18.67617, 83.163671, MAVUDI, 2,1185
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MAKKUVA, 5643,nanda, 215906, 18.699209, 83.155871, NANDA, 2,115
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MAKKUVA, 5643,pagulachenneru, 216117, 18.693923, 83.101678, PAGULACHENNERU, 2,288
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MAKKUVA, 5643,panasabhadra, 215907, 18.72922, 83.19977, PANASABHADRA, 2,599
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MAKKUVA, 5643,pattuchennerru, 216119, 18.695455, 83.116701, PATTUCHENNERRU, 2,234
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MAKKUVA, 5643,s.p.valasa, 215908, 18.66824, 83.19401, S.P.VALASA, 2,1156
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MAKKUVA, 5643,sambaraa, 215909, 18.65465, 83.21294, SAMBARAA, 2,4134
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MAKKUVA, 5643,sanyasirajupuram, 215910, 18.66618, 83.24294, SANYASIRAJUPURAM, 2,440
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MAKKUVA, 5643,saraivaklasa, 215911, 18.66618, 83.24294, SARAIVAKLASA, 2,754
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MAKKUVA, 5643,thunda, 216127, 18.698913, 83.182445, THUNDA, 2,998
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MAKKUVA, 5643,turumamidi, 215912, 18.68662, 83.2912, TURUMAMIDI, 2,1361
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MENTADA, 5644,aguru, 215914, 18.309146, 83.251148, Aguru Gp, 2,1373
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MENTADA, 5644,amarayavalasa, 215915, 18.343905, 83.2599, Amaraivalasa Gp, 2,601
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MENTADA, 5644,andra, 215916, 18.346715, 83.204156, Andra Gp, 2,242
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MENTADA, 5644,badevalasa, 215917, 18.360117, 83.289325, Badevalasa Gp, 2,1382
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MENTADA, 5644,butchirajupeta, 215918, 18.38375, 83.269411, Butchirajupeta Gp, 2,330
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MENTADA, 5644,chintalavalasa, 215920, 18.332903, 83.248238, Chinthalavalasa Gp, 2,3025
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MENTADA, 5644,gurammavalasa, 215921, 18.37586, 83.27749, GuramavAlasa Gp, 2,314
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MENTADA, 5644,gurla, 215922, 18.308053, 83.235366, Gurla Gp, 2,2962
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MENTADA, 5644,gurlathammirajupeta, 215923, 18.313208, 83.24407, G.thammirajupeta GP, 2,3235
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MENTADA, 5644,ippalavalasa, 215925, 18.361756, 83.244426, Ippalavalasa Gp, 2,1755
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MENTADA, 5644,jagannadapuram, 215926, 18.348991, 83.226263, Jagannadhapuram Gp, 2,1876
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MENTADA, 5644,jakkuva, 215927, 18.367818, 83.27285, JAkluva Gp, 2,2788
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MENTADA, 5644,jayathi, 215928, 18.349003, 83.249983, Jayathi Gp, 2,2585
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MENTADA, 5644,kailam, 215929, 18.34357, 83.26621, KIlam Gp, 2,804
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MENTADA, 5644,kantubuktavalasa, 215930, 18.33182, 83.281683, Kuntibhukthavalasa Gp, 2,4977
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MENTADA, 5644,kondalingalavalsa, 215932, 18.372351, 83.232761, Kondalingavalasa Gp, 2,1212
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MENTADA, 5644,kuneru, 215933, 18.38386, 83.240165, Kuneru Gp, 2,176
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MENTADA, 5644,lothugedda, 215935, 18.339996, 83.199941, Lothugedda Gp, 2,1789
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MENTADA, 5644,marrivalasa, 215559, 18.300495, 83.270605, MARRIVALASA GP, 2,1486
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MENTADA, 5644,mentada, 215937, 18.310501, 83.261143, Mentada Gp, 2,3225
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MENTADA, 5644,pittada, 215940, 18.32499, 83.242124, Pittada Gp, 2,399
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MENTADA, 5644,poram, 215941, 18.394188, 83.278138, Poram Gp, 2,3251
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MENTADA, 5644,rampallle, 214726, 18.287217, 83.221917, RAMPALLE GP, 2,3628
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MENTADA, 5644,salipeta, 215566, 18.319578, 83.283168, SALIPETA GP, 2,649
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MENTADA, 5644,uddangi, 215943, 18.39168, 83.25958, Uddangi Gp, 2,56
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MERAKAMUDIDAM, 5645,bheemavaram, 215944, 18.421316, 83.533518, Bheemavaram G.p, 2,1589
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MERAKAMUDIDAM, 5645,bhyripuram, 215945, 18.354495, 83.438803, Bhiripuram G.p, 2,2642
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MERAKAMUDIDAM, 5645,billalavalasa, 215946, 18.364508, 83.499198, Billalavalasa G.p, 2,1328
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MERAKAMUDIDAM, 5645,budarayavalasa, 215947, 18.389936, 83.473155, Budharayavalasa G.p, 2,2688
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MERAKAMUDIDAM, 5645,chellapuram, 215948, 18.341878, 83.454633, Chellapuram G.p, 2,634
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MERAKAMUDIDAM, 5645,china bantupalli, 215949, 18.340158, 83.4682, Chinabantupalli G.p, 2,845
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MERAKAMUDIDAM, 5645,gadila marrivalasa, 215950, 18.41054, 83.430538, Gedhelamarrivalasa G.p, 2,1486
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MERAKAMUDIDAM, 5645,garbham, 215951, 18.360328, 83.4466, Garbham G.p, 2,8445
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MERAKAMUDIDAM, 5645,gottipalli, 215954, 18.393045, 83.44496, Gottipalli G.p, 2,851
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MERAKAMUDIDAM, 5645,ippalavalasa, 215955, 18.341138, 83.498198, Eppalavalasa G.p, 2,1755
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MERAKAMUDIDAM, 5645,kondadadi, 215620, 18.378526, 83.51515, KONDADI GP, 2,1370
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MERAKAMUDIDAM, 5645,kondalaveru, 215956, 18.39473, 83.515023, Kondalaveru G.p, 2,743
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MERAKAMUDIDAM, 5645,korlam, 215957, 18.374338, 83.496356, Korlam G.p, 2,2726
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MERAKAMUDIDAM, 5645,m.ravivalasa, 215958, 18.42867, 83.488001, M. Rayavalasa G.p, 2,500
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MERAKAMUDIDAM, 5645,merakamudidam, 215959, 18.411788, 83.463278, Merakamudidham G.p, 2,4257
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MERAKAMUDIDAM, 5645,puligummi, 215960, 18.441335, 83.436545, PULIGUMMI G.p, 2,911
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MERAKAMUDIDAM, 5645,rachagumadam, 215961, 18.43379, 83.53574, Rachagudam G.p, 2,1017
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MERAKAMUDIDAM, 5645,ramayyavalasa, 215962, 18.418133, 83.48587, Ramayavalasa G.p, 2,1085
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MERAKAMUDIDAM, 5645,sathammavalasa, 215963, 18.417565, 83.5457, Satham valasa G.p, 2,1616
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MERAKAMUDIDAM, 5645,somalingapuram, 215964, 18.410446, 83.479473, Somalingapuram G.p, 2,727
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MERAKAMUDIDAM, 5645,uttaravalli, 215965, 18.458821, 83.476083, Uttaravalli G.p, 2,4947
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MERAKAMUDIDAM, 5645,veddula valasa, 215633, 18.35576, 83.520603, VEDULAVALASA GP, 2,1525
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, MERAKAMUDIDAM, 5645,vootapalli, 215966, 18.429, 83.446278, Vutapalli G.p, 2,2028
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, NELLIMARLA, 5646,a.t.agraharam, 215968, 18.139065, 83.498536, A.T.AGRAHARAM, 2,1244
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, NELLIMARLA, 5646,alugolu, 215969, 18.198386, 83.553158, Alugolu Gp, 2,4144
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, NELLIMARLA, 5646,boppadam, 215970, 18.188893, 83.59007, Boppadam Gp, 2,2350
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, NELLIMARLA, 5646,buradapeta, 215971, 18.21692, 83.414506, Burada Peta Gp, 2,2402
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, NELLIMARLA, 5646,chandrampeta, 215972, 18.192635, 83.401416, Chandram Peta Gp, 2,316
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, NELLIMARLA, 5646,davannapeta, 215973, 18.149915, 83.498073, Dannapeta GP, 2,621
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, NELLIMARLA, 5646,garikapeta, 215974, 18.200138, 83.425251, Garika Peta Gp, 2,1422
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, NELLIMARLA, 5646,gushimi, 215975, 18.189335, 83.543396, Gushini Gp, 2,3190
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, NELLIMARLA, 5646,jogirajupeta, 215977, 18.198168, 83.56827, Jogirajupeta Gp, 2,1682
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, NELLIMARLA, 5646,kondagumpam, 215978, 18.191991, 83.430678, Konda Gumpam Gp, 2,2339
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, NELLIMARLA, 5646,kondavelagada, 215979, 18.184135, 83.413645, Kondavelagada Gp, 2,3687
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, NELLIMARLA, 5646,kothapeta, 215980, 18.160465, 83.465421, Kothapeta Gp, 2,4651
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, NELLIMARLA, 5646,madupadu, 215981, 18.173618, 83.567503, Madhupada Gp, 2,2733
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, NELLIMARLA, 5646,malyada, 215982, 18.157575, 83.582098, Malayada Gp, 2,1421
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, NELLIMARLA, 5646,moida, 215983, 18.194805, 83.447861, Moida Gp, 2,2875
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, NELLIMARLA, 5646,ommi, 215985, 18.158546, 83.556375, Ommi Gp, 2,2281
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, NELLIMARLA, 5646,parasam, 215986, 18.235758, 83.399235, Parasam Gp, 2,1415
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, NELLIMARLA, 5646,putikapeta, 215987, 18.191373, 83.442791, Puthikapeta Gp, 2,1325
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, NELLIMARLA, 5646,ramathertham, 215988, 18.167721, 83.49445, Ramathirdam Gp, 2,300
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, NELLIMARLA, 5646,saripalli, 215989, 18.12996, 83.48178, Saripalli Gp, 2,3440
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, NELLIMARLA, 5646,sativada, 215990, 18.167031, 83.551428, Satevada Gp, 2,3040
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, NELLIMARLA, 5646,seetaramunipeta, 215991, 18.16402, 83.484465, Seeta Ramulu Peta GP, 2,1840
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, NELLIMARLA, 5646,tangudubilli, 215992, 18.153403, 83.514753, Tangudubilli Gp, 2,1641
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, NELLIMARLA, 5646,tekkali, 215993, 18.20239, 83.393171, Tekalli Gp, 2,809
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, NELLIMARLA, 5646,thammapuram, 215994, 18.156071, 83.544181, Tammapuram Gp, 2,303
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, NELLIMARLA, 5646,valluru, 215995, 18.178308, 83.603328, Valluru GP, 2,532
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PACHIPENTA, 5647,ajuru, 215996, 18.54313, 83.106838, AJURU GP, 2,193
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PACHIPENTA, 5647,borramamidi, 215997, 18.399034, 83.130282, BORRAMAMIDI  GP, 2,545
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PACHIPENTA, 5647,garisiguddi, 215998, 18.425495, 83.133305, GARISIGUDDI GP, 2,629
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PACHIPENTA, 5647,gotturu, 215999, 18.40374, 83.120536, GOTTURU GP, 2,408
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PACHIPENTA, 5647,gummidiguda, 216000, 18.411471, 83.203415, GUMMIDIGUDA GP, 2,778
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PACHIPENTA, 5647,gurivinaidupeta, 216001, 18.464963, 83.168201, GURIVINAIDUPETA GP, 2,2761
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PACHIPENTA, 5647,kardavalasa, 216105, 18.571388, 83.110313, KARDAVALASA GP, 2,187
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PACHIPENTA, 5647,karrivalasa, 216002, 18.507268, 83.125201, KARRIVALASA GP, 2,528
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PACHIPENTA, 5647,kerangi, 216003, 18.382265, 83.171078, KERANGI GP, 2,260
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PACHIPENTA, 5647,kesali, 216004, 18.454865, 83.103685, KESALI GP, 2,120
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PACHIPENTA, 5647,kotikipenta, 216005, 18.45814, 83.109621, KOTIKIPENTA GP, 2,866
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PACHIPENTA, 5647,mathumuru, 216006, 18.453718, 83.155656, MATHUMURU GP, 2,362
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PACHIPENTA, 5647,meliakanchuru, 216007, 18.353091, 83.149275, MELIAKANCHURU GP, 2,251
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PACHIPENTA, 5647,mirthivalasa, 216008, 18.481575, 83.124893, MIRTHIVALASA GP, 2,6079
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PACHIPENTA, 5647,moduga, 216009, 18.458528, 83.160925, MODUGA GP, 2,434
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PACHIPENTA, 5647,mutakudu, 216011, 18.398873, 83.129353, MUTAKUDU GP, 2,950
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PACHIPENTA, 5647,p.konavalasa, 216012, 18.526341, 83.14234, P.KONAVALASA GP, 2,1977
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PACHIPENTA, 5647,pachipenta, 216013, 18.479226, 83.110863, PACHIPENTA GP, 2,7738
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PACHIPENTA, 5647,padmapuram, 216014, 18.482755, 83.09567, PADMAPURAM GP, 2,1611
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PACHIPENTA, 5647,panchali, 216015, 18.481861, 83.172103, PANCHALI GP, 2,3992
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PACHIPENTA, 5647,peddavalasa, 216017, 18.491151, 83.094675, PEDDAVALASA GP, 2,1081
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PACHIPENTA, 5647,raiguddivalasa, 216018, 18.429133, 83.179228, RAIGUDDIVALASA GP, 2,629
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PACHIPENTA, 5647,sathabi, 216019, 18.355476, 83.112505, SATHABI GP, 2,378
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PACHIPENTA, 5647,taduru, 216020, 18.426371, 83.152496, TADURU GP, 2,559
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PACHIPENTA, 5647,tangalam, 216021, 18.361283, 83.084625, TANGALAM GP, 2,153
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PACHIPENTA, 5647,tumaravalli, 216022, 18.366046, 83.161136, TUMARAVALLI GP, 2,635
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PARVATHIPURAM, 5648,balagudaba, 216025, 18.75339, 83.43151, Balagudaba Gp, 2,2786
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PARVATHIPURAM, 5648,bandaluppi, 216026, 18.71975, 83.33294, Bandhaluppi Gp, 2,2703
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PARVATHIPURAM, 5648,buduruwada, 216027, 18.7359, 83.26467, Budurubada(D.k.patnam Gp), 2,71
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PARVATHIPURAM, 5648,chappabuchammapeta, 215895, 18.72014, 83.33126, CHAPPABUCHAMMAPETA GP, 2,1082
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PARVATHIPURAM, 5648,china bondapalli, 216028, 18.7692, 83.3944, Chinabondapalli Gp, 2,2398
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PARVATHIPURAM, 5648,dokiseela, 216029, 18.75806, 83.29511, Dokiseela Gp, 2,411
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PARVATHIPURAM, 5648,gangapuram, 216030, 18.770555, 83.353221, GANGAPUR GP, 2,657
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PARVATHIPURAM, 5648,gochekka, 216031, 18.75891, 83.27198, Gochekka Gp, 2,872
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PARVATHIPURAM, 5648,gopalapuram, 216032, 18.79034, 83.45434, Gochekka Gp, 2,1045
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PARVATHIPURAM, 5648,jamadala, 216033, 18.72764, 83.30774, Jamdala Gp, 2,1696
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PARVATHIPURAM, 5648,jammidivalasa, 216034, 18.72088, 83.332009, Jammidivalasa Gp, 2,839
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PARVATHIPURAM, 5648,kavitibadra, 216035, 18.76667, 83.34198, Kavitibadra  Gp, 2,421
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PARVATHIPURAM, 5648,krishnapalli, 216036, 18.78822, 83.41637, Krisnampalli Gp, 2,500
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PARVATHIPURAM, 5648,l.n.puram, 216037, 18.78137, 83.38691, L.N.PURAM GP, 2,1942
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PARVATHIPURAM, 5648,m.r.nagaram, 216038, 18.76915, 83.38496, M.r.nagaram Gp, 2,78
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PARVATHIPURAM, 5648,mulaga, 216039, 18.76793, 83.32638, mulaga Gp, 2,491
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PARVATHIPURAM, 5648,narsipuram, 216040, 18.74122, 83.404386, Nardipuram Gp, 2,248
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PARVATHIPURAM, 5648,peda bondapalli, 216041, 18.75296, 83.37596, Pedhabondapalli Gp, 2,4193
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PARVATHIPURAM, 5648,pedamariki, 216042, 18.8121, 83.39574, Pedhamariki Gp, 2,838
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PARVATHIPURAM, 5648,puligummi, 216043, 18.71307, 83.35271, Puligummi  Gp, 2,911
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PARVATHIPURAM, 5648,putturu, 216044, 18.73548, 83.35473, Putturu Gp, 2,1554
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PARVATHIPURAM, 5648,sangamvalasa, 216045, 18.78201, 83.36678, Sangamvalasa Gp, 2,500
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PARVATHIPURAM, 5648,sudigam, 216046, 18.75117, 83.36295, Sudigam Gp, 2,1775
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PARVATHIPURAM, 5648,tallaburidi, 216047, 18.74087, 83.32613, Tallaburidi GP, 2,3334
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PARVATHIPURAM, 5648,venkampeta, 216049, 18.762168, 83.408658, Venkampeta Gp, 2,2755
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PUSAPATIREGA, 5649,alladipalem, 216050, 18.130446, 83.616975, ALADEPALAM GP, 2,1125
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PUSAPATIREGA, 5649,ch agraharam, 216051, 18.107416, 83.564271, Ch.agraharam Gp, 2,2313
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PUSAPATIREGA, 5649,challavanithota, 216052, 18.101321, 83.527126, Chollavanithota Gp, 2,750
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PUSAPATIREGA, 5649,chintapalli, 216053, 18.072793, 83.651276, Chintapalli GP, 2,5717
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PUSAPATIREGA, 5649,chowdavada, 216054, 18.093795, 83.639383, Chowdavada  GP, 2,539
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PUSAPATIREGA, 5649,govindapuram, 216055, 18.092941, 83.611495, Govindapuram GP, 2,557
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PUSAPATIREGA, 5649,gumpam, 216056, 18.083525, 83.589411, Gumma GP, 2,913
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PUSAPATIREGA, 5649,k.agraharam, 216057, 18.09072, 83.572033, Kovvada Agraharam Gp, 2,1932
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PUSAPATIREGA, 5649,kandivalasa, 216058, 18.120828, 83.599525, Kandivalasa GP, 2,1731
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PUSAPATIREGA, 5649,kanimella, 216059, 18.149612, 83.597581, kanimella gp, 2,875
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PUSAPATIREGA, 5649,kanimetta, 216060, 18.1253, 83.588041, Kanimetta GP, 2,1600
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PUSAPATIREGA, 5649,kollayyavalasa, 216061, 18.058815, 83.596755, Kollaivalasa GP, 2,1549
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PUSAPATIREGA, 5649,konada, 216062, 18.017358, 83.563686, Konada Gp, 2,1090
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PUSAPATIREGA, 5649,kopperla, 216063, 18.06218, 83.548568, Koparla Gp, 2,2483
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PUSAPATIREGA, 5649,kumili, 216064, 18.115163, 83.512785, Kumili Gp, 2,305
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PUSAPATIREGA, 5649,lp palem, 216065, 18.106626, 83.617481, Lp Puram Gp, 2,1013
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PUSAPATIREGA, 5649,nadipalli, 216066, 18.050481, 83.54895, Nadipalli Gp, 2,771
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PUSAPATIREGA, 5649,parapuram, 216067, 18.079741, 83.551745, Perapuram Gp, 2,2191
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PUSAPATIREGA, 5649,pasupam, 216068, 18.056093, 83.579995, Pasupam GP, 2,1344
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PUSAPATIREGA, 5649,peddapativada, 216069, 18.069166, 83.61544, Pwdapativada Gp, 2,5200
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PUSAPATIREGA, 5649,pprega, 216070, 18.091221, 83.551765, PP REGA GP, 2,5683
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PUSAPATIREGA, 5649,pusapatipalem, 216071, 18.091221, 83.551765, PUSAPATIPALEM GP, 2,684
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PUSAPATIREGA, 5649,rellivalasa, 216072, 18.090735, 83.523708, Rellivalasa Gp, 2,7599
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PUSAPATIREGA, 5649,tippalavalasa, 216073, 18.029296, 83.58918, Tippavalasa GP, 2,3510
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PUSAPATIREGA, 5649,veluduru, 216074, 18.04131, 83.575695, Velduru  GP, 2,8071
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PUSAPATIREGA, 5649,vempadam, 216075, 18.078196, 83.572676, Vempadam GP, 2,3566
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, PUSAPATIREGA, 5649,yerukonda, 216076, 18.053833, 83.565173, Yerukondapanchayat, 2,1473
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, RAMABHADRAPURAM, 5640,arikithota, 216077, 18.46064, 83.31721, Arikithota GP, 2,4667
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, RAMABHADRAPURAM, 5640,busaivalasa, 216078, 18.47569, 83.28785, Busaivalasa GP, 2,1976
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, RAMABHADRAPURAM, 5640,duppalapudi, 216079, 18.44287, 83.29984, Dippapudi GP, 2,257
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, RAMABHADRAPURAM, 5640,itlamamidipalli, 216081, 18.508192, 83.310096, ITLAMAMIDIPALLI GP, 2,1423
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, RAMABHADRAPURAM, 5640,jannivalasa, 216082, 18.49043, 83.24144, Jinnavalasa GP, 2,627
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, RAMABHADRAPURAM, 5640,kondakenguva, 216083, 18.4546, 83.26552, KOMADAKENGUVA gp, 2,2482
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, RAMABHADRAPURAM, 5640,kotasirlam, 216084, 18.44761, 83.27808, Kota Sirlam GP, 2,2083
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, RAMABHADRAPURAM, 5640,kotharega, 216085, 18.4267, 83.29366, Kotharega GP, 2,2394
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, RAMABHADRAPURAM, 5640,kottakki, 216086, 18.51344, 83.23631, Kotakki GP, 2,493
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, RAMABHADRAPURAM, 5640,mamidivalasa, 216087, 18.46452, 83.2835, MAMIDIVALASA GP, 2,1016
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, RAMABHADRAPURAM, 5640,mirthivalasa, 216088, 18.51526, 83.2572, Mirthivalasa GP, 2,6079
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, RAMABHADRAPURAM, 5640,mutcherlavalasa, 216089, 18.46995, 83.28984, Mutchearajuvalasa GP, 2,1468
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, RAMABHADRAPURAM, 5640,narasapuram, 216091, 18.45118, 83.30073, Narasapuram GP, 2,810
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, RAMABHADRAPURAM, 5640,patharega, 216092, 18.4272, 83.2983, Patharega GP, 2,1716
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, RAMABHADRAPURAM, 5640,ramabhadrapuram, 216093, 18.49672, 83.2759, RBPuram GP, 2,252
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, RAMABHADRAPURAM, 5640,ravivalasa, 216094, 18.432011, 83.228488, RAVIVALASA GP, 2,872
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, RAMABHADRAPURAM, 5640,sompuram, 216097, 18.50169, 83.30001, Sonapuram GP, 2,2477
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, RAMABHADRAPURAM, 5640,tarapuram, 216098, 18.50149, 83.25458, Tarampuram GP, 2,2524
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SALUR, 5651,annamurajulavalasa, 216099, 18.630033, 83.183281, Annamarajulavalasa Gp, 2,125
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SALUR, 5651,densari, 216100, 18.561631, 83.042296, Dansari Gp, 2,6522
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SALUR, 5651,ganjayabhadra, 216101, 18.643868, 83.048801, Ganjayabadra Gp, 2,190
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SALUR, 5651,jeegiram, 216102, 18.528506, 83.179798, Jeegiram Gp, 2,1750
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SALUR, 5651,jilleduvalasa, 216103, 18.59976, 83.127263, Jilleduvalasa Gp, 2,562
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SALUR, 5651,kandulapadam, 216104, 18.644306, 83.156913, Kandulapadam Gp, 2,119
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SALUR, 5651,karasuvalasa, 216106, 18.575381, 83.168713, Karasavalasa G, 2,863
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SALUR, 5651,kothavalasa, 216108, 18.55844, 83.17073, KOTHAVALSA GP, 2,411
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SALUR, 5651,kottuparuvu, 216109, 18.653696, 83.149581, Kottuparuvu Gp, 2,1512
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SALUR, 5651,kurmarajupeta, 216110, 18.538445, 83.203561, Kurmarajupeta Gp, 2,506
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SALUR, 5651,kurukutti, 216111, 18.591691, 83.094178, Kurukutti Gp, 2,3291
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SALUR, 5651,mamidipalli, 216112, 18.61012, 83.177476, Mamidipalli Gp, 2,1145
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SALUR, 5651,maripalle, 216113, 18.61576, 83.152015, MARUPALLI GP, 2,2176
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SALUR, 5651,mosuru, 216010, 18.483613, 83.186501, Mosuru Gp, 2,2536
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SALUR, 5651,narlavalasa, 216115, 18.600588, 83.248003, Narlavalasa Gp, 2,1850
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SALUR, 5651,neliparti, 216116, 18.50424, 83.18202, Neliparthi Gp, 2,683
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SALUR, 5651,parannavalasa, 216118, 18.54109, 83.252646, Parannavalasa Gp, 2,140
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SALUR, 5651,pedaborabanda, 216120, 18.559726, 83.245863, Pedaborabanda Gp, 2,2252
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SALUR, 5651,pedapadam, 216121, 18.58412, 83.242685, Peddapadam Gp, 2,1193
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SALUR, 5651,phanukuvalasa, 216013, 18.528176, 83.163948, Phanukuvalasa Gp, 2,1832
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SALUR, 5651,purohitunivalasa, 216122, 18.569183, 83.24345, Purohitunivalasa Gp, 2,503
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SALUR, 5651,sampangipadu, 216123, 18.573321, 83.038661, Sampangipadu Gp, 2,230
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SALUR, 5651,sariki, 216124, 18.614883, 83.093808, Sariki Gp, 2,74
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SALUR, 5651,sivaramapuram, 216125, 18.534388, 83.2449, Sivarampuram Gp, 2,2309
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SALUR, 5651,thonam, 216126, 18.647753, 83.13218, Thonam  GP, 2,48
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SALUR, 5651,viswanandhapuram, 216023, 18.512068, 83.157385, Viswanadhapuram Gp, 2,4000
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SEETHANAGARAM, 5652,ajjada, 215364, 18.67395, 83.485776, AJJADA GP, 2,512
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SEETHANAGARAM, 5652,antipeta, 216128, 18.623913, 83.373001, Antipeta gp, 2,555
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SEETHANAGARAM, 5652,baggamdhoravalasa, 216129, 18.675434, 83.329356, Baggamdroravalasa gp, 2,1010
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SEETHANAGARAM, 5652,bakkupeta, 216130, 18.656306, 83.339678, Bakkumpeta gp, 2,843
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SEETHANAGARAM, 5652,ballakrishnapuram, 216131, 18.672067, 83.331408, ballakrishnapuram GP, 2,940
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SEETHANAGARAM, 5652,burja, 216132, 18.663728, 83.436124, Burja gp, 2,3527
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SEETHANAGARAM, 5652,chakarapalli, 215369, 18.657598, 83.519505, CHAKARAPALI GP, 2,994
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SEETHANAGARAM, 5652,chellamnaiduvalasa, 216133, 18.65359, 83.415483, chellamnaiaduvalasa gp, 2,3225
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SEETHANAGARAM, 5652,chinnabhogili, 216135, 18.661686, 83.454036, chinakalam gp, 2,2860
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SEETHANAGARAM, 5652,d sirlam, 215897, 18.70214, 83.30608, D Sirlam Gp, 2,3476
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SEETHANAGARAM, 5652,dayanidhipuram, 216136, 18.644234, 83.417665, Dayanidipuram gp, 2,477
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SEETHANAGARAM, 5652,gadelavalasa, 216137, 18.635474, 83.439212, Gadelavalasa gp, 2,1714
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SEETHANAGARAM, 5652,geddaluppi, 216138, 18.678824, 83.333938, GEDDLIPPI GP, 2,1561
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SEETHANAGARAM, 5652,gutchimi, 216139, 18.698705, 83.380831, Gutchimi gp, 2,694
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SEETHANAGARAM, 5652,ippalavalasa, 216140, 18.693992, 83.396084, Ippalavalasa gp, 2,1755
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SEETHANAGARAM, 5652,janumulluvalasa, 216141, 18.622692, 83.425459, Janumulluvalasa gp, 2,1628
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SEETHANAGARAM, 5652,jogimpeta, 216142, 18.685425, 83.383696, Jogimpeta gp, 2,1652
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SEETHANAGARAM, 5652,k.seetharampuram, 216143, 18.625742, 83.402695, k.sitharampuram gp, 2,1167
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SEETHANAGARAM, 5652,kasapeta, 216144, 18.638742, 83.367056, kasapeta gp, 2,1273
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SEETHANAGARAM, 5652,kinthalavalasa, 215423, 18.60992, 83.37544, kinthavalasa GP, 2,3025
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SEETHANAGARAM, 5652,kottavalsa, 216145, 18.700092, 83.322868, KOTTAVALSA GP, 2,613
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SEETHANAGARAM, 5652,krishnarayapuram, 216146, 18.674955, 83.442381, krishnaraya gp, 2,1557
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SEETHANAGARAM, 5652,lakshmipuram, 216147, 18.662458, 83.407315, Laxmipuram Gp, 2,1325
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SEETHANAGARAM, 5652,latchayyapeta, 216148, 18.605618, 83.366078, Latchayyapeta gp, 2,2380
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SEETHANAGARAM, 5652,nidagallu, 216149, 18.694483, 83.417277, Nidagallu gp, 2,500
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SEETHANAGARAM, 5652,panukupeta, 216150, 18.636495, 83.378014, panukupeta gp, 2,1074
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SEETHANAGARAM, 5652,papammavalasa, 216151, 18.696314, 83.399286, Papammavalasa gp, 2,773
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SEETHANAGARAM, 5652,pedabhogila, 216152, 18.658373, 83.374421, Pedabogila Gp, 2,6733
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SEETHANAGARAM, 5652,pedankalam, 216153, 18.670811, 83.45799, Pedhankalam gp, 2,1132
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SEETHANAGARAM, 5652,r.venkampeta, 216154, 18.634534, 83.351335, R vemkampeta GP, 2,1463
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SEETHANAGARAM, 5652,ramavaram, 216155, 18.62532, 83.349654, Ramavaram gp, 2,1413
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SEETHANAGARAM, 5652,rangampeta, 216156, 18.632627, 83.394565, Rangampeta gp, 2,1059
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SEETHANAGARAM, 5652,seetharampuram(n) subhad, 216157, 18.718719, 83.381589, seetharampuram subhad gp, 2,230
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SEETHANAGARAM, 5652,sumitrapuram, 216158, 18.687237, 83.461036, Sumtrapuram gp, 2,842
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SEETHANAGARAM, 5652,surammapeta, 216159, 18.722175, 83.374531, Surammapeta gp, 2,1205
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SEETHANAGARAM, 5652,thamarakandi, 216160, 18.670987, 83.349941, Thamarakandi gp, 2,1735
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SEETHANAGARAM, 5652,venkatabhyripuram, 215913, 18.693, 83.30997, Venkatabhyripuram GP, 2,1819
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SEETHANAGARAM, 5652,venkatapuram, 216161, 18.676717, 83.415358, venkatapuram  GP, 2,409
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SRUNGAVARAPUKOTA, 5653,alugubilli, 216162, 18.085471, 83.213271, Allugubilli Gp, 2,1631
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SRUNGAVARAPUKOTA, 5653,chamalapalli, 216163, 18.096448, 83.20991, Chamalapalli Gp, 2,797
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SRUNGAVARAPUKOTA, 5653,chintada, 215731, 18.071016, 83.190905, CHINTADA GP, 2,1225
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SRUNGAVARAPUKOTA, 5653,dharmavaram, 216165, 18.118478, 83.1903, Darmavaram Gp, 2,4740
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SRUNGAVARAPUKOTA, 5653,gopalapalli, 216166, 18.132788, 83.20629, Gopalapalli Gp, 2,817
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SRUNGAVARAPUKOTA, 5653,kiltampalem, 216167, 18.160995, 83.136783, Killtampalem Gp, 2,500
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SRUNGAVARAPUKOTA, 5653,kothavuru, 216168, 18.090821, 83.137886, Kothavuru Gp, 2,4627
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SRUNGAVARAPUKOTA, 5653,kottam, 216169, 18.093701, 83.230905, Kottam Gp, 2,3441
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SRUNGAVARAPUKOTA, 5653,krishnapuram, 216170, 18.123245, 83.172026, Krishnapuram Gp, 2,1282
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SRUNGAVARAPUKOTA, 5653,mamidipalli, 216171, 18.11861, 83.19592, Mamidepalli Gp, 2,1145
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SRUNGAVARAPUKOTA, 5653,mulaboddavara, 216172, 18.173725, 83.126273, Mulaboddavara Gp, 2,928
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SRUNGAVARAPUKOTA, 5653,pavada, 215742, 18.062185, 83.201231, PAVADA GP, 2,641
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SRUNGAVARAPUKOTA, 5653,pedakandepalli, 216174, 18.13562, 83.148113, Pedakandepalli Gp, 2,2502
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SRUNGAVARAPUKOTA, 5653,pothanapalli, 216175, 18.107351, 83.172923, Pothanapalli Gp, 2,1283
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SRUNGAVARAPUKOTA, 5653,revalapalem, 216176, 18.11942, 83.23233, Revallapalem Gp, 2,2566
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SRUNGAVARAPUKOTA, 5653,s.g.peta, 216177, 18.101241, 83.175165, Sgpeta Gp, 2,1536
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SRUNGAVARAPUKOTA, 5653,s.kota-talari, 216178, 18.085045, 83.186933, Skota Talari Gp, 2,493
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SRUNGAVARAPUKOTA, 5653,seetharampuram, 216179, 18.132508, 83.21726, Sitarampuram Gp, 2,1197
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SRUNGAVARAPUKOTA, 5653,sivaramarajupeta, 216180, 18.09093, 83.152433, Sivaramarajupeta Gp, 2,1300
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SRUNGAVARAPUKOTA, 5653,srungavarapukota, 216181, 18.111945, 83.142813, S.KOTA GP, 2,28304
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SRUNGAVARAPUKOTA, 5653,thandrangi, 215748, 18.089057, 83.235646, THANDRANGI GP, 2,2134
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SRUNGAVARAPUKOTA, 5653,thimidi, 216182, 18.075413, 83.165573, Thimidi Gp, 2,2312
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SRUNGAVARAPUKOTA, 5653,vasi, 216183, 18.073001, 83.170873, Vasi Gp, 2,1067
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SRUNGAVARAPUKOTA, 5653,vemulapalli, 216185, 18.137196, 83.196368, Vemulapalli Gp, 2,1252
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SRUNGAVARAPUKOTA, 5653,venkataramanapeta, 216186, 18.083735, 83.135936, V r peta GP, 2,266
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, SRUNGAVARAPUKOTA, 5653,vinayakapali, 216187, 18.088728, 83.179196, Vinayakapalli Gp, 2,816
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, THERLAM, 5654,amity, 216188, 18.498199, 83.527462, Amity GP, 2,2285
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, THERLAM, 5654,arasabalaga, 216189, 18.462608, 83.591013, Arasabalaga gp, 2,714
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, THERLAM, 5654,cheekatipeta, 216190, 18.459465, 83.608338, Cheekatipeta GP, 2,1803
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, THERLAM, 5654,chinnayapeta, 216191, 18.471415, 83.549952, Chinnayyapeta GP, 2,361
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, THERLAM, 5654,d.gadabavalasa, 216192, 18.444655, 83.544026, Gadabvalasa GP, 2,1813
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, THERLAM, 5654,gangannapadu, 216193, 18.48951, 83.483937, Gangannapadu GP, 2,1675
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, THERLAM, 5654,gapalavalasa, 216194, 18.460347, 83.561054, Gapalavalasa gp, 2,142
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, THERLAM, 5654,gokulavalsa, 216195, 18.519527, 83.540495, gokulavalasa GP, 2,1026
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, THERLAM, 5654,kagam, 216196, 18.475212, 83.580095, Kagam Gp, 2,1732
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, THERLAM, 5654,kavirayanivalasa, 216197, 18.498161, 83.549224, Kavirayanivalasa GP, 2,300
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, THERLAM, 5654,koratam, 216198, 18.5153, 83.525461, Koratam GP, 2,271
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, THERLAM, 5654,lingapuram, 216201, 18.507927, 83.503764, Lingapuram gp, 2,581
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, THERLAM, 5654,locherla, 216202, 18.483101, 83.534106, Locherla gp, 2,3368
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, THERLAM, 5654,mrangaryapuram, 216203, 18.461773, 83.497865, M.rangarayapuram Gp, 2,1163
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, THERLAM, 5654,n.burjavalsa, 216204, 18.51487, 83.565583, N.burjavalasa Gp, 2,691
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, THERLAM, 5654,nandigam, 216206, 18.514332, 83.491984, Nandigam Gp, 2,168
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, THERLAM, 5654,nemalam, 216207, 18.500066, 83.561368, Nemalam GP, 2,2334
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, THERLAM, 5654,pamulavalasa, 216208, 18.481443, 83.571625, Pamulavalasa Gp, 2,125
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, THERLAM, 5654,panukuvalasa, 216209, 18.462902, 83.53851, Panukuvalasa Gp, 2,1832
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, THERLAM, 5654,perumali, 216210, 18.444997, 83.562296, Perumali Gp, 2,2199
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, THERLAM, 5654,punuvalasa, 216211, 18.430696, 83.574838, Punuvalasa Gp, 2,500
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, THERLAM, 5654,rajayyapeta, 216212, 18.504656, 83.486502, Rajayyapeta gp, 2,603
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, THERLAM, 5654,rangaryavalasa, 216213, 18.460678, 83.514809, Rangarayavalasa GP, 2,738
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, THERLAM, 5654,sathivada, 216214, 18.50891, 83.54739, satyavada gp, 2,753
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, THERLAM, 5654,sundarada, 216215, 18.499819, 83.563738, Sundarada Gp, 2,1870
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, THERLAM, 5654,therlam, 216216, 18.485634, 83.503938, Therlam Gp, 2,5793
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, THERLAM, 5654,velagavalasa, 216218, 18.458231, 83.52168, Velagavalasa Gp, 2,500
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, THERLAM, 5654,viziaramapuram, 216219, 18.53053, 83.557997, Vijayrampuram Gp, 2,20
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, VEPADA, 5655,akulaseethampeta, 216220, 18.017295, 83.10146, Aspeta Gp, 2,1527
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, VEPADA, 5655,athava, 216222, 17.997553, 83.103021, Athava Gp, 2,1410
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, VEPADA, 5655,ballanki, 216223, 17.976299, 83.072129, BALLANKI GP, 2,1980
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, VEPADA, 5655,banadhi, 216224, 17.984096, 83.083506, Banadi Gp, 2,508
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, VEPADA, 5655,chamalapalli, 216226, 18.032475, 83.089481, Chamalapalli  Gp, 2,797
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, VEPADA, 5655,chinagudipala, 216227, 17.976633, 83.046521, Chinagudipala Gp, 2,1234
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, VEPADA, 5655,dabbirajupeta, 216228, 18.023965, 83.08517, Dabbirajupeta Gp, 2,1682
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, VEPADA, 5655,gudiwada, 216229, 18.031781, 83.109135, Gudewada Gp, 2,3852
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, VEPADA, 5655,jaggayyapeta, 216230, 18.022536, 83.115876, Jaggayyapeta Gp, 2,2715
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, VEPADA, 5655,jakeru, 216231, 18.043715, 83.113965, Jakeru Gp, 2,1224
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, VEPADA, 5655,karakavalasa, 216233, 18.03774, 83.097846, Karakavalasa Gp, 2,506
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, VEPADA, 5655,nallabilli, 216237, 17.979256, 83.029246, Nallabilli Gp, 2,2116
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, VEPADA, 5655,nkr puram, 216238, 17.972976, 83.055255, Nkpuram Gp, 2,1130
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, VEPADA, 5655,singarai, 216243, 18.01124, 83.119453, Singsrai Gp, 2,1563
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, VEPADA, 5655,vallampudi, 216245, 18.011455, 83.081626, Vallampude Gp, 2,2688
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, VEPADA, 5655,vavilapadu, 216246, 17.993081, 83.020481, Vavilpadu Gp, 2,2709
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, VEPADA, 5655,veeluparthi, 216247, 18.011095, 83.051301, Veluparthi Gp, 2,431
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, VEPADA, 5655,vepada, 216248, 18.011976, 83.078911, Vepada Gp, 2,3754
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, VIZIANAGARAM, 5656,akulapeta, 215519, 18.027958, 83.418711, Akulapeta Gp, 2,3360
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, VIZIANAGARAM, 5656,biyyalapeta, 216250, 18.079995, 83.404138, Biyyalapeta Gp, 2,2786
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, VIZIANAGARAM, 5656,boddavalasa, 215523, 18.040121, 83.408583, Boddavalasa Gp, 2,1831
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, VIZIANAGARAM, 5656,chelluru, 216251, 18.060563, 83.395878, Chelluru Gp, 2,3270
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, VIZIANAGARAM, 5656,chintalavalasa, 215524, 18.068348, 83.408035, Chintala Valasa Gp, 2,3025
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, VIZIANAGARAM, 5656,d.tallavalasa, 215527, 18.024222, 83.431218, D.TALLAVALASA GP, 2,1376
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, VIZIANAGARAM, 5656,duppada, 216253, 18.10465, 83.375828, Duppada Gp, 2,3853
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, VIZIANAGARAM, 5656,dwarapudi, 216254, 18.14062, 83.36952, Dwarapudi Gp, 2,3317
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, VIZIANAGARAM, 5656,gollalapeta, 216255, 18.066315, 83.379135, Gollapeta Gp, 2,564
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, VIZIANAGARAM, 5656,jonnada, 215533, 18.02544, 83.406698, Jonnada Gp, 2,1352
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, VIZIANAGARAM, 5656,jonnavalasa, 216258, 18.092813, 83.357225, Jonnavalasa Gp, 2,3173
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, VIZIANAGARAM, 5656,kondakarakam, 216260, 18.154563, 83.400776, Kondakarakam Gp, 2,636
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, VIZIANAGARAM, 5656,malicherla, 216263, 18.071061, 83.40039, Maricherla Gp, 2,5229
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, VIZIANAGARAM, 5656,mopada, 215536, 18.002305, 83.431186, Mopada Gp, 2,542
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, VIZIANAGARAM, 5656,narayanapuram, 216264, 18.094521, 83.43385, Narayanapuram Gp, 2,4647
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, VIZIANAGARAM, 5656,pinvemali, 216265, 18.08441, 83.330145, Pinavemali Gp, 2,1122
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, VIZIANAGARAM, 5656,rakodu, 216266, 18.098805, 83.330128, Rakodu Gp, 2,2019
+ANDHRA PRADESH                                    , 28, VIZIANAGARAM, 543, VIZIANAGARAM, 5656,sarika, 216267, 18.079213, 83.362421, Sarika Gp, 2,4681

@@ -1,0 +1,45 @@
+183941,gagapur
+183955,manibeli (@jangthi)
+183964,rasingour
+183967,sinduri (@gaman)
+184260,domode
+184285,kalumbu
+184289,kanadi h
+184282,kanadi ts
+184296,kauthad th
+184297,kauthal ts
+184298,kawadith
+184301,khorgon
+184305,koandwad
+184303,kochara
+184304,kodhawad
+184307,kouthad
+184309,kurhawad ts
+184320,molani
+184334,padhadada bk
+184340,pipodod
+184412,pimparpada
+184424,sigaspur t
+183984,dhabaje b (dhanaje)
+183986,ghatali (@kakarde)
+183995,roshmal (bk)
+184050,jambipada
+184061,khairale(@songirpada)
+184099,pimpri(@bhilaipada)
+184118,taleade b
+184119,talwade k
+184141,ampada
+184145,bandhrfali (bandharfali)
+184158,chhouki (chouki)
+184176,kadvan b (at mothe kadwan)
+184180,karnjewel (karanjwel)
+184184,khanapur ( at panbara)
+184185,khandbar (khandbara)
+184193,lakadkot (lakkadkot)
+184201,nibhoni (nimbhoni)
+184205,piparpada (pimpripada)
+184208,sarvat (sawarat)
+184213,sonare digar
+184224,wadkambi
+184226,wahande (wasade)
+184232,zamansar (zamanjhar)

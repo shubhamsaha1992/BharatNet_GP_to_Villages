@@ -1,0 +1,328 @@
+State_Name,State Code,District_Name,District_Code,Block_Name,Block_Code,GP Name,GP Code,Latitude,Longitude,Location_OF_GP,Phase,population
+CHHATTISGARH, 22, BASTAR, 414, TOKAPAL, 3603,bade aarapur, 122831, 19.017404, 81.863592, BADE AARAPUR, 21,2038
+CHHATTISGARH, 22, BASTAR, 414, TOKAPAL, 3603,bademarenga, 122832, 19.056166, 81.911805, BADEMARENGA, 21,899
+CHHATTISGARH, 22, BASTAR, 414, TOKAPAL, 3603,bademorathpal, 122833, 19.067242, 81.923603, BADEMORATHPAL, 21,2093
+CHHATTISGARH, 22, BASTAR, 414, TOKAPAL, 3603,badeparakot, 122834, 19.031631, 81.897919, BADEPARAKOT, 21,231
+CHHATTISGARH, 22, BASTAR, 414, TOKAPAL, 3603,barupata, 122835, 19.062138, 81.802305, BARUPATA, 21,473
+CHHATTISGARH, 22, BASTAR, 414, TOKAPAL, 3603,bhadisgaon, 122836, 19.052589, 81.90259, BHADISGAON, 21,1430
+CHHATTISGARH, 22, BASTAR, 414, TOKAPAL, 3603,burungpal, 122837, 19.012092, 81.737546, BURUNGPAL, 21,298
+CHHATTISGARH, 22, BASTAR, 414, TOKAPAL, 3603,chhaparbhanpuri, 122838, 19.175055, 81.891777, CHHAPARBHANPURI, 21,3309
+CHHATTISGARH, 22, BASTAR, 414, TOKAPAL, 3603,deurgaon, 122839, 19.115763, 81.9156, DEURGAON, 21,1791
+CHHATTISGARH, 22, BASTAR, 414, TOKAPAL, 3603,dimrapal, 122840, 19.053861, 81.933666, DIMRAPAL, 21,1162
+CHHATTISGARH, 22, BASTAR, 414, TOKAPAL, 3603,erandwal, 122841, 19.015972, 81.866751, ERANDWAL, 21,1343
+CHHATTISGARH, 22, BASTAR, 414, TOKAPAL, 3603,errakoat, 122842, 19.028638, 81.904972, ERRAKOAT, 21,2619
+CHHATTISGARH, 22, BASTAR, 414, TOKAPAL, 3603,ghatdhanora, 122843, 19.175055, 81.891777, GHATDHANORA, 21,1252
+CHHATTISGARH, 22, BASTAR, 414, TOKAPAL, 3603,kalepal, 122844, 19.053861, 81.933666, KALEPAL, 21,1399
+CHHATTISGARH, 22, BASTAR, 414, TOKAPAL, 3603,karanji, 122845, 19.094388, 81.922083, KARANJI, 21,2039
+CHHATTISGARH, 22, BASTAR, 414, TOKAPAL, 3603,keshloor, 122846, 19.015374, 81.920135, KESHLOOR, 21,2147
+CHHATTISGARH, 22, BASTAR, 414, TOKAPAL, 3603,kondaloor, 122847, 19.156166, 81.887252, KONDALOOR, 21,981
+CHHATTISGARH, 22, BASTAR, 414, TOKAPAL, 3603,kurenga, 122848, 19.073083, 81.917777, KURENGA, 21,2210
+CHHATTISGARH, 22, BASTAR, 414, TOKAPAL, 3603,matkote, 122849, 19.062751, 81.829888, MATKOTE, 21,1053
+CHHATTISGARH, 22, BASTAR, 414, TOKAPAL, 3603,mawalibhata, 122850, 19.003536, 81.788329, MAWALIBHATA, 21,827
+CHHATTISGARH, 22, BASTAR, 414, TOKAPAL, 3603,nainnaar, 122851, 19.022752, 81.829888, NAINNAAR, 21,337
+CHHATTISGARH, 22, BASTAR, 414, TOKAPAL, 3603,palwa, 122852, 19.042527, 81.886916, PALWA, 21,1700
+CHHATTISGARH, 22, BASTAR, 414, TOKAPAL, 3603,parpa, 122853, 19.016087, 81.828494, PARPA, 21,1566
+CHHATTISGARH, 22, BASTAR, 414, TOKAPAL, 3603,potanar, 122854, 19.119416, 81.913777, POTANAR, 21,1993
+CHHATTISGARH, 22, BASTAR, 414, TOKAPAL, 3603,raikot, 122855, 19.005528, 81.830059, RAIKOT, 21,2160
+CHHATTISGARH, 22, BASTAR, 414, TOKAPAL, 3603,rajoor, 122856, 19.000722, 81.848277, RAJOOR, 21,668
+CHHATTISGARH, 22, BASTAR, 414, TOKAPAL, 3603,ransargipal, 122857, 19.123055, 81.892083, RANSARGIPAL, 21,1396
+CHHATTISGARH, 22, BASTAR, 414, TOKAPAL, 3603,sakargaon, 122858, 19.125694, 81.865138, SAKARGAON, 21,399
+CHHATTISGARH, 22, BASTAR, 414, TOKAPAL, 3603,salepal, 122859, 19.084222, 81.817722, SALEPAL, 21,2255
+CHHATTISGARH, 22, BASTAR, 414, TOKAPAL, 3603,singanpur, 122860, 19.123055, 81.892083, SINGANPUR, 21,226
+CHHATTISGARH, 22, BASTAR, 414, TOKAPAL, 3603,sirisguda, 122861, 19.125944, 81.835222, SIRISGUDA, 21,2463
+CHHATTISGARH, 22, BASTAR, 414, TOKAPAL, 3603,tahkapal, 122862, 19.123055, 81.892083, TAHKAPAL, 21,716
+CHHATTISGARH, 22, BASTAR, 414, TOKAPAL, 3603,tekameta, 122863, 19.076722, 81.948277, TEKAMETA, 21,1006
+CHHATTISGARH, 22, BASTAR, 414, TOKAPAL, 3603,tokapal, 122864, 19.01793, 81.896246, TOKAPAL, 21,1124
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,bade devda, 122234, 19.367139, 82.087972, CHUIYA, 2,2019
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,badlawand, 122235, 19.2989, 82.1429, DEVARMAL, 2,804
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,bajawand, 122236, 19.181442, 82.165786, DHANGAON, 2,2014
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,bakawand, 122237, 19.272969, 82.095361, DONDRO, 2,3048
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,baniyagaon, 122238, 19.267965, 82.123426, GERANV, 2,565
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,barda, 122239, 19.100671, 81.969875, GODHI, 2,1116
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,bedaumargaon, 122240, 19.213852, 81.98124, JAMBAHAR, 2,1675
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,belputi, 122241, 19.100671, 81.969875, KACHAR, 2,2167
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,bhejripadar, 122242, 19.272969, 82.095361, KARMANDI, 2,1359
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,borigaon, 122243, 19.255251, 82.059133, KARUMAUHA, 2,582
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,borpadar, 122244, 19.115289, 82.0245, KATBITALA, 2,1032
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,chargaon, 122245, 19.312464, 81.986539, KORKOMA, 2,832
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,chhinari, 122246, 19.204546, 82.547661, KUDURMAL, 2,1212
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,chhindgaon, 122247, 19.407043, 82.021034, KUKARICHOLI, 2,3244
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,chitaloor, 122248, 19.39926, 81.921772, KURUDIH, 2,1367
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,chiurgoan, 122249, 19.367139, 82.087972, NAKTIKHAR, 2,2338
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,choknar, 122250, 19.462499, 82.044322, PAHANDA, 2,317
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,cholnar, 122251, 19.1988, 82.03825, PANDRIPANI, 2,1469
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,chote dewda, 122252, 19.1988, 82.03825, PATADHI, 2,3748
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,dhanpur, 122253, 19.462499, 82.044322, SATRENGA, 2,1471
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,dhobiguda, 122254, 19.137378, 82.072547, SEMIPALI, 2,894
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,dimrapal, 122255, 19.416111, 81.986611, SONGUDHA, 2,1162
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,garenga, 122256, 19.416111, 81.986611, SONPURI, 2,1706
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,gumdel, 122257, 19.579815, 82.076612, TILAIDAND, 2,783
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,jaibel, 122258, 19.416111, 81.986611, TILKEJA, 2,3375
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,jaitgiri, 122259, 19.338098, 82.145247, URGA, 2,1880
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,jharumargaon, 122260, 19.39926, 81.921772, NAWAGAON, 2,672
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,kachnar, 122261, 19.167947, 81.993411, HATHBANDH, 2,1693
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,karitgaon, 122262, 19.486355, 82.115852, MATIYA, 2,1209
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,karpawand, 122263, 19.367139, 82.087972, JOGANIPALI, 2,3984
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,kinjoli, 122264, 19.241411, 82.033194, RANIDIH, 2,3058
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,kohkapal, 122265, 19.544955, 82.108212, KOHKAPAL, 2,500
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,kolawal, 122266, 19.374879, 81.991062, KOLAWAL, 2,532
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,korta, 122267, 19.337521, 82.033311, KORTA, 2,610
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,kosmi, 122268, 19.241169, 82.079541, KOSMI, 2,2529
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,koudawand, 122269, 19.241469, 82.110685, KOUDAWAND, 2,2302
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,kumhrawand, 122270, 19.23309, 82.037817, KUMHRAWAND, 2,1045
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,mangnar, 122272, 19.367139, 82.087972, MANGNAR, 2,3466
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,maretha, 122273, 19.416111, 81.986611, MARETHA, 2,1578
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,matnar, 122274, 19.367139, 82.087972, MATNAR, 2,158
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,mohlai (b.), 122275, 19.4701, 82.0007, MOHLAI (B.), 2,808
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,mohlai (r.), 122276, 19.175124, 82.112002, MOHLAI (R.), 2,735
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,mongarapal, 122277, 19.295144, 82.000012, MONGARAPAL, 2,1956
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,moolee, 122278, 19.241411, 82.033194, MOOLEE, 2,1251
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,nalpawand, 122279, 19.241469, 82.110685, NALPAWAND, 2,795
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,pahurbel, 122280, 19.426946, 82.426781, PAHURBEL, 2,3038
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,pandanar, 122281, 19.30061, 81.979092, PANDANAR, 2,1051
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,pathri, 122282, 19.407043, 82.021034, PATHRI, 2,190
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,pharsara, 122283, 19.416111, 81.986611, PHARSARA, 2,713
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,pharsigaon, 122284, 19.365046, 82.454411, PHARSIGAON, 2,1148
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,potiyawand, 122285, 19.395159, 82.169101, POTIYAWAND, 2,1266
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,rajnagar, 122286, 19.238964, 82.069644, RAJNAGAR, 2,4216
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,sandh karmari, 122287, 19.387597, 82.172347, SANDH KARMARI, 2,253
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,sanwra, 122288, 19.416278, 82.01579, SANWRA, 2,1653
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,sargipal, 122289, 19.310705, 81.939621, SARGIPAL, 2,1309
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,satlawand, 122290, 19.281076, 82.513041, SATLAWAND, 2,1583
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,satosha, 122291, 19.4701, 82.0007, SATOSHA, 2,3608
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,sonpur, 122292, 19.281076, 82.513041, SONPUR, 2,2629
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,soutpur, 122293, 19.370729, 82.466221, SOUTPUR, 2,652
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,suwa chond, 122294, 19.37426, 81.944472, SUWA CHOND, 2,372
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,talnar, 122295, 19.321225, 82.096996, TALNAR, 2,1882
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,tarapur, 122296, 19.181442, 82.165786, TARAPUR, 2,2811
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,tongkongera, 122297, 19.4701, 82.0007, TONGKONGERA, 2,860
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,udiyapal, 122298, 19.272969, 82.095361, UDIYAPAL, 2,1463
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,ulnar, 122299, 19.390001, 82.159502, ULNAR, 2,788
+CHHATTISGARH, 22, BASTAR, 414, BAKAWAND                                          , 3591,vankomar, 122300, 19.348761, 82.024851, VANKOMAR, 2,784
+CHHATTISGARH, 22, BASTAR, 414, BASTANAR                                          , 3592,bade kakloor, 122301, 18.881667, 81.618611, BADE KAKLOOR, 2,4181
+CHHATTISGARH, 22, BASTAR, 414, BASTANAR                                          , 3592,badebodenar, 122302, 18.904167, 81.566675, BADEBODENAR, 2,2715
+CHHATTISGARH, 22, BASTAR, 414, BASTANAR                                          , 3592,badekilepal, 122303, 18.990278, 81.650056, BADEKILEPAL, 2,7728
+CHHATTISGARH, 22, BASTAR, 414, BASTANAR                                          , 3592,bagmundi paneda, 122304, 18.964444, 81.499444, BAGMUNDI PANEDA, 2,1005
+CHHATTISGARH, 22, BASTAR, 414, BASTANAR                                          , 3592,bastanar, 122305, 18.973611, 81.571944, BASTANAR, 2,3191
+CHHATTISGARH, 22, BASTAR, 414, BASTANAR                                          , 3592,burgum, 122306, 19.075847, 81.528378, BURGUM, 2,1201
+CHHATTISGARH, 22, BASTAR, 414, BASTANAR                                          , 3592,chhote kilepal, 122307, 18.925, 81.683556, CHHOTE KILEPAL, 2,356
+CHHATTISGARH, 22, BASTAR, 414, BASTANAR                                          , 3592,irapa, 122308, 18.9325, 81.581944, IRAPA, 2,1843
+CHHATTISGARH, 22, BASTAR, 414, BASTANAR                                          , 3592,jamgaon, 122309, 18.998889, 81.566667, JAMGAON, 2,1177
+CHHATTISGARH, 22, BASTAR, 414, BASTANAR                                          , 3592,kandoli, 122310, 18.936944, 81.502778, KANDOLI, 2,727
+CHHATTISGARH, 22, BASTAR, 414, BASTANAR                                          , 3592,kapanar, 122311, 18.866111, 81.650437, KAPANAR, 2,72
+CHHATTISGARH, 22, BASTAR, 414, BASTANAR                                          , 3592,kodenar, 122312, 18.993611, 81.676389, KODENAR, 2,4771
+CHHATTISGARH, 22, BASTAR, 414, BASTANAR                                          , 3592,kumhar sadra, 122313, 18.931111, 81.653889, KUMHAR SADRA, 2,1305
+CHHATTISGARH, 22, BASTAR, 414, BASTANAR                                          , 3592,lalaguda, 122314, 19.038056, 81.579167, LALAGUDA, 2,490
+CHHATTISGARH, 22, BASTAR, 414, BASTANAR                                          , 3592,mutanpal, 122315, 19.045, 81.536111, MUTANPAL, 2,2836
+CHHATTISGARH, 22, BASTAR, 414, BASTANAR                                          , 3592,sadra bodenar, 122316, 18.90025, 81.647778, SADRA BODENAR, 2,880
+CHHATTISGARH, 22, BASTAR, 414, BASTANAR                                          , 3592,tirthum, 122317, 19.000139, 81.706111, TIRTHUM, 2,800
+CHHATTISGARH, 22, BASTAR, 414, BASTANAR                                          , 3592,turangur, 122318, 19.019852, 81.613494, TURANGUR, 2,495
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,aadawal, 122319, 19.21334, 81.908772, AADAWAL, 2,307
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,bade aamabal, 122320, 19.279444, 81.779722, BADE AAMABAL, 2,3666
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,bade alnar, 122321, 19.27416, 81.81791, BADE ALNAR, 2,1381
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,badechakwa, 122322, 19.215716, 81.859736, BADECHAKWA, 2,1788
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,bagmohlai, 122323, 19.277013, 81.925166, BAGMOHLAI, 2,3557
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,bakel, 122324, 19.360255, 81.83435, BAKEL, 2,2474
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,balenga, 122325, 19.376642, 81.823341, BALENGA, 2,2356
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,baniyagaon, 122326, 19.3803, 81.899447, BANIYAGAON, 2,565
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,bastar, 122327, 19.206919, 81.935431, BASTAR, 2,2276
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,bhainsgaon, 122328, 19.27416, 81.81791, BHAINSGAON, 2,1722
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,bhanpuri, 122329, 19.360255, 81.83435, BHANPURI, 2,3458
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,bhatpal, 122330, 19.206919, 81.935431, BHATPAL, 2,581
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,bhond, 122331, 19.206919, 81.935431, BHOND, 2,2404
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,bodanpal, 122332, 19.216163, 81.859233, BODANPAL, 2,568
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,bodanpal-1, 122333, 19.40289, 81.86199, BODANPAL-1, 2,602
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,bodra, 122334, 19.233038, 81.756358, BODRA, 2,1370
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,chamiya, 122335, 19.38025, 81.788947, CHAMIYA, 2,1091
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,chapka, 122336, 19.28298, 81.866344, CHAPKA, 2,1942
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,cherakur, 122337, 19.327075, 81.738019, CHERAKUR, 2,605
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,chokar, 122338, 19.154332, 81.834421, CHOKAR, 2,241
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,dewda, 122339, 19.28298, 81.866344, DEWDA, 2,2426
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,dubeyumargaon, 122340, 19.206919, 81.935431, DUBEYUMARGAON, 2,1538
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,ghatkwali, 122341, 19.17685, 81.962058, GHATKWALI, 2,1526
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,ghatlohanga, 122342, 19.234457, 81.904553, GHATLOHANGA, 2,446
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,ghotiya, 122343, 19.233038, 81.756358, GHOTIYA, 2,1311
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,godiyapal, 122344, 19.338011, 81.675502, GODIYAPAL, 2,1219
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,gunpur, 122345, 19.27416, 81.81791, GUNPUR, 2,589
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,guriya, 122346, 19.296025, 81.735919, GURIYA, 2,197
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,ikshapur, 122347, 19.248856, 81.924473, IKSHAPUR, 2,2915
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,jamgaon, 122348, 19.412486, 81.834401, JAMGAON, 2,1177
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,jhartarai, 122349, 19.212886, 81.874308, JHARTARAI, 2,1243
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,karandola, 122350, 19.115694, 81.945075, KARANDOLA, 2,3084
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,karmari, 122351, 19.233754, 81.82552, KARMARI, 2,1132
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,kawadgaon, 122352, 19.327075, 81.738019, KAWADGAON, 2,2148
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,kesharpal, 122353, 19.3797, 81.902369, KESHARPAL, 2,484
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,khandsara, 122354, 19.467752, 81.842354, KHANDSARA, 2,1758
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,khorkhosa, 122355, 19.37544, 81.911435, KHORKHOSA, 2,2517
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,kolchur, 122356, 19.173447, 81.919763, KOLCHUR, 2,1945
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,kudalgaon, 122357, 19.115289, 82.0245, KUDALGAON, 2,2179
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,kudkanar, 122358, 19.143516, 81.97203, KUDKANAR, 2,84
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,kumhali, 122359, 19.344801, 81.846621, KUMHALI, 2,2822
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,kungarpal, 122360, 19.339933, 81.779894, KUNGARPAL, 2,2294
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,kurushpal, 122361, 19.233038, 81.756358, KURUSHPAL, 2,247
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,lamker, 122362, 19.453294, 81.869705, LAMKER, 2,1714
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,madhota, 122363, 19.233038, 81.756358, MADHOTA, 2,4293
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,mahupalbarai, 122364, 19.340202, 81.821433, MAHUPALBARAI, 2,1296
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,mandlapal, 122365, 19.361766, 81.738541, MANDLAPAL, 2,2132
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,mavliguda, 122366, 19.277013, 81.925166, MAVLIGUDA, 2,1097
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,mundagaon, 122367, 19.279444, 81.779722, MUNDAGAON, 2,565
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,murkuchi, 122368, 19.279444, 81.779722, MURKUCHI, 2,1761
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,nadisagar, 122369, 19.215716, 81.859736, NADISAGAR, 2,1040
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,nandpura, 122370, 19.3803, 81.899447, NANDPURA, 2,3494
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,narayanpal, 122371, 19.226516, 81.703533, NARAYANPAL, 2,1365
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,pakhnakongera, 122372, 19.415219, 81.941486, PAKHNAKONGERA, 2,1018
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,pathri, 122373, 19.251305, 81.760261, PATHRI, 2,190
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,phaphni, 122374, 19.29822, 81.853425, PHAPHNI, 2,955
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,piplawand, 122375, 19.37544, 81.911435, PIPLAWAND, 2,813
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,rajpur, 122376, 19.24178, 81.767275, RAJPUR, 2,2332
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,ratenga, 122377, 19.237, 81.6495, RATENGA, 2,2285
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,retawand, 122378, 19.277013, 81.925166, RETAWAND, 2,1704
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,rotma, 122379, 19.236891, 81.940005, ROTMA, 2,491
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,salemeta-1, 122380, 19.208091, 81.90145, SALEMETA-1, 2,1321
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,salemeta-2, 122381, 19.40289, 81.86199, SALEMETA-2, 2,1010
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,semalnar, 122382, 19.273736, 81.983155, SEMALNAR, 2,1093
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,seoni, 122383, 19.293063, 81.83163, SEONI, 2,3242
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,sonarpal, 122384, 19.283194, 81.87125, SONARPAL, 2,3214
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,sorgaon, 122385, 19.412486, 81.834401, SORGAON, 2,1916
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,sudhapal, 122386, 19.256442, 81.753346, SUDHAPAL, 2,1780
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,talur, 122387, 19.375462, 81.91775, TALUR, 2,1148
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,tikralohanga, 122388, 19.275662, 81.89654, TIKRALOHANGA, 2,1263
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,turpura, 122389, 19.3803, 81.899447, TURPURA, 2,3070
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,usri, 122390, 19.28388, 81.858344, USRI, 2,996
+CHHATTISGARH, 22, BASTAR, 414, BASTAR                                            , 3593,vishrampuri, 122391, 19.360394, 81.843875, VISHRAMPURI, 2,1703
+CHHATTISGARH, 22, BASTAR, 414, DARBHA                                            , 3594,alwa, 122392, 18.980705, 81.741638, ALWA, 2,1399
+CHHATTISGARH, 22, BASTAR, 414, DARBHA                                            , 3594,badekadma, 122393, 18.711505, 81.897866, BADEKADMA, 2,545
+CHHATTISGARH, 22, BASTAR, 414, DARBHA                                            , 3594,bispur, 122394, 18.951555, 81.778948, BISPUR, 2,311
+CHHATTISGARH, 22, BASTAR, 414, DARBHA                                            , 3594,chandragiri, 122395, 18.985805, 81.763628, CHANDRAGIRI, 2,1957
+CHHATTISGARH, 22, BASTAR, 414, DARBHA                                            , 3594,chhindbahar, 122396, 18.784755, 81.863346, CHHINDBAHAR, 2,1523
+CHHATTISGARH, 22, BASTAR, 414, DARBHA                                            , 3594,chhindli, 122397, 18.814659, 81.899006, CHHINDLI, 2,2042
+CHHATTISGARH, 22, BASTAR, 414, DARBHA                                            , 3594,chhoterajpur, 122398, 18.955563, 81.950241, CHHOTERAJPUR, 2,1827
+CHHATTISGARH, 22, BASTAR, 414, DARBHA                                            , 3594,chidpal, 122399, 18.784755, 81.863346, CHIDPAL, 2,1112
+CHHATTISGARH, 22, BASTAR, 414, DARBHA                                            , 3594,chindawada, 122400, 18.8841, 81.8226, CHINDAWADA, 2,421
+CHHATTISGARH, 22, BASTAR, 414, DARBHA                                            , 3594,chindgur, 122401, 18.774196, 81.039821, CHINDGUR, 2,1324
+CHHATTISGARH, 22, BASTAR, 414, DARBHA                                            , 3594,chingpal, 122402, 18.701764, 81.715048, CHINGPAL, 2,1178
+CHHATTISGARH, 22, BASTAR, 414, DARBHA                                            , 3594,chitapur, 122403, 18.9636, 81.8286, CHITAPUR, 2,3267
+CHHATTISGARH, 22, BASTAR, 414, DARBHA                                            , 3594,darbha, 122404, 18.8713, 81.836879, DARBHA, 2,1359
+CHHATTISGARH, 22, BASTAR, 414, DARBHA                                            , 3594,dilmili, 122405, 18.995311, 81.738789, DILMILI, 2,2990
+CHHATTISGARH, 22, BASTAR, 414, DARBHA                                            , 3594,dodrepal, 122406, 18.784755, 81.863346, DODREPAL, 2,757
+CHHATTISGARH, 22, BASTAR, 414, DARBHA                                            , 3594,dondra, 122407, 18.689287, 81.950249, DONDRA, 2,968
+CHHATTISGARH, 22, BASTAR, 414, DARBHA                                            , 3594,edjepal, 122408, 18.804177, 81.903129, EDJEPAL, 2,600
+CHHATTISGARH, 22, BASTAR, 414, DARBHA                                            , 3594,gamhari, 122409, 18.741647, 81.926689, GAMHARI, 2,2201
+CHHATTISGARH, 22, BASTAR, 414, DARBHA                                            , 3594,kaknar, 122410, 18.6351, 81.7306, KAKNAR, 2,714
+CHHATTISGARH, 22, BASTAR, 414, DARBHA                                            , 3594,kamanar, 122411, 18.927624, 81.837862, KAMANAR, 2,909
+CHHATTISGARH, 22, BASTAR, 414, DARBHA                                            , 3594,kankapal, 122412, 18.745444, 81.690688, KANKAPAL, 2,1711
+CHHATTISGARH, 22, BASTAR, 414, DARBHA                                            , 3594,katenar, 122413, 18.951575, 81.778938, KATENAR, 2,147
+CHHATTISGARH, 22, BASTAR, 414, DARBHA                                            , 3594,kelauar, 122414, 18.953963, 81.753563, KELAUAR, 2,1309
+CHHATTISGARH, 22, BASTAR, 414, DARBHA                                            , 3594,keshapur, 122415, 18.814659, 81.899006, KESHAPUR, 2,1161
+CHHATTISGARH, 22, BASTAR, 414, DARBHA                                            , 3594,khajrawand, 122416, 18.975802, 81.842119, KHAJRAWAND, 2,1242
+CHHATTISGARH, 22, BASTAR, 414, DARBHA                                            , 3594,kibda, 122417, 18.730924, 81.102694, KIBDA, 2,1117
+CHHATTISGARH, 22, BASTAR, 414, DARBHA                                            , 3594,kodripal, 122418, 18.730924, 81.102694, KODRIPAL, 2,1738
+CHHATTISGARH, 22, BASTAR, 414, DARBHA                                            , 3594,kokawada, 122419, 18.745444, 81.690688, KOKAWADA, 2,615
+CHHATTISGARH, 22, BASTAR, 414, DARBHA                                            , 3594,koleng, 122420, 18.730924, 81.102694, KOLENG, 2,737
+CHHATTISGARH, 22, BASTAR, 414, DARBHA                                            , 3594,kosami, 122421, 18.910339, 81.855444, KOSAMI, 2,725
+CHHATTISGARH, 22, BASTAR, 414, DARBHA                                            , 3594,koynar, 122422, 18.980688, 81.802172, KOYNAR, 2,1554
+CHHATTISGARH, 22, BASTAR, 414, DARBHA                                            , 3594,kukanar, 122423, 18.6351, 81.7306, KUKANAR, 2,123
+CHHATTISGARH, 22, BASTAR, 414, DARBHA                                            , 3594,lendra, 122424, 19.010208, 81.94951, LENDRA, 2,2302
+CHHATTISGARH, 22, BASTAR, 414, DARBHA                                            , 3594,machali, 122425, 18.865013, 81.821313, MACHALI, 2,1235
+CHHATTISGARH, 22, BASTAR, 414, DARBHA                                            , 3594,mamadpal, 122426, 18.8841, 81.8226, MAMADPAL, 2,744
+CHHATTISGARH, 22, BASTAR, 414, DARBHA                                            , 3594,mavlipadar, 122427, 18.932929, 81.921764, MAVLIPADAR, 2,404
+CHHATTISGARH, 22, BASTAR, 414, DARBHA                                            , 3594,neganar, 122428, 19.103164, 82.178361, NEGANAR, 2,1008
+CHHATTISGARH, 22, BASTAR, 414, DARBHA                                            , 3594,nelegondibodenar, 122429, 18.782582, 81.827152, NELEGONDIBODENAR, 2,716
+CHHATTISGARH, 22, BASTAR, 414, DARBHA                                            , 3594,pakhnar, 122430, 18.774473, 81.665544, PAKHNAR, 2,698
+CHHATTISGARH, 22, BASTAR, 414, DARBHA                                            , 3594,pendrawan, 122432, 18.775473, 81.664544, PENDRAWAN, 2,1417
+CHHATTISGARH, 22, BASTAR, 414, DARBHA                                            , 3594,pidapal, 122433, 18.858729, 81.620984, PIDAPAL, 2,1121
+CHHATTISGARH, 22, BASTAR, 414, DARBHA                                            , 3594,pitechua, 122434, 18.931259, 81.585514, PITECHUA, 2,1006
+CHHATTISGARH, 22, BASTAR, 414, DARBHA                                            , 3594,saoutnar, 122435, 18.806554, 81.068444, SAOUTNAR, 2,2558
+CHHATTISGARH, 22, BASTAR, 414, DARBHA                                            , 3594,tahakwada, 122436, 18.967917, 81.840638, TAHAKWADA, 2,458
+CHHATTISGARH, 22, BASTAR, 414, DARBHA                                            , 3594,tenwsa, 122437, 18.890183, 81.7577, TENWSA, 2,1791
+CHHATTISGARH, 22, BASTAR, 414, DARBHA                                            , 3594,tirathgarh, 122438, 18.910339, 81.855444, TIRATHGARH, 2,1484
+CHHATTISGARH, 22, BASTAR, 414, DARBHA                                            , 3594,titarwand, 122439, 18.910339, 81.855444, TITARWAND, 2,2508
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,aadawal, 122440, 19.070281, 82.0578, AADAWAL, 2,307
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,aamaguda, 122441, 19.103164, 82.178361, AAMAGUDA, 2,575
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,aasna, 122442, 19.115289, 82.0245, AASNA, 2,222
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,babusemhra, 122443, 19.0727, 82.1883, BABUSEMHRA, 2,84
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,bademurma, 122444, 18.936694, 82.042361, BADEMURMA, 2,1083
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,balikonta, 122445, 19.091808, 82.000131, BALIKONTA, 2,751
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,bamhani, 122446, 19.134277, 82.000055, BAMHANI, 2,1238
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,bhejapadar, 122447, 19.120583, 82.030527, BHEJAPADAR, 2,986
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,bilouri, 122448, 19.042138, 82.100611, BILOURI, 2,774
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,biranpal, 122449, 19.024472, 82.0706, BIRANPAL, 2,806
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,biringpal, 122450, 19.079888, 81.951277, BIRINGPAL, 2,1258
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,chhotekawali, 122451, 18.928722, 82.04275, CHHOTEKAWALI, 2,155
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,chokawada, 122452, 19.103164, 82.178361, CHOKAWADA, 2,250
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,dhaniyalur, 122453, 18.970944, 82.092027, DHANIYALUR, 2,2071
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,dhanpunji, 122454, 19.103164, 82.178361, DHANPUNJI, 2,1783
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,dhurguda, 122455, 19.092777, 82.073194, DHURGUDA, 2,1607
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,garawand khurd, 122456, 18.95305, 82.058945, GARAWAND KHURD, 2,653
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,ghatpadamur, 122457, 19.137305, 81.987888, GHATPADAMUR, 2,2657
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,halbakachora, 122458, 19.088, 82.165, HALBAKACHORA, 2,936
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,hatpadmur, 122459, 18.95305, 82.058945, HATPADMUR, 2,1228
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,jamawada, 122460, 19.024472, 82.0706, JAMAWADA, 2,3388
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,jatam, 122461, 19.065444, 82.010777, JATAM, 2,821
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,kaikagarh (cherbahar), 122462, 19.088, 82.165, KAIKAGARH (CHERBAHAR), 2,193
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,kakarwada, 122463, 18.8072, 81.3068, KAKARWADA, 2,732
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,kalcha, 122464, 18.9515, 82.001305, KALCHA, 2,1552
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,kalipur, 122465, 19.134277, 82.000055, KALIPUR, 2,2083
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,karanpur, 122466, 19.103164, 82.178361, KARANPUR, 2,310
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,kasturi, 122467, 19.120583, 82.030527, KASTURI, 2,1042
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,kawalikala, 122468, 18.955388, 82.012083, KAWALIKALA, 2,343
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,kawapal, 122469, 18.970944, 82.092027, KAWAPAL, 2,429
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,khamhargaon, 122470, 19.120583, 82.030527, KHAMHARGAON, 2,943
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,kolawada, 122471, 18.95305, 82.058945, KOLAWADA, 2,225
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,kumhali, 122472, 19.103164, 82.178361, KUMHALI, 2,2822
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,kumharawand, 122473, 19.091808, 82.000131, KUMHARAWAND, 2,618
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,kurandi, 122474, 19.010916, 82.074861, KURANDI, 2,4585
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,madpal, 122475, 19.075277, 82.142027, MADPAL, 2,2938
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,manjhiguda, 122476, 18.955388, 82.012083, MANJHIGUDA, 2,952
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,markel, 122477, 19.05334, 82.140073, MARKEL, 2,3845
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,nagarnar, 122478, 19.103164, 82.178361, NAGARNAR, 2,3952
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,nangur, 122479, 18.942555, 82.050333, NANGUR, 2,1673
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,netanar, 122480, 18.955388, 82.012083, NETANAR, 2,1981
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,niyanar, 122481, 19.065444, 82.010777, NIYANAR, 2,2589
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,pandaripani, 122482, 19.090902, 82.013679, PANDARIPANI, 2,3514
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,parapa, 122483, 19.082556, 82.0195, PARAPA, 2,1289
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,pushpal, 122484, 18.95305, 82.058945, PUSHPAL, 2,1957
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,sadgud, 122485, 21.65, 82.27, SADGUD, 2,855
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,sargipal village, 122486, 19.057555, 81.987916, SARGIPAL VILLAGE, 2,1412
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,titirgaon, 122487, 19.120583, 82.030527, TITIRGAON, 2,1467
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,turenar, 122488, 19.056666, 82.068472, TURENAR, 2,822
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,tusel, 122489, 19.053777, 82.006583, TUSEL, 2,753
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,ulanar, 122490, 21.65, 82.27, ULANAR, 2,866
+CHHATTISGARH, 22, BASTAR, 414, JAGDALPUR                                         , 3595,upanpal, 122491, 18.970944, 82.092027, UPANPAL, 2,438
+CHHATTISGARH, 22, BASTAR, 414, LOHANDIGUDA                                       , 3598,aanjar, 122617, 19.094722, 81.670333, AANJAR, 2,1960
+CHHATTISGARH, 22, BASTAR, 414, LOHANDIGUDA                                       , 3598,alnar, 122618, 19.215555, 81.722472, ALNAR, 2,1307
+CHHATTISGARH, 22, BASTAR, 414, LOHANDIGUDA                                       , 3598,badanji, 122619, 19.176138, 81.761083, BADANJI, 2,2711
+CHHATTISGARH, 22, BASTAR, 414, LOHANDIGUDA                                       , 3598,badedharaur, 122620, 19.17225, 81.749664, BADEDHARAUR, 2,500
+CHHATTISGARH, 22, BASTAR, 414, LOHANDIGUDA                                       , 3598,badrenga, 122621, 19.144805, 81.623861, BADRENGA, 2,1105
+CHHATTISGARH, 22, BASTAR, 414, LOHANDIGUDA                                       , 3598,belar, 122622, 19.156083, 81.800083, BELAR, 2,2838
+CHHATTISGARH, 22, BASTAR, 414, LOHANDIGUDA                                       , 3598,bhaghanpal, 122623, 19.110222, 81.73525, BHAGHANPAL, 2,798
+CHHATTISGARH, 22, BASTAR, 414, LOHANDIGUDA                                       , 3598,bheja, 122624, 19.204416, 81.560388, BHEJA, 2,1311
+CHHATTISGARH, 22, BASTAR, 414, LOHANDIGUDA                                       , 3598,binta, 122625, 19.123638, 81.593111, BINTA, 2,1231
+CHHATTISGARH, 22, BASTAR, 414, LOHANDIGUDA                                       , 3598,chandela, 122626, 19.21175, 81.57325, CHANDELA, 2,712
+CHHATTISGARH, 22, BASTAR, 414, LOHANDIGUDA                                       , 3598,chhoteparoda, 122627, 19.175527, 81.751027, CHHOTEPARODA, 2,773
+CHHATTISGARH, 22, BASTAR, 414, LOHANDIGUDA                                       , 3598,chindbahar, 122628, 19.215555, 81.722472, CHINDBAHAR, 2,589
+CHHATTISGARH, 22, BASTAR, 414, LOHANDIGUDA                                       , 3598,chindgaon, 122629, 19.183666, 81.767694, CHINDGAON, 2,1183
+CHHATTISGARH, 22, BASTAR, 414, LOHANDIGUDA                                       , 3598,chitrakot, 122630, 19.17225, 81.749664, CHITRAKOT, 2,3587
+CHHATTISGARH, 22, BASTAR, 414, LOHANDIGUDA                                       , 3598,dabpal, 122631, 19.146527, 81.772555, DABPAL, 2,826
+CHHATTISGARH, 22, BASTAR, 414, LOHANDIGUDA                                       , 3598,dhuragaon, 122632, 19.176138, 81.761083, DHURAGAON, 2,1805
+CHHATTISGARH, 22, BASTAR, 414, LOHANDIGUDA                                       , 3598,ermur, 122633, 19.1225, 81.714555, ERMUR, 2,1344
+CHHATTISGARH, 22, BASTAR, 414, LOHANDIGUDA                                       , 3598,gadiya, 122635, 19.175527, 81.751027, GADIYA, 2,500
+CHHATTISGARH, 22, BASTAR, 414, LOHANDIGUDA                                       , 3598,garda, 122636, 19.086972, 81.655138, GARDA, 2,161
+CHHATTISGARH, 22, BASTAR, 414, LOHANDIGUDA                                       , 3598,kaknar, 122638, 19.237, 81.6495, KAKNAR, 2,714
+CHHATTISGARH, 22, BASTAR, 414, LOHANDIGUDA                                       , 3598,karekot, 122639, 19.204416, 81.560388, KAREKOT, 2,1308
+CHHATTISGARH, 22, BASTAR, 414, LOHANDIGUDA                                       , 3598,kasturpal, 122640, 19.144805, 81.623861, KASTURPAL, 2,307
+CHHATTISGARH, 22, BASTAR, 414, LOHANDIGUDA                                       , 3598,kumhli, 122641, 19.184, 81.79325, KUMHLI, 2,1186
+CHHATTISGARH, 22, BASTAR, 414, LOHANDIGUDA                                       , 3598,kuthar, 122642, 19.144805, 81.623861, KUTHAR, 2,436
+CHHATTISGARH, 22, BASTAR, 414, LOHANDIGUDA                                       , 3598,mandar, 122643, 19.215555, 81.722472, MANDAR, 2,1239
+CHHATTISGARH, 22, BASTAR, 414, LOHANDIGUDA                                       , 3598,mardum, 122644, 19.154444, 81.654, MARDUM, 2,2471
+CHHATTISGARH, 22, BASTAR, 414, LOHANDIGUDA                                       , 3598,matnar, 122646, 19.183972, 81.741833, MATNAR, 2,158
+CHHATTISGARH, 22, BASTAR, 414, LOHANDIGUDA                                       , 3598,michnar, 122647, 19.090305, 81.699138, MICHNAR, 2,2409
+CHHATTISGARH, 22, BASTAR, 414, LOHANDIGUDA                                       , 3598,neganar, 122648, 19.1225, 81.714555, NEGANAR, 2,1008
+CHHATTISGARH, 22, BASTAR, 414, LOHANDIGUDA                                       , 3598,parapur, 122649, 19.175527, 81.751027, PARAPUR, 2,2653
+CHHATTISGARH, 22, BASTAR, 414, LOHANDIGUDA                                       , 3598,sadra, 122650, 19.215555, 81.722472, SADRA, 2,1031
+CHHATTISGARH, 22, BASTAR, 414, LOHANDIGUDA                                       , 3598,sataspur, 122651, 19.206638, 81.576027, SATASPUR, 2,669
+CHHATTISGARH, 22, BASTAR, 414, LOHANDIGUDA                                       , 3598,surguda, 122652, 19.067805, 81.665833, SURGUDA, 2,758
+CHHATTISGARH, 22, BASTAR, 414, LOHANDIGUDA                                       , 3598,takraguda, 122653, 19.176138, 81.761083, TAKRAGUDA, 2,1683
+CHHATTISGARH, 22, BASTAR, 414, LOHANDIGUDA                                       , 3598,taragaon, 122654, 19.136083, 81.749805, TARAGAON, 2,752
+CHHATTISGARH, 22, BASTAR, 414, LOHANDIGUDA                                       , 3598,toyar, 122655, 19.086972, 81.655138, TOYAR, 2,1162
+CHHATTISGARH, 22, BASTAR, 414, LOHANDIGUDA                                       , 3598,usribeda, 122656, 19.17225, 81.749664, USRIBEDA, 2,1206

@@ -26,62 +26,69 @@ import sys
 
 ts1 = time.time()
 
-base_filename = sys.argv[1]
-dir_name = os.getcwd() + '/Throughput files'
-full_filename = os.path.join(dir_name, base_filename + "." + 'csv')
-#full_filename = os.path.join(dir_name, base_filename)
-
-with open(full_filename, 'rb') as f:
-    reader = csv.reader(f)
-    readCSV = list(reader)
-    
-for row in readCSV:
-#	thisGP = row[4]+'_'+row[5]
-#	GPName.append(thisGP)
-	thisVil = row[9]+'_'+row[10] 
-	VilName.append(thisVil)
-    
-    
-base_filename = sys.argv[1]
-dir_name = os.getcwd() + '/Throughput files/Maharashtra_input'
-full_filename = os.path.join(dir_name, base_filename + "." + 'csv')
-#full_filename = os.path.join(dir_name, base_filename)
-
-with open(full_filename, 'rb') as f:
-    reader = csv.reader(f)
-    readCSV_GP = list(reader)
-    
-for row in readCSV_GP:
-      thisGPCode = row[11]
-	thisGP = row[8]+'_'+row[9]
-	GPName.append(thisGP)
-#	thisVil = row[9]+'_'+row[10] 
-#	VilName.append(thisVil)
-    
-    
-    
 GPName = []
 GPID = []
 VilName = []
 VilID =[]
 
-#readCSV = sample(readCSV,50)
-#nSamples = 50
-#begin = randint(1,(len(readCSV) - nSamples - 1))
-#begin = 25
-#end = begin + nSamples
-#readCSV = readCSV[begin:end]
 
+base_filename = sys.argv[1]
+print base_filename
+dir_name = os.getcwd() + '/Throughput files'
+print dir_name
+full_filename = os.path.join(dir_name, base_filename + "." + 'csv')
+#full_filename = os.path.join(dir_name, base_filename)
+
+with open(full_filename, 'rb') as f:
+    reader = csv.reader(f)
+    readCSV_Vil = list(reader)
+    
+for row in readCSV_Vil:
+	thisVil = row[13]+'_'+row[14] 
+	VilName.append(thisVil)
+    
+    
+base_filename = sys.argv[1] + '_1'
+dir_name = os.getcwd() + '/Throughput files/1'
+full_filename = os.path.join(dir_name, base_filename + "." + 'csv')
+#full_filename = os.path.join(dir_name, base_filename)
+
+base_filename = sys.argv[1]
+
+with open(full_filename, 'rb') as f:
+    reader = csv.reader(f)
+    readCSV_GP = list(reader)
+    
+GPName = []
+
+for row_GP in readCSV_GP:
+    thisGPCode = row_GP[11]
+    if thisGPCode not in ['2','21']:
+        readCSV_GP.remove(row_GP)
+      
+for row_GP in readCSV_GP:
+    thisGPCode = row_GP[11]
+    if thisGPCode in ['2','21']:
+        thisGP = row_GP[7]+'_'+row_GP[8]
+        GPName.append(thisGP)
+        
 GPconv = pd.Series(GPName).astype('category')
 GPID = GPconv.cat.codes
 Vilconv = pd.Series(VilName).astype('category')
 VilID = Vilconv.cat.codes + 1000
 readCSV_GP = np.insert(readCSV_GP,8,GPID,axis=1)
-readCSV = np.insert(readCSV,10,VilID,axis=1)
+readCSV_Vil = np.insert(readCSV_Vil,13,VilID,axis=1)
 GPID = readCSV_GP[1:,(8,9,10)]
-GPID = [[float(y) for y in x] for x in GPID]
-VilID = readCSV[1:,(10,11,12,8)]
+GPID_new = []
+for x in GPID:
+    try:
+        GPID_new.append([float(y) for y in x]) 
+    except ValueError:
+        pass
+GPID = GPID_new
+VilID = readCSV_Vil[1:,(13,14,15,18)]
 VilID = [map(float,x) for x in VilID]
+
 
 GPID = np.array(GPID)
 b = np.ascontiguousarray(GPID).view(np.dtype((np.void, GPID.dtype.itemsize * GPID.shape[1])))
@@ -101,7 +108,7 @@ countVil = 0
 
 
 for thisVil in VilUniq :
-    thisVil[0] = thisVil[0] + len(readCSV)
+    thisVil[0] = thisVil[0] + len(readCSV_GP)
     #locListVil.append(locThisVil)
 
 
@@ -116,12 +123,37 @@ listGPCon = []
 listVilCon = []
 dictVilCon = []
 dictGPTxPow = {}
+count_rem_Vil = 0
 #dummyCountVil = 1
+print len(VilUniq)
+Vil_del_list = []
+
+VilUniq = VilUniq.tolist()
+
+for thisVil in VilUniq :
+    thisVilID = int(thisVil[0])
+    thisVilLoc = (thisVil[1],thisVil[2])
+    flag = 0
+    for thisGP in GPUniq :
+        thisGPID = int(thisGP[0])
+        thisGPLoc = (thisGP[1],thisGP[2])
+        thisDist = vincenty(thisGPLoc, thisVilLoc).km
+        if(thisDist < 5 and thisDist > 0):
+            flag = 1
+    if flag == 0:
+        #Vil_del_list.append(thisVil)
+        VilUniq.remove(thisVil)
+        count_rem_Vil += 1
+
+#np.delete(VilUniq,Vil_del_list)
+VilUniq = np.array(VilUniq)
+print count_rem_Vil
+print  len(VilUniq)
 for thisVil in VilUniq :
     thisVilID = int(thisVil[0])
     thisVilLoc = (thisVil[1],thisVil[2])
     thisVilReqThpt = thisVil[3]
-    print (thisVilReqThpt)
+    #print (thisVilReqThpt)
     dictthisVilToGPSig = {}
     listthisVilGPCon = []
     #thisVilNoise = -200
@@ -132,7 +164,7 @@ for thisVil in VilUniq :
         thisDist = vincenty(thisGPLoc, thisVilLoc).km
         thisLinkObtThpt = 0
         thisLinkSig = -200
-        if(thisDist < 5):
+        if(thisDist < 5 and thisDist > 0):
             thisLinkResult =  rf_get(base_filename,[thisGPLoc,thisVilLoc],[10,15],[3,6,9,12],thisVilReqThpt)
             thisLinkObtThpt = thisLinkResult[0][0]
             thisLinkSig = thisLinkResult[0][2] + NN_5_8
@@ -149,6 +181,8 @@ for thisVil in VilUniq :
                 dictGPTxPow[thisGPID].append(thisLinkTxPow)
     if(thisVilID in dictVilToGPAll.keys()):
         dictVilToGPAll[thisVilID].append(dictthisVilToGPSig)
+        
+        
         
 ts3 = time.time()
 print "\n Time taken for shortlisting GPs", (ts3-ts2), "\n"

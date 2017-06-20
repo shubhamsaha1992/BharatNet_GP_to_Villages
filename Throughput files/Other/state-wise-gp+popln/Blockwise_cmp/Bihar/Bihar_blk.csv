@@ -1,0 +1,356 @@
+CPSU,State,District,Block,GPs,BLOCK CODE
+BSNL,BH,Araria,Araria,30,1624
+BSNL,BH,Araria,Forbesganj,32,1626
+BSNL,BH,Araria,Palasi,21,1630
+BSNL,BH,Araria,Bhargama,16,1625
+BSNL,BH,Araria,JOKIHAT                                           ,27,1627
+BSNL,BH,Araria,KURSAKANTA                                        ,13,1628
+BSNL,BH,Araria,NARPATGANJ                                        ,29,1629
+BSNL,BH,Araria,RANIGANJ                                          ,30,1631
+BSNL,BH,Araria,SIKTY                                             ,14,1632
+BSNL,BH,Arwal,Arwal,15,6505
+BSNL,BH,Arwal,KAPRI,19,6507
+BSNL,BH,Arwal,Bansi,8,#N/A
+BSNL,BH,Arwal,Kaler,15,6506
+BSNL,BH,Arwal,Kurtha,11,6509
+BSNL,BH,Aurangabad,DAUDNAGAR,15,1635
+BSNL,BH,Banka,Amarpur,19,1644
+BSNL,BH,Begusarai,BACHHWARA,18,1655
+BSNL,BH,Begusarai,BAKHRI,12,1656
+BSNL,BH,Begusarai,BALLIA,18,1657
+BSNL,BH,Begusarai,Barauni,17,1658
+BSNL,BH,Begusarai,Begusarai,25,1659
+BSNL,BH,Begusarai,Bhagwanpur,15,1660
+BSNL,BH,Begusarai,Birpur,8,1661
+BSNL,BH,Begusarai,CHHAURAHI,10,1663
+BSNL,BH,Begusarai,CHERIA BARIARPUR,14,1662
+BSNL,BH,Begusarai,Dandari,8,1664
+BSNL,BH,Begusarai,GADHPURA,9,1665
+BSNL,BH,Begusarai,KHODAWANDPUR,8,1666
+BSNL,BH,Begusarai,MANSURCHAK,8,1667
+BSNL,BH,Begusarai,Matihani,16,1668
+BSNL,BH,Begusarai,NAWKOTHI,9,1669
+BSNL,BH,Begusarai,SAHEBPUR KAMAL,17,1670
+BSNL,BH,Begusarai,SAMHO AKHA KURHA,3,1671
+BSNL,BH,Begusarai,Teghra,25,1672
+BSNL,BH,Bhagalpur,Bihpur,13,1673
+BSNL,BH,Bhagalpur,Gopalpur,9,1675
+BSNL,BH,Bhagalpur,ISMAILPUR,5,1677
+BSNL,BH,Bhagalpur,Jagdishpur,15,1678
+BSNL,BH,Bhagalpur,Kahalgaon,28,1674
+BSNL,BH,Bhagalpur,Kharik,13,1679
+BSNL,BH,Bhagalpur,NAUGACHHIA,10,1682
+BSNL,BH,Bhagalpur,PIRPAINTI,29,1683
+BSNL,BH,Bhagalpur,RANGRACHOWK,10,1684
+BSNL,BH,Bhagalpur,Sabour,14,1685
+BSNL,BH,Bhagalpur,SHAHKUND,19,1686
+BSNL,BH,Bhagalpur,Sultanganj,19,1688
+BSNL,BH,Bhojpur,Ara,18,1690
+BSNL,BH,Bhojpur,Barhara,22,1691
+BSNL,BH,Bhojpur,Jagdishpur,21,1678
+BSNL,BH,Bhojpur,Koilwar,17,1696
+BSNL,BH,Bhojpur,Piro,25,1697
+BSNL,BH,Bhojpur,Sahar,15,1698
+BSNL,BH,Bhojpur,SHAHPUR,21,1700
+BSNL,BH,Bhojpur,Sandesh,11,1699
+BSNL,BH,Buxar,Brahmpur,18,1703
+BSNL,BH,Buxar,Buxar,16,1704
+BSNL,BH,Buxar,CHOUGAIN,5,1707
+BSNL,BH,Buxar,CHAUSA,10,1706
+BSNL,BH,Buxar,Dumraon,21,1708
+BSNL,BH,Buxar,Kesath,3,1710
+BSNL,BH,Buxar,Nawanagar,16,1711
+BSNL,BH,Buxar,Rajpur,19,1712
+BSNL,BH,Buxar,Simri,15,1713
+BSNL,BH,Buxar,Chakki,1,#N/A
+BSNL,BH,Buxar,Itadhi,15,#N/A
+BSNL,BH,Darbhanga,Bahadurpur,23,1715
+BSNL,BH,Darbhanga,BAHERI,27,1716
+BSNL,BH,Darbhanga,BIRAUL,26,1718
+BSNL,BH,Darbhanga,Darbhanga Sadar,23,#N/A
+BSNL,BH,Darbhanga,Jalley,26,#N/A
+BSNL,BH,Darbhanga,Keoti,26,#N/A
+BSNL,BH,Darbhanga,Manigachhi,18,1729
+BSNL,BH,Darbhanga,Singhwara,25,1730
+BSNL,BH,Darbhanga,Tardih,17,1731
+BSNL,BH,Gaya,Manpur,12,1747
+BSNL,BH,Gaya,Gaya Sadar,16,#N/A
+BSNL,BH,Gaya,Tekari,23,1754
+BSNL,BH,Gopalganj,BAIKUNTHPUR,22,1756
+BSNL,BH,Gopalganj,BARAULI,22,1757
+BSNL,BH,Gopalganj,Kuchaikote,31,1763
+BSNL,BH,Jamui,GIDHOR,9,1772
+BSNL,BH,Jehanabad,GHOSHI,10,1780
+BSNL,BH,Jehanabad,Jehanabad,14,1782
+BSNL,BH,Jehanabad,Kako,16,1783
+BSNL,BH,Jehanabad,Makhdumpur,22,1784
+BSNL,BH,Jehanabad,RATNI FARIDPUR,14,1786
+BSNL,BH,Jehanabad,HULASGANJ                                         ,9,1781
+BSNL,BH,Jehanabad,MODANGANJ                                         ,8,1785
+BSNL,BH,Kaimur(Bhabua),Bhabua,22,1788
+BSNL,BH,Kaimur(Bhabua),Durgawati,13,1792
+BSNL,BH,Kaimur(Bhabua),KUDRA,15,1793
+BSNL,BH,Kaimur(Bhabua),Mohania,20,1792
+BSNL,BH,Kaimur(Bhabua),Nuaon,10,1795
+BSNL,BH,Kaimur(Bhabua),Ramgarh,13,1796
+BSNL,BH,Kaimur(Bhabua),Chainpur,17,#N/A
+BSNL,BH,Kaimur(Bhabua),Chandi,12,1898
+BSNL,BH,Katihar,Amdabad,14,1798
+BSNL,BH,Katihar,Azamnagar,28,1799
+BSNL,BH,Katihar,Barari,22,1801
+BSNL,BH,Katihar,BARSOI,29,1802
+BSNL,BH,Katihar,Dandkhora,6,1803
+BSNL,BH,Katihar,Falka,13,1804
+BSNL,BH,Katihar,Hasanganj,5,1805
+BSNL,BH,Katihar,KADWA,30,1806
+BSNL,BH,Katihar,Korha,23,1808
+BSNL,BH,Katihar,KURSELA,7,1809
+BSNL,BH,Katihar,Manihari,14,1810
+BSNL,BH,Katihar,Sameli,8,1813
+BSNL,BH,Katihar,BALRAMPUR                                         ,13,1800
+BSNL,BH,Katihar,KATIHAR                                           ,8,1807
+BSNL,BH,Katihar,MANSAHI                                           ,7,1811
+BSNL,BH,Katihar,PRANPUR                                           ,12,1812
+BSNL,BH,Khagaria,Alauli,21,1814
+BSNL,BH,Khagaria,Beldaur,16,1815
+BSNL,BH,Khagaria,Chautham,13,1816
+BSNL,BH,Khagaria,Gogri,24,1817
+BSNL,BH,Khagaria,Khagaria,26,1818
+BSNL,BH,Khagaria,Mansi,7,1819
+BSNL,BH,Khagaria,PARBATTA,22,1820
+BSNL,BH,Kishanganj,Bahadurganj,19,1821
+BSNL,BH,Kishanganj,Dighalbank,16,1822
+BSNL,BH,Kishanganj,Kishanganj,10,1823
+BSNL,BH,Kishanganj,Kochadhaman,23,1824
+BSNL,BH,Kishanganj,Pothia,21,1825
+BSNL,BH,Kishanganj,Terhagachh,12,1826
+BSNL,BH,Kishanganj,Thakurganj,22,1827
+BSNL,BH,Lakhisarai,Barahiya,9,1828
+BSNL,BH,Lakhisarai,Halsi,10,1830
+BSNL,BH,Lakhisarai,Lakhisarai,10,1831
+BSNL,BH,Lakhisarai,Pipariya,5,1832
+BSNL,BH,Lakhisarai,Ramgarh,8,1796
+BSNL,BH,Lakhisarai,SURAJGARHA,28,1834
+BSNL,BH,Madhepura,Alamnagar,15,1835
+BSNL,BH,Madhepura,Bihariganj,13,1836
+BSNL,BH,Madhepura,CHAUSA,14,1706
+BSNL,BH,Madhepura,GAMHARIYA,9,1838
+BSNL,BH,Madhepura,GHELARH,10,1839
+BSNL,BH,Madhepura,MURLIGANJ,18,1843
+BSNL,BH,Madhepura,PURANI,10,1844
+BSNL,BH,Madhepura,Singheshwar,14,1846
+BSNL,BH,Madhepura,Uda Kishanganj,17,1847
+BSNL,BH,Madhepura,Gwalpara,12,1840
+BSNL,BH,Madhepura,MADHEPURA ,17,1842
+BSNL,BH,Madhepura,SHANKARPUR,9,1845
+BSNL,BH,Madhubani,BASOPATTI,15,1850
+BSNL,BH,Madhubani,Benipatti,33,1851
+BSNL,BH,Madhubani,Jhanjharpur,17,1856
+BSNL,BH,Madhubani,Kaluahi,11,1857
+BSNL,BH,Madhubani,Khajauli,14,1858
+BSNL,BH,Madhubani,LAUKAHA (KHUTAUNA),18,1861
+BSNL,BH,Madhubani,LADANIA,15,1859
+BSNL,BH,Madhubani,LAKHNAUR,17,1860
+BSNL,BH,Madhubani,Madhepur,26,1863
+BSNL,BH,Madhubani,Madhwapur,13,1865
+BSNL,BH,Madhubani,Pandaul,26,1866
+BSNL,BH,Madhubani,Rahika,22,#N/A
+BSNL,BH,Madhubani,Rajnagar,25,1868
+BSNL,BH,Madhubani,JAINAGAR,15,1855
+BSNL,BH,Munger,Asarganj,7,1869
+BSNL,BH,Munger,Bariyarpur,11,1870
+BSNL,BH,Munger,DHARHARA,13,1871
+BSNL,BH,Munger,Haveli Kharagpur,18,#N/A
+BSNL,BH,Munger,Jamalpur,10,1872
+BSNL,BH,Munger,Sadar Munger,13,#N/A
+BSNL,BH,Munger,Sangrampur,10,1875
+BSNL,BH,Munger,Tarapur,12,1876
+BSNL,BH,Munger,TETIABAMBAR,7,1877
+BSNL,BH,Muzaffarpur,Aurai,26,1878
+BSNL,BH,Muzaffarpur,Kurhani,39,#N/A
+BSNL,BH,Muzaffarpur,Maraul,9,#N/A
+BSNL,BH,Muzaffarpur,MOTIPUR,32,1887
+BSNL,BH,Muzaffarpur,PAROO,33,1890
+BSNL,BH,Muzaffarpur,Sahebganj,21,1891
+BSNL,BH,Muzaffarpur,Sakra,28,1892
+BSNL,BH,Muzaffarpur,Saraiya,30,1893
+BSNL,BH,Muzaffarpur,Bandra,12,#N/A
+BSNL,BH,Muzaffarpur,Bochahan,20,#N/A
+BSNL,BH,Muzaffarpur,Gaighat,23,#N/A
+BSNL,BH,Muzaffarpur,Kanti,21,#N/A
+BSNL,BH,Muzaffarpur,katra,22,#N/A
+BSNL,BH,Muzaffarpur,Marwan,14,#N/A
+BSNL,BH,Muzaffarpur,Minapur,28,#N/A
+BSNL,BH,Muzaffarpur,Mushahari,26,#N/A
+BSNL,BH,Nalanda,ASTHAWAN,19,1894
+BSNL,BH,Nalanda,BIHARSHARIF,20,1896
+BSNL,BH,Nalanda,Bind,7,1897
+BSNL,BH,Nalanda,Chandi,14,1898
+BSNL,BH,Nalanda,EKANGARSARAI,18,1899
+BSNL,BH,Nalanda,GIRIAK,10,1900
+BSNL,BH,Nalanda,ISLAMPUR,20,1903
+BSNL,BH,Nalanda,PARBALPUR,6,1908
+BSNL,BH,Nalanda,Tharthari,7,1913
+BSNL,BH,Nawada,Narhat,10,#N/A
+BSNL,BH,Paschim Champaran,BAGAHA-I,24,1928
+BSNL,BH,Paschim Champaran,BAGAHA-II,25,1929
+BSNL,BH,Paschim Champaran,Bairia,17,1930
+BSNL,BH,Paschim Champaran,Bettiah,7,1931
+BSNL,BH,Paschim Champaran,BHITAHA,9,1932
+BSNL,BH,Paschim Champaran,CHANPATIA,24,1933
+BSNL,BH,Paschim Champaran,Jogapatti,20,1935
+BSNL,BH,Paschim Champaran,LAURIYA,21,1936
+BSNL,BH,Paschim Champaran,Madhubani,8,1864
+BSNL,BH,Paschim Champaran,MAINATAND,16,1938
+BSNL,BH,Paschim Champaran,Majhaulia,29,1939
+BSNL,BH,Paschim Champaran,Nautan,18,1941
+BSNL,BH,Paschim Champaran,Sikta,16,1944
+BSNL,BH,Paschim Champaran,THAKRAHAN,5,1945
+BSNL,BH,Paschim Champaran,GAUNAHA                                           ,18,1934
+BSNL,BH,Paschim Champaran,NARKATIAGANJ                                      ,27,1940
+BSNL,BH,Paschim Champaran,PIPRASI                                           ,6,1942
+BSNL,BH,Paschim Champaran,RAMNAGAR                                          ,18,1943
+BSNL,BH,Patna,Athamalgola,8,1946
+BSNL,BH,Patna,Bakhtiarpur,16,1947
+BSNL,BH,Patna,Barh,13,1948
+BSNL,BH,Patna,Bihta,26,1950
+BSNL,BH,Patna,Bikram,18,1951
+BSNL,BH,Patna,DHANARUA,20,1953
+BSNL,BH,Patna,Dulhin Bazar,14,1955
+BSNL,BH,Patna,FATUHA,15,1956
+BSNL,BH,Patna,Maner,19,1959
+BSNL,BH,Patna,MASAURHI,18,1960
+BSNL,BH,Patna,Mokama,15,1961
+BSNL,BH,Patna,NAUBATPUR,21,1962
+BSNL,BH,Patna,PHULWARI,14,1966
+BSNL,BH,Patna,Sampatchak,7,1968
+BSNL,BH,Patna,BELCHCHI                                          ,7,1949
+BSNL,BH,Patna,DANIYAWAN                                         ,6,1952
+BSNL,BH,Patna,GHOSWARI                                          ,8,1957
+BSNL,BH,Patna,Khushrupur,7,#N/A
+BSNL,BH,Patna,PALIGANJ                                          ,25,1963
+BSNL,BH,Patna,PANDARAK                                          ,15,1964
+BSNL,BH,Patna,PUNPUN                                            ,14,1967
+BSNL,BH,Purnea,Bkothi,20,#N/A
+BSNL,BH,Purnea,Jalalgarh,10,2004
+BSNL,BH,Purnea,Krityanand Nagar,18,2006
+BSNL,BH,Purnea,Purnia East,19,2007
+BSNL,BH,Purvi Champaran,ADAPUR,17,1969
+BSNL,BH,Purvi Champaran,ARERAJ,14,1970
+BSNL,BH,Purvi Champaran,CHAKIA (PIPRA),18,1973
+BSNL,BH,Purvi Champaran,Chiraiya,23,1975
+BSNL,BH,Purvi Champaran,CHAWRADANO,15,1974
+BSNL,BH,Purvi Champaran,Dhaka,23,1976
+BSNL,BH,Purvi Champaran,GHORASAHAN,14,1977
+BSNL,BH,Purvi Champaran,Kalyanpur,24,1979
+BSNL,BH,Purvi Champaran,KESARIA,18,1980
+BSNL,BH,Purvi Champaran,Kotwa,16,1981
+BSNL,BH,Purvi Champaran,Madhuban,13,1982
+BSNL,BH,Purvi Champaran,Mehsi,15,1983
+BSNL,BH,Purvi Champaran,Motihari,20,1984
+BSNL,BH,Purvi Champaran,Patahi,15,1987
+BSNL,BH,Purvi Champaran,Phenhara,6,1988
+BSNL,BH,Rohtas,AKHORIGOLA,11,2010
+BSNL,BH,Rohtas,Chenari,12,2012
+BSNL,BH,Rohtas,KARAKAT,20,2016
+BSNL,BH,Rohtas,KARGAHAR,20,2017
+BSNL,BH,Rohtas,Rajpur,8,1712
+BSNL,BH,Rohtas,Rohtas,10,2023
+BSNL,BH,Rohtas,SANJHOULI,6,2024
+BSNL,BH,Rohtas,SHEOSAGAR,16,2026
+BSNL,BH,Rohtas,Dehri,13,#N/A
+BSNL,BH,Rohtas,Kochas,15,#N/A
+BSNL,BH,Rohtas,Nauhatta,11,2032
+BSNL,BH,Rohtas,Nokha,14,#N/A
+BSNL,BH,Rohtas,Tilauthu,11,#N/A
+BSNL,BH,Rohtas,Dawath,9,#N/A
+BSNL,BH,Rohtas,Bkg,12,#N/A
+BSNL,BH,Rohtas,Narsligan,12,#N/A
+BSNL,BH,Rohtas,Surajpura,5,#N/A
+BSNL,BH,Saharsa,BANMA ITAHARI,7,2029
+BSNL,BH,Saharsa,Kahara,15,2030
+BSNL,BH,Saharsa,Patarghat,11,2033
+BSNL,BH,Saharsa,Salkhua,11,2034
+BSNL,BH,Saharsa,SATTAR  KATTAIYA,14,2035
+BSNL,BH,Saharsa,SIMRI BAKHTIARPUR,24,2036
+BSNL,BH,Saharsa,SONBARSA,21,2037
+BSNL,BH,Saharsa,Sour Bazar,17,#N/A
+BSNL,BH,Samastipur,BIBHUTPUR,29,2039
+BSNL,BH,Samastipur,Hasanpur,20,2042
+BSNL,BH,Samastipur,Kalyanpur,31,1979
+BSNL,BH,Samastipur,Khanpur,19,2044
+BSNL,BH,Samastipur,Mahesinghia,17,#N/A
+BSNL,BH,Samastipur,Mohanpur,11,2045
+BSNL,BH,Samastipur,MOHIUDDINAGAR,17,2046
+BSNL,BH,Samastipur,MORWA,18,2047
+BSNL,BH,Samastipur,PATORI,17,2048
+BSNL,BH,Samastipur,Pusa,13,2049
+BSNL,BH,Samastipur,Rosera,16,2050
+BSNL,BH,Samastipur,SAMASTIPUR,26,2051
+BSNL,BH,Samastipur,Sarairanjan,23,2052
+BSNL,BH,Samastipur,Tajpur,16,2055
+BSNL,BH,Samastipur,Ujiarpur,28,2056
+BSNL,BH,Samastipur,VIDYAPATI NAGAR,14,2057
+BSNL,BH,Samastipur,WARISNAGAR,20,2058
+BSNL,BH,Samastipur,Dalsinghsarai,16,#N/A
+BSNL,BH,Samastipur,BITHAN                                            ,13,2040
+BSNL,BH,Samastipur,SHIVAJI NAGAR                                     ,17,2053
+BSNL,BH,Saran,Amnour,18,2059
+BSNL,BH,Saran,Baniapur,25,2060
+BSNL,BH,Saran,ISUAPUR,13,2066
+BSNL,BH,Saran,Jalalpur,15,2067
+BSNL,BH,Saran,Lahladpur,8,2068
+BSNL,BH,Saran,Mashrakh,17,2072
+BSNL,BH,Saran,Nagra,10,2073
+BSNL,BH,Saran,Revelganj,6,2076
+BSNL,BH,Saran,Sonepur,23,2077
+BSNL,BH,Saran,Taraiya,13,2078
+BSNL,BH,Sheikhpura,Barbigha,10,2080
+BSNL,BH,Sheikhpura,Chewara,7,2081
+BSNL,BH,Sheikhpura,GHAT KUSUMBHA,5,2082
+BSNL,BH,Sheikhpura,SHEIKHOPUR SARAI,7,2083
+BSNL,BH,Sheohar,DUMARI KATSARI,8,2085
+BSNL,BH,Sheohar,Piprahi,11,2086
+BSNL,BH,Sheohar,Purnahiya,8,2087
+BSNL,BH,Sheohar,Sheohar,12,2088
+BSNL,BH,Sheohar,TARIYANI,16,2089
+BSNL,BH,Sitamarhi,Nanpur,17,2098
+BSNL,BH,Sitamarhi,RUNNISAIDPUR,33,2103
+BSNL,BH,Sitamarhi,Bairginia,8,#N/A
+BSNL,BH,Sitamarhi,Bajpatti,19,#N/A
+BSNL,BH,Sitamarhi,Bathnaha,21,#N/A
+BSNL,BH,Sitamarhi,Belsand,9,2093
+BSNL,BH,Sitamarhi,Bokhra,11,#N/A
+BSNL,BH,Sitamarhi,Choraut,7,#N/A
+BSNL,BH,Sitamarhi,Dumara,28,#N/A
+BSNL,BH,Sitamarhi,MAJORGANJ,8,2097
+BSNL,BH,Sitamarhi,Parihar,27,#N/A
+BSNL,BH,Sitamarhi,Parsauni,7,#N/A
+BSNL,BH,Sitamarhi,Pupri,13,#N/A
+BSNL,BH,Sitamarhi,Riga,16,#N/A
+BSNL,BH,Sitamarhi,Sonbarsa,20,2037
+BSNL,BH,Sitamarhi,Suppi,11,#N/A
+BSNL,BH,Siwan,BHAGWANPUR HAT,20,2110
+BSNL,BH,Siwan,Bhagwanpur hat,20,2110
+BSNL,BH,Siwan,Goriakothi,22,2113
+BSNL,BH,Siwan,Hussainganj,16,2116
+BSNL,BH,Siwan,Ziradei,16,2125
+BSNL,BH,Supoul,Kishanpur,16,2128
+BSNL,BH,Supoul,Pratapganj,9,2132
+BSNL,BH,Supoul,SUPAUL,26,2135
+BSNL,BH,Vaishali,Bhagwanpur,21,1660
+BSNL,BH,Vaishali,BIDUPUR,24,2138
+BSNL,BH,Vaishali,Chehrakala,12,2139
+BSNL,BH,Vaishali,DESRI,8,2140
+BSNL,BH,Vaishali,GARAUL,16,2141
+BSNL,BH,Vaishali,Hajipur,26,2142
+BSNL,BH,Vaishali,Jandaha,23,2143
+BSNL,BH,Vaishali,Lalganj,21,2144
+BSNL,BH,Vaishali,Mahnar,14,2145
+BSNL,BH,Vaishali,Mahua,24,2146
+BSNL,BH,Vaishali,Patedhi Belsar,9,2147
+BSNL,BH,Vaishali,Patepur,32,2148
+BSNL,BH,Vaishali,RAGHOPUR,20,#N/A
+BSNL,BH,Vaishali,Rajapakar,13,2150
+BSNL,BH,Vaishali,SAHDEI BUZURG,11,2151
+BSNL,BH,Vaishali,Vaishali,16,2152

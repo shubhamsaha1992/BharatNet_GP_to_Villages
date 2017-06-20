@@ -1,0 +1,88 @@
+485600,*keliweli  gm
+170273,adgaon kh
+170506,akoli jahangir
+170279,asegaon bajar
+170280,balegaon
+170281,bambarda bk
+170285,chohatta
+170287,dewarda
+529714,edlapur
+170297,jalgaon nahate
+170298,jaulka
+170299,jaulkhed bk.
+170300,jitapur pr. adgaon
+170302,karatwadi
+170303,karatwadi (r)
+469400,kasod shivpur
+170377,kautha bk.
+170305,kawasa bk.
+170309,khirkund bk.
+529736,lohari bk.
+170318,makrampur
+170391,mankari  wastapur
+170325,nehori bk.
+170571,ramapur alias dharul
+170340,shahapur pr.rupagad
+170648,umara
+170346,wadali deshmukh
+170347,wadali satwai
+170348,wadgaon mendhe
+170359,bharatpur
+170361,chincholi ganu
+170365,dongergaon
+170374,kanheri gawali
+170375,karanja ramzanpur
+170381,khirpuri bk.
+170382,khirpuri kh.
+170393,morgaon sadijan
+170397,nandkhed takli
+170400,nimbi
+170409,shingoli
+170411,takli nim.
+170415,ural kh.
+170168,apoti bk
+170171,badalapur
+170174,birshingpur
+170175,borgaon kh
+170187,dodki
+170191,dudlam
+170194,gopalkhed
+170196,goregaon kh.
+170198,hingna mah.
+170201,kandi
+170220,kaulkhed gomashe
+170210,kaulkhed jh.
+170215,kharap bk.
+170218,khothari
+170219,kumbari
+170222,lakhonda bk.
+170242,palso bk.
+170246,rohna
+170249,sangvi mohadi
+170257,sukhadi nandapur
+170263,umri p balapur
+170265,wadad
+170269,yavalkhed
+170425,bhendimahal
+170424,bheni sutrak
+170428,chincholi ru.
+170430,dagadparawa
+170435,donad bk.
+170454,khothali kh.
+170462,nimbhara
+170472,pimpalgoncha
+170483,sakhavira
+170496,tiwas bk.
+170598,andhar sangavi
+170603,belura khurd
+170605,bhandaraj khurd
+170607,changefal
+170614,digras khurd
+170617,jamb
+170626,malsoor
+170634,pimpaldoli
+170636,saiwani
+170643,sukali
+170645,tandali khurd
+170647,tulanga khurd
+170650,wahala bk.

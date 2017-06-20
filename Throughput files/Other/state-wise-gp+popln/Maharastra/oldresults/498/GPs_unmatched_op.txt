@@ -1,0 +1,40 @@
+gp code,gp name
+176103,aarave
+176110,chaugaon kh.
+176165,nave kodade
+176163,sawai mukti
+176188,shindkheda
+176189,sonevadi
+176191,sukvad
+176194,takarkheda
+176196,tawkheda pr. be
+176198,tembhalai
+176229,asali tande
+176297,new boradi
+176328,vikharan kh.
+175787,ajanale
+175796,avadhan
+175798,babare
+175797,babhulvadi
+175830,fagane
+175838,isarane
+175840,junavane
+175845,kawathi
+175853,kundane (var)
+175852,kundane (warkhedi) (nim)
+175857,lohagad
+175870,mukati
+175881,nawara
+175882,nawari
+175888,nyahalod
+175905,sayane
+175917,vadajai
+175918,valvadi
+175926,var
+175920,varkhedi
+175941,bhadgaon (v)
+175999,kaldar
+176021,malgaon pr
+176027,mhasdi pr. ner
+176028,mhasdi pr. pimpalner
+176077,umarkhadwa

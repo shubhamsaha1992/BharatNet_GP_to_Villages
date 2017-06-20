@@ -1,0 +1,670 @@
+State_Name,State Code,District_Name,District_Code,Block_Name,Block_Code,GP Name,GP Code,Latitude,Longitude,Location_OF_GP,Phase,population
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,aamhat,20688,29.737349,80.081164,AAMHAT,21,355
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,aarari,20689,29.846613,80.006014,AARARI,21,616
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,angariyagara,20690,29.718718,80.119796,ANGARIYAGARA,21,124
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,bafila,20691,29.797645,80.077396,BAFILA,21,236
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,baitholi,20692,29.826679,80.046485,BAITHOLI,21,244
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,balara agar,20693,29.728614,80.049279,BALARA AGAR,21,411
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,balyau,20694,29.865535,80.148535,BALYAU,21,61
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,banna,20695,29.754614,80.046902,BANNA,21,1135
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,barait bafila,20696,29.800464,80.106416,BARAIT BAFILA,21,378
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,brat jubbar,20709,29.868847,80.058668,BRAT JUBBAR,21,52
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,baret sanigaon,20697,29.833642,80.106605,BARET SANIGAON,21,144
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,barsayat,20698,29.815178,80.096314,BARSAYAT,21,21
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,batgal,20699,29.72448,80.04183,BATGAL,21,502
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,belkot,20700,29.768942,80.110047,BELKOT,21,55
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,berinag,20701,29.779696,80.05531,BERINAG,21,420
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,bhandarigaon,20702,29.74108,80.046864,BHANDARIGAON,21,68
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,bhatigaon barau,20703,29.773159,80.047204,BHATIGAON BARAU,21,1135
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,bhatigaon pungrau,20704,29.844093,80.114544,BHATIGAON PUNGRAU,21,1135
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,bhool ki adhayali,20705,29.711588,80.076435,BHOOL KI ADHAYALI,21,81
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,bhuvaneswar,20706,29.689151,80.091468,BHUVANESWAR,21,680
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,bogar,20707,29.867467,80.045917,BOGAR,21,73
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,bora agar,20708,29.716986,80.048752,BORA AGAR,21,287
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,budera,20710,29.799161,80.064149,BUDERA,21,152
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,byati,20711,29.742362,80.032313,BYATI,21,262
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,chachrait,20712,29.745333,80.076486,CHACHRAIT,21,6
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,chama,20713,29.695742,80.078792,CHAMA,21,151
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,chankana,20714,29.774975,80.078544,CHANKANA,21,213
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,chaukhuna,20715,29.724133,80.062782,CHAUKHUNA,21,132
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,chaukori,20716,29.836725,80.023163,CHAUKORI,21,1163
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,chausala,20717,29.862243,80.085303,CHAUSALA,21,288
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,dangigaon,20718,29.786974,80.126413,DANGIGAON,21,26
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,darmoli,20719,29.848477,80.123142,DARMOLI,21,68
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,dasoli,20720,29.891555,80.054128,DASOLI,21,35
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,daula upreti,20721,29.733421,80.0926,DAULA UPRETI,21,240
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,daula walia,20722,29.679131,80.103323,DAULA WALIA,21,431
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,dauru (durgapur),249346,29.8925,80.061557,DAURU (DURGAPUR),21,515
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,dhanauli,20723,29.78759,80.061871,DHANAULI,21,10500
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,garau,20724,29.79551,80.03912,GARAU,21,471
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,gartir,20725,29.78315,80.088674,GARTIR,21,62
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,gweer,20726,29.763856,80.072977,GWEER,21,21
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,hariyat naghar,20727,29.800012,80.09402,HARIYAT NAGHAR,21,273
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,hatwalgaon,20728,29.815231,80.122332,HATWALGAON,21,127
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,hipa,20729,29.842213,80.077303,HIPA,21,32
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,jagthali,20730,29.817574,80.052048,JAGTHALI,21,48
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,jakhrawat,20731,29.825147,80.056572,JAKHRAWAT,21,55
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,kalasila,20732,29.808179,80.082113,KALASILA,21,93
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,kaleti,20733,29.822575,80.059359,KALETI,21,119
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,kamdina,20734,29.805066,80.090239,KAMDINA,21,194
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,kandey,20735,29.821039,80.050069,KANDEY,21,510
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,karala mahar,20736,29.888112,80.023177,KARALA MAHAR,21,191
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,khanat,20737,29.78972,80.081011,KHANAT,21,70
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,khitoli,20738,29.76801,80.064089,KHITOLI,21,338
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,kholagaon,20739,29.863666,80.020595,KHOLAGAON,21,16
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,kotgari,20740,29.868719,80.074039,KOTGARI,21,624
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,lachima,20741,29.88407,80.087624,LACHIMA,21,129
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,lingurani,20742,29.776129,80.089652,LINGURANI,21,122
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,lohathal,20743,29.865905,80.016207,LOHATHAL,21,500
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,maanipur,20744,29.729575,80.044953,MAANIPUR,21,94
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,machikhet,20745,29.796695,80.113808,MACHIKHET,21,11
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,mangar,20746,29.719873,80.071776,MANGAR,21,48
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,mantoli,20747,29.746111,80.038706,MANTOLI,21,62
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,masuriya,20748,29.869969,80.062597,MASURIYA,21,310
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,nagaur,20749,29.728907,80.079617,NAGAUR,21,464
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,nagila gaon,20750,29.875517,80.017038,NAGILA GAON,21,443
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,nayal sapoli,20751,29.831691,80.126381,NAYAL SAPOLI,21,232
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,pabhya,20752,29.751455,80.03395,PABHYA,21,139
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,pankhusera,20753,29.876701,80.056294,PANKHUSERA,21,397
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,pausa postala,20754,29.768628,80.018107,PAUSA POSTALA,21,624
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,peepaltar,20755,29.762762,80.125526,PEEPALTAR,21,33
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,pilkhi,20756,29.742878,80.126325,PILKHI,21,490
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,puranathal,20757,29.79399,80.114803,PURANATHAL,21,17
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,querali,20758,29.75615,80.04541,QUERALI,21,547
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,rai garsayari,20759,29.730888,80.056989,RAI GARSAYARI,21,84
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,raitoli,20760,29.751083,80.113885,RAITOLI,21,207
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,rawalkhet,20761,29.689326,80.124322,RAWALKHET,21,270
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,ruyinathal,20762,29.779343,80.131546,RUYINATHAL,21,176
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,sagaurh,20763,29.874932,80.035836,SAGAURH,21,232
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,sahgarau,20764,29.800906,80.039314,SAHGARAU,21,250
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,saily pak,20765,29.713164,80.063777,SAILY PAK,21,21
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,sainar,20766,29.840884,80.094463,SAINAR,21,82
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,sangar,20767,29.779696,80.05531,SANGAR,21,10500
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,simayal,20768,29.701154,80.091186,SIMAYAL,21,328
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,sukalyari,20769,29.761398,80.030286,SUKALYARI,21,321
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,sunati,20770,29.84839,80.138338,SUNATI,21,109
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,thal,20771,29.823637,80.139334,THAL,21,198
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,udiyari,20772,29.827592,80.032898,UDIYARI,21,745
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,uprada,20773,29.78541,80.11975,UPRADA,21,39
+UTTARAKHAND,5,PITHORAGARH,62,BERINAG,414,urisirtoli,20774,29.892913,80.130886,URISIRTOLI,21,59
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,athkhet,20829,29.833247,80.14599,PANCHAYAT GHAR,2,11
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,azera,20830,29.749259,80.258201,PANCHAYAT GHAR,2,500
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,baaku,249379,29.831545,80.264783,PANCHAYAT GHAR,2,209
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,bagajiwala,20831,29.836526,80.210705,PANCHAYAT GHAR,2,76
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,bajani,20832,29.741988,80.236794,PANCHAYAT GHAR,2,284
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,baltir,20833,29.821119,80.145511,PANCHAYAT GHAR,2,173
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,baram bachkudi,20834,29.78369,80.153808,PANCHAYAT GHAR,2,319
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,barna aeri,20835,29.848206,80.272161,PANCHAYAT GHAR,2,118
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,batyuli,20836,29.780919,80.147684,PANCHAYAT GHAR,2,248
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,bhaisudi,20837,29.797971,80.180625,PANCHAYAT GHAR,2,191
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,bhalu udiyar,20838,29.783811,80.202641,PANCHAYAT GHAR,2,43
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,bhanada,20839,29.790639,80.232261,PANCHAYAT GHAR,2,480
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,bhargaon,20840,29.810522,80.19213,PANCHAYAT GHAR,2,297
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,binayak,20841,29.771122,80.145065,PANCHAYAT GHAR,2,303
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,bora gaon,20842,29.84616,80.274574,PANCHAYAT GHAR,2,98
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,borabunga,20843,29.768747,80.209667,PANCHAYAT GHAR,2,500
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,chama,20844,29.887211,80.237823,PANCHAYAT GHAR,2,151
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,chitgal gaon,20845,29.73897,80.178707,GP AT KANDA,2,18
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,chupdakhet,249383,29.836999,80.236571,PANCHAYAT GHAR,2,174
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,dauli kauli,20846,29.840772,80.17127,PANCHAYAT GHAR,2,242
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,dhingtarh,20853,29.810694,80.152284,PANCHAYAT GHAR,2,268
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,dhungeti,20847,29.827826,80.225814,PANCHAYAT GHAR,2,84
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,dingoti,20849,29.769542,80.134983,PANCHAYAT GHAR,2,182
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,dunakot,20850,29.835626,80.273786,PANCHAYAT GHAR,2,574
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,durlekh,20851,29.75697,80.234766,GP AT JOURASI,2,614
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,dyoukali,20848,29.829233,80.166113,GP AT BHATAR,2,42
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,garali,20852,29.80574,80.342305,PANCHAYAT GHAR,2,452
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,ghimali,20854,29.831712,80.222095,PANCHAYAT GHAR,2,451
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,gobrari,20855,29.74136,80.154901,PANCHAYAT GHAR,2,359
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,gol,20856,29.832128,80.139285,PANCHAYAT GHAR,2,704
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,hachila,20857,29.737222,80.272349,PANCHAYAT GHAR,2,18
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,hat tharp,20858,29.792509,80.257076,PANCHAYAT GHAR,2,459
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,hunera,20859,29.854404,80.240287,PANCHAYAT GHAR,2,114
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,jakh dhaulait,20860,29.792321,80.253405,PRIMARY SCHOOL,2,80
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,jamtad,20861,29.739919,80.221932,PANCHAYAT GHAR,2,221
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,kanda mansingh,20862,29.772184,80.286325,PANCHAYAT GHAR,2,632
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,kauli kanyal,20863,29.825592,80.356707,PANCHAYAT GHAR,2,1130
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,khetar kanyal,20864,29.809496,80.288157,PANCHAYAT GHAR,2,175
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,kholi charma,20865,29.747115,80.252182,PANCHAYAT GHAR,2,160
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,kholi mali,20866,29.826341,80.159205,PANCHAYAT GHAR,2,53
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,kudiyan,20869,29.862355,80.271783,PANCHAYAT GHAR,2,137
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,kukrauli,20867,29.807155,80.158797,PANCHAYAT GHAR,2,380
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,kumalgaon,20868,29.809306,80.13999,PANCHAYAT GHAR,2,139
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,ladhara,20870,29.774049,80.261401,PANCHAYAT GHAR,2,16
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,lakhati gaon,20871,29.752601,80.202155,PANCHAYAT GHAR,2,8
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,lejam,20872,29.845579,80.143222,PANCHAYAT GHAR,2,293
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,leparti,20873,29.841981,80.154463,PANCHAYAT GHAR,2,92
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,lima bhat,20874,29.75339,80.220387,PANCHAYAT GHAR,2,373
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,mad,20875,29.785365,80.181152,PANCHAYAT GHAR,2,225
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,malajhula,20876,29.856917,80.183134,PRIMARY SCHOOL,2,227
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,masmoli,20877,29.79401,80.143581,PANCHAYAT GHAR,2,32
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,nankudi,20878,29.756223,80.252965,PANCHAYAT GHAR,2,133
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,nanpapo,20879,29.797804,80.221935,PANCHAYAT GHAR,2,503
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,ogala,20880,29.75205,80.286784,PANCHAYAT GHAR,2,615
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,pamsayari,20881,29.816711,80.270179,PANCHAYAT GHAR,2,135
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,ranikhet,20882,29.846785,80.212249,PANCHAYAT GHAR,2,615
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,sata,20883,29.823226,80.202552,PANCHAYAT GHAR,2,118
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,satyal gaon,20884,29.826377,80.143158,PANCHAYAT GHAR,2,653
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,saugaon,20885,29.761639,80.182648,GP AT MELKURA,2,120
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,sayalawe,20886,29.764116,80.157773,PANCHAYAT GHAR,2,39
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,serasonali,249382,29.760784,80.205081,PANCHAYAT GHAR,2,42
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,sitoli,20887,29.798872,80.251467,PANCHAYAT GHAR,2,171
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,talla mirthi,20888,29.776205,80.282221,PANCHAYAT GHAR,2,1736
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,tiladi,249380,29.775698,80.18285,PANCHAYAT GHAR,2,165
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,toli chuphat,20889,29.722005,80.266275,PANCHAYAT GHAR,2,97
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,turgoli,20890,29.850283,80.154474,PANCHAYAT GHAR,2,92
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DIDIHAT                                           ,416,varshayat,249381,29.846965,80.181169,PANCHAYAT GHAR,2,69
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,baling,20775,30.208698,80.547727,PANCHAYAT GHAR,2,315
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,baluwakot,20776,29.800675,80.429886,PANCHAYAT GHAR,2,5455
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,banga pani,20777,29.948724,80.302642,PANCHAYAT GHAR,2,815
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,baram,20778,29.848966,80.35875,PANCHAYAT GHAR,2,1043
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,baun,20779,30.243177,80.55727,PANCHAYAT GHAR,2,477
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,baungling,249374,30.08785,80.61998,PANCHAYAT GHAR,2,396
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,bundi,20780,30.101703,80.827653,PANCHAYAT GHAR,2,665
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,bung bung,20781,30.036233,80.701128,PANCHAYAT GHAR,2,516
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,chal,20782,30.17887,80.58159,PANCHAYAT GHAR,2,220
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,chalma chhilason,20783,29.989215,80.629152,PANCHAYAT GHAR,2,20
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,chharchhum,20784,29.801348,80.469051,PANCHAYAT GHAR,2,302
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,dar,20785,30.070964,80.598541,PANCHAYAT GHAR,2,560
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,dharchula dehat,20786,29.831409,80.518064,PANCHAYAT GHAR,2,1512
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,diyuti bagar,20787,29.750432,80.378443,PANCHAYAT GHAR,2,1599
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,dugtu,20788,30.248897,80.546007,PANCHAYAT GHAR,2,234
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,dunga toli,20789,29.798352,80.407396,PANCHAYAT GHAR,2,1025
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,galati,20790,29.861231,80.496078,PANCHAYAT GHAR,2,2236
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,garbiyang,20791,30.124708,80.857089,PANCHAYAT GHAR,2,426
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,garguwa,20792,29.974253,80.57116,PANCHAYAT GHAR,2,986
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,gau,20793,30.260295,80.541427,PANCHAYAT GHAR,2,343
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,gunjee,20794,30.186762,80.850825,PANCHAYAT GHAR,2,335
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,himkhola,20795,30.004464,80.632556,PANCHAYAT GHAR,2,273
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,jai kot,20796,29.968484,80.666062,PANCHAYAT GHAR,2,789
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,jamku,20797,29.98246,80.557778,PANCHAYAT GHAR,2,708
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,jara jeebli,20798,29.939138,80.30505,PRIMARI SCHOOL,2,1335
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,jipti,20799,30.011363,80.727802,PANCHAYAT GHAR,2,357
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,jumma,20800,29.920793,80.566646,PANCHAYAT GHAR,2,3383
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,jyoti pangu,20801,29.983546,80.616022,PANCHAYAT GHAR,2,232
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,kalika,20802,29.80826,80.493301,PANCHAYAT GHAR,2,2881
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,kanar,20803,29.906352,80.400498,HIGH SCHOOL,2,1304
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,khela,20804,29.962454,80.593864,PANCHAYAT GHAR,2,1764
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,khet,20805,30.000172,80.563625,PANCHAYAT GHAR,2,504
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,khumti,20806,29.832854,80.460116,PANCHAYAT GHAR,2,1267
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,kimkhola,20807,29.769761,80.395442,PANCHAYAT GHAR,2,252
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,kuti,20808,30.307354,80.760365,PANCHAYAT GHAR,2,363
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,lumti,20809,29.892163,80.318618,PANCHAYAT GHAR,2,386
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,metalee,20810,29.873856,80.330221,PANCHAYAT GHAR,2,1761
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,nagling,20811,30.179784,80.574323,PANCHAYAT GHAR,2,396
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,new,20812,30.057879,80.586619,PANCHAYAT GHAR,2,264
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,pangala,20813,29.978126,80.690429,PANCHAYAT GHAR,2,941
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,payya pauri,20814,29.821581,80.391408,PANCHAYAT GHAR,2,1806
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,ram toli,20815,29.852294,80.506305,PANCHAYAT GHAR,2,454
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,ranthi,20816,29.886385,80.556597,PANCHAYAT GHAR,2,4932
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,rong kong,20817,30.203509,80.831428,PANCHAYAT GHAR,2,118
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,rung,20818,29.991205,80.667885,PANCHAYAT GHAR,2,389
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,seepu,20819,30.310688,80.492452,PANCHAYAT GHAR,2,136
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,sela,20820,30.146654,80.60662,PANCHAYAT GHAR,2,211
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,sir dang,20821,29.988427,80.660465,PANCHAYAT GHAR,2,812
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,sirkha,20822,29.996371,80.660758,PANCHAYAT GHAR,2,552
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,sosa,20823,29.982006,80.634942,PANCHAYAT GHAR,2,309
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,suwa,20824,30.030852,80.597037,PANCHAYAT GHAR,2,637
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,syankuri,20825,29.938553,80.57608,PANCHAYAT GHAR,2,1232
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,tankul,20826,30.005962,80.718302,PANCHAYAT GHAR,2,332
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,tidang,249373,30.283378,80.524196,PANCHAYAT GHAR,2,296
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,toli,20827,29.826292,80.366139,PANCHAYAT GHAR,2,186
+UTTARAKHAND                                       ,5,PITHORAGARH,62,DHARCHULA                                         ,415,umchiya,20828,30.066199,80.568389,PANCHAYAT GHAR,2,54
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,agron,20891,29.661721,80.086601,PANCHYAT GHAR,2,360
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,anolee,20892,29.714937,79.964211,PANCHYAT GHAR,2,231
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,askoda,20893,29.542204,80.074722,PANCHYAT GHAR,2,206
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,badena,20894,29.572423,80.027034,PANCHYAT GHAR,2,547
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,baisali,20896,29.750714,79.962981,PANCHYAT GHAR,2,36
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,bala tari,20897,29.674119,80.026287,PANCHYAT GHAR,2,205
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,bali gaon,20898,29.665698,80.024748,PRIMARY SCHOOL,2,28
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,bankot,20900,29.756507,79.876638,PANCHYAT GHAR,2,155
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,banspatan,20903,29.756933,80.000075,PANCHYAT GHAR,2,423
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,basikhet,20901,29.756791,79.903344,PANCHYAT GHAR,2,16
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,basikhet laga dhanaula sera,20902,29.784984,79.918611,PANCHYAT GHAR,2,500
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,batgeri,20904,29.774841,79.833008,PANCHYAT GHAR,2,118
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,batkatoli,20905,29.602277,80.078725,PANCHYAT GHAR,2,184
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,bhama,20907,29.617915,80.059491,PANCHYAT GHAR,2,412
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,bhandari gaon,20908,29.632595,80.080808,PANCHYAT GHAR,2,15
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,bharkot madhye bhatti gaon,20909,29.755265,79.875929,PANCHYAT GHAR,2,544
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,bhingari,20910,29.756664,79.956963,PANCHYAT GHAR,2,80
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,bhuli gaon,20911,29.614329,80.075805,PANCHYAT GHAR,2,374
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,bokta,20914,29.601659,80.086278,PANCHYAT GHAR,2,547
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,boyal,20915,29.642591,80.101092,PANCHYAT GHAR,2,81
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,bungli,20916,29.586792,80.012204,PANCHYAT GHAR,2,1404
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,bursam,20917,29.614592,80.093666,PANCHYAT GHAR,2,500
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,busail,20918,29.660529,79.964459,PANCHYAT GHAR,2,500
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,byal katiya,20906,29.655597,80.120577,PANCHYAT GHAR,2,500
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,chahaj,20919,29.579226,80.053354,PANCHYAT GHAR,2,450
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,chak,20920,29.722831,80.011517,PANCHYAT GHAR,2,1216
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,cham dungra,20921,29.531127,80.091745,PANCHYAT GHAR,2,228
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,chauda,249378,29.750229,79.985217,PANCHYAT GHAR,2,89
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,chaur dhuroli,20922,29.580036,80.092416,PANCHYAT GHAR,2,489
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,chitgal,20923,29.670697,80.072392,PANCHYAT GHAR,2,983
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,chodiyar,20924,29.647741,80.029189,PANCHYAT GHAR,2,129
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,choli,20925,29.661069,80.107951,PANCHYAT GHAR,2,428
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,chona,20926,29.725238,79.999016,PANCHYAT GHAR,2,156
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,chowki,20927,29.730828,79.929609,PANCHYAT GHAR,2,287
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,damde,20928,29.588751,80.093161,PANCHYAT GHAR,2,84
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,dasila khet,20929,29.754639,79.927943,PANCHYAT GHAR,2,19
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,devrala,20930,29.658423,79.980478,PANCHYAT GHAR,2,208
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,dharari kund,20931,29.631971,79.995679,PANCHYAT GHAR,2,455
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,dhari dhumla kot,20932,29.77345,79.903862,PANCHYAT GHAR,2,378
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,dugai aagar,20933,29.678914,79.994032,PANCHYAT GHAR,2,1599
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,duni,20934,29.576248,80.066927,PANCHYAT GHAR,2,1250
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,dyul hada kota,20935,29.577262,80.045301,PANCHYAT GHAR,2,392
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,fadiyali,20980,29.730487,79.906664,PANCHYAT GHAR,2,398
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,footsil,20936,29.681896,80.058038,PANCHYAT GHAR,2,39
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,ganai gangoli,20937,29.722601,79.935675,PANCHYAT GHAR,2,240
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,ganura,20938,29.629502,80.026187,PANCHYAT GHAR,2,869
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,gawadi,20939,29.737623,79.913405,PANCHYAT GHAR,2,76
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,gawasi kot,20940,29.701798,79.940115,PANCHYAT GHAR,2,731
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,ghora sil,20941,29.735584,79.955535,PANCHYAT GHAR,2,179
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,gobar gara,20942,29.732118,79.966181,PANCHYAT GHAR,2,240
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,gol chaura,20943,29.753024,79.944649,PRIMARY SCHOOL,2,28
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,guna kitan,20945,29.718356,79.943195,PANCHYAT GHAR,2,366
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,gwal,20946,29.719823,79.977357,PANCHYAT GHAR,2,142
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,haat,20949,29.660248,80.034591,PANCHYAT GHAR,2,144
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,hanera,20947,29.649662,80.030856,PANCHYAT GHAR,2,10500
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,hanera laga rol,20948,29.644676,80.001601,PANCHYAT GHAR,2,76
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,itana,20950,29.680171,80.002829,ANM CENTER,2,75
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,jajauli,20951,29.686938,80.036438,PANCHYAT GHAR,2,122
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,jajut,20952,29.673408,80.053389,PANCHYAT GHAR,2,79
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,jakhani upreti,20953,29.628488,80.060177,PANCHYAT GHAR,2,350
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,jakheri,20954,29.750041,79.979597,PRIMARY SCHOOL,2,377
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,jamtola,20955,29.750209,79.879369,PANCHYAT GHAR,2,157
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,jarmal gaon,20956,29.626907,80.088308,PANCHYAT GHAR,2,243
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,jeeval,20957,29.676553,80.084961,PANCHYAT GHAR,2,443
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,jhal tola,20958,29.714127,80.037302,PANCHYAT GHAR,2,88
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,kanda,20959,29.588559,80.081329,PANCHYAT GHAR,2,159
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,kharki bajyura,20960,29.704757,79.968776,PANCHYAT GHAR,2,197
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,khatigaon,20961,29.595322,80.026613,PANCHYAT GHAR,2,31
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,kheti gaon,20962,29.687239,79.998143,PANCHYAT GHAR,2,256
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,khulait,20963,29.655556,80.116131,PANCHYAT GHAR,2,21
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,kothera,20964,29.640879,80.061707,PANCHYAT GHAR,2,233
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,ku upreti,20965,29.649659,80.043448,PANCHYAT GHAR,2,700
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,kunalta,20966,29.745963,79.928115,PANCHYAT GHAR,2,500
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,kuntola,20967,29.648531,79.978832,PANCHYAT GHAR,2,1125
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,lakh toli,20968,29.736185,79.904792,PANCHYAT GHAR,2,12
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,lali,249376,29.658244,80.025564,PANCHYAT GHAR,2,81
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,malla garkha,20969,29.667822,80.103921,PANCHYAT GHAR,2,717
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,matoli,20970,29.696138,79.978962,PANCHYAT GHAR,2,96
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,naini,20971,29.710996,79.939652,PANCHYAT GHAR,2,337
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,nainoli,20975,29.693299,79.961954,PANCHYAT GHAR,2,500
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,nainolikaina,20972,29.624872,80.003397,PANCHYAT GHAR,2,476
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,nakot,20973,29.693505,79.973237,PANCHYAT GHAR,2,451
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,nali,20974,29.558084,80.081563,PANCHYAT GHAR,2,712
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,nayal,20976,29.727168,79.908785,PANCHYAT GHAR,2,420
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,oli gaon,20977,29.611433,80.075515,PANCHYAT GHAR,2,298
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,oliyagaon,20978,29.746295,79.919557,PANCHYAT GHAR,2,47
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,pabhya,20979,29.712403,79.911819,PANCHYAT GHAR,2,139
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,pali,20981,29.657099,80.088167,PANCHYAT GHAR,2,390
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,pali palyal,20982,29.597221,80.011701,PANCHYAT GHAR,2,256
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,paltodi,20983,29.758581,79.868806,PANCHYAT GHAR,2,232
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,pass dev,20984,29.747199,79.909609,PANCHYAT GHAR,2,5
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,peepli nigalti,20985,29.580972,80.040586,PANCHYAT GHAR,2,148
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,pilkhi,20986,29.698158,79.951651,PANCHYAT GHAR,2,490
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,pokhari aathigaon,20987,29.748942,79.935967,PANCHYAT GHAR,2,544
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,pokhari bhairang,20988,29.655995,80.092887,PANCHYAT GHAR,2,500
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,punoli,20989,29.649038,80.037747,PANCHYAT GHAR,2,76
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,raitola,20990,29.619916,79.984956,PANCHYAT GHAR,2,49
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,rasyun,20991,29.543353,80.046607,PANCHYAT GHAR,2,196
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,rawal gaon,20992,29.656889,80.046826,PANCHYAT GHAR,2,510
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,rithayat,20993,29.692585,79.977613,PANCHYAT GHAR,2,183
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,roteda,20994,29.559632,80.046829,PANCHYAT GHAR,2,402
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,rugadi,20995,29.748415,79.885487,PANCHYAT GHAR,2,33
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,runkot,20996,29.646833,80.052057,PANCHYAT GHAR,2,541
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,sartola,20997,29.696898,79.928009,PANCHYAT GHAR,2,199
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,sera urf badoli,20998,29.702085,79.906808,PANCHYAT GHAR,2,549
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,simal kot,20999,29.649574,80.060339,PANCHYAT GHAR,2,46
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,simali,21000,29.738582,79.929098,PANCHYAT GHAR,2,146
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,sirsoli,249375,29.759308,79.835238,PRIMARY SCHOOL,2,20
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,sugadi,21001,29.616174,80.012496,PANCHYAT GHAR,2,580
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,sukana,21002,29.739967,80.020166,PANCHYAT GHAR,2,208
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,sunkhola,21003,29.604426,80.027861,PANCHYAT GHAR,2,324
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,sunyora,21004,29.691858,80.007749,PANCHYAT GHAR,2,457
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,surkhal,21005,29.681211,80.026646,PANCHYAT GHAR,2,69
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,surkhal pathak,21006,29.612733,80.040777,PANCHYAT GHAR,2,72
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,timta jartola,21007,29.535694,80.096265,PANCHYAT GHAR,2,228
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,tunda chaura,21008,29.674724,80.002824,PANCHYAT GHAR,2,291
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,tuproli,21009,29.745058,79.893953,PANCHYAT GHAR,2,70
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,uprara,21010,29.666882,80.039155,PANCHYAT GHAR,2,391
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,vadyura,20895,29.758907,79.912496,PANCHYAT GHAR,2,224
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,vanela gaon,20899,29.606389,80.026397,PANCHYAT GHAR,2,255
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,virgoli,20912,29.666225,80.124382,PANCHYAT GHAR,2,500
+UTTARAKHAND                                       ,5,PITHORAGARH,62,GANGOLIHAT                                        ,417,viroli,20913,29.719414,79.990467,PANCHYAT GHAR,2,165
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,akhuli,21097,29.638044,80.332848,PANCAYAT GHAR,2,612
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,badabe,21098,29.509789,80.235452,PANCAYAT GHAR,2,1268
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,badalu,21099,29.569366,80.305751,PANCAYAT GHAR,2,838
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,baltadi,21100,29.547053,80.341012,PANCAYAT GHAR,2,360
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,basod,21101,29.537906,80.317109,PANCAYAT GHAR,2,27
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,bharkatiya,21102,29.572788,80.254952,PANCAYAT GHAR,2,2646
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,bhatedi,21103,29.590748,80.375672,PANCAYAT GHAR,2,1152
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,bhaudi,21104,29.649182,80.241962,PANCAYAT GHAR,2,85
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,bilai,21105,29.53647,80.258272,PANCAYAT GHAR,2,652
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,bisha bajed,21106,29.632143,80.242626,PANCAYAT GHAR,2,45
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,bishkholi,21107,29.56681,80.332064,PANCAYAT GHAR,2,500
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,budal gaon,21108,29.542957,80.297527,PANCAYAT GHAR,2,302
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,chiraly,21109,29.621413,80.303109,PANCAYAT GHAR,2,86
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,chyodi,21110,29.586307,80.329841,PANCAYAT GHAR,2,290
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,devdar,21111,29.539473,80.222355,PANCAYAT GHAR,2,540
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,dhari aair,21112,29.500473,80.253101,PANCAYAT GHAR,2,245
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,dhaul kanda,21113,29.628017,80.366811,PANCAYAT GHAR,2,389
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,dhurchu,21116,29.644939,80.352834,PANCAYAT GHAR,2,338
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,digans,21117,29.558003,80.260931,PANCAYAT GHAR,2,277
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,digra,21118,29.54394,80.304003,PANCAYAT GHAR,2,87
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,dobans,21119,29.622259,80.391619,PANCAYAT GHAR,2,637
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,doli,21114,29.574951,80.330827,PANCAYAT GHAR,2,383
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,doli urf khark dauly,21134,29.624344,80.299401,PANCAYAT GHAR,2,159
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,gainanayadesh,21120,29.56649,80.312852,PANCAYAT GHAR,2,900
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,galat,21121,29.633562,80.316351,PANCAYAT GHAR,2,333
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,ganga seri,21122,29.655338,80.244962,PANCAYAT GHAR,2,18
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,gaunch naya bad,21123,29.6267,80.345063,PANCAYAT GHAR,2,180
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,gethigara,21124,29.591298,80.400903,PANCAYAT GHAR,2,356
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,ghunsera gaon,21115,29.617533,80.221963,PANCAYAT GHAR,2,131
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,gorihat,21125,29.569299,80.346054,PANCAYAT GHAR,2,895
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,haldu,21126,29.457511,80.295115,PANCAYAT GHAR,2,401
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,himtar,21127,29.480498,80.187027,PANCAYAT GHAR,2,350
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,jakh pant,21128,29.588699,80.306479,PANCAYAT GHAR,2,141
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,jalturi,21129,29.527691,80.322828,PANCAYAT GHAR,2,500
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,jazar chingari,21130,29.472669,80.19908,PANCAYAT GHAR,2,616
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,jeeveemaigunth,21131,29.613681,80.229978,PANCAYAT GHAR,2,289
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,kanadi,21132,29.565257,80.373549,PANCAYAT GHAR,2,286
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,katiyani,21133,29.606564,80.350473,PANCAYAT GHAR,2,686
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,kharkini,21135,29.554289,80.205668,PANCAYAT GHAR,2,213
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,khatera,21136,29.548633,80.253356,PANCAYAT GHAR,2,500
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,khuna,21137,29.632481,80.267929,PANCAYAT GHAR,2,313
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,kunkatiya,21139,29.625686,80.374455,PANCAYAT GHAR,2,409
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,majheda,21141,29.635024,80.255962,PANCAYAT GHAR,2,67
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,majheer kanda,21140,29.579693,80.362427,PANCAYAT GHAR,2,2404
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,mankatiya,21142,29.525311,80.318841,PRIMARY SCHOOL,2,859
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,mankot,249385,29.610955,80.338319,PANCAYAT GHAR,2,859
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,mar kharayat,21143,29.610887,80.216311,PANCAYAT GHAR,2,318
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,marmanley,21144,29.641632,80.308569,PANCAYAT GHAR,2,640
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,marsoli,21145,29.555273,80.219809,PANCAYAT GHAR,2,1845
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,munakot,21146,29.566368,80.289273,PANCAYAT GHAR,2,4
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,nadhar,21147,29.63918,80.25616,PANCAYAT GHAR,2,86
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,pan kholi,21148,29.64415,80.275417,PANCAYAT GHAR,2,38
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,quar ban,21149,29.488671,80.260287,PANCAYAT GHAR,2,293
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,qui gaon,21138,29.503785,80.279755,PRIMARY SCHOOL,2,5
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,quitar,21150,29.505743,80.289322,PANCAYAT GHAR,2,500
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,rajaura,21151,29.569203,80.354183,PANCAYAT GHAR,2,205
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,rikhai,249384,29.557088,80.237288,PANCAYAT GHAR,2,91
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,riyansi,21152,29.559016,80.282653,PANCAYAT GHAR,2,160
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,rueena,21153,29.566356,80.261108,PANCAYAT GHAR,2,398
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,sakun,21154,29.50475,80.301655,PANCAYAT GHAR,2,377
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,salla,21155,29.463248,80.219257,PANCAYAT GHAR,2,1113
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,salmora,21156,29.610891,80.239779,PANCAYAT GHAR,2,48
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,sat siling,21157,29.61382,80.236395,PRIMARY SCHOOL,2,435
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,saun gaon,21158,29.52278,80.266051,PANCAYAT GHAR,2,256
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,saurn lekh,21159,29.609089,80.282111,PANCAYAT GHAR,2,138
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,sel,21160,29.460317,80.238272,PANCAYAT GHAR,2,1020
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,silingiya,21161,29.478255,80.252533,PANCAYAT GHAR,2,414
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,siloni,21162,29.529261,80.28133,PANCAYAT GHAR,2,388
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,simalkot,21163,29.550674,80.241832,PANCAYAT GHAR,2,521
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,sirkuch,21164,29.587201,80.319918,PANCAYAT GHAR,2,312
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,tademiyan,21165,29.456429,80.254058,PANCAYAT GHAR,2,554
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,taddi gaon,21166,29.531574,80.35295,PANCAYAT GHAR,2,63
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,toli,21167,29.492663,80.236968,PANCAYAT GHAR,2,186
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNAKOT                                           ,419,uraga,21168,29.610112,80.234002,PANCAYAT GHAR,2,317
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,aalam darma,21169,29.959699,80.289421,PANCHAYAT GHAR,2,246
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,bajeta,21170,29.947149,80.235852,PANCHAYAT GHAR,2,360
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,balthi,21171,30.058428,80.306251,PANCHAYAT GHAR,2,792
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,baman gaon gooth,21172,29.99652,80.143318,PANCHAYAT GHAR,2,112
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,baniya gaon,21173,30.080555,80.252506,PANCHAYAT GHAR,2,101
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,bans bagar,21174,29.928329,80.231728,PANCHAYAT GHAR,2,141
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,bara,21175,29.928653,80.253963,PANCHAYAT GHAR,2,291
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,basani,21176,29.943124,80.172136,PANCHAYAT GHAR,2,45
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,basant kot,21177,30.088684,80.279867,PANCHAYAT GHAR,2,139
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,bata,21178,30.041549,80.327321,PANCHAYAT GHAR,2,154
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,bathigunth,249431,29.912021,80.189098,PANCHAYAT GHAR,2,289
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,bedumahar,21179,30.018374,80.12421,PANCHAYAT GHAR,2,191
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,bhadeli,21180,30.070419,80.275905,PANCHAYAT GHAR,2,81
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,bhaiskhal,21181,29.931043,80.149611,PANCHAYAT GHAR,2,297
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,bhurting,21182,30.040543,80.155288,PANCHAYAT GHAR,2,84
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,bona,21183,30.057832,80.369376,PANCHAYAT GHAR,2,344
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,bora gaon,21184,29.940602,80.142999,PANCHAYAT GHAR,2,98
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,bue,21185,30.149388,80.257552,PANCHAYAT GHAR,2,25
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,bunga,21186,30.070322,80.239246,PANCHAYAT GHAR,2,1566
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,burfu,21187,30.366498,80.183094,PANCHAYAT GHAR,2,20
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,chami bhaiskot,21188,29.931138,80.175716,PANCHAYAT GHAR,2,86
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,cheti chimala,21189,30.083283,80.256621,PANCHAYAT GHAR,2,57
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,chulkot,249437,30.082763,80.299248,PANCHAYAT GHAR,2,1512
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,dafa,21190,30.024331,80.152913,PANCHAYAT GHAR,2,118
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,dakhim,21191,29.956255,80.255454,PANCHAYAT GHAR,2,348
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,darati,21192,30.092393,80.251951,PANCHAYAT GHAR,2,250
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,darkot,21193,30.098573,80.24917,PANCHAYAT GHAR,2,437
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,dev kuna,21194,29.969611,80.101278,PANCHAYAT GHAR,2,322
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,dhami gaon,21195,29.929706,80.277535,PANCHAYAT GHAR,2,49
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,dhapa,21196,30.115424,80.24172,PANCHAYAT GHAR,2,365
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,dhura toli,21197,30.09576,80.285372,PANCHAYAT GHAR,2,180
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,dim dimiya,21198,30.116214,80.257243,PANCHAYAT GHAR,2,112
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,door,21199,30.008895,80.147539,PANCHAYAT GHAR,2,62
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,dumar talla,21200,30.107504,80.249014,PANCHAYAT GHAR,2,150
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,fapa,21201,30.092024,80.282119,PANCHAYAT GHAR,2,271
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,gatghorgadi,249433,29.920763,80.168951,PANCHAYAT GHAR,2,94
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,ginni,21202,30.020623,80.170312,PANCHAYAT GHAR,2,512
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,gir gaon,21203,30.031756,80.170082,PANCHAYAT GHAR,2,62
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,gola,249438,30.041813,80.085569,PANCHAYAT GHAR,2,696
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,golfa,21204,30.035026,80.358005,PANCHAYAT GHAR,2,348
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,goothi,21205,29.920172,80.246401,PANCHAYAT GHAR,2,448
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,harkot,21206,30.050552,80.257114,PANCHAYAT GHAR,2,31
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,hokara,21207,30.019517,80.083096,PANCHAYAT GHAR,2,1121
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,hupali,21208,29.904646,80.184347,PANCHAYAT GHAR,2,27
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,jaity,21209,30.078243,80.241389,PANCHAYAT GHAR,2,579
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,josha,21210,30.039734,80.287406,PANCHAYAT GHAR,2,957
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,khasiya bara,21211,30.09234,80.256193,PANCHAYAT GHAR,2,17
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,khatera,21212,29.891028,80.222272,PANCHAYAT GHAR,2,500
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,khetbharad,249435,29.926839,80.231484,PANCHAYAT GHAR,2,177
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,khoyam,21213,30.012014,80.083401,PANCHAYAT GHAR,2,272
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,kim khet,21214,30.009141,80.131105,PANCHAYAT GHAR,2,60
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,kota,21215,29.992843,80.23692,PANCHAYAT GHAR,2,485
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,kotal gaon,21216,30.055108,80.286788,PANCHAYAT GHAR,2,42
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,kotyura,21217,29.918167,80.179192,PANCHAYAT GHAR,2,340
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,lodh,21218,29.992998,80.219772,PANCHAYAT GHAR,2,311
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,madkot,21219,30.057438,80.292571,PANCHAYAT GHAR,2,61
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,magar,21220,30.030204,80.150121,PANCHAYAT GHAR,2,271
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,malla bhaiskot,21221,29.941153,80.184208,PANCHAYAT GHAR,2,517
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,malla ghorpatta,21222,30.067344,80.23955,PANCHAYAT GHAR,2,1726
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,malon,21223,29.988835,80.229152,PANCHAYAT GHAR,2,80
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,mani tundi,21224,30.02831,80.299826,PANCHAYAT GHAR,2,852
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,marni dhami,21225,29.975481,80.301742,PANCHAYAT GHAR,2,284
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,mawani dawani,21226,29.964774,80.303368,PANCHAYAT GHAR,2,791
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,nachani,21227,29.904726,80.16039,PANCHAYAT GHAR,2,1109
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,namik,21228,30.099043,80.091271,PANCHAYAT GHAR,2,476
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,napar,21229,29.889111,80.197689,PANCHAYAT GHAR,2,171
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,paachu,21230,30.403275,80.152989,PANCHAYAT GHAR,2,500
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,paatu,21231,30.162793,80.260336,PANCHAYAT GHAR,2,211
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,papari,21232,30.07255,80.264382,PANCHAYAT GHAR,2,460
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,patharkot,249436,30.077886,80.324571,PANCHAYAT GHAR,2,137
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,quety,21233,29.988938,80.142631,PANCHAYAT GHAR,2,169
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,quiry,21234,30.130723,80.216899,PANCHAYAT GHAR,2,156
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,rapti,21235,30.066596,80.317357,PANCHAYAT GHAR,2,75
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,rayan,21236,29.945886,80.222904,PANCHAYAT GHAR,2,315
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,ringonia,21237,29.876465,80.164882,PANCHAYAT GHAR,2,243
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,ringu,21238,30.079555,80.305597,PANCHAYAT GHAR,2,87
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,ruispata,249432,30.011997,80.157664,PANCHAYAT GHAR,2,2
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,saie bhaat,21239,30.137938,80.228494,PANCHAYAT GHAR,2,244
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,sailmali,21240,29.957463,80.242122,PANCHAYAT GHAR,2,196
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,sain rathi,21241,30.014279,80.124994,PANCHAYAT GHAR,2,326
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,samkot,21242,29.988669,80.193921,PANCHAYAT GHAR,2,1092
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,sar moli,21246,30.078683,80.23839,PANCHAYAT GHAR,2,848
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,semali,249434,29.987527,80.133524,PANCHAYAT GHAR,2,378
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,sera suraiedhar,21243,30.085656,80.263754,PANCHAYAT GHAR,2,57
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,siling,21244,29.973363,80.315284,PANCHAYAT GHAR,2,321
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,sini,21245,29.881023,80.247737,PANCHAYAT GHAR,2,190
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,sirtola,21247,29.999271,80.323567,PANCHAYAT GHAR,2,419
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,suring,21248,30.093964,80.242515,PANCHAYAT GHAR,2,362
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,talla bhaiskot,21249,29.922087,80.216348,PANCHAYAT GHAR,2,138
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,talla ghor patta,21250,30.073242,80.246094,PANCHAYAT GHAR,2,47
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,tanga,21251,30.018173,80.330439,PANCHAYAT GHAR,2,155
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,tejam,21252,29.952229,80.131286,PANCHAYAT GHAR,2,495
+UTTARAKHAND                                       ,5,PITHORAGARH,62,MUNSYARI                                          ,420,tomik,21253,30.069063,80.359381,PANCHAYAT GHAR,2,462
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,agar,21254,29.637573,80.182296,RAJIV GANDHI SEVA KENDRA,2,399
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,ancholy,21255,29.566518,80.210033,PANCHYAT GHAR,2,153
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,baksil,249428,29.621241,80.127501,RAJIV GANDHI SEVA KENDRA,2,130
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,balakot,21256,29.555807,80.178158,PRIMARY SCHOOL,2,662
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,bans maitoli,21257,29.609375,80.146626,PANCHYAT GHAR,2,1359
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,bastey,21258,29.595339,80.227316,PANCHYAT GHAR,2,947
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,beda,21259,29.499028,80.176593,PANCHYAT GHAR,2,546
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,bhatyura,21260,29.559846,80.196269,PANCHYAT GHAR,2,203
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,bhurmuni,21261,29.619514,80.171359,PANCHYAT GHAR,2,13
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,bisad,21262,29.567724,80.175095,PANCHYAT GHAR,2,93
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,chamali,21263,29.569791,80.124226,PRIMARY SCHOOL,2,656
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,chesar,21264,29.574951,80.231944,PANCHYAT GHAR,2,95
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,chhana pandey,21265,29.618972,80.184403,PANCHYAT GHAR,2,163
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,chhera,21266,29.624223,80.194983,PANCHYAT GHAR,2,479
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,daula,21267,29.586364,80.230624,PANCHYAT GHAR,2,1768
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,devat pur chuara,21268,29.588074,80.260519,PANCHYAT GHAR,2,515
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,dharasi chamela,249427,29.551783,80.116357,PANCHYAT GHAR,2,77
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,dhari dhamora,21269,29.557171,80.204686,PANCHYAT GHAR,2,446
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,dhari joshi,21270,29.593831,80.161399,PANCHYAT GHAR,2,161
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,digtoli,21271,29.629856,80.151469,PANCHYAT GHAR,2,422
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,diyuri,21272,29.643097,80.139184,PANCHYAT GHAR,2,82
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,dungabhool,21273,29.613131,80.187276,PANCHYAT GHAR,2,381
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,dungari,21274,29.576162,80.119314,PANCHYAT GHAR,2,180
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,dungra,21275,29.589587,80.144977,PANCHYAT GHAR,2,127
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,gaithana,21276,29.605709,80.237515,PANCHYAT GHAR,2,48
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,garkot,21277,29.574562,80.183209,PANCHYAT GHAR,2,143
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,gogna,21278,29.496458,80.139149,PANCHYAT GHAR,2,1457
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,gurna,21279,29.529478,80.160655,PANCHYAT GHAR,2,582
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,huretee,21281,29.579511,80.195678,PANCHYAT GHAR,2,622
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,igyar,21280,29.538088,80.170558,PANCHYAT GHAR,2,582
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,jagtad,21282,29.605739,80.154459,PANCHYAT GHAR,2,335
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,jajurali,21283,29.618418,80.134694,PANCHYAT GHAR,2,522
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,jakh,21284,29.554663,80.151586,PANCHYAT GHAR,2,712
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,jamrari,21285,29.484057,80.157104,PANCHYAT GHAR,2,686
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,jhuni,21286,29.660757,80.193437,PANCHYAT GHAR,2,457
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,kante,21287,29.533567,80.177203,PANCHYAT GHAR,2,73
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,kasani,21288,29.581439,80.244809,PANCHYAT GHAR,2,2839
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,kharku bhaliya,21289,29.542922,80.107162,PANCHYAT GHAR,2,175
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,khatigaon,21290,29.604885,80.116441,PANCHYAT GHAR,2,31
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,khitoli,249426,29.501112,80.168601,PANCHYAT GHAR,2,338
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,kucha,21291,29.566863,80.166253,PANCHYAT GHAR,2,237
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,kusauli,21292,29.580963,80.254432,PANCHYAT GHAR,2,1045
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,lelu,21293,29.573289,80.278801,PANCHYAT GHAR,2,500
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,majhera samola,21294,29.608054,80.177866,PANCHYAT GHAR,2,199
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,malliseem,21295,29.636465,80.159112,PANCHYAT GHAR,2,126
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,masaun,21296,29.558621,80.171668,PANCHYAT GHAR,2,165
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,mel dungari,21297,29.539138,80.145668,PANCHYAT GHAR,2,42
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,mission chandak,21298,29.599094,80.191798,PANCHYAT GHAR,2,199
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,nadhar,21299,29.587819,80.269731,PANCHYAT GHAR,2,86
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,naini,21300,29.592444,80.244129,PANCHYAT GHAR,2,337
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,nainibhanar,21301,29.634789,80.140243,PANCHYAT GHAR,2,1073
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,nisani,21302,29.476081,80.177373,PANCHYAT GHAR,2,711
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,pabhae baldiya,21303,29.597424,80.139869,PANCHYAT GHAR,2,296
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,pabhain,21304,29.594178,80.255941,PANCHYAT GHAR,2,337
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,pali,21305,29.645179,80.212879,PANCHYAT GHAR,2,390
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,panda,21306,29.601051,80.230304,PANCHYAT GHAR,2,101
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,papdev,21307,29.587518,80.192919,PANCHYAT GHAR,2,550
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,paun,21308,29.582192,80.187662,PANCHYAT GHAR,2,954
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,puneri mahar,21309,29.600065,80.202688,PANCHYAT GHAR,2,453
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,puran,21310,29.553286,80.130068,PANCHYAT GHAR,2,742
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,rawal gaon ( garkot ),21311,29.569219,80.169766,PANCHYAT GHAR,2,255
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,rawal gaon (jakh),21312,29.545296,80.155138,PANCHYAT GHAR,2,302
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,rori,21313,29.642295,80.202457,PANCHYAT GHAR,2,44
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,sanghar,21314,29.604484,80.134474,PANCHYAT GHAR,2,500
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,satgal,21315,29.644821,80.191573,PANCHYAT GHAR,2,360
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,sayala,21316,29.636269,80.194821,PANCHYAT GHAR,2,25
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,seri,21317,29.584598,80.273545,PANCHYAT GHAR,2,1246
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,seri barakot,21318,29.562554,80.123931,PANCHYAT GHAR,2,274
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,seri kanda,21319,29.518249,80.162948,PANCHYAT GHAR,2,2404
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,soojai,21321,29.602874,80.241239,PANCHYAT GHAR,2,2207
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,suakot,21322,29.562126,80.275141,PANCHYAT GHAR,2,2036
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,syuni,21320,29.544089,80.198532,PANCHYAT GHAR,2,61
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,takari,21323,29.572734,80.201669,PANCHYAT GHAR,2,421
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,tallisar,21324,29.602684,80.107578,PANCHYAT GHAR,2,383
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,tarigaon,21325,29.605436,80.207522,PANCHYAT GHAR,2,168
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,tharkot,21326,29.552983,80.185026,PANCHYAT GHAR,2,1204
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,tiltar,21327,29.646391,80.223641,PANCHYAT GHAR,2,84
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,toli phagaly,21328,29.541167,80.184663,PANCHYAT GHAR,2,180
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,ukhadi seri,21329,29.653502,80.208461,PANCHYAT GHAR,2,154
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,uper tola,21330,29.561306,80.102785,PANCHYAT GHAR,2,387
+UTTARAKHAND                                       ,5,PITHORAGARH,62,PITHORAGARH                                       ,421,vaste,21331,29.593477,80.128035,PANCHYAT GHAR,2,443
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,aanagaon,21011,29.703961,80.291537,PANCAYAT GHAR,2,297
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,agania,21012,29.697796,80.196852,PANCAYAT GHAR,2,55
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,amtari,21013,29.630502,80.417024,PANCAYAT GHAR,2,157
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,badal chamu,21014,29.710244,80.172797,PANCAYAT GHAR,2,94
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,bamdoli,21015,29.716891,80.200191,PANCAYAT GHAR,2,501
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,banigaon,21016,29.688541,80.236544,PANCAYAT GHAR,2,231
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,barakot,21017,29.724024,80.323763,PANCAYAT GHAR,2,61
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,barmo,21018,29.368947,80.358393,PANCAYAT GHAR,2,120
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,basour,21019,29.697759,80.156243,PANCAYAT GHAR,2,38
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,bastari,21020,29.733242,80.300315,PANCAYAT GHAR,2,266
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,batholi,21021,29.643255,80.401701,PANCAYAT GHAR,2,506
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,batula,21022,29.676517,80.189102,PANCAYAT GHAR,2,217
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,bazar,21023,29.789054,80.330226,PANCAYAT GHAR,2,247
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,bhadirika,21024,29.666504,80.168225,PANCAYAT GHAR,2,101
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,bhandari gaon rajwar,21025,29.735854,80.131117,PANCAYAT GHAR,2,1135
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,bhotari,21026,29.662586,80.313264,PANCAYAT GHAR,2,422
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,bichhul,21027,29.666147,80.223846,PANCAYAT GHAR,2,378
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,chamdhungari,249430,29.682706,80.352415,PANCAYAT GHAR,2,228
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,chamu,21028,29.718556,80.174781,PANCAYAT GHAR,2,50
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,chausal,21029,29.725786,80.343775,PANCAYAT GHAR,2,495
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,chowki,21030,29.695595,80.293804,PANCAYAT GHAR,2,287
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,dangati,21031,29.732987,80.329832,PANCAYAT GHAR,2,594
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,darti,21032,29.769358,80.305693,PANCAYAT GHAR,2,500
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,dayora,21033,29.660423,80.392321,PANCAYAT GHAR,2,624
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,deval,21034,29.768761,80.332809,PANCAYAT GHAR,2,212
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,dhatkhola,21035,29.672659,80.342884,PANCAYAT GHAR,2,908
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,digra,21036,29.726256,80.291067,PANCAYAT GHAR,2,87
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,digra muwani,21037,29.750136,80.131771,PANCAYAT GHAR,2,1614
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,dundu,21038,29.675327,80.320217,PANCAYAT GHAR,2,125
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,dungari,21039,29.676423,80.290717,PANCAYAT GHAR,2,180
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,dungra,21040,29.735727,80.336294,PANCAYAT GHAR,2,127
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,dwalisera,21041,29.700174,80.373068,PANCAYAT GHAR,2,624
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,dyogara,21074,29.678202,80.375908,PANCAYAT GHAR,2,301
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,gaidali nadu,21042,29.661039,80.329896,PANCAYAT GHAR,2,108
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,gajari,249429,29.676696,80.368944,PANCAYAT GHAR,2,202
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,garjiya,21043,29.773921,80.354538,PANCAYAT GHAR,2,295
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,gudoli,21044,29.700371,80.267032,PANCAYAT GHAR,2,498
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,harali,21045,29.685592,80.203569,PANCAYAT GHAR,2,83
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,himkot,21046,29.763943,80.337303,PANCAYAT GHAR,2,530
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,jamtari,21047,29.784206,80.340417,PANCAYAT GHAR,2,352
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,jethigaon,21048,29.742767,80.311818,PANCAYAT GHAR,2,20
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,jingaal,21049,29.689239,80.239931,PANCAYAT GHAR,2,354
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,jogyura,21050,29.746588,80.360979,PANCAYAT GHAR,2,473
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,kachana,21051,29.700342,80.160984,PANCAYAT GHAR,2,41
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,kamtoli,21052,29.722008,80.137628,PANCAYAT GHAR,2,384
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,kanadhar,21055,29.686336,80.344835,PANCAYAT GHAR,2,178
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,kandali,21053,29.675056,80.271747,PANCAYAT GHAR,2,92
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,kaparigaon,21054,29.691512,80.243761,PANCAYAT GHAR,2,108
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,khanpar,21056,29.681716,80.168306,PANCAYAT GHAR,2,147
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,khawakot,21057,29.699405,80.322799,PANCAYAT GHAR,2,36
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,khawatari,21058,29.698916,80.248878,PANCAYAT GHAR,2,455
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,kholiya gaon,21059,29.741533,80.316491,PANCAYAT GHAR,2,127
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,kotali,21060,29.698088,80.317485,PANCAYAT GHAR,2,30
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,kusail,21061,29.674525,80.163061,PANCAYAT GHAR,2,274
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,kuta,21062,29.802649,80.325627,PANCAYAT GHAR,2,174
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,limatoda,21063,29.669214,80.305584,PANCAYAT GHAR,2,65
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,lohakot,21064,29.694751,80.217805,PANCAYAT GHAR,2,501
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,mahatgaon,21065,29.708472,80.335632,PANCAYAT GHAR,2,76
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,malan charma,21066,29.710098,80.283525,PANCAYAT GHAR,2,82
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,mitari gaon,21067,29.678052,80.291744,PANCAYAT GHAR,2,125
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,mori,21068,29.672005,80.177871,PANCAYAT GHAR,2,203
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,musgaon,21069,29.696529,80.183723,PANCAYAT GHAR,2,71
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,nagrora,21070,29.688672,80.192601,PANCAYAT GHAR,2,232
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,nakhnoli,21071,29.695587,80.195299,PANCAYAT GHAR,2,278
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,narait,21072,29.733041,80.325707,PANCAYAT GHAR,2,67
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,nawali,21073,29.664375,80.356981,PANCAYAT GHAR,2,450
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,ojha malla,21075,29.738067,80.300983,PANCAYAT GHAR,2,160
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,ojha talla,21076,29.741533,80.316491,PANCAYAT GHAR,2,150
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,oltari,21077,29.695268,80.361797,PANCAYAT GHAR,2,64
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,pali,21078,29.675787,80.283924,PANCAYAT GHAR,2,390
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,pant sera,21079,29.668774,80.38686,JAN MILAN KENDRA,2,148
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,pataligaon,21080,29.698491,80.302575,PANCAYAT GHAR,2,43
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,rasgari,21081,29.754811,80.340809,PANCAYAT GHAR,2,61
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,rin,21082,29.667538,80.233204,PANCAYAT GHAR,2,39
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,satgarh,21084,29.670946,80.270502,PANCAYAT GHAR,2,979
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,saugaon,21085,29.706981,80.206468,PANCAYAT GHAR,2,120
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,sawali sera,21086,29.743267,80.348519,PANCAYAT GHAR,2,149
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,sil,21087,29.708451,80.187115,PANCAYAT GHAR,2,160
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,siloni,21083,29.716055,80.36813,PANCAYAT GHAR,2,388
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,siroli,21088,29.684515,80.262745,PANCAYAT GHAR,2,219
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,sunakot,21089,29.729823,80.311468,PANCAYAT GHAR,2,469
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,suraun,21091,29.676054,80.253196,PANCAYAT GHAR,2,415
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,suroli,21090,29.714936,80.155779,PANCAYAT GHAR,2,61
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,syuban,21092,29.689573,80.369658,PANCAYAT GHAR,2,179
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,thalgaon,21093,29.692208,80.210574,PANCAYAT GHAR,2,126
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,titari,21094,29.736086,80.362754,PANCAYAT GHAR,2,58
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,urai,21095,29.703135,80.219006,PANCAYAT GHAR,2,72
+UTTARAKHAND                                       ,5,PITHORAGARH,62,KANALICHINA                                       ,418,usail,21096,29.686397,80.210522,PANCAYAT GHAR,2,523

@@ -1,0 +1,220 @@
+State_Name,State Code,District_Name,District_Code,Block_Name,Block_Code,GP Name,GP Code,Latitude,Longitude,Location_OF_GP,Phase,population
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,nandod block,88888,21.865523,73.500393,PANCHAYAT,2,725
+GUJARAT                                           ,24,Narmada,487,TILAKWADA,4178,tilakwada,88888,21.953721,73.590268,PANCHAYAT,2,3649
+GUJARAT                                           ,24,Narmada,487,SAGBARA,4177,sagabara,88888,21.544621,73.790654,PANCHAYAT,2,4496
+GUJARAT                                           ,24,Narmada,487,DEDIYAPADA,4175,almavadi,162736,21.58793,73.495913,Panchayath,2,1790
+GUJARAT                                           ,24,Narmada,487,DEDIYAPADA,4175,ambavadi,162737,21.526961,73.665801,Panchayath,2,303
+GUJARAT                                           ,24,Narmada,487,DEDIYAPADA,4175,babada,162738,21.535264,73.529765,Panchayath,2,500
+GUJARAT                                           ,24,Narmada,487,DEDIYAPADA,4175,barsan/gopaliya,162739,21.48873,73.57906,Panchayath,2,853
+GUJARAT                                           ,24,Narmada,487,DEDIYAPADA,4175,besna,162740,21.642215,73.617185,Panchayath,2,328
+GUJARAT                                           ,24,Narmada,487,DEDIYAPADA,4175,bhatpur,162741,21.579532,73.483516,Panchayath,2,240
+GUJARAT                                           ,24,Narmada,487,DEDIYAPADA,4175,bogaj,162742,21.680058,73.577523,Panchayath,2,1479
+GUJARAT                                           ,24,Narmada,487,DEDIYAPADA,4175,chikda,162743,21.513575,73.64636,Panchayath,2,323
+GUJARAT                                           ,24,Narmada,487,DEDIYAPADA,4175,chuli,162744,21.572019,73.522832,Panchayath,2,1576
+GUJARAT                                           ,24,Narmada,487,DEDIYAPADA,4175,dabhavan,162745,21.499224,73.662592,Panchayath,2,602
+GUJARAT                                           ,24,Narmada,487,DEDIYAPADA,4175,dediapada,162746,21.62767,73.588676,Panchayath,2,9026
+GUJARAT                                           ,24,Narmada,487,DEDIYAPADA,4175,dumkhal,162747,21.737173,73.841569,Panchayath,2,263
+GUJARAT                                           ,24,Narmada,487,DEDIYAPADA,4175,fulsar,162748,21.707839,73.590941,Panchayath,2,180
+GUJARAT                                           ,24,Narmada,487,DEDIYAPADA,4175,gangapur,162749,21.579286,73.680663,Panchayath,2,500
+GUJARAT                                           ,24,Narmada,487,DEDIYAPADA,4175,ghantoli,162750,21.673543,73.551643,Panchayath,2,121
+GUJARAT                                           ,24,Narmada,487,DEDIYAPADA,4175,jhank,162752,21.501961,73.490087,Panchayath,2,545
+GUJARAT                                           ,24,Narmada,487,DEDIYAPADA,4175,juna mosda,162753,21.691164,73.707255,Panchayath,2,424
+GUJARAT                                           ,24,Narmada,487,DEDIYAPADA,4175,kabripathar,162754,21.704083,73.536922,Panchayath,2,155
+GUJARAT                                           ,24,Narmada,487,DEDIYAPADA,4175,kakarpada,162755,21.567622,73.656167,Panchayath,2,692
+GUJARAT                                           ,24,Narmada,487,DEDIYAPADA,4175,kevdi,162756,21.538645,73.657738,Panchayath,2,2042
+GUJARAT                                           ,24,Narmada,487,DEDIYAPADA,4175,khaidipada,162757,21.52934,73.500818,Panchayath,2,1413
+GUJARAT                                           ,24,Narmada,487,DEDIYAPADA,4175,khokhra umar (zarnawadiwalu),162758,21.611298,73.596673,Panchayath,2,796
+GUJARAT                                           ,24,Narmada,487,DEDIYAPADA,4175,kukadda,162759,21.555826,73.635263,Panchayath,2,216
+GUJARAT                                           ,24,Narmada,487,DEDIYAPADA,4175,kundiamba,162760,21.540611,73.622679,Panchayath,2,592
+GUJARAT                                           ,24,Narmada,487,DEDIYAPADA,4175,mandala,162761,21.573945,73.46104,Panchayath,2,240
+GUJARAT                                           ,24,Narmada,487,DEDIYAPADA,4175,moskut,162762,21.499469,73.567604,Panchayath,2,949
+GUJARAT                                           ,24,Narmada,487,DEDIYAPADA,4175,mota suka amba,162763,21.63009,73.548768,Panchayath,2,1117
+GUJARAT                                           ,24,Narmada,487,DEDIYAPADA,4175,nani bedwan,162764,21.482194,73.634091,Panchayath,2,1585
+GUJARAT                                           ,24,Narmada,487,DEDIYAPADA,4175,navagam (dediapada),162765,21.646303,73.584411,Panchayath,2,2374
+GUJARAT                                           ,24,Narmada,487,DEDIYAPADA,4175,nighat,162766,21.615043,73.55808,Panchayath,2,1138
+GUJARAT                                           ,24,Narmada,487,DEDIYAPADA,4175,nivalda,162767,21.623003,73.583267,Panchayath,2,500
+GUJARAT                                           ,24,Narmada,487,DEDIYAPADA,4175,panuda,162768,21.56043,73.499763,Panchayath,2,820
+GUJARAT                                           ,24,Narmada,487,DEDIYAPADA,4175,patdi,162769,21.519114,73.624327,Panchayath,2,1483
+GUJARAT                                           ,24,Narmada,487,DEDIYAPADA,4175,patvali,162770,21.675415,73.749061,Panchayath,2,843
+GUJARAT                                           ,24,Narmada,487,DEDIYAPADA,4175,rohda,162771,21.558982,73.513784,Panchayath,2,819
+GUJARAT                                           ,24,Narmada,487,DEDIYAPADA,4175,sabuti,162772,21.50314,73.595553,Panchayath,2,213
+GUJARAT                                           ,24,Narmada,487,DEDIYAPADA,4175,samarpada (thava),162773,21.613479,73.501114,Panchayath,2,504
+GUJARAT                                           ,24,Narmada,487,DEDIYAPADA,4175,samot,162774,21.658883,73.864306,Panchayath,2,456
+GUJARAT                                           ,24,Narmada,487,DEDIYAPADA,4175,sejpur,162775,21.599729,73.486966,Panchayath,2,717
+GUJARAT                                           ,24,Narmada,487,DEDIYAPADA,4175,soliya,162776,21.666765,73.484317,Panchayath,2,611
+GUJARAT                                           ,24,Narmada,487,DEDIYAPADA,4175,sukwal,162777,21.638754,73.720822,Panchayath,2,460
+GUJARAT                                           ,24,Narmada,487,DEDIYAPADA,4175,tapda,162778,21.515926,73.471824,Panchayath,2,1979
+GUJARAT                                           ,24,Narmada,487,DEDIYAPADA,4175,umran,162779,21.490621,73.549703,Panchayath,2,256
+GUJARAT                                           ,24,Narmada,487,DEDIYAPADA,4175,vadhva,162780,21.528759,73.560853,Panchayath,2,1998
+GUJARAT                                           ,24,Narmada,487,DEDIYAPADA,4175,zarnawadi,162781,21.607406,73.554077,Panchayath,2,2
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,akteshwar,162782,21.896604,73.639986,PANCHAYAT,2,1017
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,akuwada,162783,21.846254,73.393447,PANCHAYAT,2,2351
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,amadla,162784,21.909711,73.709902,PANCHAYAT,2,1955
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,amletha,162785,21.838529,73.423419,PANCHAYAT,2,3665
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,anodara,162786,21.927719,73.528869,PANCHAYAT,2,480
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,bhacharvada,162787,21.885457,73.486697,PANCHAYAT,2,1881
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,bhadam,162788,21.897334,73.49227,PANCHAYAT,2,2632
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,bhilvashi,162789,21.852729,73.649334,PANCHAYAT,2,2235
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,bhuchhad,162790,21.901377,73.465261,PANCHAYAT,2,1806
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,boridra,162791,21.792173,73.501279,PANCHAYAT,2,275
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,chitravadi,162792,21.887269,73.502791,PANCHAYAT,2,685
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,dhamadra,162793,21.923674,73.714971,PANCHAYAT,2,1792
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,dhamnacha,162794,21.909312,73.449843,PANCHAYAT,2,1057
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,dhanpor,162795,21.915707,73.457857,PANCHAYAT,2,560
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,dholar,162796,21.84091,73.454921,PANCHAYAT,2,1645
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,fulvadi,162797,21.878217,73.622585,PANCHAYAT,2,1273
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,gadit,162798,21.762013,73.490667,PANCHAYAT,2,133
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,gadkoi,162799,21.899076,73.728165,PANCHAYAT,2,950
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,gadod,162800,21.928788,73.784194,PANCHAYAT,2,435
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,gamkuva,162801,21.825503,73.375973,PANCHAYAT,2,1434
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,garudeshwar,162802,21.889336,73.655575,PANCHAYAT,2,2452
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,gopalpura,162803,21.865682,73.565767,PANCHAYAT,2,3563
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,gora,162804,21.861749,73.684442,PANCHAYAT,2,1844
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,guvar,162805,21.925646,73.575856,PANCHAYAT,2,826
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,hajarpara,162806,21.891708,73.479479,PANCHAYAT,2,1073
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,helambi,162807,21.897181,73.440028,PANCHAYAT,2,334
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,indravarna,162808,21.870375,73.661158,PANCHAYAT,2,595
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,jesalpor,162809,21.948239,73.482231,PANCHAYAT,2,1271
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,jetpor (ramgadh),162810,21.83922,73.492125,PANCHAYAT,2,560
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,jetpor (vaghrali),162811,21.910635,73.803587,PANCHAYAT,2,413
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,jior,162812,21.954979,73.509465,PANCHAYAT,2,832
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,jitgadh,162813,21.826644,73.545571,PANCHAYAT,2,732
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,jitnagar,162814,21.847051,73.522941,PANCHAYAT,2,1249
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,junaraj,162815,21.78872,73.568943,PANCHAYAT,2,424
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,kakadva,162816,21.805361,73.393325,PANCHAYAT,2,410
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,kali makvana,162817,21.87221,73.578681,PANCHAYAT,2,1362
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,kandroj,162818,21.87951,73.349732,PANCHAYAT,2,1012
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,karantha,162819,21.877245,73.548013,PANCHAYAT,2,1619
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,kareli,162820,21.910979,73.775045,PANCHAYAT,2,1825
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,khadagada,162821,21.914964,73.698317,PANCHAYAT,2,2655
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,khojalvasa,162822,21.826191,73.401017,PANCHAYAT,2,226
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,kothara,162823,21.958494,73.486404,PANCHAYAT,2,816
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,kothi,162824,21.889019,73.691439,PANCHAYAT,2,1042
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,kumasgam,162825,21.843867,73.404935,PANCHAYAT,2,1201
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,lachhras,162826,21.906544,73.544383,PANCHAYAT,2,3311
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,limdi,162827,21.851033,73.70948,PANCHAYAT,2,1529
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,mangrol,162828,21.913658,73.592383,PANCHAYAT,2,1698
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,mithivav,162829,21.972534,73.726006,PANCHAYAT,2,561
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,mokhdi,162830,21.843295,73.704638,PANCHAYAT,2,377
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,mota amba,162831,21.848334,73.622662,PANCHAYAT,2,431
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,mota raypara,162832,21.849521,73.566008,PANCHAYAT,2,1611
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,moti bhamri,162833,21.726265,73.510063,PANCHAYAT,2,1261
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,moti raval,162834,21.875209,73.63561,PANCHAYAT,2,499
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,naghatpor,162835,21.89289,73.761325,PANCHAYAT,2,2300
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,nana haidva,162836,21.841489,73.466162,PANCHAYAT,2,214
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,narkhadi,162837,21.951587,73.447089,PANCHAYAT,2,532
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,navapara (nikoli),162838,21.880293,73.382936,PANCHAYAT,2,1135
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,navra,162839,21.873031,73.324261,PANCHAYAT,2,2291
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,nikoli,162840,21.880703,73.3794,PANCHAYAT,2,1407
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,ori,162841,21.907927,73.392884,PANCHAYAT,2,1683
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,orpa,162842,21.925932,73.765459,PANCHAYAT,2,946
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,pan talavadi,162843,21.954372,73.683371,PANCHAYAT,2,1398
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,panchla,162844,21.905397,73.824815,PANCHAYAT,2,914
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,patna,162845,21.90305,73.424754,PANCHAYAT,2,1360
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,pinchhipara,162846,21.927555,73.81521,PANCHAYAT,2,1553
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,poicha,162847,21.969447,73.460963,PANCHAYAT,2,1539
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,pratapnagar,162848,21.817988,73.357715,PANCHAYAT,2,2758
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,pratappara,162849,21.873535,73.426412,PANCHAYAT,2,168
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,rajuvadia,162850,21.841662,73.344399,PANCHAYAT,2,2664
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,rampara (mangrol),162851,21.899652,73.598328,PANCHAYAT,2,937
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,ranipura,162852,21.870995,73.462597,PANCHAYAT,2,783
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,rasela,162853,21.922761,73.489056,PANCHAYAT,2,881
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,rundh,162854,21.942253,73.454988,PANCHAYAT,2,2081
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,samaria,162855,21.847679,73.613656,PANCHAYAT,2,1022
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,shaherav,162856,21.950729,73.566865,PANCHAYAT,2,2205
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,sisodara,162857,21.909255,73.351552,PANCHAYAT,2,2689
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,sondhaliya,162858,21.956386,73.547662,PANCHAYAT,2,519
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,songam,162859,21.952474,73.745101,PANCHAYAT,2,767
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,suka,162860,21.947119,73.728603,PANCHAYAT,2,1214
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,sundarpura,162861,21.838787,73.534222,PANCHAYAT,2,1603
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,tankari,162862,21.938414,73.538864,PANCHAYAT,2,1086
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,taropa,162863,21.844483,73.438829,PANCHAYAT,2,2145
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,thari,162864,21.891666,73.551198,PANCHAYAT,2,975
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,timbi,162865,21.839287,73.370956,PANCHAYAT,2,1421
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,torna,162866,21.905068,73.485106,PANCHAYAT,2,759
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,umarva,162867,21.838898,73.316592,PANCHAYAT,2,1721
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,undva,162868,21.931738,73.744855,PANCHAYAT,2,2248
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,vadiya,162869,21.866899,73.519573,PANCHAYAT,2,329
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,vagadia,162870,21.859766,73.36568,PANCHAYAT,2,833
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,vaghetha,162871,21.879652,73.44266,PANCHAYAT,2,1884
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,vaghodia,162872,21.866561,73.699165,PANCHAYAT,2,500
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,vaghrali,162873,21.913003,73.790593,PANCHAYAT,2,332
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,vansla,162874,21.874645,73.644454,PANCHAYAT,2,527
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,varachha,162875,21.882633,73.304811,PANCHAYAT,2,394
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,varkhad,162876,21.90602,73.409368,PANCHAYAT,2,1209
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,vavdi,162877,21.853432,73.554972,PANCHAYAT,2,2475
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,vaviala,162878,21.945968,73.700742,PANCHAYAT,2,1719
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,velchhandi,162879,21.861666,73.603401,PANCHAYAT,2,414
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,virpor,162880,21.858825,73.458242,PANCHAYAT,2,1065
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,zaria,162881,21.91971,73.728168,PANCHAYAT,2,1022
+GUJARAT                                           ,24,Narmada,487,NANDOD,4176,zarvani,162882,21.805307,73.70358,PANCHAYAT,2,2931
+GUJARAT                                           ,24,Narmada,487,SAGBARA,4177,amiyar,162883,21.553364,73.753327,PANCHAYAT,2,1077
+GUJARAT                                           ,24,Narmada,487,SAGBARA,4177,bhadod,162884,21.480547,73.844184,PANCHAYAT,2,2304
+GUJARAT                                           ,24,Narmada,487,SAGBARA,4177,bhogwad,162885,21.507246,73.87466,PANCHAYAT,2,500
+GUJARAT                                           ,24,Narmada,487,SAGBARA,4177,bhoramli,162886,21.475815,73.801435,PANCHAYAT,2,857
+GUJARAT                                           ,24,Narmada,487,SAGBARA,4177,chopadvav,162887,21.5521,73.736633,PANCHAYAT,2,2702
+GUJARAT                                           ,24,Narmada,487,SAGBARA,4177,datwada,162888,21.49905,73.772924,PANCHAYAT,2,1035
+GUJARAT                                           ,24,Narmada,487,SAGBARA,4177,devmogra,162889,21.608486,73.751904,PANCHAYAT,2,500
+GUJARAT                                           ,24,Narmada,487,SAGBARA,4177,devsaki,162890,21.438791,73.796461,PANCHAYAT,2,2220
+GUJARAT                                           ,24,Narmada,487,SAGBARA,4177,dhavliver,162891,21.493984,73.843421,PANCHAYAT,2,587
+GUJARAT                                           ,24,Narmada,487,SAGBARA,4177,dodhanvadi,162892,21.434769,73.735544,PANCHAYAT,2,551
+GUJARAT                                           ,24,Narmada,487,SAGBARA,4177,javli (navagam),162893,21.513113,73.971516,PANCHAYAT,2,3482
+GUJARAT                                           ,24,Narmada,487,SAGBARA,4177,kherpada,162894,21.48333,73.882139,PANCHAYAT,2,1654
+GUJARAT                                           ,24,Narmada,487,SAGBARA,4177,kolvan,162895,21.509314,73.92764,PANCHAYAT,2,500
+GUJARAT                                           ,24,Narmada,487,SAGBARA,4177,mahupada,162896,21.448261,73.772535,PANCHAYAT,2,1375
+GUJARAT                                           ,24,Narmada,487,SAGBARA,4177,mota kakdi amba,162897,21.443825,73.751062,PANCHAYAT,2,500
+GUJARAT                                           ,24,Narmada,487,SAGBARA,4177,movi,162898,21.488112,73.706987,PANCHAYAT,2,1624
+GUJARAT                                           ,24,Narmada,487,SAGBARA,4177,nal,162899,21.450278,73.729134,PANCHAYAT,2,1984
+GUJARAT                                           ,24,Narmada,487,SAGBARA,4177,nana kakdi amba,162900,21.51821,73.740884,PANCHAYAT,2,725
+GUJARAT                                           ,24,Narmada,487,SAGBARA,4177,navagam (javli),162901,21.518049,73.956538,PANCHAYAT,2,500
+GUJARAT                                           ,24,Narmada,487,SAGBARA,4177,palaswada,162902,21.497044,73.949625,PANCHAYAT,2,600
+GUJARAT                                           ,24,Narmada,487,SAGBARA,4177,panchpipri,162903,21.499276,73.807313,PANCHAYAT,2,1275
+GUJARAT                                           ,24,Narmada,487,SAGBARA,4177,path,162904,21.504217,73.793207,PANCHAYAT,2,155
+GUJARAT                                           ,24,Narmada,487,SAGBARA,4177,patlamau,162905,21.467912,73.772518,PANCHAYAT,2,219
+GUJARAT                                           ,24,Narmada,487,SAGBARA,4177,ranipur,162906,21.505661,73.931954,PANCHAYAT,2,2299
+GUJARAT                                           ,24,Narmada,487,SAGBARA,4177,rozdev,162907,21.508274,73.75963,PANCHAYAT,2,594
+GUJARAT                                           ,24,Narmada,487,SAGBARA,4177,sajanvav,162909,21.438791,73.796461,PANCHAYAT,2,828
+GUJARAT                                           ,24,Narmada,487,SAGBARA,4177,selamba,162910,21.518455,73.82021,PANCHAYAT,2,6717
+GUJARAT                                           ,24,Narmada,487,SAGBARA,4177,sorapada,162911,21.469211,73.716704,PANCHAYAT,2,1798
+GUJARAT                                           ,24,Narmada,487,SAGBARA,4177,taval,162912,21.469211,73.786848,PANCHAYAT,2,1641
+GUJARAT                                           ,24,Narmada,487,SAGBARA,4177,ubhariya,162913,21.453594,73.800191,PANCHAYAT,2,320
+GUJARAT                                           ,24,Narmada,487,TILAKWADA,4178,agar,162914,22.030975,73.661902,PANCHAYAT,2,746
+GUJARAT                                           ,24,Narmada,487,TILAKWADA,4178,alwa,162915,21.972197,73.661228,PANCHAYAT,2,600
+GUJARAT                                           ,24,Narmada,487,TILAKWADA,4178,amaliya,162916,22.033572,73.629566,PANCHAYAT,2,358
+GUJARAT                                           ,24,Narmada,487,TILAKWADA,4178,bhadarwa,162917,21.910601,73.65778,PANCHAYAT,2,634
+GUJARAT                                           ,24,Narmada,487,TILAKWADA,4178,bujhetha,162918,22.020786,73.519283,PANCHAYAT,2,2842
+GUJARAT                                           ,24,Narmada,487,TILAKWADA,4178,chudeswar,162919,21.973531,73.565838,PANCHAYAT,2,993
+GUJARAT                                           ,24,Narmada,487,TILAKWADA,4178,devaliya,162920,21.968794,73.647844,PANCHAYAT,2,632
+GUJARAT                                           ,24,Narmada,487,TILAKWADA,4178,fatepur vanmala,162921,22.062793,73.619299,PANCHAYAT,2,327
+GUJARAT                                           ,24,Narmada,487,TILAKWADA,4178,fatepur,162922,22.02738,73.563329,PANCHAYAT,2,327
+GUJARAT                                           ,24,Narmada,487,TILAKWADA,4178,gamod,162923,21.998791,73.548365,PANCHAYAT,2,677
+GUJARAT                                           ,24,Narmada,487,TILAKWADA,4178,hafispura,162924,21.980858,73.581574,PANCHAYAT,2,458
+GUJARAT                                           ,24,Narmada,487,TILAKWADA,4178,indarma,162925,21.980409,73.690591,PANCHAYAT,2,804
+GUJARAT                                           ,24,Narmada,487,TILAKWADA,4178,jalodra,162926,22.047265,73.530456,PANCHAYAT,2,436
+GUJARAT                                           ,24,Narmada,487,TILAKWADA,4178,katkoi,162927,21.947058,73.663043,PANCHAYAT,2,274
+GUJARAT                                           ,24,Narmada,487,TILAKWADA,4178,kamsoli,162928,21.959425,73.608044,PANCHAYAT,2,591
+GUJARAT                                           ,24,Narmada,487,TILAKWADA,4178,kantharpura,162929,21.92489,73.631287,PANCHAYAT,2,1223
+GUJARAT                                           ,24,Narmada,487,TILAKWADA,4178,rampur,162930,22.002271,73.602507,PANCHAYAT,2,783
+GUJARAT                                           ,24,Narmada,487,TILAKWADA,4178,koyari,162931,21.906477,73.643816,PANCHAYAT,2,614
+GUJARAT                                           ,24,Narmada,487,TILAKWADA,4178,limpura,162932,22.019101,73.522301,PANCHAYAT,2,1065
+GUJARAT                                           ,24,Narmada,487,TILAKWADA,4178,mangu,162933,22.024039,73.548833,PANCHAYAT,2,271
+GUJARAT                                           ,24,Narmada,487,TILAKWADA,4178,namaria,162934,22.04753,73.613901,PANCHAYAT,2,962
+GUJARAT                                           ,24,Narmada,487,TILAKWADA,4178,narmada river,162935,22.002291,73.581708,PANCHAYAT,2,504
+GUJARAT                                           ,24,Narmada,487,TILAKWADA,4178,pichchipura,162936,22.010794,73.605842,PANCHAYAT,2,497
+GUJARAT                                           ,24,Narmada,487,TILAKWADA,4178,puchpura,162937,21.995977,73.639474,PANCHAYAT,2,814
+GUJARAT                                           ,24,Narmada,487,TILAKWADA,4178,ratudiya,162938,22.013707,73.667572,PANCHAYAT,2,628
+GUJARAT                                           ,24,Narmada,487,TILAKWADA,4178,rengan,162939,21.912857,73.62536,PANCHAYAT,2,1716
+GUJARAT                                           ,24,Narmada,487,TILAKWADA,4178,sahebpura,162940,22.045274,73.597567,PANCHAYAT,2,248
+GUJARAT                                           ,24,Narmada,487,TILAKWADA,4178,savli,162941,22.007741,73.651682,PANCHAYAT,2,1889
+GUJARAT                                           ,24,Narmada,487,TILAKWADA,4178,saveda,162942,22.041735,73.557303,PANCHAYAT,2,2374
+GUJARAT                                           ,24,Narmada,487,TILAKWADA,4178,shira,162943,21.995735,73.672833,PANCHAYAT,2,417
+GUJARAT                                           ,24,Narmada,487,TILAKWADA,4178,sindhiyapura,162944,22.030515,73.644284,PANCHAYAT,2,842
+GUJARAT                                           ,24,Narmada,487,TILAKWADA,4178,ucchad,162946,21.945496,73.631547,PANCHAYAT,2,1806
+GUJARAT                                           ,24,Narmada,487,TILAKWADA,4178,vadia,162947,21.941165,73.616416,PANCHAYAT,2,2664
+GUJARAT                                           ,24,Narmada,487,TILAKWADA,4178,vagheli,162948,21.99603,73.617957,PANCHAYAT,2,271
+GUJARAT                                           ,24,Narmada,487,TILAKWADA,4178,vajiria,162949,22.031239,73.583097,PANCHAYAT,2,1019
+GUJARAT                                           ,24,Narmada,487,TILAKWADA,4178,vandh,162950,21.979996,73.618649,PANCHAYAT,2,321
+GUJARAT                                           ,24,Narmada,487,TILAKWADA,4178,varvada,162951,21.972455,73.517412,PANCHAYAT,2,218
+GUJARAT                                           ,24,Narmada,487,TILAKWADA,4178,vasan,162952,21.921313,73.596985,PANCHAYAT,2,925
+GUJARAT                                           ,24,Narmada,487,TILAKWADA,4178,vora,162953,22.062152,73.592905,PANCHAYAT,2,1331
+GUJARAT                                           ,24,Narmada,487,TILAKWADA,4178,vyadhar,162954,21.93033,73.669211,PANCHAYAT,2,1552

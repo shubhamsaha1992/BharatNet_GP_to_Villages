@@ -16,13 +16,17 @@ def process(filename):
     run_cmd = "python run_plot.py " + filename
     os.system(run_cmd)
     
- 
+try:
+    os.remove('Maharashtra.csv')
+except OSError:
+    pass 
 
-os.remove("Maharashtra.csv")
 dir_name = os.getcwd() + '/Throughput files'
 #base_filename = sys.argv[1]
 #process(base_filename)
 
 for f in os.listdir(dir_name):
-    process(f)
-    
+    try:
+        process(f)
+    except IOError:
+        pass    

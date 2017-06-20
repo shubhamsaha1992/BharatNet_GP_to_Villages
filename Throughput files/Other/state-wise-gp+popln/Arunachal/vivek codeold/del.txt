@@ -1,0 +1,510 @@
+497
+akkalkuwa 4812
+alvihir 915
+bhabalpur 1582
+bhagarpani 500
+bhagdari 678
+bhijarigavan 748
+bramhangaon 1721
+dab 4455
+debramal 289
+denal 1212
+devmogara 2689
+gavahli 767
+ghatani 913
+horafali 2192
+jamana 930
+kadwamahu 354
+kakadkhut 918
+katawani 603
+kathi 3722
+khaper 7235
+korai 2941
+kukadipadar 719
+m.akkushvihir 1282
+mahalpada 1224
+mogara 557
+molgi 1489
+moramba 884
+nala 558
+ohawa 1725
+pecharidev 1155
+pipalkhuta 1286
+porambi 296
+rajmohi m 1275
+sakaliumbar 1566
+sigpur bhu 1092
+sorapado 2111
+talamba 1208
+thanavihir 1483
+udepur m. 843
+umaragavhan 707
+vanyavihir 330
+veli 818
+virpur 2362
+wadvfali 431
+adgon 1894
+akaspur 577
+alkhed 959
+ambapur 1380
+amode 1992
+anarad 2344
+asolod 3125
+aurangpur 500
+bahirpur 1074
+bamkheda 3318
+bamkheda ts 1033
+bhade 1897
+bhagapur 931
+bhongara 2063
+bhortek 565
+bhulane 2069
+biladi th 876
+biladi ts 1586
+borade 1314
+brahamanpuri 2941
+budigavon 923
+bupakari 1038
+chandsali 683
+chikhali bk 1980
+chirde 1103
+chirkhan 1104
+damrkheda 2669
+dandhare bh 286
+deur 1611
+dhurkheda 2810
+dogargoan 3906
+dondwada 705
+duadkheda 2168
+fattepur 3192
+fes 2170
+godipur 3368
+gogapur 2604
+gonar 3229
+hingani 1242
+hol 1931
+islampur 1520
+jam 866
+javade tb 2235
+javade th 2251
+javkheda 940
+jaynagare 2142
+junavane 974
+kakarde kh 1012
+kakardedigar 1195
+kalmadi tb 1941
+kalsadi 1687
+kamarawad 1197
+kansai 4182
+karajot 1072
+karankheda 861
+karjai 1214
+khairve 1064
+khaparkheda 663
+khatharde digar 862
+khatharde k 1776
+kheddigar 2989
+kothali 4676
+kukawal 1923
+kurangi 1639
+kusumwada 2216
+lagadi 3164
+lohare 1083
+lokkadkot 2764
+lombade 1903
+londhare 1597
+lonkheda 1247
+madkani 1779
+malgaon 2272
+manarad 1531
+mandane 5564
+manmodya 1507
+masawad 8603
+mohida 6786
+mohide th 2610
+mubarkpur 989
+nandarde 1035
+nandarkheda 2268
+nande 1899
+navangar 2165
+nombhore 795
+ozarte 780
+palaswada 873
+pari 1801
+pimapri 1771
+pimparde 1103
+pimprani 2314
+pingane 2021
+prakasha 10133
+purushtom n. 2107
+pusanad 2574
+rampur 1667
+ranipur 2940
+raykhed 2880
+sajade 2059
+sarngkheda 7918
+saukheda 1176
+sawade 1235
+shahane 3422
+shelti 2800
+shrikhed 390
+siruddigar 3372
+sonawal ts 2413
+sonwal tb 1372
+sultanpur 3430
+sulwada 3063
+talwadi 3591
+tarhadi tb 2118
+tawali 1723
+tembhali 1505
+tembhe t.s a 1049
+thembe th 2591
+tikhore 2166
+titari 1121
+torkheda 4014
+tuki 443
+ujdoad 1333
+vadali 4411
+vaijali 2573
+virpur 2362
+wadchil 2593
+wadgaon 3604
+wagarde 1286
+waghode 881
+wardhe ts 792
+warul ts 1468
+amalad 3357
+ammalpafda 1225
+amoni 5939
+bhavar 1109
+bhudhawal 2809
+borod 7017
+chh.dhanpur 1657
+chinoda 2900
+chougav b 1052
+dalelpur 1617
+daswad 880
+dhanpur 1469
+dhonara 1042
+ichhagavhan 87
+kadhel 832
+kardhe 1778
+kazipur 1386
+kharwad 1318
+khedale 500
+khushgavhan 988
+lakhapur f 2492
+lakhapur r 709
+lobhani 818
+malda 500
+mod 4135
+modalpada 908
+mohida 6786
+morwad 458
+nalgavon 902
+narmdanagar 3353
+nawagaon 1912
+new ban 788
+pratappur 3228
+rajvihair 1767
+ranapur 671
+ranipur 2940
+razani 2261
+rewanagar 3211
+rozava 1279
+rozavanager 2637
+salsadi 1017
+sardarnagar 950
+shirve 1225
+somawal b 2107
+somawal k 1374
+talve 2384
+tarhawad 2131
+valehari 199
+ziri 553
+asali 2533
+bhusha 360
+bijari 2082
+chapari 579
+chikhali 1129
+chinchkati 1622
+genda 1208
+goramba 4595
+katri 1333
+kharwad 1318
+khuntamodi 2241
+mandvi b 942
+mudalwad 2799
+radikalm 925
+rajbardi 1935
+roshmal k 345
+sisa 1336
+surwani 345
+talai 1639
+tornmal 1712
+varkhedi b 630
+wadfalya 6093
+adachhi 1759
+ajaipure 947
+akarade 743
+amalthe 535
+ambapur 1380
+arale 1029
+arditara 1307
+asane 2253
+ashte 3546
+bahyane 1498
+balamarai 796
+baldane 618
+balwand 2077
+bhadwad 1957
+bhagsari 399
+bhaler 345
+bhangada 1320
+bhavanipada 877
+bhone 2385
+biladi 799
+borale 1565
+chakale 1113
+chhopale 4030
+dahindule b 1603
+dahindule k 348
+devapur 803
+dhamodod 1173
+dhandane 90
+dhanora 5201
+dhekwad 1681
+dhirajgaon 972
+dhomdai 1700
+dhulwad 1262
+dudhale 4303
+esainagar 1906
+fulsare 992
+gangapur 827
+ghogalgaon 795
+ghotane 2661
+gijarjamoli 2056
+gujarbhwali 2405
+haripur 1407
+hatmohide 2072
+hol t hawali 4327
+hol t ranale 1534
+indri hatti 726
+jalkhe 1800
+june mohide 1828
+kakarde 1694
+kalmadi 1013
+kalmba 549
+kanalde 526
+kandre 792
+karajkupe 1483
+karli 1541
+karnkheda 1728
+kesarpada 1214
+khamgaon 2373
+kharde k 1536
+khodasgaon 1041
+khokarde 2523
+khondamali 3184
+kolda 3034
+koporli 4293
+korit 2385
+kothade 1384
+kothali 4676
+l.shahada 2286
+lonkheda 1247
+loye 1929
+magarule 751
+malpur 1277
+manjare 1721
+nagaon 1090
+nagsar 1357
+naimgoan 2312
+nalve b 707
+nalve k 1789
+nandarkhe 3721
+nandpur 1328
+narayanpur 1481
+nashinde 372
+natawad 1875
+navagoan 980
+nayhali 1191
+nimbhali 1242
+nimbhoni 633
+osarli 1120
+pachorbari 2219
+palashi 1374
+patharai 2662
+patonda 3079
+pawala 2542
+pimplod 446
+rajale 2455
+rajapur 1778
+rakaswade 1346
+ranala 7403
+ranale k 1174
+saitane 2035
+samsherpur 2267
+shejave 926
+shidgavahan 1714
+shinde 2958
+shiravade 717
+shivpur 785
+shnimandal 287
+shrirampur 1290
+sujalpur 839
+sundarde 3146
+sutare 882
+sutharkhe 746
+thanepada 3488
+tilali 2086
+tisi 625
+tokartalav 2751
+umaj 1892
+umarde b 2318
+umarde k 2426
+vadajkhan 1296
+vaidane 500
+vasalai 1492
+vasdare 2048
+vikharan 1938
+virchak 130
+vyahur 1265
+waghale 3823
+waghoda 2210
+waghsepa 957
+walawad 1462
+warul 691
+wavad 2254
+amlan 2822
+anjane 1942
+antipada 755
+balamrai 1634
+bandhare 1670
+bandharpada 3113
+bhadawad 3300
+bhangarpada 295
+bhardu 2322
+bijgaon 986
+bilbare 1668
+bilda 1621
+bilmajare 1461
+bokalzar 834
+borchhok 2045
+borpada 1973
+chhorvihir 939
+chikhali 1129
+chinchpada 7008
+chitavi 1230
+deomogara 1531
+deovlipada 660
+dhanrat 588
+dhong 2046
+dogegaon 1561
+dudhave 1082
+gadad 2671
+gangapur 827
+ghodjamne 373
+ghogal 2153
+haldani 6487
+jamde 1203
+jamtalav 1323
+kareghat 1016
+karnjali 2814
+karnji b 735
+karnji k 1136
+kelpada 2019
+khadki 2752
+khairave 1594
+khatgaon 1454
+khekada 1314
+khokasa 1512
+kholvihir 720
+kokanipada 525
+kolda 3034
+malwan 500
+mogarani 4086
+nagziri 653
+nangipada 824
+navagaon 4585
+navali 2101
+navapada 2181
+nijampur 1882
+pangaran 2425
+pati 1335
+raingan 2401
+raipur 1618
+shegave 2486
+shehi 299
+shirve 1225
+shrawani 2822
+sonapada 1549
+sonkhadke 463
+suli 2698
+talavipada 500
+tarapur 1719
+tarpada 803
+thuva 1292
+umaran 500
+umbardi 1151
+visarwadi 6179
+wadade 1070
+wadfali 1337
+wadkhut 1490
+warhadipada 750
+watavi 1116
+wavadi 847
+zamtyawad 873
+827
+2165
+2165
+144
+1714
+2610
+3216
+1539
+4004
+1355
+1355
+1445
+1753
+705
+1463
+3272
+1384
+1001
+4086
+4347
+446
+933
+2758
+564
+1195
+345
+345
+345
+1358
+295
+933
+1980
+1980
+1980
+1980
+1225
+1225
+1077
+939
+1300
+988
+988
+887
+887
+2764
+633
+933
+950
+1645
+558
+558
+953
+1385

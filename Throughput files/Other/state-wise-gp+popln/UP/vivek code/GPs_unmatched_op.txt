@@ -1,0 +1,665 @@
+88888,karaudiya
+88888,sodha
+88888,bhikhampur
+88888,dharmdaspur
+88888,padari khurd
+88888,siltham
+88888,karvaniya
+88888,narokhar
+88888,padari kala
+88888,domariya
+88888,virdhi
+88888,jagdishpur
+88888,giriya
+88888,unchi khurd
+88888,newavri
+88888,bhusholiya
+88888,kusumha
+88888,chatra block h.q
+88888,kirhuliya
+88888,barail
+88888,senhua
+88888,kasari
+88888,ailai
+88888,gulli dand
+88888,pannuganj
+88888,kuriyaw
+88888,khaduai
+88888,babhaniyanv
+88888,purnakala
+88888,guroti khurd
+88888,banoli
+88888,raki
+88888,charkonva
+88888,pithauri
+88888,nodiha
+88888,kura kala
+88888,pakarhta
+88888,aamdeeh
+88888,aamdih
+88888,agori
+88888,ahirbudhawa
+88888,amokhar
+88888,amwar
+88888,anpara
+88888,aodi
+88888,arauli
+88888,arjhat
+88888,babhandiha
+88888,babhnauli
+88888,babhnoli kala
+88888,badagaon
+88888,badagawan
+88888,bagesoti
+88888,baghamandawa
+88888,baghuwari
+88888,baharadol
+88888,bahuaar
+88888,baij nath
+88888,bairkhad
+88888,bakauli
+88888,baldeeh
+88888,baliyeri
+88888,banbahuar
+88888,banora-i
+88888,banora-ii
+88888,banshi
+88888,baraak
+88888,barahmori
+88888,bardia
+88888,barhauli
+88888,bari mahewan
+88888,barr
+88888,barvadeeh
+88888,barvan
+88888,basauli
+88888,baswanisif
+88888,batt
+88888,beejpur
+88888,bela tand
+88888,belachh
+88888,belcup
+88888,belhathi
+88888,belvadah
+88888,bhabhaich
+88888,bhadkana
+88888,bhaishvaar
+88888,bhalpahari
+88888,bhanwar
+88888,bharahari
+88888,bhatauliya
+88888,bhavna
+88888,bhawanipur
+88888,bichchhi
+88888,bidar
+88888,billi
+88888,bishundhari
+88888,budhar kala
+88888,budhar khurd
+88888,butbedhawa
+88888,chachikalan
+88888,chainpur
+88888,chakaria
+88888,chanani
+88888,chanduaar
+88888,changa
+88888,chargada
+88888,chauna
+88888,cheruie
+88888,chilka dand
+88888,chirahuli
+88888,dadihara
+88888,darew
+88888,deebar
+88888,deeva
+88888,dehari
+88888,devri
+88888,devri khurd
+88888,devrikat
+88888,devrimath devra
+88888,dhanwar
+88888,dharsadi
+88888,dhighul
+88888,dhobhee
+88888,dhosra
+88888,dhovan
+88888,dhubha
+88888,dhuma
+88888,dhuter
+88888,dodhar
+88888,domkhari
+88888,dubeypur
+88888,dugauliya
+88888,dumardiha
+88888,dumrahar
+88888,durawal kala
+88888,ekadari
+88888,fulwar
+88888,fulwari
+88888,gadaigad
+88888,gadiya
+88888,garbandha
+88888,gaurahi
+88888,gauri bandh
+88888,ghivahi
+88888,ghohara
+88888,ghorapa
+88888,ghoria
+88888,gidhia
+88888,gordeeha
+88888,gurudah
+88888,guruval
+88888,haranakachhar
+88888,harhua
+88888,hinduaari
+88888,imli pokhar
+88888,inam
+88888,jaith
+88888,jamagaon
+88888,jamgaayi
+88888,jamual
+88888,jarha
+88888,jharokala
+88888,jharokhurd
+88888,jighanawa
+88888,jogini
+88888,jorukhad
+88888,judoli kolani
+88888,judwariya
+88888,jugail
+88888,kabri
+88888,kachanarva
+88888,kadiya
+88888,kaithee
+88888,kajiyari
+88888,kakri
+88888,kamhardeeh
+88888,kamharia
+88888,kanachh
+88888,kanahara
+88888,karagara
+88888,karail
+88888,karki
+88888,karkoli
+88888,karri baraon
+88888,katauli
+88888,kataundhi
+88888,katwariya
+88888,kekrahi
+88888,kevta
+88888,kevtam
+88888,kewta
+88888,khad deurr
+88888,khadiya
+88888,khagiya
+88888,khaliyari
+88888,kharahara
+88888,kharoudhi
+88888,kharuaon
+88888,khetkatawa
+88888,khodaila
+88888,khotomahuwa
+88888,khutahana
+88888,khutahaniya
+88888,kirvil
+88888,kirwani
+88888,kohraoliya
+88888,kohratha
+88888,koldiha
+88888,kolkadi
+88888,kone
+88888,kudawa
+88888,kuldemari
+88888,kuruhul
+88888,kushamahan
+88888,kusi
+88888,kusinishf
+88888,kusumah
+88888,lasda
+88888,laubandh
+88888,liladeva
+88888,lodhi
+88888,lohara
+88888,machabandhawa
+88888,machi
+88888,maddar
+88888,madhupur
+88888,magardaha
+88888,mahawaon
+88888,mahrikala(majhraut)
+88888,mahuawan pandey
+88888,mahuresar
+88888,majhauli
+88888,majhiganwa chauhan
+88888,majhuai
+88888,makara(sendur)
+88888,makari bari
+88888,maldeva
+88888,marachi
+88888,markari (bachhaudha)
+88888,markudi
+88888,marsada
+88888,masi aadinath
+88888,maukala
+88888,medanikhar
+88888,meetapur
+88888,mijhun
+88888,mishri
+88888,mithihinia
+88888,mubarakpur
+88888,muddesemar
+88888,mudila deeh
+88888,mungehary
+88888,murdhawa
+88888,murtya
+88888,musar dhara
+88888,myourpur
+88888,nagaon
+88888,nagnar haraiya
+88888,nakatwar
+88888,naugawan nandlal
+88888,nigai
+88888,nimna
+88888,obradeeh
+88888,odauli
+88888,odhatha
+88888,orgahee-p
+88888,orgayee-t
+88888,padarachh
+88888,padari
+88888,padari
+88888,padvaniya
+88888,pagiya
+88888,pakri
+88888,paliyakalam
+88888,pandey pokhar
+88888,panikap kala
+88888,panikap khurd
+88888,panwar
+88888,papee
+88888,parahi
+88888,parashi
+88888,parasi pandey
+88888,parasoi
+88888,parshona
+88888,parsoti
+88888,pasahikala
+88888,patawadh
+88888,patwadh
+88888,petarahi
+88888,pharipan
+88888,pidariya
+88888,prasvar raja
+88888,purna
+88888,purna
+88888,rajkhar
+88888,rajmilan
+88888,rampur
+88888,randah
+88888,ranhor
+88888,rani tara
+88888,raup
+88888,raypur
+88888,rijul
+88888,rorawa
+88888,sagobandh
+88888,sahdeiya baidad
+88888,sahijan kala
+88888,sainduri
+88888,sajour
+88888,salaiyadih
+88888,sarai gaad
+88888,sarvat
+88888,satoha
+88888,semar
+88888,semia
+88888,sendoor
+88888,shilpi
+88888,shishva
+88888,shiv dwar
+88888,shivkhari
+88888,sidheekala
+88888,sidhhi
+88888,sikarwar
+88888,silhata
+88888,sirisiya thakurai
+88888,sirpal pur
+88888,sirsai
+88888,sirsiya
+88888,sirsiya jedi
+88888,sistola
+88888,sohdawal
+88888,somariya
+88888,soteel
+88888,suar sot
+88888,supanchuan
+88888,tapu
+88888,tarawan
+88888,tendha
+88888,tenduhar
+88888,tenua
+88888,tikuria
+88888,tilauli kala
+88888,tiyara nayak
+88888,umarikala
+88888,unchdeeh
+88888,urmaura
+88888,vaini
+88888,vijwar
+88888,visarekhi
+88888,vishar
+88888,waar
+88888,aamdeeh
+88888,aamdih
+88888,agori
+88888,ahirbudhawa
+88888,amokhar
+88888,amwar
+88888,anpara
+88888,aodi
+88888,arauli
+88888,arjhat
+88888,babhandiha
+88888,babhnauli
+88888,babhnoli kala
+88888,badagaon
+88888,badagawan
+88888,bagesoti
+88888,baghamandawa
+88888,baghuwari
+88888,baharadol
+88888,bahuaar
+88888,baij nath
+88888,bairkhad
+88888,bakauli
+88888,baldeeh
+88888,baliyeri
+88888,banbahuar
+88888,banora-i
+88888,banora-ii
+88888,banshi
+88888,baraak
+88888,barahmori
+88888,bardia
+88888,barhauli
+88888,bari mahewan
+88888,barr
+88888,barvadeeh
+88888,barvan
+88888,basauli
+88888,baswanisif
+88888,batt
+88888,beejpur
+88888,bela tand
+88888,belachh
+88888,belcup
+88888,belhathi
+88888,belvadah
+88888,bhabhaich
+88888,bhadkana
+88888,bhaishvaar
+88888,bhalpahari
+88888,bhanwar
+88888,bharahari
+88888,bhatauliya
+88888,bhavna
+88888,bhawanipur
+88888,bichchhi
+88888,bidar
+88888,billi
+88888,bishundhari
+88888,budhar kala
+88888,budhar khurd
+88888,butbedhawa
+88888,chachikalan
+88888,chainpur
+88888,chakaria
+88888,chanani
+88888,chanduaar
+88888,changa
+88888,chargada
+88888,chauna
+88888,cheruie
+88888,chilka dand
+88888,chirahuli
+88888,dadihara
+88888,darew
+88888,deebar
+88888,deeva
+88888,dehari
+88888,devri
+88888,devri khurd
+88888,devrikat
+88888,devrimath devra
+88888,dhanwar
+88888,dharsadi
+88888,dhighul
+88888,dhobhee
+88888,dhosra
+88888,dhovan
+88888,dhubha
+88888,dhuma
+88888,dhuter
+88888,dodhar
+88888,domkhari
+88888,dubeypur
+88888,dugauliya
+88888,dumardiha
+88888,dumrahar
+88888,durawal kala
+88888,ekadari
+88888,fulwar
+88888,fulwari
+88888,gadaigad
+88888,gadiya
+88888,garbandha
+88888,gaurahi
+88888,gauri bandh
+88888,ghivahi
+88888,ghohara
+88888,ghorapa
+88888,ghoria
+88888,gidhia
+88888,gordeeha
+88888,gurudah
+88888,guruval
+88888,haranakachhar
+88888,harhua
+88888,hinduaari
+88888,imli pokhar
+88888,inam
+88888,jaith
+88888,jamagaon
+88888,jamgaayi
+88888,jamual
+88888,jarha
+88888,jharokala
+88888,jharokhurd
+88888,jighanawa
+88888,jogini
+88888,jorukhad
+88888,judoli kolani
+88888,judwariya
+88888,jugail
+88888,kabri
+88888,kachanarva
+88888,kadiya
+88888,kaithee
+88888,kajiyari
+88888,kakri
+88888,kamhardeeh
+88888,kamharia
+88888,kanachh
+88888,kanahara
+88888,karagara
+88888,karail
+88888,karki
+88888,karkoli
+88888,karri baraon
+88888,katauli
+88888,kataundhi
+88888,katwariya
+88888,kekrahi
+88888,kevta
+88888,kevtam
+88888,kewta
+88888,khad deurr
+88888,khadiya
+88888,khagiya
+88888,khaliyari
+88888,kharahara
+88888,kharoudhi
+88888,kharuaon
+88888,khetkatawa
+88888,khodaila
+88888,khotomahuwa
+88888,khutahana
+88888,khutahaniya
+88888,kirvil
+88888,kirwani
+88888,kohraoliya
+88888,kohratha
+88888,koldiha
+88888,kolkadi
+88888,kone
+88888,kudawa
+88888,kuldemari
+88888,kuruhul
+88888,kushamahan
+88888,kusi
+88888,kusinishf
+88888,kusumah
+88888,lasda
+88888,laubandh
+88888,liladeva
+88888,lodhi
+88888,lohara
+88888,machabandhawa
+88888,machi
+88888,maddar
+88888,madhupur
+88888,magardaha
+88888,mahawaon
+88888,mahrikala(majhraut)
+88888,mahuawan pandey
+88888,mahuresar
+88888,majhauli
+88888,majhiganwa chauhan
+88888,majhuai
+88888,makara(sendur)
+88888,makari bari
+88888,maldeva
+88888,marachi
+88888,markari (bachhaudha)
+88888,markudi
+88888,marsada
+88888,masi aadinath
+88888,maukala
+88888,medanikhar
+88888,meetapur
+88888,mijhun
+88888,mishri
+88888,mithihinia
+88888,mubarakpur
+88888,muddesemar
+88888,mudila deeh
+88888,mungehary
+88888,murdhawa
+88888,murtya
+88888,musar dhara
+88888,myourpur
+88888,nagaon
+88888,nagnar haraiya
+88888,nakatwar
+88888,naugawan nandlal
+88888,nigai
+88888,nimna
+88888,obradeeh
+88888,odauli
+88888,odhatha
+88888,orgahee-p
+88888,orgayee-t
+88888,padarachh
+88888,padari
+88888,padari
+88888,padvaniya
+88888,pagiya
+88888,pakri
+88888,paliyakalam
+88888,pandey pokhar
+88888,panikap kala
+88888,panikap khurd
+88888,panwar
+88888,papee
+88888,parahi
+88888,parashi
+88888,parasi pandey
+88888,parasoi
+88888,parshona
+88888,parsoti
+88888,pasahikala
+88888,patawadh
+88888,patwadh
+88888,petarahi
+88888,pharipan
+88888,pidariya
+88888,prasvar raja
+88888,purna
+88888,purna
+88888,rajkhar
+88888,rajmilan
+88888,rampur
+88888,randah
+88888,ranhor
+88888,rani tara
+88888,raup
+88888,raypur
+88888,rijul
+88888,rorawa
+88888,sagobandh
+88888,sahdeiya baidad
+88888,sahijan kala
+88888,sainduri
+88888,sajour
+88888,salaiyadih
+88888,sarai gaad
+88888,sarvat
+88888,satoha
+88888,semar
+88888,semia
+88888,sendoor
+88888,shilpi
+88888,shishva
+88888,shiv dwar
+88888,shivkhari
+88888,sidheekala
+88888,sidhhi
+88888,sikarwar
+88888,silhata
+88888,sirisiya thakurai
+88888,sirpal pur
+88888,sirsai
+88888,sirsiya
+88888,sirsiya jedi
+88888,sistola
+88888,sohdawal
+88888,somariya
+88888,soteel
+88888,suar sot
+88888,supanchuan
+88888,tapu
+88888,tarawan
+88888,tendha
+88888,tenduhar
+88888,tenua
+88888,tikuria
+88888,tilauli kala
+88888,tiyara nayak
+88888,umarikala
+88888,unchdeeh
+88888,urmaura
+88888,vaini
+88888,vijwar
+88888,visarekhi
+88888,vishar
+88888,waar

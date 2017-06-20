@@ -1,0 +1,61 @@
+170721,borgaon dori
+170722,borgaon peth
+170728,dhamangaon gadi
+170760,ramapur belaj
+0,amla vi
+0,basalpur
+0,chandurwadi
+0,kalamdapur
+0,kalamgavhan
+0,madwa
+0,manjarkhed
+0,sawagi magrapur
+0,sawanji bk
+0,sonora bk
+171122,adula bazar
+171126,bebla bk
+171134,dogargaon
+171194,erandgaon
+171135,gaiwadi
+171136,gourkheda
+171140,higani
+171141,itaki
+171144,kalamghvan
+171146,karathkheda
+171153,lothwada
+171161,nandeda bk
+171163,narsingpur
+171167,peth itbarpur
+171169,pimpload
+171174,saglud
+171175,sagwa bk
+171176,sasang bk
+171177,sasang ramapur
+171179,shignapur
+171180,shirazda
+171181,shivar bk
+171182,sukali
+171183,takali
+171185,thillori
+171186,togalabad
+171188,umari bazar
+171187,umari itbarpur
+171190,wadalghavan
+171191,wadner gn
+171193,warud bk
+171333,chikhal sawangi
+171362,ner pinglai
+171367,pimpalkhuta lahan
+241212,shimbora
+0,jamgaon mahedri
+0,khadaka
+0,palsona
+0,palswada
+0,peth
+0,pusala
+0,rajurabazar
+0,satnoor
+0,tiwasaghat
+0,wadhala
+0,wai (khrd)
+0,wandli

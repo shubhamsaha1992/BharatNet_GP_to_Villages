@@ -1,0 +1,289 @@
+8481,adamwal garhi
+8496,badi khadd
+8499,basi bazid
+8500,basi kalen khan
+8502,bassi wahid
+8509,bhathlan
+8521,chhamery patti
+8542,dherian
+8540,dhut
+8543,fatehpur(423)
+8543,fatehpur(423)
+8549,goraya
+8552,hussainpur
+8559,jai sahota kalan
+8555,janauri
+8563,kabirpur shekhan(526)
+8562,kabirpur(400)
+8570,kapat
+8571,kathorah
+8565,kello
+8592,maker sali
+8601,mirzapur(17)
+250188,mirzapur(59)
+250192,mohalla ranjit garh(470)
+250192,mohalla tahli wala(478)
+8605,nangal(mallian)
+8614,nila naloya
+8618,pandori atwal
+8629,ramtatwali
+8632,rehmanpur
+250191,shahpur(491)
+250191,shekhan(411)
+250213,abadi khole safdarpur
+250212,abadi kulian safdarpur
+250211,abadi mahesra safdarpur
+8655,aglaur
+8658,badla
+8661,ballagan
+8666,basti makhowal
+8667,basti nawan terkiana
+8668,basti vadhian
+8673,bhuchhan
+8675,bodal
+8676,bodal chauni
+8682,chanauta
+8688,dhadar
+8689,dolmiwal
+8690,dugal dawakhri
+8692,fateh ullapur
+8694,fattan chak
+8708,himatpur
+8709,jakowal
+8712,jand
+8716,kairan
+8727,khairabad
+8737,kolar
+8741,makowal
+8744,mehar bhatauli
+8748,mohadipur
+8698,new abadi galowal
+8754,nihalpur
+8755,odran
+8756,pandori araian
+8757,panther
+8761,pawen
+8773,safdarpur
+8776,sahge
+8790,terkiana
+8791,thakar
+8798,aima mughlan
+8802,bagwain
+250250,basti shainsian (147)
+8809,bhadiar
+8815,bhawanipur bhagtan
+8822,buggra
+8829,chak singhan
+8840,dhada khurd
+250247,dhangori beet (479)
+8858,hiyatpur
+250249,kanewal (487)
+250251,maihandwani gujjaran (478)
+8884,mansowal
+8885,matton
+8887,mazara deengrian
+8892,mohannwal
+8897,nazarpur
+8909,pipliwal
+8910,possi
+8927,samundra khas
+8935,tabba
+250248,tibbian (477)
+8942,asafpur
+8945,balhadda
+8946,ballo chohan
+8958,bhavnal
+8964,dagan
+8968,dhade katwal
+8981,jahadpur awana
+8986,jhikla pind
+8987,jiwanwal
+8990,kashrawn
+8992,khizarpur
+8993,khundan
+8994,kullian lawana
+8995,ladhairi
+8998,mawa bath
+9001,nangal behalan
+9002,nansota(mirpur)
+9004,niku chak
+9009,patti kaler
+9011,pota
+9013,raili
+9016,sahaura dadial
+9017,sahaura kandi
+9018,saido
+9020,sariana
+9021,saroa
+9022,sawar
+9024,sheikh matta
+9025,sibo chak
+9028,siprian
+9030,sundarpur
+9039,atalgarh
+9050,bassi gulam hussain
+9051,bassi kaso
+9054,bassi maruf siala
+249844,bassi maruf siala new ghar (381)
+9058,begampur
+9062,bhikhowal
+9067,burey jattan
+9068,burey rajputan
+9072,chakowal brahamanan
+9092,dhuga khurd
+9101,haiderwal
+9105,hariana behrun
+9110,jhojher
+9118,katowal
+9119,khadiala sainian
+9125,korangna
+249840,kulian(391)
+9135,lohar kangna
+9138,maruli brahmana
+9139,mehandipur
+9141,mirzapur
+249842,mugal pura bassi khijar khan (372)
+9152,nasrala
+9153,naugrain
+249839,new abbadi bassi gulam hussain(362)
+9159,pandori khajoor
+9162,pandori mehtman
+9163,pandori rukman
+9167,qaimpur
+249846,rassul pur(371)
+9170,sada arain
+9178,sarain
+9189,singriwala
+9193,talwandi araian
+9195,talwandi kanungoian
+9201,ahrana kalan
+9202,ahrana khurd
+9204,alahabad
+249769,ali di bassi (354)
+9205,anandgarh
+9208,badla
+9212,bajwara
+9214,bassi ali khan
+9225,bhungarni
+9233,chhauni kalan
+9235,chohal
+9240,dheha allies ram nagar
+9247,harta
+9250,hussainpur
+9251,j.c.t. chohal
+9256,jian
+9272,marnaian kalan
+9273,marnaian khurd
+9276,mehlanwali
+249766,mohalla ram garh chohal (494)
+9288,naru nangal kila
+249765,new colony chohal (494)
+249768,new shanti nagar (355)
+14315,bherua
+14320,bombeli
+14321,chehar
+14357,jandoli
+14370,kharawal bassi
+14383,maili
+14392,mehmdowal kalan
+14407,pach-nangal
+14424,saddulapur baddoan
+9456,abdullpur
+9461,amirpur jattan
+9463,aulia
+9467,bagroei
+9472,bhangala nawan
+9473,bhangala purana
+250244,bohran(410)
+9484,chak shero
+9490,chanian kalan
+9486,chanour
+9488,chhani nand singh
+9495,dhanoya
+9496,dhaula khera
+9498,dugri awana
+9500,dugri rajputtan mohalla dharampur
+9507,gujjar katrala
+9515,hoshiarpur kalota
+9519,jandwal basti thakar dwara
+9532,kolian (258)
+250242,kolian(418)
+9534,kotli khas
+9541,mahdiunpur gajji
+9540,mahiudinpur dalel
+9542,mahiuldinpur dalel patti ramgarh kullian
+9552,mehandipur
+9558,muradpur jattan
+9563,naushehra pattan
+9578,salowal
+9584,sangho katrala
+9586,taggar khurd
+9589,tanda ram sahai
+9590,tangralian
+9598,abadi sandhani
+9599,abadi tote
+250201,andwar patti
+9604,bankarnpur
+9605,bari
+9606,baringli
+9611,beh darya
+9615,beh jogan
+250203,bhadiaran
+9623,bhambotar
+9627,bhavnour
+9631,chak bringali
+9637,dalwali kalan
+250198,damowal
+9639,depur
+250204,goeewala
+9650,kathigar
+250199,khamata patti
+9656,mohala nagar
+9657,namoli
+250205,patti balaam
+9665,patti dhagrol
+250207,patti lakhar palli
+9667,rajwal
+250206,rajwal middle
+9671,reru patti
+9674,shri pandian
+9676,talwara
+9679,abdullapur
+9683,badhan ganipur
+9688,bainch baja
+9691,balra
+9692,basi jalal khan
+9694,basti boharan
+9693,bastibazigar
+9685,bhogal kalan
+9686,bhogal khurd
+9696,bhoolpur
+9697,buddi pind
+9699,chattowal
+9706,daburji
+9701,dadhiala
+9708,firoz rollian
+9711,ghull
+9714,gurala
+9715,hambra
+250050,ibrahimpur(537)
+9726,jhaji pind
+9734,kaluwal kotla
+9737,kandala sheikhan
+9738,kandhali naurangpur
+9740,kharal khurd
+9744,kurala kalan
+9795,model town
+9764,odhpur
+9766,patti bolewal
+9767,patti meerapur
+250245,patti nangli gilzian(512)
+9768,patti nangli jalalpur
+9771,patti paswal
+9770,patti pla chak
+9785,salempur(524)
+9784,shalapur
+9793,talwandi sallan
+9794,tilluwal
+9719,zahura
+9720,zahura patii

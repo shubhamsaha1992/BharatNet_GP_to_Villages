@@ -53,7 +53,7 @@ def getElevation(path, latlong_list, dist_filename, state="Maharashtra", dist="N
 		path contains a '|' seperated lat long eg
 			lat0, long0 | lat1, long1
 	'''
-	print "fetching at", time.time()
+	print "fetching",latlong_list, "at", time.time(),
 	secret = 'psWqzr5Q3Nj0hMjD5SETEzs2ebs='
 	client='gme-iitmumbai'
 	elvtn_args.update({
@@ -102,7 +102,7 @@ def get_elevation_profile(latlongPair,dist_filename,state='Maharashtra',dist='Na
 		First element is status. 
 			If status is true, Second element will return elevation profile.
 	'''
-	print "called at", time.time()
+	print "called ",latlongPair, "at", time.time()
 #	if(os.path.exists('elefile/eleFile_'+str(state)+'_'+str(dist)+'_'+dist_filename)):
 #		with open('elefile/eleFile_'+str(state)+'_'+str(dist)+'_'+dist_filename, 'r+') as foo:
  	if(os.path.exists('elefile/eleFile_'+dist_filename)):

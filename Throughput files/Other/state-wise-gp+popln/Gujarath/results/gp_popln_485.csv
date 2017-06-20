@@ -1,0 +1,428 @@
+State_Name,State Code,District_Name,District_Code,Block_Name,Block_Code,GP Name,GP Code,Latitude,Longitude,Location_OF_GP,Phase,population
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,devgad bariya,88888,22.699783,73.906441,PANCHAYAT,2,2993
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,lakhan gogiya,88888,22.592253,74.025073,PANCHAYAT,2,1914
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,kaliya rai,88888,22.942295,74.048942,KALIYA RAI,2,472
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,kaviya,88888,23.150727,74.089102,PANCHAYAT,2,472
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,dhanpur,88888,22.635742,74.099102,DHANPUR,2,566
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,moti vasvani,88888,22.895634,74.110016,MOTI VASVANI,2,1021
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,parabha,88888,22.953923,74.142116,PANCHAYAT,2,1296
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,jhalod,88888,23.094865,74.154616,BLOCK HQ,2,3153
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,khajuri,88888,22.653619,74.165092,KHAJURI,2,2810
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,chapri,88888,22.867685,74.233642,CHAPRI,2,5580
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,rariyatigujar,88888,22.98606,74.254642,PANCHAYAT,2,4106
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,dahod taluka,88888,22.835332,74.259051,DAHOD TALUKA,2,2542
+GUJARAT                                           ,24,Dahod,485,GARBADA,4115,garbada,88888,22.684952,74.311322,GARBADA,2,22691
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,agawada,158613,22.756956,74.378217,AGAWADA,2,10263
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,bandibar,158614,22.822235,74.400728,BANDIBAR,2,782
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,bavka,158615,22.761871,74.197965,BAVKA,2,9384
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,bhambhori,158616,22.83422,74.333854,BHAMBHORI,2,2033
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,bhathiwada,158617,22.892384,74.276504,BHATHIWADA,2,7394
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,bhutodi,158618,22.778609,74.35137,BHUTODI,2,3001
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,bordi inami,158619,22.869058,74.33671,BORDI INAMI,2,2634
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,bordi sarkari,158620,22.865616,74.345151,BORDI SARKARI,2,244
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,borkheda,158621,22.786842,74.317576,BORKHEDA,2,5420
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,borwani,158622,22.870946,74.183432,BORWANI,2,5574
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,brahmkheda,158623,22.773731,74.282794,BRAHMKHEDA,2,8766
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,chandawada,158624,22.746714,74.210241,CHANDAWADA,2,2103
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,chandwana,158625,22.798032,74.334942,CHANDWANA,2,5009
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,chosala,158626,22.916648,74.249728,CHOSALA,2,6911
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,dasla,158627,22.750139,74.333057,DASLA,2,8620
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,delsar,158628,22.852786,74.259936,DELSAR,2,4435
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,dhamarda,158629,22.855826,74.316279,DHAMARDA,2,3749
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,doki,158630,22.911958,74.18764,DOKI,2,2030
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,gadoi,158631,22.774034,74.228494,GADOI,2,4956
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,galaliyawad (dahod kasba),158632,22.846263,74.269398,GALALIYAWAD (DAHOD KASBA),2,15285
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,gamla,158633,22.799443,74.323506,GAMLA,2,4286
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,gundi kheda,158634,22.848697,74.410095,GUNDI KHEDA,2,3268
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,himala,158635,22.867567,74.412297,HIMALA,2,4184
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,itawa,158636,22.831318,74.393922,ITAWA,2,4465
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,jalat,158637,22.806618,74.308331,JALAT,2,9957
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,jekot,158638,22.846211,74.147822,JEKOT,2,1159
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,kali talai,158639,22.864158,74.208616,KALI TALAI,2,1656
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,kathla,158640,22.800128,74.38251,KATHLA,2,6265
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,katwara,158641,22.778921,74.341037,KATWARA,2,4488
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,khangela,158642,22.785259,74.416224,KHANGELA,2,13303
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,khapariya,158643,22.768987,74.385886,KHAPARIYA,2,2518
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,kharedi,158644,22.869969,74.278125,KHAREDI,2,6463
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,kharod,158645,22.889356,74.216273,KHAROD,2,6459
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,kharoda,158646,22.936534,74.31193,KHARODA,2,12254
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,kheng,158647,22.872218,74.460534,KHENG,2,2646
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,kotda khurd,158648,22.87624,74.422522,KOTDA KHURD,2,3856
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,lilar,158649,22.77654,74.32789,LILAR,2,5463
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,limdabra,158650,22.822286,74.429671,LIMDABRA,2,5773
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,mandavav,158651,22.838466,74.300961,MANDAVAV,2,3764
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,moti kharaj,158652,22.792046,74.275679,MOTI KHARAJ,2,12581
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,moti lachheli,158653,22.758863,74.347728,MOTI LACHHELI,2,2452
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,muwalia,158655,22.813498,74.223613,MUWALIA,2,6263
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,naghrala,158656,22.795657,74.25004,NAGHRALA,2,6950
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,nani kharaj,158657,22.802826,74.262984,NANI KHARAJ,2,3626
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,nani lachheli,158658,22.746609,74.350665,NANI LACHHELI,2,2810
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,nasirpur,158659,22.820996,74.246426,NASIRPUR,2,1833
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,navagam,158660,22.887135,74.342481,NAVAGAM,2,6544
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,punsri,158662,22.816949,74.281223,PUNSRI,2,3277
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,rabdal,158663,22.826823,74.225691,RABDAL,2,4675
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,rachharda,158664,22.864507,74.426285,RACHHARDA,2,4233
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,rajpur,158665,22.88466,74.262966,RAJPUR,2,2570
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,raliyati (dahod kasba),158666,22.835181,74.281552,RALIYATI (DAHOD KASBA),2,15285
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,ranapur khurd,158667,22.884844,74.313882,RANAPUR KHURD,2,3332
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,ravali kheda,158668,22.899732,74.374673,RAVALI KHEDA,2,1657
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,rentiya,158669,22.912896,74.211511,RENTIYA,2,5448
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,rozam,158670,22.824178,74.147623,ROZAM,2,3004
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,sakarda,158671,22.887648,74.241317,SAKARDA,2,1162
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,salapada,158672,22.900635,74.427698,SALAPADA,2,1647
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,simaliya khurd,158673,22.762004,74.357624,SIMALIYA KHURD,2,4170
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,tanachhiya,158674,22.860662,74.368818,TANACHHIYA,2,3707
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,tanda,158675,22.889234,74.439253,TANDA,2,1695
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,tarvadia himat,158676,22.826696,74.349529,TARVADIA HIMAT,2,2508
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,tarvadiya bhau,158677,22.820157,74.34152,TARVADIYA BHAU,2,1296
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,tarvadiya vaja,158678,22.814509,74.346471,TARVADIYA VAJA,2,2452
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,timarda,158679,22.86124,74.417736,TIMARDA,2,2375
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,uchavaniya,158680,22.829827,74.445586,UCHAVANIYA,2,8963
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,ukardi,158681,22.873279,74.254916,UKARDI,2,3582
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,usarvan (part),158682,22.864851,74.246828,USARVAN (PART),2,2142
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,vanbhori,158683,22.82269,74.33251,VANBHORI,2,3414
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,vankiya,158684,22.747344,74.367623,VANKIYA,2,2585
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,vadbara,158685,22.799686,74.400827,VADBARA,2,4317
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,vijagadh,158686,22.762263,74.239696,VIJAGADH,2,5515
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,zari khurd,158687,22.900654,74.438451,ZARI KHURD,2,3322
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,abhlod,158688,22.705999,73.85475,PANCHAYAT,2,982
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,ankali,158689,22.619472,73.896613,PANCHAYAT,2,3574
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,asayadi,158691,22.795177,73.861812,PANCHAYAT,2,2794
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,baina,158692,22.641907,73.948068,PANCHAYAT,2,4678
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,bamroli,158693,22.635629,73.89901,PANCHAYAT,2,1056
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,bara,158694,22.568787,73.837397,PANCHAYAT,2,3669
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,bhathwada,158695,22.78677,73.844866,PANCHAYAT,2,5697
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,bhular,158696,22.754636,73.944097,PANCHAYAT,2,1372
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,bhut pagalan,158697,22.604618,73.878616,PANCHAYAT,2,1277
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,bhuval,158698,22.693745,73.87968,PANCHAYAT,2,2547
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,chenpur,158699,22.735766,73.871656,PANCHAYAT,2,3604
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,chhasiya,158700,22.550831,73.872001,PANCHAYAT,2,1712
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,givapar,158703,22.669875,73.967183,PANCHAYAT,2,3870
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,fangiya,158705,22.566873,73.942277,PANCHAYAT,2,1266
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,jambusar,158709,22.634305,74.010178,PANCHAYAT,2,2040
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,juna bariya,158711,22.668017,73.909038,PANCHAYAT,2,2946
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,juni bedi,158712,22.564764,73.890355,PANCHAYAT,2,1420
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,kakalpur,158713,22.635869,73.812513,PANCHAYAT,2,1733
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,kali dungari,158714,22.689543,73.835725,PANCHAYAT,2,4844
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,keliya,158716,22.655704,73.987395,PANCHAYAT,2,3222
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,kelkuva,158717,22.561364,73.848617,PANCHAYAT,2,2746
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,khandaniya,158718,22.591708,73.893212,PANCHAYAT,2,501
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,kolina punvala,158719,22.691425,73.933462,PANCHAYAT,2,2283
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,mandav,158722,22.580191,73.924394,PANCHAYAT,2,3430
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,moti khajuri,158724,22.697424,73.958339,PANCHAYAT,2,5437
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,moti zari,158726,22.781311,73.903199,PANCHAYAT,2,2951
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,nadatod,158727,22.58509,73.949736,PANCHAYAT,2,3191
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,nagvav,158728,22.618552,73.98438,PANCHAYAT,2,1747
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,nani magoi,158730,22.611862,73.851037,PANCHAYAT,2,923
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,nani zari,158731,22.759636,73.89816,PANCHAYAT,2,1624
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,navi bedi,158732,22.576196,73.882373,PANCHAYAT,2,907
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,panchela,158733,22.820095,73.915687,PANCHAYAT,2,4144
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,piplod,158734,22.814208,73.903433,PANCHAYAT,2,10304
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,rama,158735,22.766581,73.851337,PANCHAYAT,2,752
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,rampura devi,158736,22.549622,73.868255,PANCHAYAT,2,2053
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,ranipura,158737,22.712561,73.846665,PANCHAYAT,2,1375
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,ratadiya,158738,22.710619,73.862768,PANCHAYAT,2,1149
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,redhana,158740,22.625916,73.954796,PANCHAYAT,2,2758
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,ruvabari,158741,22.723698,73.95922,PANCHAYAT,2,6176
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,sagtala,158743,22.582325,73.905199,PANCHAYAT,2,1704
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,saliya,158744,22.818938,73.906382,PANCHAYAT,2,5638
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,satkunda,158745,22.58801,73.88651,PANCHAYAT,2,1439
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,simlaghasi,158747,22.608791,73.971783,PANCHAYAT,2,2040
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,singedi,158748,22.664988,73.877796,PANCHAYAT,2,3672
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,singor,158749,22.637159,73.865734,PANCHAYAT,2,2568
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,tidki,158750,22.665111,73.91486,PANCHAYAT,2,2193
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,timarva,158751,22.603123,73.963252,PANCHAYAT,2,824
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,toyani,158752,22.843593,73.914855,PANCHAYAT,2,5323
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,vadbhet,158754,22.611944,74.001979,PANCHAYAT,2,1499
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,vadodar,158755,22.834729,73.843684,PANCHAYAT,2,2782
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,vandar,158756,22.635544,73.987061,PANCHAYAT,2,2995
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,virol,158757,22.652556,73.845225,PANCHAYAT,2,1513
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,zabiya,158758,22.674072,73.960347,PANCHAYAT,2,1487
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,agasvani,158759,22.741251,74.0566,AGASVANI,2,5255
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,ambakach,158760,22.638955,74.233784,AMBAKACH,2,2617
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,bedat,158761,22.715992,74.010034,BEDAT,2,1371
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,bhanpur,158762,22.59211,74.206528,BHANPUR,2,3460
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,bhindol,158763,22.574812,74.128713,BHINDOL,2,1347
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,bhorva,158764,22.700405,74.054243,BHORVA,2,6778
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,bhuvera,158765,22.52897,74.14059,BHUVERA,2,876
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,bogadva,158766,22.673292,74.000292,BOGADVA,2,2517
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,dabhava,158768,22.612833,74.017868,DABHAVA,2,1326
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,dhanpur (to),158769,22.636567,74.097672,DHANPUR (TO),2,2258
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,dudhamali,158770,22.688406,74.075147,DUDHAMALI,2,1990
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,dumka,158771,22.628878,74.113564,DUMKA,2,2673
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,dungarpur (to),158772,22.597459,74.051999,DUNGARPUR (TO),2,1051
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,gangardi faliya,158774,22.617031,74.236998,GANGARDI FALIYA,2,2993
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,ghada,158775,22.62397,74.032754,GHADA,2,2575
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,ghodajar,158776,22.751961,74.043009,GHODAJAR,2,2935
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,gumli (to),158777,22.584977,74.061808,GUMLI (TO),2,105
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,kakad khila,158778,22.603147,74.216045,KAKAD KHILA,2,3833
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,kalakhunt,158779,22.656781,74.229758,KALAKHUNT,2,2312
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,kaliyavad,158780,22.735848,74.104534,KALIYAVAD,2,3826
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,kanjeta,158781,22.580768,74.10698,KANJETA,2,1260
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,khalta garabdi,158783,22.616214,74.130643,KHALTA GARABDI,2,4354
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,khokhbed,158784,22.655139,74.061131,KHOKHBED,2,636
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,khokhra,158785,22.636927,74.038031,KHOKHRA,2,1768
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,kotambi,158786,22.631863,74.133051,KOTAMBI,2,417
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,kothariya,158787,22.679117,74.019134,KOTHARIYA,2,1233
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,kundawada,158788,22.630691,74.068589,KUNDAWADA,2,1161
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,limdi medhari,158790,22.585019,74.084903,LIMDI MEDHARI,2,2456
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,mahunala,158791,22.74967,74.076737,MAHUNALA,2,1386
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,mandav,158792,22.742947,74.099023,MANDAV,2,3430
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,mandor,158793,22.612594,74.215295,MANDOR,2,766
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,nakti,158795,22.69161,74.009541,NAKTI,2,3495
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,nalu,158796,22.6798,74.074931,NALU,2,3750
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,navanagar,158797,22.653024,74.250864,NAVANAGAR,2,282
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,pav,158799,22.66879,74.088151,PAV,2,2562
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,pipariya (to),158800,22.591646,74.054094,PIPARIYA (TO),2,768
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,pipearo,158801,22.64041,74.091556,PIPEARO,2,1054
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,pipodra,158802,22.733499,74.032542,PIPODRA,2,3507
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,rampur,158804,22.66146,74.009478,RAMPUR,2,2617
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,sajoi,158805,22.691077,74.081369,SAJOI,2,5503
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,taramkach,158807,22.619064,74.057899,TARAMKACH,2,1106
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,umariya,158809,22.7521,74.064014,UMARIYA,2,1105
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,undar,158810,22.7234,74.119487,UNDAR,2,3997
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,vakasiya,158811,22.623802,74.079197,VAKASIYA,2,1874
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,vakota,158812,22.651476,74.20475,VAKOTA,2,2919
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,vasiya dungari,158813,22.638648,74.207046,VASIYA DUNGARI,2,1998
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,ved,158814,22.641286,74.031523,VED,2,1648
+GUJARAT                                           ,24,Dahod,485,DHANPUR,4113,zabu,158815,22.668581,74.17127,ZABU,2,4852
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,balaiya,158816,23.195755,74.00136,PANCHAYAT,2,1530
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,bhichor,158817,23.233289,74.098669,PANCHAYAT,2,2316
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,bhojela,158818,23.149512,74.001661,PANCHAYAT,2,4602
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,chhalor,158819,23.26862,74.066565,PANCHAYAT,2,2992
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,dhadhela,158820,23.199966,74.08803,PANCHAYAT,2,2583
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,dungar,158821,23.288505,74.033106,PANCHAYAT,2,7218
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,fatepura,158822,23.256585,74.042602,PANCHAYAT,2,759
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,gadra,158823,23.325958,74.005402,PANCHAYAT,2,2330
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,gava dungra,158824,23.184798,73.981495,PANCHAYAT,2,1919
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,ghani khunt,158825,23.146396,74.04671,PANCHAYAT,2,1604
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,ghughas,158826,23.237776,74.125218,PANCHAYAT,2,7798
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,hadmat,158827,23.137569,74.067958,PANCHAYAT,2,2085
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,hafwa,158828,23.140037,74.022229,PANCHAYAT,2,3553
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,hindoliya,158829,23.125562,73.992037,PANCHAYAT,2,1679
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,hingla,158830,23.123633,74.045127,PANCHAYAT,2,2641
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,javesi,158831,23.099276,74.081584,PANCHAYAT,2,3909
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,kanthagar,158832,23.117199,74.018076,PANCHAYAT,2,4750
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,karmel,158833,23.243721,74.076564,PANCHAYAT,2,705
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,karodiya (east),158834,23.257981,74.036002,PANCHAYAT,2,5119
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,khakhariya (east),158835,23.155119,74.014027,PANCHAYAT,2,1016
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,kundla,158836,23.112411,74.088181,PANCHAYAT,2,2488
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,lakhanpur,158837,23.149232,74.088419,PANCHAYAT,2,4130
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,limadiya,158838,23.234346,74.015425,PANCHAYAT,2,2335
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,madhva,158839,23.212831,74.069119,PANCHAYAT,2,3820
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,margala,158840,23.105312,74.057071,PANCHAYAT,2,8522
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,mota natava,158841,23.162385,74.03488,PANCHAYAT,2,6001
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,moti dhadheli,158842,23.157271,74.087379,PANCHAYAT,2,3660
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,moti nandukan,158843,23.232234,73.999839,PANCHAYAT,2,544
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,motirel (east),158844,23.232355,74.02917,PANCHAYAT,2,7120
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,nana borida,158845,23.15324,74.065277,PANCHAYAT,2,1471
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,nana saranaiya,158846,23.21623,73.970634,PANCHAYAT,2,1433
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,nani charoli,158847,23.244926,74.101492,PANCHAYAT,2,2135
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,nani dhadheli,158848,23.163502,74.070145,PANCHAYAT,2,2327
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,nava talav,158849,23.265649,74.095914,PANCHAYAT,2,1324
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,navagam,158850,23.28125,74.044554,PANCHAYAT,2,6544
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,nindka (east),158851,23.190912,74.018974,PANCHAYAT,2,7081
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,patisara,158853,23.182152,74.066963,PANCHAYAT,2,951
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,patvel,158854,23.287337,74.072001,PANCHAYAT,2,1846
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,piplara,158855,23.273542,74.056417,PANCHAYAT,2,1591
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,pipliya,158856,23.20377,74.0448,PANCHAYAT,2,954
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,ratanpur (nes),158857,23.214557,74.000857,PANCHAYAT,2,371
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,raval na varuna,158858,23.153979,74.028928,PANCHAYAT,2,2011
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,sagdapada,158859,23.111602,74.033104,PANCHAYAT,2,6734
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,salara,158860,23.259316,74.002139,PANCHAYAT,2,8759
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,sarsawa (east),158861,23.179362,74.001378,PANCHAYAT,2,963
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,sukhsar,158862,23.149221,74.026546,PANCHAYAT,2,4127
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,vadvas,158863,23.273321,74.034346,PANCHAYAT,2,3939
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,valundi,158864,23.249042,74.04693,PANCHAYAT,2,2761
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,vandariya (east),158865,23.259376,74.105564,PANCHAYAT,2,2090
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,vangad,158866,23.220717,74.064403,PANCHAYAT,2,930
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,vankaner,158867,23.134667,74.046958,PANCHAYAT,2,1877
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,vansiya kui,158868,23.181503,74.05823,PANCHAYAT,2,3184
+GUJARAT                                           ,24,Dahod,485,FATEPURA,4114,zer,158869,23.295275,74.00874,PANCHAYAT,2,1249
+GUJARAT                                           ,24,Dahod,485,GARBADA,4115,abhlod,158870,22.746161,74.236588,ABHLOD,2,982
+GUJARAT                                           ,24,Dahod,485,GARBADA,4115,ambli,158871,22.726762,74.186097,AMBLI,2,5765
+GUJARAT                                           ,24,Dahod,485,GARBADA,4115,bharsada,158872,22.682724,74.271936,BHARSADA,2,3845
+GUJARAT                                           ,24,Dahod,485,GARBADA,4115,bhe,158873,22.670359,74.240583,BHE,2,8421
+GUJARAT                                           ,24,Dahod,485,GARBADA,4115,bhutardi,158874,22.66872,74.299645,BHUTARDI,2,1555
+GUJARAT                                           ,24,Dahod,485,GARBADA,4115,boriyala,158875,22.718941,74.32968,BORIYALA,2,7944
+GUJARAT                                           ,24,Dahod,485,GARBADA,4115,chandla,158876,22.666758,74.29397,CHANDLA,2,3621
+GUJARAT                                           ,24,Dahod,485,GARBADA,4115,dadur,158878,22.684575,74.241513,DADUR,2,1976
+GUJARAT                                           ,24,Dahod,485,GARBADA,4115,devdha,158879,22.756436,74.305827,DEVDHA,2,6112
+GUJARAT                                           ,24,Dahod,485,GARBADA,4115,gangarda,158880,22.71112,74.357056,GANGARDA,2,5433
+GUJARAT                                           ,24,Dahod,485,GARBADA,4115,gangardi,158881,22.681431,74.278057,GANGARDI,2,2746
+GUJARAT                                           ,24,Dahod,485,GARBADA,4115,gulbar,158883,22.713533,74.385076,GULBAR,2,4144
+GUJARAT                                           ,24,Dahod,485,GARBADA,4115,jambua,158884,22.710516,74.375548,JAMBUA,2,3149
+GUJARAT                                           ,24,Dahod,485,GARBADA,4115,jesawada,158885,22.739876,74.198865,JESAWADA,2,5116
+GUJARAT                                           ,24,Dahod,485,GARBADA,4115,matwa,158886,22.778454,74.151933,MATWA,2,5506
+GUJARAT                                           ,24,Dahod,485,GARBADA,4115,minakyar,158887,22.655922,74.311625,MINAKYAR,2,4125
+GUJARAT                                           ,24,Dahod,485,GARBADA,4115,nadhelav,158888,22.709584,74.210456,NADHELAV,2,11837
+GUJARAT                                           ,24,Dahod,485,GARBADA,4115,nalwai,158889,22.686408,74.289103,NALWAI,2,3977
+GUJARAT                                           ,24,Dahod,485,GARBADA,4115,nandva,158890,22.69358,74.23955,NANDVA,2,2478
+GUJARAT                                           ,24,Dahod,485,GARBADA,4115,nelsur,158891,22.739991,74.173534,NELSUR,2,4865
+GUJARAT                                           ,24,Dahod,485,GARBADA,4115,nimach,158892,22.688521,74.382018,NIMACH,2,2717
+GUJARAT                                           ,24,Dahod,485,GARBADA,4115,panchwada,158893,22.728805,74.309415,PANCHWADA,2,2709
+GUJARAT                                           ,24,Dahod,485,GARBADA,4115,pandadi,158894,22.734989,74.268301,PANDADI,2,4994
+GUJARAT                                           ,24,Dahod,485,GARBADA,4115,patiya,158895,22.688555,74.223275,PATIYA,2,7586
+GUJARAT                                           ,24,Dahod,485,GARBADA,4115,sahada,158896,22.715401,74.305536,SAHADA,2,3858
+GUJARAT                                           ,24,Dahod,485,GARBADA,4115,tunki vaju,158898,22.693314,74.276853,TUNKI VAJU,2,6642
+GUJARAT                                           ,24,Dahod,485,GARBADA,4115,vadva,158899,22.733503,74.181862,VADVA,2,4791
+GUJARAT                                           ,24,Dahod,485,GARBADA,4115,vajelav,158900,22.749287,74.172062,VAJELAV,2,5077
+GUJARAT                                           ,24,Dahod,485,GARBADA,4115,zari bujarg,158901,22.675562,74.354476,ZARI BUJARG,2,14329
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,amba,158902,22.925406,74.13665,PANCHAYAT,2,3148
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,bajarvada,158903,23.068161,74.132688,PANCHAYAT,2,4616
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,bambela,158904,23.162342,74.18989,PANCHAYAT,2,2747
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,bhanpur,158905,23.037443,74.000055,PANCHAYAT,2,3460
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,bilwani,158906,22.939364,74.13232,PANCHAYAT,2,3571
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,chakaliya,158907,23.052252,74.305759,PANCHAYAT,2,14557
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,chamariya,158908,23.054255,73.952259,PANCHAYAT,2,3818
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,chhasiya,158909,23.157844,74.245473,PANCHAYAT,2,1712
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,chhayan,158910,22.994065,74.321413,PANCHAYAT,2,3950
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,chitrodiya,158911,23.091146,74.199552,PANCHAYAT,2,4665
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,dhara dungar,158912,22.961552,74.237278,PANCHAYAT,2,2396
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,dhavadiya,158913,23.139866,74.170939,PANCHAYAT,2,9928
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,dhediya,158914,23.061011,73.935759,PANCHAYAT,2,1663
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,dhola khakhara,158915,23.015546,74.310279,PANCHAYAT,2,2542
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,dungra,158916,23.09223,73.961881,PANCHAYAT,2,825
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,dungri,158917,22.959445,74.112661,PANCHAYAT,2,6999
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,fulpura,158918,23.131738,74.257164,PANCHAYAT,2,4465
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,gamdi,158919,23.099496,74.24045,PANCHAYAT,2,1347
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,garadu,158920,23.155592,74.129327,PANCHAYAT,2,10088
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,ghensva,158921,23.14783,74.260509,PANCHAYAT,2,1130
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,ghodiya,158922,23.080652,74.264778,PANCHAYAT,2,1166
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,govinda talai,158923,23.064242,73.983511,PANCHAYAT,2,2106
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,gultora,158924,22.984541,74.28381,PANCHAYAT,2,3899
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,hadmat khunta,158925,23.141751,74.230264,PANCHAYAT,2,2332
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,hirola,158926,23.065957,74.074383,PANCHAYAT,2,9040
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,jafarpura,158927,23.094752,74.226108,PANCHAYAT,2,3576
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,jasuni,158928,23.056475,73.915583,PANCHAYAT,2,1949
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,jetpur,158929,23.083927,74.120237,PANCHAYAT,2,5883
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,kachumber (limdi),158930,22.991963,74.148487,PANCHAYAT,2,18109
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,kadval,158931,23.065793,74.10643,PANCHAYAT,2,11015
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,kalajini sarsavani,158932,23.095536,74.133389,PANCHAYAT,2,2779
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,kaligam (gujar),158933,22.930294,74.234801,PANCHAYAT,2,4573
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,karamba,158935,23.011264,74.060843,PANCHAYAT,2,7552
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,karath,158936,23.003619,74.172796,PANCHAYAT,2,15285
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,kharsana,158937,23.133047,74.204741,PANCHAYAT,2,4820
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,kharvani,158938,22.987558,74.080628,PANCHAYAT,2,5278
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,kheda,158939,23.176114,74.209649,PANCHAYAT,2,574
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,kota,158940,23.0685,73.963564,PANCHAYAT,2,1740
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,kuni,158941,23.000953,74.106591,PANCHAYAT,2,3244
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,lilva deva,158942,23.024183,74.184461,PANCHAYAT,2,1427
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,lilva thakor,158943,23.028921,74.19127,PANCHAYAT,2,3870
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,limdi,158944,23.009549,74.158421,PANCHAYAT,2,2456
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,mahudi,158945,23.157199,74.225463,PANCHAYAT,2,5013
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,malvasi,158946,23.012748,74.222373,PANCHAYAT,2,5727
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,mandli,158947,23.03433,73.92649,PANCHAYAT,2,1769
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,mirakhedi,158948,22.939296,74.201787,PANCHAYAT,2,2833
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,moli,158949,23.070376,74.001371,PANCHAYAT,2,1210
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,moti handi,158950,22.953377,74.169644,PANCHAYAT,2,4878
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,mudaheda,158951,23.034284,74.214233,PANCHAYAT,2,5053
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,mun khosla,158952,23.112963,74.17572,PANCHAYAT,2,3682
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,mundha,158953,22.920474,74.083988,PANCHAYAT,2,4528
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,nansalai,158954,23.066446,74.16037,PANCHAYAT,2,2760
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,nenki,158955,23.07677,73.925532,PANCHAYAT,2,2503
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,nime varod,158956,23.024233,74.136394,PANCHAYAT,2,1584
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,parthampur,158957,22.985366,74.195193,PANCHAYAT,2,4012
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,pavdi,158958,22.957775,74.204519,PANCHAYAT,2,4688
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,pethapur,158959,23.049914,74.23718,PANCHAYAT,2,1739
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,pichhoda,158960,23.034521,73.952798,PANCHAYAT,2,3572
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,pratappura,158961,23.048529,73.961927,PANCHAYAT,2,3386
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,rajpur,158962,23.12212,74.137138,PANCHAYAT,2,2570
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,raliyati bhura,158963,22.994062,74.237185,PANCHAYAT,2,4311
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,raniyar inami,158964,23.035807,74.17241,PANCHAYAT,2,1582
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,raniyar sarkari,158965,23.036642,74.177761,PANCHAYAT,2,4267
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,raypura,158966,23.109253,74.261635,PANCHAYAT,2,1533
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,rukhadi (karath),158967,22.982405,74.160649,PANCHAYAT,2,15285
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,rupakheda,158968,22.995289,74.194383,PANCHAYAT,2,3166
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,sabli,158969,23.001477,74.28773,PANCHAYAT,2,1048
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,sampoi,158970,23.036438,74.143834,PANCHAYAT,2,2968
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,sanjeli,158971,23.05861,73.969377,PANCHAYAT,2,7448
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,sarmariya,158972,23.021225,74.111109,PANCHAYAT,2,6030
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,shankarpura,158973,23.120218,74.22586,PANCHAYAT,2,2619
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,sharda,158974,22.970419,74.289595,PANCHAYAT,2,1327
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,simaliya,158975,22.994175,74.110124,PANCHAYAT,2,7962
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,simlkhedi (limdi),158976,23.010005,74.133344,PANCHAYAT,2,18109
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,suthar vasa,158977,22.904316,74.125893,PANCHAYAT,2,7847
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,tadhagola,158978,22.974619,74.268683,PANCHAYAT,2,1916
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,tandi,158979,23.019871,74.159801,PANCHAYAT,2,1744
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,thala (limdi),158980,22.943801,74.096279,PANCHAYAT,2,3153
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,thala (sanjeli),158981,23.073696,73.972762,PANCHAYAT,2,1839
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,therka,158982,23.082885,74.201014,PANCHAYAT,2,7253
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,vagela,158983,23.060172,74.231213,PANCHAYAT,2,819
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,vankol,158984,22.983471,74.115498,PANCHAYAT,2,4971
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,vansiya,158985,23.079834,74.01604,PANCHAYAT,2,1859
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,varod,158986,23.033588,74.145261,PANCHAYAT,2,4992
+GUJARAT                                           ,24,Dahod,485,JHALOD,4116,zusa,158987,23.043332,73.922509,PANCHAYAT,2,3398
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,agara (r),158989,23.016518,73.977416,AGARA (R),2,2444
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,amba,158990,22.774234,74.035946,AMBA,2,3148
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,bar,158991,22.756661,74.013973,BAR,2,2874
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,baroda,158993,22.972928,73.984087,BARODA,2,267
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,bhilpaniya,158994,22.913682,73.984539,BHILPANIYA,2,3510
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,borgota,158995,22.962077,73.944306,BORGOTA,2,918
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,chaidiya,158996,22.792908,74.069646,CHAIDIYA,2,5217
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,chhaparvad,158997,22.916187,73.937083,CHHAPARVAD,2,3505
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,chilakota,158998,22.755453,74.133363,CHILAKOTA,2,12816
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,chunddi,158999,22.959115,73.916187,CHUNDDI,2,3254
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,dabhada,159000,22.838609,74.047423,DABHADA,2,4612
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,dantiya,159001,22.850068,74.012472,DANTIYA,2,2451
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,dasa,159002,22.953598,73.945968,DASA,2,2218
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,degawada,159003,22.843174,73.95933,DEGAWADA,2,2042
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,dhadhela,159004,22.841734,74.084595,DHADHELA,2,2583
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,dhamanbari,159005,22.933295,73.956815,DHAMANBARI,2,645
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,dhanpur (du),159006,22.874534,74.030178,DHANPUR (DU),2,566
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,dudhiya,159007,22.88174,74.003558,DUDHIYA,2,2777
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,dudhiyadhara,159008,22.873601,74.007186,DUDHIYADHARA,2,912
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,dungara,159009,22.886739,74.051007,DUNGARA,2,1051
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,goriya,159010,22.85319,74.076116,GORIYA,2,1687
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,gumni (du),159011,22.886967,74.031767,GUMNI (DU),2,1434
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,hirapur,159013,22.919296,73.968687,HIRAPUR,2,777
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,jada kheriya,159014,22.832818,74.123542,JADA KHERIYA,2,3032
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,jamadra,159015,22.856715,73.922235,JAMADRA,2,2743
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,kesharpura,159019,22.89655,73.932781,KESHARPURA,2,1032
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,khirkhai,159021,22.826874,74.063972,KHIRKHAI,2,4523
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,khunta,159022,22.81745,74.038427,KHUNTA,2,1239
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,kundha,159023,22.81745,74.038427,KUNDHA,2,3841
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,kunlli,159024,22.79236,74.017117,KUNLLI,2,3143
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,limbodar,159025,22.892746,73.903867,LIMBODAR,2,1038
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,limkheda,159026,22.836036,73.991447,LIMKHEDA,2,3924
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,machhelai,159028,22.87681,73.924107,MACHHELAI,2,2894
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,malekpur,159029,22.98282,73.962781,MALEKPUR,2,2173
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,mander,159030,22.996863,73.975785,MANDER,2,2753
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,mangal mahudi,159031,22.850439,74.08352,MANGAL MAHUDI,2,1069
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,manlli,159032,22.788459,74.002731,MANLLI,2,5693
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,methan,159034,23.000992,73.914391,METHAN,2,7842
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,mota ambaliya,159035,23.001903,73.945762,MOTA AMBALIYA,2,1449
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,motamal,159036,22.854589,74.000728,MOTAMAL,2,1130
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,moti bandibar,159037,22.866075,73.958731,MOTI BANDIBAR,2,4303
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,munavani,159038,22.940736,74.067989,MUNAVANI,2,1825
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,nana ambaliya,159039,22.991907,73.935584,NANA AMBALIYA,2,652
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,nana mal,159040,22.867175,74.02729,NANA MAL,2,1770
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,nani bandibar,159041,22.863999,73.956579,NANI BANDIBAR,2,1674
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,nani sanjeli,159042,23.035471,73.971351,NANI SANJELI,2,2539
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,nani vasvani,159043,22.894164,74.114101,NANI VASVANI,2,1015
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,navagam,159044,22.846214,73.860533,NAVAGAM,2,6544
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,ninamani vav,159046,22.865194,74.053783,NINAMANI VAV,2,2109
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,pada,159047,22.867318,74.108897,PADA,2,1373
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,padaliya,159048,22.911635,74.017513,PADALIYA,2,1951
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,palli,159049,22.82642,73.988408,PALLI,2,3469
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,pania,159050,22.829934,73.955216,PANIA,2,3698
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,parmarna kharkhariya,159051,22.802983,74.060608,PARMARNA KHARKHARIYA,2,3183
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,patangadi,159052,22.878676,73.888749,PATANGADI,2,1403
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,patwan,159053,22.783509,74.064444,PATWAN,2,1975
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,pipli,159055,22.881563,73.9913,PIPLI,2,2783
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,polisimal,159057,22.842559,74.092542,POLISIMAL,2,626
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,pratappura,159058,22.817368,73.946037,PRATAPPURA,2,3386
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,rai,159059,22.745242,73.999137,RAI,2,5815
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,shasta,159062,22.887101,74.014484,SHASTA,2,1098
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,singvad,159063,22.962441,73.961283,SINGVAD,2,3851
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,tarmi,159065,23.012729,74.017885,TARMI,2,2171
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,timba,159066,22.776991,74.071361,TIMBA,2,1687
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,vadela,159067,22.84247,73.954175,VADELA,2,3807
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,vaghnala,159068,22.906554,73.919202,VAGHNALA,2,1211
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,vala gota,159069,22.940064,73.903516,VALA GOTA,2,3927
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,vislanga,159070,22.786175,74.080872,VISLANGA,2,2728
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,zerjitgadh,159071,22.896207,74.100037,ZERJITGADH,2,2868
+GUJARAT                                           ,24,Dahod,485,DAHOD,4111,ratigar (simaliya khurd),253052,22.778792,74.378726,RATIGAR (SIMALIYA KHURD),2,4170
+GUJARAT                                           ,24,Dahod,485,DEVGAD BARIYA,4112,zapatiya (sevaniya),253057,22.59265,74.004887,PANCHAYAT,2,7609
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,mota hathidhara,253081,22.843998,73.991259,MOTA HATHIDHARA,2,1486
+GUJARAT                                           ,24,Dahod,485,LIMKHEDA,4117,usra,253082,22.846917,74.096651,USRA,2,1365

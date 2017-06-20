@@ -1,0 +1,32 @@
+107341,borbari
+107344,haluagaon
+107345,katanigaon
+107346,nizchalchali
+107351,batadrava
+107400,singari bosti
+107257,borchila
+107259,paghali
+107258,chabukdhara
+107412,gopal nagar
+107429,jaramari langia
+107435,melekadhing mukundaati
+107436,patriachapari rowmari
+107460,dakhinnonoi
+107484,laogaon
+107480,diphalu
+107485,rangagara huz
+107477,bangthai
+107486,senchowa
+107489,bhurbanda
+107456,bengena ati
+107317,borchapori
+107319,doloigaon
+107320,gariabori
+107321,hatimuria
+107322,lengribori
+107323,lochanabori
+107324,mairabari
+107325,tatikata
+107326,ulubari
+107508,lahkarghat
+107268,borchala

@@ -1,0 +1,47 @@
+101880,basudeb para
+101907,north nalicherra
+101899,west balaram
+101883,chakma para
+101884,ganganagar
+101890,kachimchara
+101894,karma para
+101903,radharambari
+101904,siddha para
+101906,tetaiya
+888888,ambasa block
+888888,dalucherra
+101920,west gobindabari
+888888,boakhali adc
+888888,dhalajari adc
+888888,east potacherra
+888888,gandacharra
+888888,jagabondhu para adc
+888888,kalajhari adc
+888888,laxmipur adc
+888888,pancharatan
+888888,raima adc
+888888,ramnagar adc
+888888,sarma adc
+888888,taychakma adc
+888888,thakur cherra adc
+888888,uttar cherra adc
+888888,west potacherra
+101970,bamancherra
+101974,chhatrai
+888888,durga chowmuni
+101982,east lambucherra
+101983,halahali
+101987,kalachari
+888888,chailengtha
+888888,chiching cherra
+888888,demcherra
+888888,east kathalcherra
+888888,jamircherra
+888888,manu village council
+888888,naitang cherra
+888888,sindhukumar para
+888888,west masli
+888888,apareskar
+888888,asapurna roaja para
+888888,avanga
+888888,debbari

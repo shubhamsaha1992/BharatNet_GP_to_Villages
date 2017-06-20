@@ -1,0 +1,58 @@
+34778,agawari
+34786,bhanwarani
+34792,charali
+34793,chavarcha
+34802,kavarada
+34804,norva
+34806,padarali
+34812,sedria balotan
+34814,sugalia jodha
+34816,umedpur
+34817,valadara
+34892,jorwara
+34893,kallapura
+34897,mudatara silli
+34899,paoli
+34901,punak kalla
+34902,rajikawas
+34904,savider
+34905,seekwara
+34911,aakhrad
+34913,badgaon
+34924,jodawas
+34926,karada
+34927,karwada
+34928,kodka
+34930,kuda
+34931,malwada
+34932,meda
+34933,raniwara kalla
+34936,ropasi
+34937,sevada
+34939,surajwada
+256401,devada
+256403,doothwa
+256405,gudahema
+256409,janavi
+256418,parava
+256420,sesava
+256422,soonthadi
+34943,arnai
+34944,bavarala
+34945,beejrol kheda
+34946,bhadawal
+34947,bhadruna
+34952,chora
+34959,dhanata
+34978,keelawa
+34984,nenol
+34995,sarvana
+35000,surava
+35003,veerol badi
+35007,babtra
+35009,bakra
+35019,keshwana
+35029,safada
+35037,tiloda
+35039,umedabad
+35041,walera

@@ -1,0 +1,270 @@
+207095,gundlagudem
+207099,mandanpally
+207107,turpugudem
+207111,boyagudem
+207112,chelmareddyguda
+207113,garikanethi thanda
+207114,hazarigudem
+207117,korvenigudem
+207120,naidupalum
+234556,rangundla
+207128,srirampuram
+207133,athmakur(m)
+207137,duppella
+207137,katepally
+234557,modullabaigudem
+207144,nancharipet
+207148,pothireddypally
+207149,pullaigudem
+207155,t.repaka
+207158,uppal pahad
+888888,meedathanpally
+207171,pathasuryapet
+207173,ramannaguda
+207178,balampally
+207189,jammapur
+207193,muthireddygudem
+207196,namathpally
+234559,pacharlabodu thanda
+207201,ramachandrapuram
+207202,reddynaik thanda
+207211,battugudem
+207215,gollagudem
+207221,jamepally
+207220,jiyapalle
+207223,laxmidevi gudem
+207229,palle gudem
+207233,ramunigundla thanda
+207241,choudaripally
+207244,kanchal thanda
+207245,kandlakunta thanda
+207246,laxmi thanda
+207247,manchanpally
+207254,pilligudla thandla
+207263,chandampet
+207264,chinna munigal
+207266,gagilapuram
+207268,kasharaju pally
+207270,mududandala
+207273,peddamula
+207274,peddamunagala
+207276,polepally
+207277,rekulagadda
+207280,yalamalamanda
+207297,acharlagudem
+207298,arlagudem
+207300,chennarigudem
+207303,janakinagar
+207302,jerripotula gudem
+207306,polenigudem
+207308,sethalathanda
+207309,setharamapuram
+207311,chakali seripally
+207314,gollapally
+207315,kistrainpally
+207320,modugulamallepally
+207325,thakkalapally
+207348,b chandu patla
+207355,laxminaik thanda
+207356,manyanaik thanda
+207357,panchanaik thanda
+207358,pandyanaik thanda
+207359,rollabanda thanda
+207364,valya thanda
+207366,ankireddy gudem
+207367,aregudem
+207371,dharmoji gudem
+207372,gundla bai
+207374,koyyal gudem
+207375,kuntla gudem
+207379,mandolla gudem
+207380,masidu gudem
+207383,peddakondur
+208063,sarneni gudam
+207391,balajinagar thanda
+207394,champla thanda
+207398,ganesh pahad thanda
+207402,k.j.reddy colony
+888888,kotha nandi konda
+207413,watcha thanda
+207414,chennamaneni pally
+207419,gaji nagar
+207425,kond bhimanapally
+207427,madamadaka
+207431,pedlipakala
+207434,thelugupally
+207436,abbireddy gudem
+207437,appannapet
+207441,kachavari gudem
+207445,kodandarampuram
+207447,l.b.nagar
+207444,rayanigudem
+207463,nune gudem
+207474,bogguladona
+207476,cherukupally
+207483,rahmanthapur
+207489,yerraram
+888888,amuloor
+888888,pittalagudem
+207510,anjalipuram
+207512,gopalapuram
+207513,karakkayalagudem
+207516,lingagiri
+207526,machireddygudem
+207521,persaipally
+207531,bachannagudem
+207534,chetla chennaram
+207539,g yadavally
+207541,kurampally
+207542,lachugudem
+207546,ramchendrapur
+207550,telukantigudem
+207559,garlabaigudem
+207564,muthyalammagudem
+207565,naregudem
+207578,kondakindigudem
+207581,kothapeta
+208127,yellamagudem
+207584,ameenabad
+207586,bheekya thanda
+207587,bojyagudem thanda
+207592,golithanda
+207597,kistapuram
+207601,kuchipudithanda
+207604,nallabandagudem
+207605,ramalaxmapuram
+207607,shanthinagar
+258263,thammarabandapalem
+207610,venkatramapuram
+207590,yerraram
+207615,gollagudem
+207623,mothiram thanda
+207627,pedda thanda
+207631,veera reddy pally
+207632,velupu pally
+888888,ajjalapuram
+207636,d.b.pally
+207637,k.b.pally
+207640,kondur
+207640,lenkalapally
+207640,mcpoor
+207640,namapoor
+207643,ramreddypally
+207640,sarampeta
+207650,bakkamanthuiagudem
+207651,bheelyanaik thanda
+207654,donabanda thanda
+207656,hanumanthulagudem
+207672,kistapuram
+207657,manchyathanda
+207662,ramachandrapuram
+207670,hemlathanda
+207674,nakkagudem
+207683,yathirajapuramthanda
+207686,badalapuram
+207689,dondavarigudem
+207696,nandapahad
+207710,lalthanda
+207716,rampuram thanda
+207720,thummala pally
+210639,azimpet
+207728,boddugudem
+207737,govindapur
+207742,laxmidevi kalva
+207743,mothkur
+207755,jagannadhapuram
+207762,narayana gudem
+207761,narshimhula gudem
+207766,thimmareddygudam
+207767,venkatrampuram
+207768,vijaya raghavapuram
+888888,mallareddigudam
+207794,kagitharamachandrapuram
+207796,keshavapuram
+207798,naranayapuram
+207806,vailasingaram
+207809,venugoplapuram
+207822,buddaram
+207823,chandanapally
+207830,k.kondaram
+207832,m.domalapally
+207835,melladuppalapally
+207836,mushampally
+207837,narsinghbatla
+207838,velugupally
+207851,peddapur
+207855,ramdas thanda
+207850,vaddepally
+207878,bandalpahad
+207879,ch.narayanpur
+234561,china thummalaguda
+207892,bette thanda
+207909,kallur
+207903,kandulavarigudem
+210827,mukunda puram
+207908,nagireddy gudem
+207927,nandikonda varigudem
+207928,narammagudem
+207931,rajannagudem
+207937,vempadu
+207938,vengannagudem
+234562,pande pally
+207958,somalla thanda
+888888,angadipeta x road
+207975,rampuram
+234563,vaddi patla
+207406,nadigadda
+207986,srisana gandla
+208003,mukundapur
+208005,narayanagudem
+208012,dothi gudem
+208023,pedda gudem
+208028,shiva reddy gudem
+210987,suraram
+208051,thummala gudem
+208069,yennaram
+208072,ambaripet
+208081,ramanujapuram
+208090,dasaigudem
+208091,gandhinagar
+208093,k.t.annaram
+208101,rayanigudem
+208108,chinnasuraram
+208111,godavarigudem
+208114,jangareddygudem
+208125,rajpet
+208126,yarragaddalaguda
+208136,nama puram
+208170,k.kothagudem
+258271,ramachandrapuram
+208179,thurupu gudem
+208142,abangapur
+208143,anjanpally
+208145,appalammagudem
+208146,babasaipet
+208149,brundavanpur
+208151,donka thanda
+208152,duggepally
+208153,gajalapur
+208155,kampa sagar
+208154,kampalapally
+208157,kontalapally
+258267,neelai gudem
+208156,palugu thanda
+208160,pedda devlaplaly
+208161,poosalapahad
+208163,satyanarayanapuram
+208190,kerechu pally
+208191,lingaraju pally
+208193,m.thurka pally
+208197,nathala gudam
+208184,yedulla gudam
+208217,gurrappagudem
+208223,poreddygudem
+208230,bahupet
+207186,gangasanipalli
+208237,mahaboobpet
+208242,ramajipet
+208246,tallagudem
+207207,wadaigudem
+208249,yadigirigutta

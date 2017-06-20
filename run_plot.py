@@ -167,6 +167,8 @@ nx.draw_networkx_edges(GR_GP2Vil, pos_nodes, edges, width = 0.5)
 plt.axis('on')
 plt.xlabel('Latitude')
 plt.ylabel('Longitude')
+plt.ylim([77.1,77.7])
+
 plt.legend(["Lit GPs","Connected Villages","Unconnected Villages"],prop={'size':9})
 
 

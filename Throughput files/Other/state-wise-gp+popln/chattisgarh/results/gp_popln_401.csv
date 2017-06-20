@@ -1,0 +1,355 @@
+State_Name,State Code,District_Name,District_Code,Block_Name,Block_Code,GP Name,GP Code,Latitude,Longitude,Location_OF_GP,Phase,population
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,adchi, 130943, 22.96562, 83.29105, ADCHI, 2,1132
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,asola, 130944, 23.15923, 83.23027, ASOLA, 2,1410
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,bakalo, 130946, 23.04518, 83.21136, BAKALO, 2,1219
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,bakirma, 130947, 23.10327, 83.11822, BAKIRMA, 2,1820
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,bardhodhi, 130948, 23.03858, 83.13976, BARDHODHI, 2,592
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,bargawa, 130949, 22.96434, 83.20127, BARGAWA, 2,550
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,bhafauli, 130950, 23.21251, 83.27235, BHAFAULI, 2,767
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,bhagwanpur, 130951, 23.14512, 83.17287, BHAGWANPUR, 2,500
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,bhakura, 130952, 23.17982, 83.24551, BHAKURA, 2,2411
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,bhithikala, 130953, 23.09643, 83.14012, BHITHIKALA, 2,2473
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,bisunpur, 130954, 23.13935, 83.15917, BISUNPUR, 2,2935
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,chathirma, 130955, 23.17776, 83.13788, CHATHIRMA, 2,701
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,chindkalo, 130956, 22.99436, 83.16758, CHINDKALO, 2,1688
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,chtabahar, 130957, 23.07873, 83.15128, CHTABAHAR, 2,656
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,darima, 130958, 22.99436, 83.20183, DARIMA, 2,2824
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,digma, 130959, 23.15858, 83.16758, DIGMA, 2,1523
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,fatehpur, 130960, 23.09681, 83.06105, FATEHPUR, 2,1594
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,ghanghari, 130961, 23.18918, 83.21975, GHANGHARI, 2,558
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,harratikra, 130962, 23.08984, 83.16797, HARRATIKRA, 2,1598
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,jagdishpur, 130963, 23.01003, 83.18751, JAGDISHPUR, 2,1196
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,kalgasa, 130964, 22.99377, 83.22883, KALGASA, 2,999
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,kanchanpur, 130965, 23.20445, 83.23147, KANCHANPUR, 2,994
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,kanthi, 130966, 23.07581, 83.21021, KANTHI, 2,2395
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,kantiprakashpur, 130967, 23.09679, 83.21275, KANTIPRAKASHPUR, 2,1855
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,kareya, 130968, 22.97705, 83.22575, KAREYA, 2,1228
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,kargi, 130969, 23.04518, 83.21136, KARGI, 2,2499
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,karmha, 130970, 23.19706, 83.26906, KARMHA, 2,780
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,karra, 130971, 22.96942, 83.30986, KARRA, 2,1305
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,katkalo, 130972, 23.06653, 83.20962, KATKALO, 2,3676
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,kesopur, 130973, 23.09004, 83.16824, KESOPUR, 2,1570
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,khajuri, 130974, 22.96215, 83.23031, KHAJURI, 2,1687
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,khala, 130975, 23.06647, 83.20963, KHALA, 2,1376
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,khaliba, 130976, 23.17355, 83.14701, KHALIBA, 2,1773
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,kherbar, 130977, 23.11885, 83.20619, KHERBAR, 2,3274
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,koteya, 130978, 22.99891, 83.18677, KOTEYA, 2,1928
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,kuberpur, 130979, 23.05307, 83.24301, KUBERPUR, 2,1348
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,kumarhata, 130980, 22.95561, 83.23181, KUMARHATA, 2,1531
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,kuniyakala, 130981, 22.96437, 83.28949, KUNIYAKALA, 2,978
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,labji, 130982, 23.06705, 83.11334, LABJI, 2,308
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,libra, 130983, 23.02739, 83.20837, LIBRA, 2,1194
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,mahuwatikra, 130984, 23.02348, 83.21588, MAHUWATIKRA, 2,383
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,manikprakashpur, 130985, 23.08124, 83.21066, MANIKPRAKASHPUR, 2,1726
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,mendra khurd, 130986, 23.17895, 83.14886, MENDRA KHURD, 2,1371
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,mendrakala, 130987, 23.074812, 83.119348, MENDRAKALA, 2,865
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,mohanpur, 130988, 23.02318, 83.30381, MOHANPUR, 2,2059
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,motipur, 130989, 22.98563, 83.202, MOTIPUR, 2,920
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,mudesa, 130990, 23.06711, 83.11336, MUDESA, 2,634
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,nandamali, 130991, 22.93031, 83.18809, NANDAMALI, 2,2410
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,narbada para, 130992, 23.16978, 83.20695, NARBADA PARA, 2,1418
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,nawagarh, 130993, 23.1885, 83.20619, NAWAGARH, 2,500
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,nawanagar, 130994, 22.95882, 83.26274, NAWANAGAR, 2,2432
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,nawaparakala, 130995, 22.94375, 83.26369, NAWAPARAKALA, 2,1174
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,nawaparakhurd, 130996, 22.98549, 83.19633, NAWAPARAKHURD, 2,815
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,pampapur, 130997, 22.9507, 83.23248, PAMPAPUR, 2,1619
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,parsa, 130998, 23.19082, 83.26586, PARSA, 2,1085
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,parsodhikhurd, 130999, 23.02738, 83.17529, PARSODHIKHURD, 2,704
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,podikala, 131000, 22.99847, 83.341538, PODIKALA, 2,2213
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,podipa, 131001, 23.04498, 83.25796, PODIPA, 2,1135
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,pondikhurd, 131002, 23.03198, 83.15303, PONDIKHURD, 2,1135
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,rajpurkhurd, 131003, 23.16846, 83.2351, RAJPURKHURD, 2,1192
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,rakeli, 131004, 22.96064, 83.2864, RAKELI, 2,1715
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,rampur, 131005, 23.07873, 83.15128, RAMPUR, 2,1101
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,ranpurkala, 131006, 23.09777, 83.08532, RANPURKALA, 2,1729
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,ranpurkhurd, 131007, 23.1524, 83.22042, RANPURKHURD, 2,1192
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,sakalo, 131008, 23.17948, 83.203003, SAKALO, 2,2056
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,sakholi, 131009, 23.03574, 83.27068, SAKHOLI, 2,673
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,sapna, 131010, 23.09681, 83.06105, SAPNA, 2,1053
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,saraitikara, 131011, 23.09443, 83.14012, SARAITIKARA, 2,981
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,sargawa, 131012, 23.165465, 83.20722, SARGAWA, 2,2533
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,saskalo, 131013, 22.96961, 83.22218, SASKALO, 2,1047
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,shivpur, 131014, 23.04518, 83.21136, SHIVPUR, 2,1112
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,sohga, 131015, 23.0453, 83.21143, SOHGA, 2,2353
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,sonpurkala, 131016, 23.15223, 83.21994, SONPURKALA, 2,1304
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,sukhari, 131017, 23.09004, 83.16824, SUKHARI, 2,473
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,sundarpur, 131018, 23.07993, 83.15373, SUNDARPUR, 2,1459
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,taparkela, 131019, 22.96437, 83.28949, TAPARKELA, 2,842
+CHHATTISGARH, 22, SURGUJA, 401, AMBIKAPUR, 3717,thore, 131020, 23.10138, 83.13628, THORE, 2,417
+CHHATTISGARH, 22, SURGUJA, 401, BATAULI                                           , 3719,balampur, 131072, 22.866172, 83.456078, panchayat bhwan, 2,803
+CHHATTISGARH, 22, SURGUJA, 401, BATAULI                                           , 3719,bansajhal, 131073, 23.024508, 83.513603, panchayat bhwan, 2,1637
+CHHATTISGARH, 22, SURGUJA, 401, BATAULI                                           , 3719,basen, 131074, 22.939561, 83.436211, panchayat bhwan, 2,788
+CHHATTISGARH, 22, SURGUJA, 401, BATAULI                                           , 3719,bataikela, 131075, 22.868247, 83.522025, panchayat bhwan, 2,1874
+CHHATTISGARH, 22, SURGUJA, 401, BATAULI                                           , 3719,batauli, 131076, 22.976694, 83.411972, panchayat bhwan, 2,2216
+CHHATTISGARH, 22, SURGUJA, 401, BATAULI                                           , 3719,belkota, 131077, 23.013461, 83.388878, panchayat bhwan, 2,1188
+CHHATTISGARH, 22, SURGUJA, 401, BATAULI                                           , 3719,bhatko, 131078, 22.958781, 83.402847, panchayat bhwan, 2,2199
+CHHATTISGARH, 22, SURGUJA, 401, BATAULI                                           , 3719,bilaspur, 131079, 22.989906, 83.452347, panchayat bhwan, 2,1872
+CHHATTISGARH, 22, SURGUJA, 401, BATAULI                                           , 3719,birimkela, 131080, 22.900658, 83.494483, panchayat bhwan, 2,1372
+CHHATTISGARH, 22, SURGUJA, 401, BATAULI                                           , 3719,boda, 131081, 22.971664, 83.484406, panchayat bhwan, 2,1821
+CHHATTISGARH, 22, SURGUJA, 401, BATAULI                                           , 3719,chiparkaya, 131082, 22.901336, 83.425217, panchayat bhwan, 2,1211
+CHHATTISGARH, 22, SURGUJA, 401, BATAULI                                           , 3719,chiranga, 131083, 22.972539, 83.376578, panchayat bhwan, 2,2308
+CHHATTISGARH, 22, SURGUJA, 401, BATAULI                                           , 3719,deori, 131084, 23.0037, 83.411872, panchayat bhwan, 2,1414
+CHHATTISGARH, 22, SURGUJA, 401, BATAULI                                           , 3719,gahila, 131085, 23.009664, 83.363808, panchayat bhwan, 2,2088
+CHHATTISGARH, 22, SURGUJA, 401, BATAULI                                           , 3719,ghoghara, 131086, 23.004269, 83.458114, panchayat bhwan, 2,1856
+CHHATTISGARH, 22, SURGUJA, 401, BATAULI                                           , 3719,ghutrapara, 131087, 22.9603, 83.446656, panchayat bhwan, 2,1184
+CHHATTISGARH, 22, SURGUJA, 401, BATAULI                                           , 3719,govindpur, 131088, 22.919797, 83.409333, panchayat bhwan, 2,1218
+CHHATTISGARH, 22, SURGUJA, 401, BATAULI                                           , 3719,jhargaon, 131089, 22.993847, 83.379731, panchayat bhwan, 2,623
+CHHATTISGARH, 22, SURGUJA, 401, BATAULI                                           , 3719,kapathbahari, 131090, 22.887692, 83.468056, panchayat bhwan, 2,1489
+CHHATTISGARH, 22, SURGUJA, 401, BATAULI                                           , 3719,kardana, 131091, 22.917289, 83.351897, panchayat bhwan, 2,945
+CHHATTISGARH, 22, SURGUJA, 401, BATAULI                                           , 3719,khaddhowa, 131092, 22.972481, 83.404961, panchayat bhwan, 2,1398
+CHHATTISGARH, 22, SURGUJA, 401, BATAULI                                           , 3719,kunkuri, 131093, 22.967833, 83.417931, panchayat bhwan, 2,2083
+CHHATTISGARH, 22, SURGUJA, 401, BATAULI                                           , 3719,lalati, 131094, 22.953514, 83.490806, panchayat bhwan, 2,1075
+CHHATTISGARH, 22, SURGUJA, 401, BATAULI                                           , 3719,maheshpur, 131095, 22.891242, 83.505439, panchayat bhwan, 2,1910
+CHHATTISGARH, 22, SURGUJA, 401, BATAULI                                           , 3719,mangari, 131096, 22.884894, 83.453644, panchayat bhwan, 2,2985
+CHHATTISGARH, 22, SURGUJA, 401, BATAULI                                           , 3719,manja, 131097, 22.975119, 83.371506, panchayat bhwan, 2,955
+CHHATTISGARH, 22, SURGUJA, 401, BATAULI                                           , 3719,manpur, 131098, 23.026847, 83.436431, panchayat bhwan, 2,1285
+CHHATTISGARH, 22, SURGUJA, 401, BATAULI                                           , 3719,nakna, 131099, 22.895953, 83.527528, panchayat bhwan, 2,1358
+CHHATTISGARH, 22, SURGUJA, 401, BATAULI                                           , 3719,poksari, 131100, 22.894128, 83.440742, panchayat bhwan, 2,3216
+CHHATTISGARH, 22, SURGUJA, 401, BATAULI                                           , 3719,salehadih, 131101, 23.041303, 83.484353, panchayat bhwan, 2,544
+CHHATTISGARH, 22, SURGUJA, 401, BATAULI                                           , 3719,sarmana, 131102, 22.930994, 83.485533, panchayat bhwan, 2,1940
+CHHATTISGARH, 22, SURGUJA, 401, BATAULI                                           , 3719,sedam, 131103, 22.929175, 83.435242, panchayat bhwan, 2,1371
+CHHATTISGARH, 22, SURGUJA, 401, BATAULI                                           , 3719,silma, 131104, 22.956042, 83.439506, panchayat bhwan, 2,1667
+CHHATTISGARH, 22, SURGUJA, 401, BATAULI                                           , 3719,suwarpara, 131105, 22.916636, 83.449128, panchayat bhwan, 2,1556
+CHHATTISGARH, 22, SURGUJA, 401, BATAULI                                           , 3719,tarani, 131106, 22.953961, 83.468186, panchayat bhwan, 2,745
+CHHATTISGARH, 22, SURGUJA, 401, BATAULI                                           , 3719,tedga, 131107, 23.008953, 83.4458, panchayat bhwan, 2,1105
+CHHATTISGARH, 22, SURGUJA, 401, BATAULI                                           , 3719,telaidhar, 131108, 22.847169, 83.504456, panchayat bhwan, 2,2348
+CHHATTISGARH, 22, SURGUJA, 401, BATAULI                                           , 3719,tirang, 131109, 23.008933, 83.517739, panchayat bhwan, 2,490
+CHHATTISGARH, 22, SURGUJA, 401, BATAULI                                           , 3719,vishnupur, 131110, 22.857308, 83.479369,  panchayat bawan, 2,417
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,amagasi, 131228, 22.947283, 82.999283, panchayat bhawan, 2,1346
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,amalbhitthi, 131229, 23.003614, 83.138161, panchayat bhawan, 2,2397
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,amdala, 131230, 22.9728, 83.111319, panchayat bhawan, 2,1059
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,amera, 131231, 23.063583, 83.048867, near amera school, 2,834
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,andhala, 131232, 22.971811, 83.008431, main roadandhala, 2,2977
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,argoti, 131233, 22.796878, 83.075675, anganbadi kendra, 2,1665
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,bagdari, 131234, 23.049744, 82.995811, near basti, 2,1363
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,bandha, 131235, 22.96625, 83.048539, panchayat bhawan, 2,1317
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,beldagi, 131236, 22.962758, 83.089478, panchayat bhawan, 2,260
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,belkharikha, 131237, 22.908314, 83.142372, panchayat bhawan, 2,2025
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,binkara, 131238, 23.040606, 83.017447, binkara basti, 2,1409
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,chando, 131239, 22.967031, 83.112428, panchayat bhawan, 2,419
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,chodeya, 131240, 22.898158, 83.049178, panchayat bhawan, 2,512
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,dhondakesara, 131241, 22.784794, 83.091164, sayar chawkpanchayat bhawan, 2,1009
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,ganeshpur, 131242, 23.019117, 83.035644, panchayat bhawan, 2,1709
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,gaumgarakala, 131243, 23.066586, 83.012183, near atal chauk, 2,1509
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,getra, 131244, 23.103711, 82.917678, near schoolgetra, 2,2904
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,gorta, 131245, 23.009742, 83.040917, panchayat bhawan, 2,1718
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,iragawan, 131246, 23.002233, 83.122628, panchayat bhawan, 2,478
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,jaipur, 131247, 23.011081, 83.164444, panchayat bhawan, 2,1018
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,jamgala, 131248, 23.018028, 82.970375, panchayat bhawan, 2,2550
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,jamgawan, 131249, 22.958283, 83.173317, panchayat bhawan, 2,1302
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,juna lakhanpur, 131250, 22.980969, 83.043428, nagar panchayat office, 2,3426
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,karai, 131251, 22.834419, 83.058494, panchayat bhawan, 2,783
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,katinda, 131252, 22.939739, 83.048706, panchayat bhawan, 2,1985
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,katkona, 131253, 23.053147, 83.039153, near atal chauk, 2,1303
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,kewara, 131254, 23.000528, 83.0636, kewra basti, 2,1510
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,kewari, 131255, 22.986608, 83.067611, panchayat bhawan, 2,1343
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,khuntia, 131256, 23.084903, 82.892272, panchayat bhawan, 2,1043
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,korja, 131257, 23.025878, 83.007111, panchayat bhawan, 2,2196
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,kosanga, 131258, 22.97205, 83.066125, panchayat bhawan, 2,1846
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,kunni, 131259, 22.866194, 83.062936, panchayat bhawan, 2,1400
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,kunwarpur, 131260, 22.976239, 83.020142, panchayat bhawan, 2,362
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,kusu, 131261, 22.948703, 83.141311, panchayat bhawan, 2,1468
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,labji, 131262, 22.858631, 83.126494, panchayat bhawan, 2,308
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,lahpatra, 131263, 23.034533, 83.084069, near main road, 2,528
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,lainga, 131264, 23.094575, 82.880919, panchayat bhawan, 2,1394
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,latori, 131265, 23.010922, 82.994356, panchayat bhawan, 2,2452
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,lipingi, 131266, 22.849844, 83.041694, panchayat bhawan, 2,1427
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,losanga, 131267, 22.919483, 83.068597, panchayat bhawan, 2,701
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,losangi, 131268, 22.928136, 83.053247, panchayat bhawan, 2,1223
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,manja, 131269, 22.915036, 83.026817, panchayat bhawan, 2,955
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,mukundpur, 131270, 23.017703, 83.156678, panchayat bhawan, 2,832
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,narkalo, 131271, 22.939669, 83.006917, panchayat bhawan, 2,805
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,nimha, 131272, 23.052089, 82.954528, panchayat bhawan, 2,806
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,parsondikala, 131273, 23.078847, 83.034247, near school, 2,1464
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,patkura, 131274, 22.763069, 83.115836, panchayat bhawan, 2,1725
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,pondi, 131275, 22.87415, 83.042144, panchayat bhawan, 2,1056
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,potaka, 131276, 23.081256, 82.949478, panchayat bhawan, 2,1850
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,pratappur, 131277, 22.941058, 83.185783, near school, 2,998
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,puhputra, 131278, 23.037667, 83.063714, putputra basti, 2,3454
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,puta, 131279, 22.923417, 83.160636, panchayat bhawan, 2,1267
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,rajpurikala, 131280, 23.014742, 83.070625, main roadbilaspur, 2,2132
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,sakria, 131281, 22.872731, 83.080711, panchayat bhawan, 2,211
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,salka, 131282, 23.034736, 83.110878, panchayat bhawan, 2,2079
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,singitana, 131283, 23.046619, 83.096886, panchayat bhawan, 2,1143
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,taraju, 131285, 22.999406, 82.968369, taraju basti, 2,1394
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,tirrkela, 131286, 22.841514, 83.076631, panchayat bhawan, 2,1714
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,tunguri, 131287, 22.969539, 83.1381, panchayat bhawan, 2,1457
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,turna, 131288, 22.985772, 83.138292, panchayat bhawan, 2,1878
+CHHATTISGARH, 22, SURGUJA, 401, LAKHANPUR                                         , 3722,umrouli, 131289, 22.982025, 82.988586, near primary school, 2,404
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,amadi, 131290, 23.23058, 83.41372, GP bldg, 2,601
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,ashandih, 131291, 23.22361, 83.48395, GP bldg, 2,733
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,ashkala, 131292, 23.0645, 83.41859, GP bldg, 2,1938
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,babauli, 131293, 23.2188, 83.4419, GP bldg, 2,1230
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,banka kala, 131294, 23.12373, 83.33747, GP bldg, 2,1962
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,bardih, 131295, 23.134, 83.39861, GP bldg, 2,1638
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,bargidih, 131296, 23.0814, 83.41068, GP bldg, 2,1272
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,barkol, 131297, 23.17253, 83.41496, GP bldg, 2,1233
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,batwahi, 131298, 23.08738, 83.32448, GP bldg, 2,3379
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,bilhama, 131299, 23.23185, 83.46791, GP bldg, 2,1662
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,bulga, 131300, 23.09929, 83.35342, GP bldg, 2,1657
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,changouri, 131301, 23.2298, 83.38592, GP bldg, 2,626
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,chheradih, 131302, 23.04002, 83.41395, GP bldg, 2,2400
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,chhermunda, 131303, 23.18952, 83.46715, GP bldg, 2,770
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,chiranga, 131304, 23.12381, 83.4059, GP bldg, 2,2308
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,dadgaon, 131305, 23.11021, 83.383196, GP bldg, 2,1680
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,dahouli, 131306, 23.12381, 83.4059, GP bldg, 2,768
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,dakai, 131307, 23.15715, 83.30552, GP bldg, 2,1888
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,dhourpur, 131308, 23.17699, 83.43842, GP bldg, 2,892
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,dorna, 131309, 23.12334, 83.40794, GP bldg, 2,1224
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,dumardih, 131310, 23.15855, 83.4966, GP bldg, 2,2125
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,dundu, 131311, 23.18463, 83.46184, GP bldg, 2,961
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,gadhbari, 131312, 23.06462, 83.42129, GP bldg, 2,558
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,gangori, 131313, 23.14631, 83.48611, GP bldg, 2,558
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,gersa, 131314, 23.0645, 83.41859, GP bldg, 2,2904
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,gujarwar, 131315, 23.14365, 83.46612, GP bldg, 2,1012
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,jamdi, 131316, 23.13912, 83.30582, GP bldg, 2,672
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,jamdih, 131317, 23.09353, 83.43819, GP bldg, 2,603
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,jamira, 131318, 23.18212, 83.4075, GP bldg, 2,587
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,jarakela, 131319, 23.0616, 83.44263, GP bldg, 2,660
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,jarhadih, 131320, 23.0652, 83.38403, GP bldg, 2,1752
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,jori, 131321, 23.22363, 83.48396, GP bldg, 2,1786
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,kakani, 131322, 23.16264, 83.48908, GP bldg, 2,1016
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,karesar, 131323, 23.12334, 83.4794, GP bldg, 2,806
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,karouli, 131324, 23.15197, 83.43023, GP bldg, 2,1735
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,karra, 131325, 23.22244, 83.4118, GP bldg, 2,1305
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,kepi, 131326, 23.19116, 83.27699, GP bldg, 2,1114
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,khalpodi, 131327, 23.12458, 83.39458, GP bldg, 2,936
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,kharakona, 131328, 23.04002, 83.41395, GP bldg, 2,1531
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,koilari, 131329, 23.13678, 83.49335, GP bldg, 2,543
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,korima, 131330, 23.13912, 83.30582, GP bldg, 2,663
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,kot, 131331, 23.03656, 83.35452, GP bldg, 2,4409
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,kudar, 131332, 23.21678, 83.44183, GP bldg, 2,436
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,kundikala, 131333, 23.156725, 83.372683, GP bldg, 2,1857
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,lalmati, 131334, 23.06991, 83.30691, GP bldg, 2,967
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,lundra, 131335, 23.12381, 83.4059, GP bldg, 2,582
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,mahora, 131336, 23.09989, 83.40868, GP bldg, 2,1269
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,nagam, 131337, 23.15528, 83.46224, GP bldg, 2,1481
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,paduli, 131338, 23.22955, 83.38668, GP bldg, 2,1213
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,patora, 131339, 23.15655, 83.43398, GP bldg, 2,2071
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,phitarpur, 131340, 23.14951, 83.5106, GP bldg, 2,1686
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,purkela, 131341, 23.06537, 83.30356, GP bldg, 2,853
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,raghunathpur, 131342, 23.06991, 83.30691, GP bldg, 2,939
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,rata, 131343, 23.13792, 83.32933, GP bldg, 2,1057
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,ravai, 131344, 23.15531, 83.50416, GP bldg, 2,1222
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,sahanpur, 131345, 23.16398, 83.4339, GP bldg, 2,1382
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,sakhouli, 131346, 23.18879, 83.40634, GP bldg, 2,1574
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,samgaon, 131347, 23.04393, 83.3459, GP bldg, 2,3126
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,sapda, 131348, 23.14838, 83.51475, GP bldg, 2,716
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,sasuali, 131349, 23.1156, 83.41366, GP bldg, 2,1590
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,semardih, 131350, 23.13593, 83.39674, GP bldg, 2,1266
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,silsila, 131351, 23.03039, 83.36953, GP bldg, 2,2134
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,sumerpur, 131352, 23.08156, 83.28355, GP bldg, 2,980
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,uchdih, 131353, 23.05315, 83.33339, GP bldg, 2,1104
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,udari, 131354, 23.09135, 83.34393, GP bldg, 2,3658
+CHHATTISGARH, 22, SURGUJA, 401, LUNDRA                                            , 3723,urdara, 131355, 23.09764, 83.42651, GP bldg, 2,1029
+CHHATTISGARH, 22, SURGUJA, 401, MAINPAT                                           , 3724,bandana, 131356, 22.845244, 83.418175, PANCHAYAT BHAWAN, 2,3327
+CHHATTISGARH, 22, SURGUJA, 401, MAINPAT                                           , 3724,barima, 131357, 22.781636, 83.323989, PANCHAYAT BHAWAN, 2,487
+CHHATTISGARH, 22, SURGUJA, 401, MAINPAT                                           , 3724,bisarpani, 131358, 22.888306, 83.284447, PANCHAYAT BHAWAN, 2,1175
+CHHATTISGARH, 22, SURGUJA, 401, MAINPAT                                           , 3724,chainpur, 131359, 22.757225, 83.424194, PANCHAYAT BHAWAN, 2,1134
+CHHATTISGARH, 22, SURGUJA, 401, MAINPAT                                           , 3724,chidapara, 131360, 22.73115, 83.437386, PANCHAYAT BHAWAN, 2,1687
+CHHATTISGARH, 22, SURGUJA, 401, MAINPAT                                           , 3724,dangbuda, 131361, 22.690864, 83.421372, PANCHAYAT BHAWAN, 2,2000
+CHHATTISGARH, 22, SURGUJA, 401, MAINPAT                                           , 3724,harramar, 131362, 22.6663, 83.402764, PANCHAYAT BHAWAN, 2,1556
+CHHATTISGARH, 22, SURGUJA, 401, MAINPAT                                           , 3724,jajga, 131363, 22.838861, 83.452469, PANCHAYAT BHAWAN, 2,2961
+CHHATTISGARH, 22, SURGUJA, 401, MAINPAT                                           , 3724,jamdhodhi, 131364, 22.680058, 83.406625, PANCHAYAT BHAWAN, 2,1634
+CHHATTISGARH, 22, SURGUJA, 401, MAINPAT                                           , 3724,kadnai, 131365, 22.923017, 83.350208, PANCHAYAT BHAWAN, 2,1363
+CHHATTISGARH, 22, SURGUJA, 401, MAINPAT                                           , 3724,kamleshwarpur, 131366, 22.816503, 83.274242, PANCHAYAT BHAWAN, 2,1036
+CHHATTISGARH, 22, SURGUJA, 401, MAINPAT                                           , 3724,karabel, 131367, 22.838767, 83.478378, PANCHAYAT BHAWAN, 2,1465
+CHHATTISGARH, 22, SURGUJA, 401, MAINPAT                                           , 3724,katkalo, 131368, 22.761367, 83.443056, PANCHAYAT BHAWAN, 2,3676
+CHHATTISGARH, 22, SURGUJA, 401, MAINPAT                                           , 3724,kesara, 131369, 22.779692, 83.268381, PANCHAYAT BHAWAN, 2,1834
+CHHATTISGARH, 22, SURGUJA, 401, MAINPAT                                           , 3724,khadgaon, 131370, 22.742247, 83.456506, PANCHAYAT BHAWAN, 2,1683
+CHHATTISGARH, 22, SURGUJA, 401, MAINPAT                                           , 3724,kot, 131371, 22.855647, 83.412436, PANCHAYAT BHAWAN, 2,4409
+CHHATTISGARH, 22, SURGUJA, 401, MAINPAT                                           , 3724,kotchhal, 131372, 22.700528, 83.401917, PANCHAYAT BHAWAN, 2,1962
+CHHATTISGARH, 22, SURGUJA, 401, MAINPAT                                           , 3724,kuniya, 131373, 22.828, 83.328544, PANCHAYAT BHAWAN, 2,2496
+CHHATTISGARH, 22, SURGUJA, 401, MAINPAT                                           , 3724,lurena, 131374, 22.807728, 83.242722, PANCHAYAT BHAWAN, 2,1514
+CHHATTISGARH, 22, SURGUJA, 401, MAINPAT                                           , 3724,narmadapur, 131375, 22.782125, 83.349603, PANCHAYAT BHAWAN, 2,491
+CHHATTISGARH, 22, SURGUJA, 401, MAINPAT                                           , 3724,paiga, 131376, 22.853775, 83.239197, PANCHAYAT BHAWAN, 2,1239
+CHHATTISGARH, 22, SURGUJA, 401, MAINPAT                                           , 3724,parpatiya, 131377, 22.841556, 83.179244, PANCHAYAT BHAWAN, 2,2115
+CHHATTISGARH, 22, SURGUJA, 401, MAINPAT                                           , 3724,pent, 131378, 22.742083, 83.409889, PANCHAYAT BHAWAN, 2,653
+CHHATTISGARH, 22, SURGUJA, 401, MAINPAT                                           , 3724,pidiya, 131379, 22.755786, 83.413978, PANCHAYAT BHAWAN, 2,1272
+CHHATTISGARH, 22, SURGUJA, 401, MAINPAT                                           , 3724,rajapur, 131380, 22.710275, 83.432328, PANCHAYAT BHAWAN, 2,1776
+CHHATTISGARH, 22, SURGUJA, 401, MAINPAT                                           , 3724,ropakhar, 131381, 22.822303, 83.289306, PANCHAYAT BHAWAN, 2,2176
+CHHATTISGARH, 22, SURGUJA, 401, MAINPAT                                           , 3724,samaniya, 131382, 22.904769, 83.321228, PANCHAYAT BHAWAN, 2,888
+CHHATTISGARH, 22, SURGUJA, 401, MAINPAT                                           , 3724,sapnadar, 131383, 22.859664, 83.306183, PANCHAYAT BHAWAN, 2,976
+CHHATTISGARH, 22, SURGUJA, 401, MAINPAT                                           , 3724,sarbhanja, 131384, 22.794636, 83.224747, PANCHAYAT BHAWAN, 2,1663
+CHHATTISGARH, 22, SURGUJA, 401, MAINPAT                                           , 3724,supalga, 131385, 22.860675, 83.247453, PANCHAYAT BHAWAN, 2,1568
+CHHATTISGARH, 22, SURGUJA, 401, MAINPAT                                           , 3724,udumkela, 131386, 22.831039, 83.405578, PANCHAYAT BHAWAN, 2,2484
+CHHATTISGARH, 22, SURGUJA, 401, SITAPUR                                           , 3732,amatoli, 131781, 22.791267, 83.488786, amatoli gp, 2,1714
+CHHATTISGARH, 22, SURGUJA, 401, SITAPUR                                           , 3732,ara, 131782, 22.743667, 83.540642, ara gp, 2,2316
+CHHATTISGARH, 22, SURGUJA, 401, SITAPUR                                           , 3732,baniya, 131783, 22.722836, 83.473183, baneya gp, 2,2008
+CHHATTISGARH, 22, SURGUJA, 401, SITAPUR                                           , 3732,bansipur, 131784, 22.712639, 83.517119, bansipur gp, 2,1287
+CHHATTISGARH, 22, SURGUJA, 401, SITAPUR                                           , 3732,belgaon, 131785, 22.697692, 83.468825, belgaon gp, 2,1361
+CHHATTISGARH, 22, SURGUJA, 401, SITAPUR                                           , 3732,beljora, 131786, 22.786694, 83.557136, beljora gp, 2,1687
+CHHATTISGARH, 22, SURGUJA, 401, SITAPUR                                           , 3732,bharatpur, 131787, 22.781406, 83.629708, bharathpur gp, 2,1545
+CHHATTISGARH, 22, SURGUJA, 401, SITAPUR                                           , 3732,bhithuwa, 131788, 22.778181, 83.496789, bhithwa gp, 2,1560
+CHHATTISGARH, 22, SURGUJA, 401, SITAPUR                                           , 3732,bhusu, 131789, 22.820922, 83.526589, bhusu gp, 2,433
+CHHATTISGARH, 22, SURGUJA, 401, SITAPUR                                           , 3732,chalta, 131790, 22.771867, 83.487083, chalta gp, 2,828
+CHHATTISGARH, 22, SURGUJA, 401, SITAPUR                                           , 3732,deogarh, 131791, 22.810261, 83.481742, deogarh gp, 2,4370
+CHHATTISGARH, 22, SURGUJA, 401, SITAPUR                                           , 3732,dharampur, 131792, 22.803836, 83.558656, dharampur gp, 2,1344
+CHHATTISGARH, 22, SURGUJA, 401, SITAPUR                                           , 3732,dhekidoli, 131793, 22.833053, 83.561653, dhekidoli gp, 2,1151
+CHHATTISGARH, 22, SURGUJA, 401, SITAPUR                                           , 3732,dhelsara, 131794, 22.798844, 83.501969, dhelsera gp, 2,1900
+CHHATTISGARH, 22, SURGUJA, 401, SITAPUR                                           , 3732,dhodhagaon, 131795, 22.678578, 83.606261, dhodhagaon gp, 2,2121
+CHHATTISGARH, 22, SURGUJA, 401, SITAPUR                                           , 3732,gersa, 131796, 22.758683, 83.625039, gersa gp, 2,2904
+CHHATTISGARH, 22, SURGUJA, 401, SITAPUR                                           , 3732,girhuldih, 131797, 22.805708, 83.618089, girhuldih gp, 2,2019
+CHHATTISGARH, 22, SURGUJA, 401, SITAPUR                                           , 3732,guturma, 131798, 22.722836, 83.473183, guturma gp, 2,1804
+CHHATTISGARH, 22, SURGUJA, 401, SITAPUR                                           , 3732,haldisadh, 131799, 22.717328, 83.510528, haldisandh gp, 2,392
+CHHATTISGARH, 22, SURGUJA, 401, SITAPUR                                           , 3732,kerju, 131800, 22.673011, 83.658089, kerju gp, 2,3372
+CHHATTISGARH, 22, SURGUJA, 401, SITAPUR                                           , 3732,kharadorna, 131801, 22.798844, 83.501969, kharadorn gp, 2,1373
+CHHATTISGARH, 22, SURGUJA, 401, SITAPUR                                           , 3732,kunmera, 131802, 22.678578, 83.606261, kunmera gp, 2,3226
+CHHATTISGARH, 22, SURGUJA, 401, SITAPUR                                           , 3732,lalitpur, 131803, 22.768125, 83.535256, lalitpur gp, 2,1976
+CHHATTISGARH, 22, SURGUJA, 401, SITAPUR                                           , 3732,navapara, 131804, 22.835133, 83.540808, nawapra gp, 2,1258
+CHHATTISGARH, 22, SURGUJA, 401, SITAPUR                                           , 3732,petla, 131805, 22.749236, 83.546058, petla gp, 2,3848
+CHHATTISGARH, 22, SURGUJA, 401, SITAPUR                                           , 3732,pratapgarh, 131806, 22.772219, 83.480911, pratapgarh gp, 2,1921
+CHHATTISGARH, 22, SURGUJA, 401, SITAPUR                                           , 3732,radhapur, 131807, 22.733064, 83.474625, radhapur gp, 2,2203
+CHHATTISGARH, 22, SURGUJA, 401, SITAPUR                                           , 3732,raikera, 131808, 22.798844, 83.501969, raykera gp, 2,2723
+CHHATTISGARH, 22, SURGUJA, 401, SITAPUR                                           , 3732,rajouti, 131809, 22.778181, 83.496789, rajauti gp, 2,2452
+CHHATTISGARH, 22, SURGUJA, 401, SITAPUR                                           , 3732,rajpuri, 131810, 22.855253, 83.541433, rajpuri gp, 2,1548
+CHHATTISGARH, 22, SURGUJA, 401, SITAPUR                                           , 3732,sahanpur, 131811, 22.835133, 83.540808, sahanpur gp, 2,1382
+CHHATTISGARH, 22, SURGUJA, 401, SITAPUR                                           , 3732,sarga, 131812, 22.765683, 83.541053, sarga gp, 2,2281
+CHHATTISGARH, 22, SURGUJA, 401, SITAPUR                                           , 3732,shivnathpur, 131813, 22.767706, 83.585953, shivnathpur gp, 2,1419
+CHHATTISGARH, 22, SURGUJA, 401, SITAPUR                                           , 3732,sontarai, 131814, 22.778181, 83.496789, sontari gp, 2,2430
+CHHATTISGARH, 22, SURGUJA, 401, SITAPUR                                           , 3732,soor, 131815, 22.778181, 83.496789, soor gp, 2,4403
+CHHATTISGARH, 22, SURGUJA, 401, SITAPUR                                           , 3732,ulakaya, 131816, 22.698786, 83.480567, ulakiya gp, 2,1665
+CHHATTISGARH, 22, SURGUJA, 401, UDAIPUR, 3734,bhakura, 131917, 22.755975, 83.046889, BHAKURA, 2,2411
+CHHATTISGARH, 22, SURGUJA, 401, UDAIPUR, 3734,chainpur, 131918, 22.968319, 82.966767, CHAINPUR, 2,1134
+CHHATTISGARH, 22, SURGUJA, 401, UDAIPUR, 3734,chakeri, 131919, 22.907161, 82.912825, CHAKERI, 2,421
+CHHATTISGARH, 22, SURGUJA, 401, UDAIPUR, 3734,dabdgoan, 131920, 22.897169, 82.858383, DABDGOAN, 2,2179
+CHHATTISGARH, 22, SURGUJA, 401, UDAIPUR, 3734,dawa, 131921, 22.911806, 82.893447, DAWA, 2,292
+CHHATTISGARH, 22, SURGUJA, 401, UDAIPUR, 3734,devtikara, 131922, 23.038069, 82.938408, DEVTIKARA, 2,940
+CHHATTISGARH, 22, SURGUJA, 401, UDAIPUR, 3734,fulchuhi, 131923, 22.920347, 82.851639, FULCHUHI, 2,673
+CHHATTISGARH, 22, SURGUJA, 401, UDAIPUR, 3734,ghatbarra, 131924, 22.833797, 82.745583, GHATBARRA, 2,322
+CHHATTISGARH, 22, SURGUJA, 401, UDAIPUR, 3734,gumga, 131925, 22.885386, 82.841025, GUMGA, 2,1533
+CHHATTISGARH, 22, SURGUJA, 401, UDAIPUR, 3734,jajga, 131926, 22.942169, 82.987083, JAJGA, 2,2961
+CHHATTISGARH, 22, SURGUJA, 401, UDAIPUR, 3734,jhirmitti, 131927, 22.91625, 82.953103, JHIRMITTI, 2,2066
+CHHATTISGARH, 22, SURGUJA, 401, UDAIPUR, 3734,kalcha, 131928, 23.021778, 82.93345, KALCHA, 2,822
+CHHATTISGARH, 22, SURGUJA, 401, UDAIPUR, 3734,karondi, 131929, 22.974306, 82.879592, KARONDI, 2,1405
+CHHATTISGARH, 22, SURGUJA, 401, UDAIPUR, 3734,kawalgiri, 131930, 22.945881, 82.9747, KAWALGIRI, 2,1198
+CHHATTISGARH, 22, SURGUJA, 401, UDAIPUR, 3734,kedma, 131931, 22.798761, 83.016975, KEDMA, 2,240
+CHHATTISGARH, 22, SURGUJA, 401, UDAIPUR, 3734,keshgawan, 131932, 22.936947, 82.965233, KESHGAWAN, 2,1480
+CHHATTISGARH, 22, SURGUJA, 401, UDAIPUR, 3734,keshma, 131933, 22.755975, 83.046889, KESHMA, 2,1090
+CHHATTISGARH, 22, SURGUJA, 401, UDAIPUR, 3734,khamhariya, 131934, 22.993297, 82.933617, KHAMHARIYA, 2,1489
+CHHATTISGARH, 22, SURGUJA, 401, UDAIPUR, 3734,kharsura, 131935, 22.972664, 82.873978, KHARSURA, 2,1412
+CHHATTISGARH, 22, SURGUJA, 401, UDAIPUR, 3734,khondhala, 131936, 22.968644, 82.883331, KHONDHALA, 2,1257
+CHHATTISGARH, 22, SURGUJA, 401, UDAIPUR, 3734,kumdewa, 131937, 22.7994, 83.020211, KUMDEWA, 2,1543
+CHHATTISGARH, 22, SURGUJA, 401, UDAIPUR, 3734,lalati, 131938, 22.962358, 82.898492, LALATI, 2,1075
+CHHATTISGARH, 22, SURGUJA, 401, UDAIPUR, 3734,laxmangarh, 131939, 22.858556, 82.986344, LAXMANGARH, 2,1518
+CHHATTISGARH, 22, SURGUJA, 401, UDAIPUR, 3734,manpur, 131940, 22.858556, 82.986344, MANPUR, 2,1285
+CHHATTISGARH, 22, SURGUJA, 401, UDAIPUR, 3734,mareya, 131941, 22.742233, 83.056183, MAREYA, 2,751
+CHHATTISGARH, 22, SURGUJA, 401, UDAIPUR, 3734,mohanpur, 131942, 22.939847, 82.993203, MOHANPUR, 2,2059
+CHHATTISGARH, 22, SURGUJA, 401, UDAIPUR, 3734,mudgoan, 131943, 22.889811, 82.847022, MUDGOAN, 2,1642
+CHHATTISGARH, 22, SURGUJA, 401, UDAIPUR, 3734,nunera, 131944, 22.981397, 82.920014, NUNERA, 2,1973
+CHHATTISGARH, 22, SURGUJA, 401, UDAIPUR, 3734,palka, 131945, 22.940558, 82.900239, PALKA, 2,1750
+CHHATTISGARH, 22, SURGUJA, 401, UDAIPUR, 3734,pandaridand, 131946, 22.897867, 82.857842, PANDARIDAND, 2,502
+CHHATTISGARH, 22, SURGUJA, 401, UDAIPUR, 3734,parsa, 131947, 22.8656, 82.773528, PARSA, 2,1085
+CHHATTISGARH, 22, SURGUJA, 401, UDAIPUR, 3734,pendarkhi, 131948, 22.808575, 83.011069, PENDARKHI, 2,146
+CHHATTISGARH, 22, SURGUJA, 401, UDAIPUR, 3734,ramnagar, 131949, 22.882397, 82.950822, RAMNAGAR, 2,812
+CHHATTISGARH, 22, SURGUJA, 401, UDAIPUR, 3734,rikhi, 131950, 22.974589, 82.912347, RIKHI, 2,1760
+CHHATTISGARH, 22, SURGUJA, 401, UDAIPUR, 3734,salba, 131951, 22.897092, 82.858978, SALBA, 2,319
+CHHATTISGARH, 22, SURGUJA, 401, UDAIPUR, 3734,salhi, 131952, 22.873, 82.766608, SALHI, 2,298
+CHHATTISGARH, 22, SURGUJA, 401, UDAIPUR, 3734,salka, 131953, 22.959789, 82.911025, SALKA, 2,2079
+CHHATTISGARH, 22, SURGUJA, 401, UDAIPUR, 3734,sanibarra, 131954, 22.863122, 82.970964, SANIBARRA, 2,842
+CHHATTISGARH, 22, SURGUJA, 401, UDAIPUR, 3734,sargawan, 131955, 22.960417, 82.932617, SARGAWAN, 2,561
+CHHATTISGARH, 22, SURGUJA, 401, UDAIPUR, 3734,sayar, 131956, 22.802414, 83.015686, SAYAR, 2,1151
+CHHATTISGARH, 22, SURGUJA, 401, UDAIPUR, 3734,shankarpur, 131957, 22.989639, 82.890428, SHANKARPUR, 2,1349
+CHHATTISGARH, 22, SURGUJA, 401, UDAIPUR, 3734,sontarai, 131958, 22.925547, 82.944047, SONTARAI, 2,2430
+CHHATTISGARH, 22, SURGUJA, 401, UDAIPUR, 3734,tolga, 131959, 23.025806, 82.9328, TOLGA, 2,1133
+CHHATTISGARH, 22, SURGUJA, 401, UDAIPUR, 3734,udaipur, 131960, 22.910503, 82.9487, UDAIPUR, 2,2771

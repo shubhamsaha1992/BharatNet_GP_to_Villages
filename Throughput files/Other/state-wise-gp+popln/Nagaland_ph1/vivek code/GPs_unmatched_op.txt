@@ -1,0 +1,198 @@
+243374,amaluma
+243388,bade
+243390,dainiel village
+243369,dhansiripar
+888888,dhansiripar block
+243386,diesephe
+243381,disagaphu
+243373,doyapur
+243370,genesh nagar
+243375,ghowoto
+243367,hazadisa
+243391,k. xekiye
+243385,khekiho
+243382,kiyeto
+243371,lhothavi
+243366,manglamukh
+243383,murise
+243377,pimla
+243372,razaphe
+243365,sangtamtila
+243392,shekavi
+243368,shotovi
+243379,shoxuvi
+243380,sinrijan
+243376,toshizu
+243384,tsethrongse
+243387,urra village
+243389,vedima
+243378,zutovi a&b
+243403,ahozhe
+243429,akito
+243421,aoyim
+243425,ghokito
+243411,ghonivi
+243409,henivi
+243413,hevishe
+243423,hoito
+243416,hukato
+243410,khehokhu
+243396,khughovi
+243418,kiyelho
+888888,kuhuboto block
+243430,l.hotvi
+243424,lotovi
+243414,lukuto
+243398,luzheto
+243402,nihoto
+243394,nizhevi
+243420,old shouba
+243404,padala
+243422,phuhoto
+243415,pishikhu
+243393,pukhato
+243407,s.hotovi
+243428,shahoi
+243401,shito
+243427,shozukhu
+243408,suhoi
+243395,sunito
+243417,tokugha
+243419,toshiho
+243426,vihokhu
+243399,vikuho
+243406,vishiyi
+243400,xekiye
+243397,xelhozhe
+243412,xukiye
+243405,zukihe
+244428,zuvukhu
+243578,7th mile
+243540,7th mile model village
+243558,aoyimkum
+243534,aoyimti
+243550,bungsang
+243434,chekiye
+243564,chumikedima a
+888888,chumukedima block
+243431,chumukedima village
+243438,darogapatar
+243530,darogarjan
+243573,diphupar
+243436,diphupar b
+243579,domokia
+243531,dubagaon
+243535,ekranipathar
+243525,eralibil
+243563,hekashe
+243577,industrial village
+243554,jhornapani
+243568,kacharigaon
+243570,kashiram ao sector
+243581,kashiram village
+243557,khaibung
+243555,khamkaria
+243566,khopanala
+243576,khriezephe
+243562,kiyevi
+243546,kuki dolong
+243532,kushiabill
+243552,medziphema
+888888,medziphema block
+243541,moava
+243435,model village 5 mile
+243545,molvom
+243574,naga united village
+243572,nagarjan
+243526,naharbari
+243544,new piphema
+243571,new seithekima
+243528,padom - pukhuri
+243542,paglapahar
+243539,phaipijan
+243548,pherima
+244429,piphema a
+243547,piphema old
+243527,purana bazar
+243551,razaphema
+243537,samaguri
+243565,seithekema a
+243437,seithekhema c
+243533,seithikhema old
+243580,senjum
+243890,serhi angami
+243560,signal angami
+243553,sirhima
+243549,socunoma
+243567,sodzulhou
+243433,sovima
+243432,tenyiphe i
+243569,tenyiphe ii
+243559,thahekhu
+243538,thilixu
+243529,toluvi
+243543,tseipama
+243561,tsuma
+243575,zani
+243556,zuikhu
+243675,ahoto
+243712,aoyimchen
+243721,ghokuto
+243707,ghoshito
+243683,ghotoi
+243689,ghotovi
+243681,hakhizhe
+243690,henito
+243715,hevikhe
+243676,hevuxu
+243726,hezheto
+243729,hezulho
+243716,homeland
+243692,hovishe
+243700,hovukhu
+243730,hozheto (new recognised)
+243718,hozukhe
+243708,hukhai
+243680,husto
+243704,izhevi
+243679,k.hetoi
+243723,khehoi
+243677,khutovi
+243706,kikheyi
+243685,kiyezu a
+243687,kiyezu b
+243678,kuhoxu
+243688,l.vihoto
+243702,luhevi
+243703,luhezhe
+243673,mughavi
+243724,new shouba
+243696,ngamjalam
+243686,nguvihe
+243720,nihokhu
+243719,nikhekhu
+243728,nikihe
+243699,nikikhe
+243711,nitazu
+888888,niuland block
+243714,p.vihoto
+243672,pihekhu
+243710,qhehuto
+243701,qhuhoi
+243725,r.hovishe
+243722,s.hetoi
+243693,shiwoto
+243674,shokhevi
+243717,sukhato
+243671,tohoi
+243713,tohokhu
+243684,tokishe
+243695,vikheto
+243682,viyito
+243727,xukhuvi
+243694,yetoho
+243709,yeveto
+243698,zhekishe
+243705,zhexuche
+243697,zuheshe
+243691,zutoi
